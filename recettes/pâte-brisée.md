@@ -6,7 +6,7 @@ type: ingredient
 
 # Pâte brisée
 
-![[Pâte brisée.jpg]]
+![[Pâte brisée.webp]]
 
 | Préparation | Repos | Cuisson |
 |:-----------:|:-----:|:-------:|

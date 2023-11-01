@@ -9,7 +9,7 @@ opportunity: cheat-meal
 
 # Cordon bleu roulé
 
-![](images/Cordon%20bleu%20roulé.jpg)
+![[Cordon bleu roulé.webp]]
 
 | Préparation | Repos | Cuisson |
 |:-----------:|:-----:|:-------:|
