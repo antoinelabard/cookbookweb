@@ -7,7 +7,7 @@ meal: breakfast
 
 # Toasts à l'avocat et oeufs mollets
 
-![[Toasts à l'avocat et oeufs mollets.jpg]]
+![[Toasts à l'avocat et oeufs mollets.webp]]
 
 | Préparation | Repos | Cuisson |
 |:-----------:|:-----:|:-------:|

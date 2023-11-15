@@ -9,7 +9,7 @@ meal: lunch
 
 # Pâtes aux petits pois, poireaux et bacon
 
-![](images/Pâtes%20aux%20petits%20pois,%20poireaux%20et%20bacon.jpg)
+![[Pâtes aux petits pois, poireaux et bacon.webp]]
 
 | Préparation | Repos | Cuisson |
 |:-----------:|:-----:|:-------:|

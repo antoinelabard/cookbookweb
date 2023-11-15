@@ -7,7 +7,7 @@ meal: snack
 
 # Barres de céréales aux noix
 
-![[Barres de céréales aux noix.jpg]]
+![[Barres de céréales aux noix.webp]]
 
 | Préparation | Repos | Cuisson |
 |:-----------:|:-----:|:-------:|

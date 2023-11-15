@@ -7,7 +7,7 @@ meal: breakfast
 
 # Yaourt grec à l'avoine et aux noix
 
-![[Yaourt grec à l'avoine et aux noix.jpg]]
+![[Yaourt grec à l'avoine et aux noix.webp]]
 
 | Préparation | Repos | Cuisson |
 |:-----------:|:-----:|:-------:|
