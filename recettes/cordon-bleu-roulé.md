@@ -2,8 +2,9 @@
 date-added: 2022-01-15
 source: https://www.marmiton.org/recettes/recette_cordon-bleu-roule_347516.aspx
 type: ingredient
+category: fries
 meal: lunch
-tags: cheat-meal
+opportunity: cheat-meal
 ---
 
 # Cordon bleu roulé
@@ -23,7 +24,7 @@ tags: cheat-meal
 - Huile de friture
 - Escalopes de dinde : 4
 - Tranches de jambon : 4
-- Oeufs : 2
+- Oeuf : 2
 
 ## Préparation
 
