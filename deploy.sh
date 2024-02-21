@@ -1,0 +1,13 @@
+# Add the canarytokens to each html file
+find recettes -name "*.html" -type f -exec sed -i 's/<div class="mod-header">/<div class="mod-header ljsf"><img src="http:\/\/canarytokens.com\/sw5uvmb82rxizmwhubn225gvr">/g' {} +
+find catégories -name "*.html" -type f -exec sed -i 's/<div class="mod-header">/<div class="mod-header ljsf"><img src="http:\/\/canarytokens.com\/t5w0b10daouy2fkd23kgkm6fc">/g' {} +
+find . -name "index.html" -type f -exec sed -i 's/<div class="mod-header">/<div class="mod-header ljsf"><img src="http:\/\/canarytokens.com\/ijpluamg2u65kgvhs62jaeykj"></g' {} +
+find . -name "menu-de-la-semaine.html" -type f -exec sed -i 's/<div class="mod-header">/<div class="mod-header ljsf"><img src="http:\/\/canarytokens.com\/t5w0b10daouy2fkd23kgkm6fc">/g' {} +
+
+# Display the recipes front-matter
+find recettes -name "*.html" -type f -exec sed -i 's/<pre class="frontmatter language-yaml" tabindex="0" style="display:none">/<pre class="frontmatter language-yaml" tabindex="0">/g' {} +
+
+# Upload the website to GitHub
+git add .
+git commit -m "update website"
+git push origin main
