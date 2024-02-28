@@ -5,7 +5,7 @@ find . -name "index.html" -type f -exec sed -i 's/<div class="markdown-preview-s
 find . -name "menu-de-la-semaine.html" -type f -exec sed -i 's/<div class="markdown-preview-sizer markdown-preview-section">/<div class="markdown-preview-sizer markdown-preview-section ezrdfg"><img src="http:\/\/canarytokens.com\/t5w0b10daouy2fkd23kgkm6fc">/g' {} +
 
 # Display the recipes front-matter
-find recettes -name "*.html" -type f -exec sed -i 's/<pre class="frontmatter language-yaml" style="display: none;">/<pre class="frontmatter language-yaml">/g' {} +
+find . -name "*.html" -type f -exec sed -i 's/<pre/<pre style="display: visible !important;overflow: visible !important;min-height: auto !important;"/g' {} +
 
 # Upload the website to GitHub
 git add .
