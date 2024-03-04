@@ -1,11 +1,153 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 01 Mar 2024 19:42:02 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 01 Mar 2024 19:42:01 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Livre de recettes]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 04 Mar 2024 12:43:37 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 04 Mar 2024 12:43:35 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Brunch sandwich aux champignons]]></title><description><![CDATA[ 
+ <br><br><img alt="Brunch sandwich aux champignons.webp" src="/recettes/images/brunch-sandwich-aux-champignons.webp"><br><br><br>
+<br>Pain de mie : 8 tranches
+<br>Jambon : 8 tranches
+<br>Oeufs : 8
+<br>Champignons de Paris : 400g
+<br>Fromage à l'ail : 160g
+<br><br>
+<br>Lavez puis coupez les champignons en lamelles.
+<br>Faites chauffer un filet d'huile d'olive dans une poêle. Ajoutez les champignons et faites-les revenir 4 à 5 minutes. Salez et poivrez.
+<br>Toaster les tranches de pain de mie au grille-pain.
+<br>Cassez les œufs dans un saladier. Salez, poivrez puis battez-les à la fourchette.
+<br>Une fois les champignons bien dorés, versez les œufs battus dans la poêle. Faites cuire le tout 1 minute, sur feu moyen, en mélangeant délicatement à la spatule.
+<br>Tartinez les deux tranches de pain du fromage ail &amp; fines herbes. Ajoutez ensuite les œufs brouillés et le jambon.
+<br>Refermez le sandwich avec la seconde tranche de pain et dégustez. C'est prêt !
+]]></description><link>recettes/brunch-sandwich-aux-champignons.html</link><guid isPermaLink="false">recettes/Brunch sandwich aux champignons.md</guid><pubDate>Sun, 03 Mar 2024 20:55:36 GMT</pubDate><enclosure url="recettes/images/brunch-sandwich-aux-champignons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/brunch-sandwich-aux-champignons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Chakchouka haricots verts &amp; feta]]></title><description><![CDATA[ 
+ <br><br><img alt="Chakchouka haricots verts &amp; feta.webp" src="/recettes/images/chakchouka-haricots-verts-&amp;-feta.webp"><br><br><br>
+<br>Haricots verts : 600g
+<br>Purée de tomates : 400g
+<br>Feta : 120g
+<br>Oignon : 1
+<br>Oeufs : 8
+<br>Cumin
+<br>Coriandre
+<br><br>
+<br>Épluchez puis coupez l'oignon en lamelles.
+<br>Dans une poêle, faites chauffer un filet d'huile d'olive. Ajoutez les oignons et faites-les revenir 4 minutes.
+<br>Ajoutez ensuite la purée de tomate, les haricots vers et le cumin dans la poêle. Salez, poivrez et mélangez, puis laissez mijoter pendant 3 minutes à couvert.
+<br>Creusez des puits dans la préparation et cassez-y délicatement les œufs. Salez et poivrez les œufs, puis laissez les cuire 2 à 3 minutes à couvert, sur feu moyen.
+<br>En fin de cuisson, ajoutez la feta émiettée et la coriandre fraîche, si vous en avez. C'est prêt !
+]]></description><link>recettes/chakchouka-haricots-verts-&amp;-feta.html</link><guid isPermaLink="false">recettes/Chakchouka haricots verts &amp; feta.md</guid><pubDate>Mon, 04 Mar 2024 08:35:11 GMT</pubDate><enclosure url="recettes/images/chakchouka-haricots-verts-&amp;-feta.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/chakchouka-haricots-verts-&amp;-feta.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Crevettes miel sésame]]></title><description><![CDATA[ 
+ <br><br><img alt="Crevettes miel sésame.webp" src="/recettes/images/crevettes-miel-sésame.webp"><br><br><br>
+<br>Crevettes : 400g
+<br>Riz : 280g
+<br>Ail : 2 gousses
+<br>Graines de sésame : 4cc
+<br>Citron
+<br>Miel : 20g
+<br>Oignons : 2
+<br><br>
+<br>Dans une casserole d’eau bouillante salée, faites cuire le riz selon les instructions du paquet. Égouttez-le en fin de cuisson. Réservez.
+<br>Épluchez et émincez finement l'oignon rouge. Ajoutez un filet d'huile d'olive dans une poêle et faites-y suer l'oignon.
+<br>Épluchez et émincez l'ail. Si besoin, décortiquez les crevettes.
+<br>Ajoutez les crevettes dans la poêle, salez, poivrez et faites-les revenir 2 minutes.
+<br>Ajoutez l'ail, les graines de sésame, le jus de citron vert et le miel. Laissez réduire pendant 3 minutes, jusqu'à ce que la sauce commence à caraméliser.*
+<br>Dans une assiette, servez le riz avec les crevettes au miel et sésame. Parsemez de graines de sésame, s'il vous en reste. C'est prêt !
+]]></description><link>recettes/crevettes-miel-sésame.html</link><guid isPermaLink="false">recettes/Crevettes miel sésame.md</guid><pubDate>Mon, 04 Mar 2024 12:29:55 GMT</pubDate><enclosure url="recettes/images/crevettes-miel-sésame.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/crevettes-miel-sésame.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Frites]]></title><description><![CDATA[ 
+ <br><br><img alt="Frites.webp" src="/recettes/images/frites.webp"><br><br><br>
+<br>Pommes de terre : 1kg
+<br>Huile de friture : 5l
+<br>sel
+<br><br>
+<br>Préchauffer la friteuse à 150°C.
+<br>Préparation :
+
+<br>Peler les pommes de terre et retirer les yeux.
+<br>Les découper en bâtonnets d’environ 0,5 cm de diamètre.
+<br>Les passer très rapidement sous l’eau (sans trop pour ne pas retirer tout l’amidon).
+
+
+<br>Cuisson :
+
+<br>Plonger les frites dans la friteuse pendant 5 min à 150°C.
+<br>Sortir les frites et secouer le panier pour bien égoutter l'huile. Les laisser reposer pendant au moins 10 min. Avant de remettre les frites, rallumer la friteuse à 180°C.
+<br>Plonger les frites une deuxième fois pendant 2 à 3 min.
+<br>Une fois le 2ème bain réalisé, bien secouer le panier puis égoutter dans un saladier tapissé de papier absorbant. Saler tout de suite au sel.
+
+
+<br>Tip
+Le secret de la cuisson des frites réside dans le fait de réaliser 2 cuissons successives à des températures différentes :
+
+<br>5 minutes à 140-150° pour les précuire ;
+<br>2-3 minutes à 180° pour les dorer.
+
+L’autre secret : bien séparer les 2 bains de friture en laissant le temps aux frites de « sécher » entre les 2 bains (10 minutes suffisent mais pour vous faciliter la vie, sachez que vous pouvez le faire jusqu’à 2 h à l’avance).
+]]></description><link>recettes/frites.html</link><guid isPermaLink="false">recettes/Frites.md</guid><pubDate>Sun, 03 Mar 2024 20:31:41 GMT</pubDate><enclosure url="recettes/images/frites.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/frites.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Galette complète &amp; oignons confits]]></title><description><![CDATA[ 
+ <br><br><img alt="Galette complète &amp; oignons confits.webp" src="/recettes/images/galette-complète-&amp;-oignons-confits.webp"><br><br><br>
+<br>Galettes bretonnes : 4
+<br>Oeufs : 4
+<br>Jambon : 4 tranches
+<br>Fromage râpé : 200g
+<br>Oignons : 2
+<br>Vin blanc : 20cl
+<br><br>
+<br>Épluchez puis émincez les oignons finement.
+<br>Faites fondre une noisette de beurre dans une poêle. Ajoutez les oignons, puis faites-les revenir 3 à 4 minutes sur feu vif. Salez, poivrez, puis baissez le feu. Couvrez et faites-les cuire 10 à 12 minutes, sur feu doux, en mélangeant de temps en temps.
+<br>Ajoutez ensuite le vin blanc et mélangez à nouveau. Poursuivez la cuisson pendant 10 à 12 minutes à feu doux le temps que le liquide réduise et que les oignons caramélisent.
+<br>Faites fondre un morceau de beurre dans une poêle. Déposez la galette au sarrasin et cassez l'œuf au centre. Salez et poivrez.
+<br>Quand le blanc de l'œuf commence à être cuit, ajoutez les oignons confits, le jambon en morceaux et le fromage râpé.
+<br>Repliez la galette en carré ou en demi lune. Laissez-la griller 1 à 2 minutes supplémentaires, puis servez. C'est prêt !
+]]></description><link>recettes/galette-complète-&amp;-oignons-confits.html</link><guid isPermaLink="false">recettes/Galette complète &amp; oignons confits.md</guid><pubDate>Sun, 03 Mar 2024 20:36:03 GMT</pubDate><enclosure url="recettes/images/galette-complète-&amp;-oignons-confits.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-complète-&amp;-oignons-confits.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[One pot curry de pommes de terre]]></title><description><![CDATA[ 
+ <br><br><img alt="One pot curry de pommes de terre.webp" src="/recettes/images/one-pot-curry-de-pommes-de-terre.webp"><br><br><br>
+<br>Pommes de terre : 800g
+<br>Carottes : 400g
+<br>Oignon : 1
+<br>Concentré de tomate : 4cc
+<br>Lait de coco : 200ml
+<br>Pois chiches : 200g
+<br>Curry
+<br>Citron
+<br><br>
+<br>Lavez les pommes de terre, épluchez-les puis coupez-les en morceaux.
+<br>Épluchez puis coupez les carottes en rondelles.
+<br>Épluchez puis émincez finement l’oignon.
+<br>Dans une poêle ou une cocotte, ajoutez un filet d’huile d’olive puis faites revenir l’oignon pendant 2-3 minutes avec le curry en poudre.
+<br>Ajoutez le concentré de tomate, les carottes et les pommes de terre puis mélangez bien.
+<br>Ajoutez le lait de coco et 200ml d’eau par personne puis laissez cuire à couvert à feu moyen pendant environ 15 à 20 minutes.
+<br>Ajoutez ensuite les pois chiches. Salez, poivrez puis poursuivez la cuisson pendant encore 3 minutes.
+<br>Servez dans un bol avec de la coriandre et du citron vert si vous en avez. C’est prêt !
+]]></description><link>recettes/one-pot-curry-de-pommes-de-terre.html</link><guid isPermaLink="false">recettes/One pot curry de pommes de terre.md</guid><pubDate>Sun, 03 Mar 2024 20:45:52 GMT</pubDate><enclosure url="recettes/images/one-pot-curry-de-pommes-de-terre.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/one-pot-curry-de-pommes-de-terre.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche aux asperges et lardons]]></title><description><![CDATA[ 
+ <br><br><img alt="Quiche aux asperges et lardons.webp" src="/recettes/images/quiche-aux-asperges-et-lardons.webp"><br><br><br>
+<br>Asperges : 500g
+<br>Lardons : 200g
+<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br>Crème fraîche : 20cl
+<br>Fromage râpé : 50g
+<br>Oeufs : 4
+<br><br>Pâte brisée<br><br>
+<br>Préchauffer le four à 220°C (thermostat 7-8).
+<br>Peler sommairement la base des asperges, les couper en rondelles et les faire fondre à la poêle avec du beurre et les lardons, environ 10 min.
+<br>Égoutter le tout et déposer sur le fond de pâte.
+<br>Mélanger les oeufs et la crème fraiche.
+<br>Napper la tarte, ajouter le râpé dessus.
+<br>Enfourner 35min.
+<br>Servir tiède avec une salade par exemple.
+]]></description><link>recettes/quiche-aux-asperges-et-lardons.html</link><guid isPermaLink="false">recettes/Quiche aux asperges et lardons.md</guid><pubDate>Sun, 03 Mar 2024 17:12:36 GMT</pubDate><enclosure url="recettes/images/quiche-aux-asperges-et-lardons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-aux-asperges-et-lardons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ravioles à la toscane]]></title><description><![CDATA[ 
+ <br><br><img alt="Ravioles à la toscane.webp" src="/recettes/images/ravioles-à-la-toscane.webp"><br><br><br>
+<br>Ravioli : 500g
+<br>Tomates séchées : 200g
+<br>Crème fraiche : 20cl
+<br>Épinards : 300g
+<br>Parmesan râpé : 60g
+<br>Ail : 1 gousse
+<br><br>
+<br>Égouttez puis émincez les tomates, réservez.
+<br>Cuire les raviolis en suivant les indications du paquet.
+<br>Pendant ce temps, dans une poêle, faites revenir l'ail finement émincé ou râpé avec un filet d'huile d'olive pendant 1 minute à feu moyen.
+<br>Ajoutez les tomates séchées puis mélangez.
+<br>Ajoutez la crème, les épinards et 2 cuillères à soupe d'eau par personne. Mélangez et laissez mijoter 2 minutes en remuant.
+<br>Une fois les raviolis cuits, égouttez-les, puis ajoutez-les dans la poêle.
+<br>Ajoutez le parmesan râpé, salez, poivrez et mélangez.
+<br>Servez, c'est prêt !
+]]></description><link>recettes/ravioles-à-la-toscane.html</link><guid isPermaLink="false">recettes/Ravioles à la toscane.md</guid><pubDate>Mon, 04 Mar 2024 12:32:38 GMT</pubDate><enclosure url="recettes/images/ravioles-à-la-toscane.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/ravioles-à-la-toscane.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Livre de recettes]]></title><description><![CDATA[ 
  <br><br><br>Salut ! Moi, c'est Antoine.
  <img style="margin: 20px; float: right; width: 100px; max-width: 100%;" height="100" alt="profile picture" src="/photo.webp" referrerpolicy="no-referrer">J'ai mis en ligne ce site web pour partager mon livre de recettes. Il s'agit de toutes les recettes que j'essaie et que je sauvegarde pour ne jamais manquer d'idée !<br><br>N'hésitez pas à me faire part de vos retours ou de vos astuces pour les améliorer.
 <br><a data-href="Menu de la semaine" href="/menu-de-la-semaine.html" class="internal-link" target="_self" rel="noopener">Menu de la semaine</a><br><br><br><br><br><br><br>Vous pouvez retrouver le repository de ce livre sur GitHub : <a rel="noopener" class="external-link" href="https://github.com/antoinelabard/Cookbook" target="_blank">https://github.com/antoinelabard/Cookbook</a>. Si vous avez des suggestions d'améliorations des recettes, vous pouvez me contacter ou utiliser GitHub si vous le maîtrisez.<br>❤️ Merci aux contributeurs du projet :<br>
 <br>Alexis Goblot
 <br>Katy Osmont
 <br>Nicolas Noirault
-<br><br>Ce livre de recette a été rédigé avec <a data-tooltip-position="top" aria-label="http://obsidian.md" rel="noopener" class="external-link" href="http://obsidian.md" target="_blank">Obsidian</a>. Le site web est généré avec le plugin <a data-tooltip-position="top" aria-label="https://github.com/KosmosisDire/obsidian-webpage-export" rel="noopener" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export" target="_blank">Webpage HTML Export</a> et est hébergé sur <a data-tooltip-position="top" aria-label="https://pages.github.com/" rel="noopener" class="external-link" href="https://pages.github.com/" target="_blank">GitHub Pages</a>.<br>Un script de génération de menus est également disponible si vous téléchargez le livre de recettes hors ligne. Pour comprendre comment s'en servir, rendez-vous <a data-tooltip-position="top" aria-label="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" rel="noopener" class="external-link" href="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" target="_blank">ici</a>.]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Fri, 01 Mar 2024 19:40:57 GMT</pubDate><enclosure url="photo.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="photo.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Au fil des saisons]]></title><description><![CDATA[ 
+<br><br>Ce livre de recette a été rédigé avec <a data-tooltip-position="top" aria-label="http://obsidian.md" rel="noopener" class="external-link" href="http://obsidian.md" target="_blank">Obsidian</a>. Le site web est généré avec le plugin <a data-tooltip-position="top" aria-label="https://github.com/KosmosisDire/obsidian-webpage-export" rel="noopener" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export" target="_blank">Webpage HTML Export</a> et est hébergé sur <a data-tooltip-position="top" aria-label="https://pages.github.com/" rel="noopener" class="external-link" href="https://pages.github.com/" target="_blank">GitHub Pages</a>.<br>Un script de génération de menus est également disponible si vous téléchargez le livre de recettes hors ligne. Pour comprendre comment s'en servir, rendez-vous <a data-tooltip-position="top" aria-label="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" rel="noopener" class="external-link" href="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" target="_blank">ici</a>.]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Sun, 03 Mar 2024 17:33:36 GMT</pubDate><enclosure url="photo.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="photo.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Au fil des saisons]]></title><description><![CDATA[ 
  <br><br>Dataview: No results to show for list query.<br><br><br><a data-tooltip-position="top" aria-label="recettes/Club sandwich au thon.md" data-href="recettes/Club sandwich au thon.md" href="/recettes/club-sandwich-au-thon.html" class="internal-link" target="_self" rel="noopener">Club sandwich au thon</a><br><a data-tooltip-position="top" aria-label="recettes/Club sandwich poulet - bacon.md" data-href="recettes/Club sandwich poulet - bacon.md" href="/recettes/club-sandwich-poulet-bacon.html" class="internal-link" target="_self" rel="noopener">Club sandwich poulet - bacon</a><br><a data-tooltip-position="top" aria-label="recettes/Club sandwich poulet crudités.md" data-href="recettes/Club sandwich poulet crudités.md" href="/recettes/club-sandwich-poulet-crudités.html" class="internal-link" target="_self" rel="noopener">Club sandwich poulet crudités</a><br><a data-tooltip-position="top" aria-label="recettes/Délicieuse salade de lentilles.md" data-href="recettes/Délicieuse salade de lentilles.md" href="/recettes/délicieuse-salade-de-lentilles.html" class="internal-link" target="_self" rel="noopener">Délicieuse salade de lentilles</a><br><a data-tooltip-position="top" aria-label="recettes/Salade aux haricots rouges, maïs et thon.md" data-href="recettes/Salade aux haricots rouges, maïs et thon.md" href="/recettes/salade-aux-haricots-rouges,-maïs-et-thon.html" class="internal-link" target="_self" rel="noopener">Salade aux haricots rouges, maïs et thon</a><br><a data-tooltip-position="top" aria-label="recettes/Salade de pâtes au thon, tomates et avocat.md" data-href="recettes/Salade de pâtes au thon, tomates et avocat.md" href="/recettes/salade-de-pâtes-au-thon,-tomates-et-avocat.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes au thon, tomates et avocat</a><br><a data-tooltip-position="top" aria-label="recettes/Salade de pâtes façon tacos.md" data-href="recettes/Salade de pâtes façon tacos.md" href="/recettes/salade-de-pâtes-façon-tacos.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes façon tacos</a><br><a data-tooltip-position="top" aria-label="recettes/Salade de pâtes méditerranéenne.md" data-href="recettes/Salade de pâtes méditerranéenne.md" href="/recettes/salade-de-pâtes-méditerranéenne.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes méditerranéenne</a><br><a data-tooltip-position="top" aria-label="recettes/Salade de pâtes à l'italienne.md" data-href="recettes/Salade de pâtes à l'italienne.md" href="/recettes/salade-de-pâtes-à-l'italienne.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes à l'italienne</a><br><a data-tooltip-position="top" aria-label="recettes/Salade piémontaise facile.md" data-href="recettes/Salade piémontaise facile.md" href="/recettes/salade-piémontaise-facile.html" class="internal-link" target="_self" rel="noopener">Salade piémontaise facile</a><br><a data-tooltip-position="top" aria-label="recettes/Tarte aux légumes du soleil.md" data-href="recettes/Tarte aux légumes du soleil.md" href="/recettes/tarte-aux-légumes-du-soleil.html" class="internal-link" target="_self" rel="noopener">Tarte aux légumes du soleil</a><br><a data-tooltip-position="top" aria-label="recettes/Wrap Saumon.md" data-href="recettes/Wrap Saumon.md" href="/recettes/wrap-saumon.html" class="internal-link" target="_self" rel="noopener">Wrap Saumon</a><br><a data-tooltip-position="top" aria-label="recettes/Wrap de tortilla à l'avocat, cheddar et oeufs brouillés.md" data-href="recettes/Wrap de tortilla à l'avocat, cheddar et oeufs brouillés.md" href="/recettes/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.html" class="internal-link" target="_self" rel="noopener">Wrap de tortilla à l'avocat, cheddar et oeufs brouillés</a><br><br><br><a data-tooltip-position="top" aria-label="recettes/Nouilles sautées aux crevettes.md" data-href="recettes/Nouilles sautées aux crevettes.md" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a><br><br><br><a data-tooltip-position="top" aria-label="recettes/Croissant au jambon fromage.md" data-href="recettes/Croissant au jambon fromage.md" href="/recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener">Croissant au jambon fromage</a><br><a data-tooltip-position="top" aria-label="recettes/Croque-monsieur à l'italienne.md" data-href="recettes/Croque-monsieur à l'italienne.md" href="/recettes/croque-monsieur-à-l'italienne.html" class="internal-link" target="_self" rel="noopener">Croque-monsieur à l'italienne</a><br><a data-tooltip-position="top" aria-label="recettes/Gratin de purées de carotte et pomme de terre.md" data-href="recettes/Gratin de purées de carotte et pomme de terre.md" href="/recettes/gratin-de-purées-de-carotte-et-pomme-de-terre.html" class="internal-link" target="_self" rel="noopener">Gratin de purées de carotte et pomme de terre</a><br><a data-tooltip-position="top" aria-label="recettes/Hachis Parmentier.md" data-href="recettes/Hachis Parmentier.md" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a><br><a data-tooltip-position="top" aria-label="recettes/Lasagnes au saumon et aux épinards.md" data-href="recettes/Lasagnes au saumon et aux épinards.md" href="/recettes/lasagnes-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener">Lasagnes au saumon et aux épinards</a><br><a data-tooltip-position="top" aria-label="recettes/Pizza Calzone au jambon et champignons.md" data-href="recettes/Pizza Calzone au jambon et champignons.md" href="/recettes/pizza-calzone-au-jambon-et-champignons.html" class="internal-link" target="_self" rel="noopener">Pizza Calzone au jambon et champignons</a><br><a data-tooltip-position="top" aria-label="recettes/Pizza baguette.md" data-href="recettes/Pizza baguette.md" href="/recettes/pizza-baguette.html" class="internal-link" target="_self" rel="noopener">Pizza baguette</a><br><a data-tooltip-position="top" aria-label="recettes/Poêlée de pommes de terre &amp; saucisse fumée.md" data-href="recettes/Poêlée de pommes de terre &amp; saucisse fumée.md" href="/recettes/poêlée-de-pommes-de-terre-&amp;-saucisse-fumée.html" class="internal-link" target="_self" rel="noopener">Poêlée de pommes de terre &amp; saucisse fumée</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche artichaut &amp; parma.md" data-href="recettes/Quiche artichaut &amp; parma.md" href="/recettes/quiche-artichaut-&amp;-parma.html" class="internal-link" target="_self" rel="noopener">Quiche artichaut &amp; parma</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche chèvre épinards.md" data-href="recettes/Quiche chèvre épinards.md" href="/recettes/quiche-chèvre-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche chèvre épinards</a><br><a data-tooltip-position="top" aria-label="recettes/Soupe aux ramen.md" data-href="recettes/Soupe aux ramen.md" href="/recettes/soupe-aux-ramen.html" class="internal-link" target="_self" rel="noopener">Soupe aux ramen</a><br><a data-tooltip-position="top" aria-label="recettes/Soupe iranienne.md" data-href="recettes/Soupe iranienne.md" href="/recettes/soupe-iranienne.html" class="internal-link" target="_self" rel="noopener">Soupe iranienne</a><br><a data-tooltip-position="top" aria-label="recettes/Tartiflette façon Goblot.md" data-href="recettes/Tartiflette façon Goblot.md" href="/recettes/tartiflette-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Tartiflette façon Goblot</a>]]></description><link>catégories/au-fil-des-saisons.html</link><guid isPermaLink="false">catégories/Au fil des saisons.md</guid><pubDate>Thu, 29 Feb 2024 18:20:11 GMT</pubDate></item><item><title><![CDATA[Les pêchés mignons]]></title><description><![CDATA[ 
  <br><br><br><a data-tooltip-position="top" aria-label="recettes/Burger alsacien au poulet et munster.md" data-href="recettes/Burger alsacien au poulet et munster.md" href="/recettes/burger-alsacien-au-poulet-et-munster.html" class="internal-link" target="_self" rel="noopener">Burger alsacien au poulet et munster</a><br><a data-tooltip-position="top" aria-label="recettes/Cordon bleu roulé.md" data-href="recettes/Cordon bleu roulé.md" href="/recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener">Cordon bleu roulé</a><br><a data-tooltip-position="top" aria-label="recettes/Flammeküeche.md" data-href="recettes/Flammeküeche.md" href="/recettes/flammeküeche.html" class="internal-link" target="_self" rel="noopener">Flammeküeche</a><br><a data-tooltip-position="top" aria-label="recettes/French tacos.md" data-href="recettes/French tacos.md" href="/recettes/french-tacos.html" class="internal-link" target="_self" rel="noopener">French tacos</a><br><a data-tooltip-position="top" aria-label="recettes/Haricots verts à l'ail et cordon bleu.md" data-href="recettes/Haricots verts à l'ail et cordon bleu.md" href="/recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail et cordon bleu</a><br><a data-tooltip-position="top" aria-label="recettes/Kebab.md" data-href="recettes/Kebab.md" href="/recettes/kebab.html" class="internal-link" target="_self" rel="noopener">Kebab</a><br><a data-tooltip-position="top" aria-label="recettes/Pizza Calzone au jambon et champignons.md" data-href="recettes/Pizza Calzone au jambon et champignons.md" href="/recettes/pizza-calzone-au-jambon-et-champignons.html" class="internal-link" target="_self" rel="noopener">Pizza Calzone au jambon et champignons</a><br><a data-tooltip-position="top" aria-label="recettes/Pizza au saumon.md" data-href="recettes/Pizza au saumon.md" href="/recettes/pizza-au-saumon.html" class="internal-link" target="_self" rel="noopener">Pizza au saumon</a><br><a data-tooltip-position="top" aria-label="recettes/Pizza baguette.md" data-href="recettes/Pizza baguette.md" href="/recettes/pizza-baguette.html" class="internal-link" target="_self" rel="noopener">Pizza baguette</a><br><a data-tooltip-position="top" aria-label="recettes/Poulet au caramel.md" data-href="recettes/Poulet au caramel.md" href="/recettes/poulet-au-caramel.html" class="internal-link" target="_self" rel="noopener">Poulet au caramel</a><br><a data-tooltip-position="top" aria-label="recettes/Poulet pané au parmesan.md" data-href="recettes/Poulet pané au parmesan.md" href="/recettes/poulet-pané-au-parmesan.html" class="internal-link" target="_self" rel="noopener">Poulet pané au parmesan</a><br><a data-tooltip-position="top" aria-label="recettes/Tarte salée pommes de terre et camembert.md" data-href="recettes/Tarte salée pommes de terre et camembert.md" href="/recettes/tarte-salée-pommes-de-terre-et-camembert.html" class="internal-link" target="_self" rel="noopener">Tarte salée pommes de terre et camembert</a><br><a data-tooltip-position="top" aria-label="recettes/Tartiflette façon Goblot.md" data-href="recettes/Tartiflette façon Goblot.md" href="/recettes/tartiflette-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Tartiflette façon Goblot</a><br><a data-tooltip-position="top" aria-label="recettes/Tenders.md" data-href="recettes/Tenders.md" href="/recettes/tenders.html" class="internal-link" target="_self" rel="noopener">Tenders</a><br><br><br><a data-tooltip-position="top" aria-label="recettes/Chocolat chaud maison.md" data-href="recettes/Chocolat chaud maison.md" href="/recettes/chocolat-chaud-maison.html" class="internal-link" target="_self" rel="noopener">Chocolat chaud maison</a><br><a data-tooltip-position="top" aria-label="recettes/Cookies.md" data-href="recettes/Cookies.md" href="/recettes/cookies.html" class="internal-link" target="_self" rel="noopener">Cookies</a><br><a data-tooltip-position="top" aria-label="recettes/Croissant au jambon fromage.md" data-href="recettes/Croissant au jambon fromage.md" href="/recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener">Croissant au jambon fromage</a><br><a data-tooltip-position="top" aria-label="recettes/Croque-monsieur.md" data-href="recettes/Croque-monsieur.md" href="/recettes/croque-monsieur.html" class="internal-link" target="_self" rel="noopener">Croque-monsieur</a><br><a data-tooltip-position="top" aria-label="recettes/Feuilletés apéritifs aux Saucisses de Strasbourg.md" data-href="recettes/Feuilletés apéritifs aux Saucisses de Strasbourg.md" href="/recettes/feuilletés-apéritifs-aux-saucisses-de-strasbourg.html" class="internal-link" target="_self" rel="noopener">Feuilletés apéritifs aux Saucisses de Strasbourg</a><br><a data-tooltip-position="top" aria-label="recettes/Feuilletés au fromage ultra simples.md" data-href="recettes/Feuilletés au fromage ultra simples.md" href="/recettes/feuilletés-au-fromage-ultra-simples.html" class="internal-link" target="_self" rel="noopener">Feuilletés au fromage ultra simples</a><br><a data-tooltip-position="top" aria-label="recettes/Gâteau au chocolat fondant rapide.md" data-href="recettes/Gâteau au chocolat fondant rapide.md" href="/recettes/gâteau-au-chocolat-fondant-rapide.html" class="internal-link" target="_self" rel="noopener">Gâteau au chocolat fondant rapide</a><br><a data-tooltip-position="top" aria-label="recettes/Hamburger maison.md" data-href="recettes/Hamburger maison.md" href="/recettes/hamburger-maison.html" class="internal-link" target="_self" rel="noopener">Hamburger maison</a><br><a data-tooltip-position="top" aria-label="recettes/Paris-Brest au praliné.md" data-href="recettes/Paris-Brest au praliné.md" href="/recettes/paris-brest-au-praliné.html" class="internal-link" target="_self" rel="noopener">Paris-Brest au praliné</a><br><a data-tooltip-position="top" aria-label="recettes/Roses des sables au chocolat faciles.md" data-href="recettes/Roses des sables au chocolat faciles.md" href="/recettes/roses-des-sables-au-chocolat-faciles.html" class="internal-link" target="_self" rel="noopener">Roses des sables au chocolat faciles</a><br><a data-tooltip-position="top" aria-label="recettes/Rouleaux de printemps au poulet.md" data-href="recettes/Rouleaux de printemps au poulet.md" href="/recettes/rouleaux-de-printemps-au-poulet.html" class="internal-link" target="_self" rel="noopener">Rouleaux de printemps au poulet</a><br><a data-tooltip-position="top" aria-label="recettes/Soupe aux ramen.md" data-href="recettes/Soupe aux ramen.md" href="/recettes/soupe-aux-ramen.html" class="internal-link" target="_self" rel="noopener">Soupe aux ramen</a>]]></description><link>catégories/les-pêchés-mignons.html</link><guid isPermaLink="false">catégories/Les pêchés mignons.md</guid><pubDate>Thu, 29 Feb 2024 07:08:40 GMT</pubDate></item><item><title><![CDATA[Mes bases de recettes]]></title><description><![CDATA[ 
  <br><br>]]></description><link>catégories/mes-bases-de-recettes.html</link><guid isPermaLink="false">catégories/Mes bases de recettes.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate></item><item><title><![CDATA[Pour toute la journée]]></title><description><![CDATA[ 
@@ -1479,34 +1621,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Étaler les épinards puis le saumon cuit haché. Saupoudrer avec les herbes.
 <br>Verser l'appareil sur le saumon, saupoudrer de gruyère râpé.
 <br>Enfourner pendant 25 à 30 min jusqu'à ce que la quiche soit bien dorée.
-]]></description><link>recettes/quiche-au-saumon-et-aux-épinards.html</link><guid isPermaLink="false">recettes/Quiche au saumon et aux épinards.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/quiche-au-saumon-et-aux-épinards.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-au-saumon-et-aux-épinards.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche aux asperges et lardons]]></title><description><![CDATA[ 
- <br><br><img alt="Quiche aux asperges et lardons.webp" src="/recettes/images/quiche-aux-asperges-et-lardons.webp"><br><br><br>
-<br>Asperges : 500g
-<br>Lardons : 200g
-<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
-<br>Crème fraîche : 50cl
-<br>Fromage râpé
-<br>Oeufs : 4
-<br><br>Pâte brisée<br><br><br><br><img alt="Pâte brisée.webp" src="/recettes/images/pâte-brisée.webp"><br><br><br>
-<br>Farine : 300g
-<br>Beurre : 150g
-<br>Sel : 1/2cc
-<br>Sucre (si pâte sucrée) : 15g
-<br>Lait ou eau : 8cl
-<br><br>
-<br>Mélanger la farine et le sel dans un plat (et le sucre si sucre il y a).
-<br>Ajouter le beurre puis l'incorporer à la farine en pétrissant rapidement et légèrement du bout des doigts. On doit obtenir une sorte de semoule grossière en 2 ou 3 min.
-<br>Incorporer rapidement le lait ou l'eau. Il en faut très peu pour permettre à la pâte de se lier et de faire boule. Le lait ou l'eau ? C'est selon les goûts.
-<br>Pour étaler sans problème, étaler la pâte sur du papier cuisson et cuire tel quel dans la platine.
-<br>
-<br>Préchauffer le four à 220°C (thermostat 7-8).
-<br>Peler sommairement la base des asperges, les couper en rondelles et les faire fondre à la poêle avec du beurre et les lardons, environ 10 min.
-<br>Égoutter le tout et déposer sur le fond de pâte.
-<br>Mélanger 4 œufs avec 15 cl de crème fraîche ou 25 cl de crème liquide.
-<br>Napper la tarte, ajouter le râpé dessus.
-<br>Enfourner 35min.
-<br>Servir tiède avec une salade par exemple.
-]]></description><link>recettes/quiche-aux-asperges-et-lardons.html</link><guid isPermaLink="false">recettes/Quiche aux asperges et lardons.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/quiche-aux-asperges-et-lardons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-aux-asperges-et-lardons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche chèvre épinards]]></title><description><![CDATA[ 
+]]></description><link>recettes/quiche-au-saumon-et-aux-épinards.html</link><guid isPermaLink="false">recettes/Quiche au saumon et aux épinards.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/quiche-au-saumon-et-aux-épinards.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-au-saumon-et-aux-épinards.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche chèvre épinards]]></title><description><![CDATA[ 
  <br><br><img alt="Quiche chèvre épinards.webp" src="/recettes/images/quiche-chèvre-épinards.webp"><br><br><br>
 <br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
 <br>Oeufs : 3

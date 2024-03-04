@@ -1,6 +1,6 @@
 {
   "vaultName": "cookbook",
-  "lastExport": 1709322121447,
+  "lastExport": 1709556215526,
   "pluginVersion": "1.8.0",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -15,11 +15,13 @@
     "recettes/images/Boulettes & semoule express.webp",
     "recettes/images/Bounties maison.webp",
     "recettes/images/Brochettes dinde, haricots & semoule.webp",
+    "recettes/images/Brunch sandwich aux champignons.webp",
     "recettes/images/Burger alsacien au poulet et munster.webp",
     "recettes/images/Burrito bœuf & cheddar.webp",
     "recettes/images/Cabillaud, amandes & haricots.webp",
     "recettes/images/Cannelloni de viande.webp",
     "recettes/images/Chakchouka feta & pois chiches.webp",
+    "recettes/images/Chakchouka haricots verts & feta.webp",
     "recettes/images/Chèvre chaud au jambon & salade.webp",
     "recettes/images/Chocolat chaud maison.webp",
     "recettes/images/Club sandwich au thon.webp",
@@ -27,6 +29,7 @@
     "recettes/images/Club sandwich poulet crudités.webp",
     "recettes/images/Cookies au chocolat.webp",
     "recettes/images/Cordon bleu roulé.webp",
+    "recettes/images/Crevettes miel sésame.webp",
     "recettes/images/Croissant au jambon fromage.webp",
     "recettes/images/Croque-monsieur.webp",
     "recettes/images/Croque-monsieur à l'italienne.webp",
@@ -41,8 +44,10 @@
     "recettes/images/French tacos - montage 1.webp",
     "recettes/images/French tacos - montage 2.webp",
     "recettes/images/French tacos - montage 3.webp",
+    "recettes/images/Frites.webp",
     "recettes/images/Frittata courgette, jambon & mozza.webp",
     "recettes/images/Frittata saumon fumé & chèvre frais.webp",
+    "recettes/images/Galette complète & oignons confits.webp",
     "recettes/images/Galette des rois Frangipane.webp",
     "recettes/images/Galette forestière.webp",
     "recettes/images/Galette saucisse.webp",
@@ -73,6 +78,7 @@
     "recettes/images/Omelette au saumon.webp",
     "recettes/images/Omelette aux champignons.webp",
     "recettes/images/Omelette aux pommes de terre et lardons.webp",
+    "recettes/images/One pot curry de pommes de terre.webp",
     "recettes/images/One pot pasta artichauts & tomates séchées.webp",
     "recettes/images/Paris-Brest au praliné.webp",
     "recettes/images/Pasta al tonno.webp",
@@ -107,6 +113,7 @@
     "recettes/images/Quiche poireaux, chèvre lardons.webp",
     "recettes/images/Quiche tomate, jambon, chèvre.webp",
     "recettes/images/Ratatouille.webp",
+    "recettes/images/Ravioles à la toscane.webp",
     "recettes/images/Ravioli ricotta épinards à la crème d'ail et poireau.webp",
     "recettes/images/Risotto comté & saucisse à l'ancienne.webp",
     "recettes/images/Risotto de coquillettes.webp",
@@ -152,11 +159,13 @@
     "recettes/Boulettes & semoule express.md",
     "recettes/Bounties maison.md",
     "recettes/Brochettes dinde, haricots & semoule.md",
+    "recettes/Brunch sandwich aux champignons.md",
     "recettes/Burger alsacien au poulet et munster.md",
     "recettes/Burrito bœuf & cheddar.md",
     "recettes/Cabillaud, amandes & haricots.md",
     "recettes/Cannelloni de viande.md",
     "recettes/Chakchouka feta & pois chiches.md",
+    "recettes/Chakchouka haricots verts & feta.md",
     "recettes/Chèvre chaud au jambon & salade.md",
     "recettes/Chocolat chaud maison.md",
     "recettes/Club sandwich au thon.md",
@@ -164,6 +173,7 @@
     "recettes/Club sandwich poulet crudités.md",
     "recettes/Cookies.md",
     "recettes/Cordon bleu roulé.md",
+    "recettes/Crevettes miel sésame.md",
     "recettes/Croissant au jambon fromage.md",
     "recettes/Croque-monsieur.md",
     "recettes/Croque-monsieur à l'italienne.md",
@@ -175,8 +185,10 @@
     "recettes/Feuilletés épinard, feta & salade.md",
     "recettes/Flammeküeche.md",
     "recettes/French tacos.md",
+    "recettes/Frites.md",
     "recettes/Frittata courgette, jambon & mozza.md",
     "recettes/Frittata saumon fumé & chèvre frais.md",
+    "recettes/Galette complète & oignons confits.md",
     "recettes/Galette des rois Frangipane.md",
     "recettes/Galette forestière.md",
     "recettes/Galette saucisse.md",
@@ -208,6 +220,7 @@
     "recettes/Omelette au saumon.md",
     "recettes/Omelette aux champignons.md",
     "recettes/Omelette aux pommes de terre et lardons.md",
+    "recettes/One pot curry de pommes de terre.md",
     "recettes/One pot pasta artichauts & tomates séchées.md",
     "recettes/Paris-Brest au praliné.md",
     "recettes/Pasta al tonno.md",
@@ -243,6 +256,7 @@
     "recettes/Quiche poireaux, chèvre lardons.md",
     "recettes/Quiche tomate, jambon, chèvre.md",
     "recettes/Ratatouille.md",
+    "recettes/Ravioles à la toscane.md",
     "recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md",
     "recettes/Risotto comté & saucisse à l'ancienne.md",
     "recettes/Risotto de coquillettes.md",
@@ -2059,12 +2073,11 @@
       ]
     },
     "recettes/Quiche aux asperges et lardons.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 948,
+      "modifiedTime": 1709556215526,
+      "sourceSize": 920,
       "exportedPath": "recettes/quiche-aux-asperges-et-lardons.html",
       "dependencies": [
-        "recettes/images/quiche-aux-asperges-et-lardons.webp",
-        "recettes/images/pâte-brisée.webp"
+        "recettes/images/quiche-aux-asperges-et-lardons.webp"
       ]
     },
     "recettes/Quiche chèvre épinards.md": {
@@ -2427,8 +2440,8 @@
       ]
     },
     "index.md": {
-      "modifiedTime": 1709322121447,
-      "sourceSize": 1774,
+      "modifiedTime": 1709556215526,
+      "sourceSize": 1772,
       "exportedPath": "index.html",
       "dependencies": [
         "photo.webp"
@@ -2441,7 +2454,7 @@
       "dependencies": []
     },
     "photo.webp": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 66864,
       "exportedPath": "photo.webp",
       "dependencies": []
@@ -2999,7 +3012,7 @@
       "dependencies": []
     },
     "recettes/images/quiche-aux-asperges-et-lardons.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1709556215526,
       "sourceSize": 81094,
       "exportedPath": "recettes/images/quiche-aux-asperges-et-lardons.webp",
       "dependencies": []
@@ -3269,171 +3282,311 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1709322121447,
-      "sourceSize": 108071,
+      "modifiedTime": 1709556215526,
+      "sourceSize": 113326,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1709322121447,
-      "sourceSize": 11589,
+      "modifiedTime": 1709556215526,
+      "sourceSize": 12103,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 134730,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 343,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1709322121447,
+      "modifiedTime": 1709556215526,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "recettes/images/Brunch sandwich aux champignons.webp": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 143956,
+      "exportedPath": "recettes/images/brunch-sandwich-aux-champignons.webp",
+      "dependencies": []
+    },
+    "recettes/images/Chakchouka haricots verts & feta.webp": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 290546,
+      "exportedPath": "recettes/images/chakchouka-haricots-verts-&-feta.webp",
+      "dependencies": []
+    },
+    "recettes/images/Crevettes miel sésame.webp": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 221360,
+      "exportedPath": "recettes/images/crevettes-miel-sésame.webp",
+      "dependencies": []
+    },
+    "recettes/images/Frites.webp": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 483378,
+      "exportedPath": "recettes/images/frites.webp",
+      "dependencies": []
+    },
+    "recettes/images/Galette complète & oignons confits.webp": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 207624,
+      "exportedPath": "recettes/images/galette-complète-&-oignons-confits.webp",
+      "dependencies": []
+    },
+    "recettes/images/One pot curry de pommes de terre.webp": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 211382,
+      "exportedPath": "recettes/images/one-pot-curry-de-pommes-de-terre.webp",
+      "dependencies": []
+    },
+    "recettes/images/Ravioles à la toscane.webp": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 213944,
+      "exportedPath": "recettes/images/ravioles-à-la-toscane.webp",
+      "dependencies": []
+    },
+    "recettes/Brunch sandwich aux champignons.md": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 1188,
+      "exportedPath": "recettes/brunch-sandwich-aux-champignons.html",
+      "dependencies": [
+        "recettes/images/brunch-sandwich-aux-champignons.webp"
+      ]
+    },
+    "recettes/Chakchouka haricots verts & feta.md": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 1083,
+      "exportedPath": "recettes/chakchouka-haricots-verts-&-feta.html",
+      "dependencies": [
+        "recettes/images/chakchouka-haricots-verts-&-feta.webp"
+      ]
+    },
+    "recettes/Crevettes miel sésame.md": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 1185,
+      "exportedPath": "recettes/crevettes-miel-sésame.html",
+      "dependencies": [
+        "recettes/images/crevettes-miel-sésame.webp"
+      ]
+    },
+    "recettes/Frites.md": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 1640,
+      "exportedPath": "recettes/frites.html",
+      "dependencies": [
+        "recettes/images/frites.webp"
+      ]
+    },
+    "recettes/Galette complète & oignons confits.md": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 1370,
+      "exportedPath": "recettes/galette-complète-&-oignons-confits.html",
+      "dependencies": [
+        "recettes/images/galette-complète-&-oignons-confits.webp"
+      ]
+    },
+    "recettes/One pot curry de pommes de terre.md": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 1184,
+      "exportedPath": "recettes/one-pot-curry-de-pommes-de-terre.html",
+      "dependencies": [
+        "recettes/images/one-pot-curry-de-pommes-de-terre.webp"
+      ]
+    },
+    "recettes/Ravioles à la toscane.md": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 1068,
+      "exportedPath": "recettes/ravioles-à-la-toscane.html",
+      "dependencies": [
+        "recettes/images/ravioles-à-la-toscane.webp"
+      ]
+    },
+    "recettes/images/brunch-sandwich-aux-champignons.webp": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 143956,
+      "exportedPath": "recettes/images/brunch-sandwich-aux-champignons.webp",
+      "dependencies": []
+    },
+    "recettes/images/chakchouka-haricots-verts-&-feta.webp": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 290546,
+      "exportedPath": "recettes/images/chakchouka-haricots-verts-&-feta.webp",
+      "dependencies": []
+    },
+    "recettes/images/crevettes-miel-sésame.webp": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 221360,
+      "exportedPath": "recettes/images/crevettes-miel-sésame.webp",
+      "dependencies": []
+    },
+    "recettes/images/frites.webp": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 483378,
+      "exportedPath": "recettes/images/frites.webp",
+      "dependencies": []
+    },
+    "recettes/images/galette-complète-&-oignons-confits.webp": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 207624,
+      "exportedPath": "recettes/images/galette-complète-&-oignons-confits.webp",
+      "dependencies": []
+    },
+    "recettes/images/one-pot-curry-de-pommes-de-terre.webp": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 211382,
+      "exportedPath": "recettes/images/one-pot-curry-de-pommes-de-terre.webp",
+      "dependencies": []
+    },
+    "recettes/images/ravioles-à-la-toscane.webp": {
+      "modifiedTime": 1709556215526,
+      "sourceSize": 213944,
+      "exportedPath": "recettes/images/ravioles-à-la-toscane.webp",
       "dependencies": []
     }
   }
