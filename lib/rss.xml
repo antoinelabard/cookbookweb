@@ -1,4 +1,174 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 16 Mar 2024 09:19:39 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 16 Mar 2024 09:19:38 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Camembert rôti &amp; potatoes]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 02 Apr 2024 10:44:32 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 02 Apr 2024 10:44:31 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Haricots verts à la bolognaise]]></title><description><![CDATA[ 
+ <br><br><img alt="Haricots verts à la bolognaise.webp" src="/recettes/images/haricots-verts-à-la-bolognaise.webp"><br><br><br>
+<br>Oignon : 1
+<br>Céleri : 10cl
+<br>Carotte : 1
+<br>Origan
+<br>Viande hachée : 800g
+<br>Coulis de tomate : 700g
+<br>Haricots verts : 800g
+<br><br>
+<br>Faire précuire les haricots s'ils sont frais ou surgelés, à la vapeur ou dans de l'eau chaude.
+<br>Pendant ce temps, faire revenir l'oignon émincés puis la viande dans une sauteuse.
+<br>Ajouter la carotte coupée en petits dés, l'ail, le sel, le poivre, le céleri et la tomate.
+<br>Couvrir avec de l'eau et faire mijoter.
+<br>Ajouter les haricots verts précuits 5 min avant la fin de la cuisson... et déguster chaud.
+]]></description><link>recettes/haricots-verts-à-la-bolognaise.html</link><guid isPermaLink="false">recettes/Haricots verts à la bolognaise.md</guid><pubDate>Tue, 26 Mar 2024 08:57:40 GMT</pubDate><enclosure url="recettes/images/haricots-verts-à-la-bolognaise.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/haricots-verts-à-la-bolognaise.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[One pot curry de pommes de terre]]></title><description><![CDATA[ 
+ <br><br><img alt="One pot curry de pommes de terre.webp" src="/recettes/images/one-pot-curry-de-pommes-de-terre.webp"><br><br><br>
+<br>Pommes de terre : 800g
+<br>Carottes : 400g
+<br>Oignon : 1
+<br>Concentré de tomate : 4cc
+<br>Lait de coco : 200ml
+<br>Pois chiches : 200g
+<br>Curry
+<br>Citron
+<br><br>
+<br>Épluchez puis émincez finement l’oignon. Dans une poêle ou une cocotte, ajoutez un filet d’huile d’olive puis faites revenir l’oignon pendant 2-3 minutes avec le curry en poudre.
+<br>Pendant ce temps, lavez les pommes de terre, épluchez-les puis coupez-les en morceaux. Épluchez puis coupez les carottes en rondelles.
+<br>Ajoutez dans le poêle le concentré de tomate, les carottes et les pommes de terre puis mélangez bien.
+<br>Ajoutez le lait de coco et 80cl d’eau, puis laissez cuire à couvert à feu moyen pendant environ 15 à 20 minutes.
+<br>Ajoutez ensuite les pois chiches. Salez, poivrez puis poursuivez la cuisson pendant encore 3 minutes.
+<br>Servez dans un bol avec de la coriandre et du citron vert si vous en avez. C’est prêt !
+]]></description><link>recettes/one-pot-curry-de-pommes-de-terre.html</link><guid isPermaLink="false">recettes/One pot curry de pommes de terre.md</guid><pubDate>Thu, 28 Mar 2024 12:53:39 GMT</pubDate><enclosure url="recettes/images/one-pot-curry-de-pommes-de-terre.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/one-pot-curry-de-pommes-de-terre.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet à la sauce aux champignons]]></title><description><![CDATA[ 
+ <br><br><img alt="Poulet à la sauce aux champignons.webp" src="/recettes/images/poulet-à-la-sauce-aux-champignons.webp"><br><br><br>
+<br>Filets de poulet : 4
+<br>oignons : 2
+<br>Champignons de Paris : 200g
+<br>Vin blanc sec : 20cl
+<br>Bouillon de volaille : 1
+<br>Au choix :
+
+<br>Riz ou pâtes : 400g
+<br><a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg
+
+
+<br><br>
+<br>Faire cuire le riz selon les instructions du paquet.
+<br>Pelez et hachez finement les oignons.
+<br>Faites chauffer un filet d'huile dans une poêle. Quand l’huile est bien chaude, déposez les filets de poulet dans la poêle et faites-les revenir sur tous les côtés pendant 10 à 15 minutes, jusqu’à ce qu’ils soient bien dorés.
+<br>Ajoutez ensuite les oignons hachés autour des filets de poulet dans la poêle et laissez cuire, en mélangeant bien, pendant 5 minutes environ, jusqu’à ce qu’ils soient bien translucides.
+<br>Égouttez les champignons de Paris et versez-les dans la poêle. Mouillez ensuite avec le vin blanc sec et le bouillon de volaille. Salez et poivrez à votre goût puis remuez bien. Laissez réduire pendant 30 minutes, à feu doux, en mélangeant régulièrement.
+<br>À la fin de la cuisson, servez de suite les filets de poulet avec le riz dans les assiettes, puis nappez-les de sauce aux champignons et au vin blanc.
+]]></description><link>recettes/poulet-à-la-sauce-aux-champignons.html</link><guid isPermaLink="false">recettes/Poulet à la sauce aux champignons.md</guid><pubDate>Thu, 28 Mar 2024 12:55:14 GMT</pubDate><enclosure url="recettes/images/poulet-à-la-sauce-aux-champignons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-à-la-sauce-aux-champignons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet sauce moutarde]]></title><description><![CDATA[ 
+ <br><br><img alt="Poulet sauce moutarde.webp" src="/recettes/images/poulet-sauce-moutarde.webp"><br><br><br>
+<br>Escalopes de poulet : 4
+<br>Crème fraiche : 20cl
+<br>Riz : 280g
+<br>Oignons : 2
+<br>Mélange de champignons : 400g
+<br><br>
+<br>Cuire le riz selon les instructions du paquet. Égouttez-le en fin de cuisson.
+<br>Dans une poêle, faire revenir les champignons à feu vif pendant 5 minutes en remuant régulièrement.
+<br>Pendant ce temps, épluchez puis émincez les oignons. Coupez le poulet en fines lamelles.
+<br>Une fois les champignons légèrement dorés, ajoutez le poulet et les oignons émincés ainsi qu'un filet d'huile d'olive. Faire revenir 5 minutes à feu vif en remuant.
+<br>Baissez le feu à feu doux et ajoutez la crème et la moutarde, salez poivrez et laissez mijoter à feu doux pendant 5 minutes.
+<br>Salez, poivrez en fin de cuisson.
+<br>Servir le poulet sur le riz avec la sauce, c'est prêt !
+]]></description><link>recettes/poulet-sauce-moutarde.html</link><guid isPermaLink="false">recettes/Poulet sauce moutarde.md</guid><pubDate>Tue, 02 Apr 2024 10:39:20 GMT</pubDate><enclosure url="recettes/images/poulet-sauce-moutarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-sauce-moutarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+ <br><br><br><br>
+<br><a data-href="Frittata courgette, jambon &amp; mozza" href="/recettes/frittata-courgette,-jambon-&amp;-mozza.html" class="internal-link" target="_self" rel="noopener">Frittata courgette, jambon &amp; mozza</a>
+<br><a data-href="Poulet au curry" href="/recettes/poulet-au-curry.html" class="internal-link" target="_self" rel="noopener">Poulet au curry</a>
+<br><a data-href="Velouté d'endives au lard" href="/recettes/velouté-d'endives-au-lard.html" class="internal-link" target="_self" rel="noopener">Velouté d'endives au lard</a>
+<br><a data-href="Riz au chorizo" href="/recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Riz au chorizo</a>
+<br><a data-href="Ravioli ricotta épinards à la crème d'ail et poireau" href="/recettes/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.html" class="internal-link" target="_self" rel="noopener">Ravioli ricotta épinards à la crème d'ail et poireau</a>
+<br><br>
+<br>Produits secs et conserves
+
+<br>Oeufs : 8
+<br>Lait de coco : 12cl
+<br>Jus de citron
+<br>Riz : 1kg
+<br>Olives vertes : 200g
+<br>Épinards branche : 300g
+
+
+<br>Produits laitiers
+
+<br>Mozzarella : 125g
+<br>Crème fraîche : 50cl
+
+
+<br>Légumes et fruits
+
+<br>Courgette : 1
+<br>Endives : 1kg
+<br>Poivrons : 2
+<br>Poireaux : 2
+
+
+<br>Produits frais
+
+<br>Jambon : 2 tranches
+<br>Lard : 8 tranches
+<br>Chorizo : 1
+<br>Raviolis : 500g
+
+
+<br>Surgelés
+
+<br>Escalopes de poulet : 4
+
+
+<br><br><br>
+<br><a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
+<br><a data-href="Poulet à la sauce aux champignons" href="/recettes/poulet-à-la-sauce-aux-champignons.html" class="internal-link" target="_self" rel="noopener">Poulet à la sauce aux champignons</a>
+<br><a data-href="Endives en pochon" href="/recettes/endives-en-pochon.html" class="internal-link" target="_self" rel="noopener">Endives en pochon</a>
+<br><a data-href="One pot curry de pommes de terre" href="/recettes/one-pot-curry-de-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener">One pot curry de pommes de terre</a>
+<br><a data-href="Poulet au sésame" href="/recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener">Poulet au sésame</a>
+<br><a data-href="Brochettes dinde, haricots &amp; semoule" href="/recettes/brochettes-dinde,-haricots-&amp;-semoule.html" class="internal-link" target="_self" rel="noopener">Brochettes dinde, haricots &amp; semoule</a>
+<br><br>
+<br>Fruits et légumes
+
+<br>Oignon : 5
+<br>Céleri : 10cl
+<br>Carotte : 4
+<br>Endives : 8
+<br>Gousses d'ail : 6
+<br>Graines de sésame
+<br>Pommes de terre : 800g
+<br>Brocoli : 320g
+
+
+<br>Viandes
+
+<br>Viande hachée : 800g
+<br>Filets de poulet : 8
+<br>Escalopes de dinde : 4
+
+
+<br>Produits secs et conserves
+
+<br>Coulis de tomate : 700g
+<br>Haricots verts : 800g
+<br>Champignons de Paris : 200g
+<br>pâtes : 400g
+<br>sauce tomate : 50cl
+<br>oeufs : 2
+<br>Lait de coco : 200ml
+<br>Concentré de tomate : 4cc
+<br>Pois chiches : 200g
+<br>Curry
+<br>Sauce soja : 10cl
+<br>Riz : 280g
+<br>Haricots verts : 600g
+<br>Semoule 240g
+
+
+<br>Produits frais
+
+<br>Jambon blanc : 300g
+<br>gruyère râpé : 45g
+
+
+<br>Produits laitiers
+
+<br>Yaourt grec : 20cl
+
+
+<br>Vin blanc sec : 20cl
+<br>Paprika
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Thu, 28 Mar 2024 11:24:15 GMT</pubDate></item><item><title><![CDATA[Camembert rôti &amp; potatoes]]></title><description><![CDATA[ 
  <br><br><img alt="Camembert rôti &amp; potatoes.webp" src="/recettes/images/camembert-rôti-&amp;-potatoes.webp"><br><br><br>
 <br>Camembert : 1
 <br>Potatoes : 600g
@@ -56,144 +226,7 @@
 <br>Alexis Goblot
 <br>Katy Osmont
 <br>Nicolas Noirault
-<br><br>Ce livre de recette a été rédigé avec <a data-tooltip-position="top" aria-label="http://obsidian.md" rel="noopener" class="external-link" href="http://obsidian.md" target="_blank">Obsidian</a>. Le site web est généré avec le plugin <a data-tooltip-position="top" aria-label="https://github.com/KosmosisDire/obsidian-webpage-export" rel="noopener" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export" target="_blank">Webpage HTML Export</a> et est hébergé sur <a data-tooltip-position="top" aria-label="https://pages.github.com/" rel="noopener" class="external-link" href="https://pages.github.com/" target="_blank">GitHub Pages</a>.<br>Un script de génération de menus est également disponible si vous téléchargez le livre de recettes hors ligne. Pour comprendre comment s'en servir, rendez-vous <a data-tooltip-position="top" aria-label="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" rel="noopener" class="external-link" href="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" target="_blank">ici</a>.]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Thu, 14 Mar 2024 16:07:34 GMT</pubDate><enclosure url="photo.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="photo.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
- <br><br><br><br>
-<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/quiche-poireaux-braises-et-brie-8e4z41w4lapt196f02mi?coversCount=6&amp;from=menu" target="_blank">https://jow.fr/recipes/quiche-poireaux-braises-et-brie-8e4z41w4lapt196f02mi?coversCount=6&amp;from=menu</a>
-<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/quiche-chevre-champignon-et-epinard-8uatcodbm8ojah3d08pc?coversCount=6&amp;from=menu" target="_blank">https://jow.fr/recipes/quiche-chevre-champignon-et-epinard-8uatcodbm8ojah3d08pc?coversCount=6&amp;from=menu</a>
-<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/poulet-sauce-moutarde-83ik0b9dizx31qkv0v9y?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/poulet-sauce-moutarde-83ik0b9dizx31qkv0v9y?coversCount=4&amp;from=menu</a>
-<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/patates-douces-roties-et-crottin-8klqm9nu1z1sl3be1dem?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/patates-douces-roties-et-crottin-8klqm9nu1z1sl3be1dem?coversCount=4&amp;from=menu</a>
-<br><a data-href="Saucisse &amp; lentilles" href="/recettes/saucisse-&amp;-lentilles.html" class="internal-link" target="_self" rel="noopener">Saucisse &amp; lentilles</a>
-<br><a data-href="One pot pasta artichauts &amp; tomates séchées" href="/recettes/one-pot-pasta-artichauts-&amp;-tomates-séchées.html" class="internal-link" target="_self" rel="noopener">One pot pasta artichauts &amp; tomates séchées</a>
-<br><a data-href="Risotto de coquillettes" href="/recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes</a>
-<br><br>
-<br>produits frais
-
-<br>Saucisses fumées : 4
-<br>Jambon : 4 tranches
-<br>pâte brisée 2
-
-
-<br>produits secs et conserves
-
-<br>Lentilles : 280g
-<br>Pâtes : 400g
-<br>Tomates séchées : 200g
-<br>Artichauts : 320g
-<br>Pâtes (coquillettes) : 360g
-<br>Bouillon de volaille : 1
-<br>miel 2cc
-<br>riz 280g
-<br>oeufs 6
-<br>vinaigre balsamique 1cs
-<br>épinards 400g
-
-
-<br>fruits et légumes
-
-<br>Oignon : 4
-<br>Carottes : 2
-<br>Échalote : 2
-<br>patates douces 800g
-<br>poireau : 400g
-<br>champignons mélangés 400g
-<br>champignons de paris 250g
-
-
-<br>produits laitiers
-
-<br>Parmesan : 80g
-<br>Comté : 80g
-<br>crotin de chèvre 2
-<br>crème fraiche 70cl
-<br>brie 60g
-<br>chèvre frais 100g
-
-
-<br><br><br>
-<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/pie-poireaux-et-champignons-8kls2fe21z1sl3be1duh?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/pie-poireaux-et-champignons-8kls2fe21z1sl3be1duh?coversCount=4&amp;from=menu</a>
-<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/soupe-de-tortellini-83x4fct25i9ck5bo0rfo?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/soupe-de-tortellini-83x4fct25i9ck5bo0rfo?coversCount=4&amp;from=menu</a>
-<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/gratin-de-penne-petit-pois-et-lard-8ge0arndl10hj95x0fn9?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/gratin-de-penne-petit-pois-et-lard-8ge0arndl10hj95x0fn9?coversCount=4&amp;from=menu</a>
-<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/salade-de-chevre-chaud-88va8zw7hgme7hm10n3m?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/salade-de-chevre-chaud-88va8zw7hgme7hm10n3m?coversCount=4&amp;from=menu</a>
-<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/salade-cesar-8fxl27ng7683hi920i6w?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/salade-cesar-8fxl27ng7683hi920i6w?coversCount=4&amp;from=menu</a>
-<br><a data-href="Steak haché à l'échalote &amp; purée" href="/recettes/steak-haché-à-l'échalote-&amp;-purée.html" class="internal-link" target="_self" rel="noopener">Steak haché à l'échalote &amp; purée</a>
-<br><a data-href="Quiche à l'oignon et aux lardons fumés" href="/recettes/quiche-à-l'oignon-et-aux-lardons-fumés.html" class="internal-link" target="_self" rel="noopener">Quiche à l'oignon et aux lardons fumés</a>
-<br><br>
-<br><a data-href="Porridge à la banane &amp; cannelle" href="/recettes/porridge-à-la-banane-&amp;-cannelle.html" class="internal-link" target="_self" rel="noopener">Porridge à la banane &amp; cannelle</a>
-<br><a data-href="Bounties maison" href="/recettes/bounties-maison.html" class="internal-link" target="_self" rel="noopener">Bounties maison</a>
-<br><a data-href="Granola maison" href="/recettes/granola-maison.html" class="internal-link" target="_self" rel="noopener">Granola maison</a>
-<br><br>
-<br>Produits secs et conserves
-
-<br>Lait : 480ml
-<br>Flocons d'avoine : 200g
-<br>Sirop d'érable / miel : 5cl
-<br>Cannelle en poudre
-<br>pain de campagne 4 tranches
-<br>oeuf 1
-<br>ail 1
-<br>pain de mie : 2 paquets
-<br>pignons de pin 2cs
-<br>herbes de provence 2pinc
-<br>pâtes 400g
-<br>petits pois 320g
-<br>chair de tomate 320g
-<br>épinards 4 poignées
-<br>farine 50g
-<br>bouillon de volaille 1
-<br>Chocolat noir : 200g
-<br>lait 500ml
-
-
-<br>fruits et légumes
-
-<br>Bananes : 2
-<br>poignées de salade 8
-<br>salade mache 200g
-<br>oignon 1
-<br>pireaux 3
-<br>champignons de paris 300g
-
-
-<br>Viandes :
-
-<br>escalope de poulet 4
-<br>lard 8 tranches
-<br>chair à saucisse 200g
-
-
-<br>produits frais
-
-<br>tortellini ricotta épinards 440g
-<br>pate feuilletée 1
-
-
-<br>produits laitiers
-
-<br>parmesan 80g
-<br>crotin de chèvre 4
-<br>chèvre frais 120g
-<br>crème liquide 50cl
-<br>fromage râpé 100g
-<br>Fromage blanc : 140g
-<br>beurre 50g
-
-
-<br>brosse à dents
-<br>dentifrice
-<br>lessive
-<br>papier sulfurisé
-<br>Flocons d'avoine : 250g
-<br>mouchoirs
-<br><br><br>
-<br><a data-href="Omelette aux pommes de terre et lardons.md" href="/recettes/omelette-aux-pommes-de-terre-et-lardons.html" class="internal-link" target="_self" rel="noopener">Omelette aux pommes de terre et lardons.md</a>
-<br><a data-href="Poulet boursin, lard &amp; pommes de terre.md" href="/recettes/poulet-boursin,-lard-&amp;-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener">Poulet boursin, lard &amp; pommes de terre.md</a>
-<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/camembert-roti-et-potatoes-8vwx64tikjpc03gv03xx?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/camembert-roti-et-potatoes-8vwx64tikjpc03gv03xx?coversCount=4&amp;from=menu</a>
-<br><a data-href="Haricots rouges à la Mexicaine.md" href="/recettes/haricots-rouges-à-la-mexicaine.html" class="internal-link" target="_self" rel="noopener">Haricots rouges à la Mexicaine.md</a>
-<br><a data-href="Poêlée de pommes de terre &amp; saucisse fumée" href="/recettes/poêlée-de-pommes-de-terre-&amp;-saucisse-fumée.html" class="internal-link" target="_self" rel="noopener">Poêlée de pommes de terre &amp; saucisse fumée</a>
-<br><a rel="noopener" class="external-link" href="https://www.quitoque.fr/recette/12978/galette-de-sarrasin-chevre-et-epinards" target="_blank">https://www.quitoque.fr/recette/12978/galette-de-sarrasin-chevre-et-epinards</a>
-<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/gnocchis-champignons-ail-et-fines-herbes-8pqc019qccxtcpao0thg?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/gnocchis-champignons-ail-et-fines-herbes-8pqc019qccxtcpao0thg?coversCount=4&amp;from=menu</a>
-<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/curry-de-pois-chiches-88jijog4dkfkezug18m4?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/curry-de-pois-chiches-88jijog4dkfkezug18m4?coversCount=4&amp;from=menu</a>
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Thu, 14 Mar 2024 10:44:21 GMT</pubDate></item><item><title><![CDATA[Burger alsacien au poulet et munster]]></title><description><![CDATA[ 
+<br><br>Ce livre de recette a été rédigé avec <a data-tooltip-position="top" aria-label="http://obsidian.md" rel="noopener" class="external-link" href="http://obsidian.md" target="_blank">Obsidian</a>. Le site web est généré avec le plugin <a data-tooltip-position="top" aria-label="https://github.com/KosmosisDire/obsidian-webpage-export" rel="noopener" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export" target="_blank">Webpage HTML Export</a> et est hébergé sur <a data-tooltip-position="top" aria-label="https://pages.github.com/" rel="noopener" class="external-link" href="https://pages.github.com/" target="_blank">GitHub Pages</a>.<br>Un script de génération de menus est également disponible si vous téléchargez le livre de recettes hors ligne. Pour comprendre comment s'en servir, rendez-vous <a data-tooltip-position="top" aria-label="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" rel="noopener" class="external-link" href="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" target="_blank">ici</a>.]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Thu, 14 Mar 2024 16:07:34 GMT</pubDate><enclosure url="photo.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="photo.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Burger alsacien au poulet et munster]]></title><description><![CDATA[ 
  <br><br><img alt="Burger alsacien au poulet et munster.webp" src="/recettes/images/burger-alsacien-au-poulet-et-munster.webp"><br><br><br>
 <br><a data-href="Oignons confits" href="/recettes/oignons-confits.html" class="internal-link" target="_self" rel="noopener">Oignons confits</a>: 200g
 <br>Filet de poulet : 4
@@ -382,26 +415,7 @@ L’autre secret : bien séparer les 2 bains de friture en laissant le temps aux
 <br>Faites fondre un morceau de beurre dans une poêle. Déposez la galette au sarrasin et cassez l'œuf au centre. Salez et poivrez.
 <br>Quand le blanc de l'œuf commence à être cuit, ajoutez les oignons confits, le jambon en morceaux et le fromage râpé.
 <br>Repliez la galette en carré ou en demi lune. Laissez-la griller 1 à 2 minutes supplémentaires, puis servez. C'est prêt !
-]]></description><link>recettes/galette-complète-&amp;-oignons-confits.html</link><guid isPermaLink="false">recettes/Galette complète &amp; oignons confits.md</guid><pubDate>Sun, 03 Mar 2024 20:36:03 GMT</pubDate><enclosure url="recettes/images/galette-complète-&amp;-oignons-confits.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-complète-&amp;-oignons-confits.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[One pot curry de pommes de terre]]></title><description><![CDATA[ 
- <br><br><img alt="One pot curry de pommes de terre.webp" src="/recettes/images/one-pot-curry-de-pommes-de-terre.webp"><br><br><br>
-<br>Pommes de terre : 800g
-<br>Carottes : 400g
-<br>Oignon : 1
-<br>Concentré de tomate : 4cc
-<br>Lait de coco : 200ml
-<br>Pois chiches : 200g
-<br>Curry
-<br>Citron
-<br><br>
-<br>Lavez les pommes de terre, épluchez-les puis coupez-les en morceaux.
-<br>Épluchez puis coupez les carottes en rondelles.
-<br>Épluchez puis émincez finement l’oignon.
-<br>Dans une poêle ou une cocotte, ajoutez un filet d’huile d’olive puis faites revenir l’oignon pendant 2-3 minutes avec le curry en poudre.
-<br>Ajoutez le concentré de tomate, les carottes et les pommes de terre puis mélangez bien.
-<br>Ajoutez le lait de coco et 200ml d’eau par personne puis laissez cuire à couvert à feu moyen pendant environ 15 à 20 minutes.
-<br>Ajoutez ensuite les pois chiches. Salez, poivrez puis poursuivez la cuisson pendant encore 3 minutes.
-<br>Servez dans un bol avec de la coriandre et du citron vert si vous en avez. C’est prêt !
-]]></description><link>recettes/one-pot-curry-de-pommes-de-terre.html</link><guid isPermaLink="false">recettes/One pot curry de pommes de terre.md</guid><pubDate>Sun, 03 Mar 2024 20:45:52 GMT</pubDate><enclosure url="recettes/images/one-pot-curry-de-pommes-de-terre.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/one-pot-curry-de-pommes-de-terre.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche aux asperges et lardons]]></title><description><![CDATA[ 
+]]></description><link>recettes/galette-complète-&amp;-oignons-confits.html</link><guid isPermaLink="false">recettes/Galette complète &amp; oignons confits.md</guid><pubDate>Sun, 03 Mar 2024 20:36:03 GMT</pubDate><enclosure url="recettes/images/galette-complète-&amp;-oignons-confits.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-complète-&amp;-oignons-confits.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche aux asperges et lardons]]></title><description><![CDATA[ 
  <br><br><img alt="Quiche aux asperges et lardons.webp" src="/recettes/images/quiche-aux-asperges-et-lardons.webp"><br><br><br>
 <br>Asperges : 500g
 <br>Lardons : 200g
@@ -1181,22 +1195,7 @@ Cette recette est inspirée du <a data-href="Gratin de ravioles à la ratatouill
 <br>Faire fondre une noix de beurre dans la poêle et y faire revenir quelques gousses d'ail émincées selon votre goût.
 <br>Couper un peu les haricots si besoin avant&nbsp;la cuisson afin qu'ils ne soient pas trop longs.
 <br>Mettre les haricots verts dans la poêle et faire chauffer le tout en remuant régulièrement.
-]]></description><link>recettes/haricots-verts-à-l'ail-et-cordon-bleu.html</link><guid isPermaLink="false">recettes/Haricots verts à l'ail et cordon bleu.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/cordon-bleu-roulé.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/cordon-bleu-roulé.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Haricots verts à la bolognaise]]></title><description><![CDATA[ 
- <br><br><img alt="Haricots verts à la bolognaise.webp" src="/recettes/images/haricots-verts-à-la-bolognaise.webp"><br><br><br>
-<br>Oignon : 1
-<br>Céleri : 10cl
-<br>Carotte : 1
-<br>Origan
-<br>Viande hachée : 800g
-<br>Coulis de tomate : 700g
-<br>Haricots verts : 800g
-<br><br>
-<br>Faire précuire les haricots s'ils sont frais ou surgelés, à la vapeur ou dans de l'eau chaude.
-<br>Pendant ce temps, faire revenir les oignons puis la viande dans une sauteuse.
-<br>Ajouter la carotte coupée en petits dés, l'ail, le sel, le poivre, le céleri et la tomate.
-<br>Couvrir avec de l'eau et faire mijoter.
-<br>Ajouter les haricots verts précuits 5 min avant la fin de la cuisson...et déguster chaud.
-]]></description><link>recettes/haricots-verts-à-la-bolognaise.html</link><guid isPermaLink="false">recettes/Haricots verts à la bolognaise.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/haricots-verts-à-la-bolognaise.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/haricots-verts-à-la-bolognaise.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Haricots verts à la carbonara]]></title><description><![CDATA[ 
+]]></description><link>recettes/haricots-verts-à-l'ail-et-cordon-bleu.html</link><guid isPermaLink="false">recettes/Haricots verts à l'ail et cordon bleu.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/cordon-bleu-roulé.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/cordon-bleu-roulé.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Haricots verts à la carbonara]]></title><description><![CDATA[ 
  <br><br><img alt="Haricots verts à la carbonara.webp" src="/recettes/images/haricots-verts-à-la-carbonara.webp"><br><br><br>
 <br>Lardons : 200g
 <br>Gousse d'ail : 1
@@ -1676,42 +1675,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Dans la même poêle, ajoutez le poulet. Salez, poivrez et faites-les revenir 3 minutes sur chaque face.
 <br>Ajoutez la crème fraîche et la moutarde dans la poêle. Laissez cuire 2 à 3 minutes supplémentaires en mélangeant pour recouvrir le poulet et les pommes de terre de sauce.
 <br>Servez le poulet et les pommes de terre avec quelques herbes fraîches, si vous en avez. C'est prêt !
-]]></description><link>recettes/poulet-à-la-moutarde-&amp;-pommes-de-terre.html</link><guid isPermaLink="false">recettes/Poulet à la moutarde &amp; pommes de terre.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/poulet-à-la-moutarde-&amp;-pommes-de-terre.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-à-la-moutarde-&amp;-pommes-de-terre.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet à la sauce aux champignons]]></title><description><![CDATA[ 
- <br><br><img alt="Poulet à la sauce aux champignons.webp" src="/recettes/images/poulet-à-la-sauce-aux-champignons.webp"><br><br><br>
-<br>Filets de poulet : 4
-<br>oignons : 2
-<br>Champignons de Paris : 200g
-<br>Vin blanc sec : 20cl
-<br>Bouillon de volaille : 1
-<br>Au choix :
-
-<br>Riz ou pâtes : 400g
-<br><a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg
-
-
-<br><br>
-<br>Purée de pommes de terre façon Goblot<br><br><br><br><img alt="Purée de pommes de terre façon Goblot.webp" src="/recettes/images/purée-de-pommes-de-terre-façon-goblot.webp"><br><br><br>
-<br>Pommes de terre : 1kg
-<br>Crème fraiche : 10cl
-<br>Lait
-<br>Oeuf : 1
-<br>Muscade
-<br><br>
-<br>Éplucher les pommes de terre et les couper en dés.
-<br>Mettre les dés dans une casserole d'eau et faire bouillir pendant 20min.
-<br>Égoutter les pommes de terre et les écraser.
-<br>Mettre la crème et mélanger.
-<br>Ajouter du lait petit à petit jusqu'à obtenir la consistance souhaitée.
-<br>Saler, poivrer, ajouter la muscade et le jaune de l'oeuf.
-
-<br>Faire cuire le riz selon les instructions du paquet.
-<br>Pelez et hachez finement les oignons.
-<br>Faites chauffer un filet d'huile dans une poêle.
-<br>Quand l’huile est bien chaude, déposez les filets de poulet dans la poêle et faites-les revenir sur tous les côtés pendant 10 à 15 minutes, jusqu’à ce qu’ils soient bien dorés.
-<br>Ajoutez ensuite les oignons hachés autour des filets de poulet dans la poêle et laissez cuire, en mélangeant bien, pendant 5 minutes environ, jusqu’à ce qu’ils soient bien translucides.
-<br>Égouttez les champignons de Paris et versez-les dans la poêle. Mouillez ensuite avec le vin blanc sec et le bouillon de volaille. Salez et poivrez à votre goût puis remuez bien. Laissez réduire pendant 30 minutes, à feu doux, en mélangeant régulièrement.
-<br>À la fin de la cuisson, servez de suite les filets de poulet avec le riz dans les assiettes, puis nappez-les de sauce aux champignons et au vin blanc.
-]]></description><link>recettes/poulet-à-la-sauce-aux-champignons.html</link><guid isPermaLink="false">recettes/Poulet à la sauce aux champignons.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/poulet-à-la-sauce-aux-champignons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-à-la-sauce-aux-champignons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet au caramel]]></title><description><![CDATA[ 
+]]></description><link>recettes/poulet-à-la-moutarde-&amp;-pommes-de-terre.html</link><guid isPermaLink="false">recettes/Poulet à la moutarde &amp; pommes de terre.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/poulet-à-la-moutarde-&amp;-pommes-de-terre.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-à-la-moutarde-&amp;-pommes-de-terre.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet au caramel]]></title><description><![CDATA[ 
  <br><br><img alt="Poulet au caramel.webp" src="/recettes/images/poulet-au-caramel.webp"><br><br><br>
 <br>Filet de poulet : 4
 <br>Sucre : 300g

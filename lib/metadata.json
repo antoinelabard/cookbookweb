@@ -1,6 +1,6 @@
 {
   "vaultName": "cookbook",
-  "lastExport": 1710580778147,
+  "lastExport": 1712054671358,
   "pluginVersion": "1.8.0",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -85,6 +85,7 @@
     "recettes/images/Paris-Brest au praliné.webp",
     "recettes/images/Pasta al tonno.webp",
     "recettes/images/Pasta saumon citron.webp",
+    "recettes/images/Patates douces rôties & crottin.webp",
     "recettes/images/Pâte brisée.webp",
     "recettes/images/Pâtes à la carbonara façon Goblot.webp",
     "recettes/images/Pâtes au saumon fumé à la vince.webp",
@@ -105,6 +106,7 @@
     "recettes/images/Poulet au sésame.webp",
     "recettes/images/Poulet boursin, lard & pommes de terre.webp",
     "recettes/images/Poulet pané au parmesan.webp",
+    "recettes/images/Poulet sauce moutarde.webp",
     "recettes/images/Purée de pommes de terre façon Goblot.webp",
     "recettes/images/Quiche à l'oignon et aux lardons fumés.webp",
     "recettes/images/Quiche artichaut & parma.webp",
@@ -251,6 +253,7 @@
     "recettes/Poulet au sésame.md",
     "recettes/Poulet boursin, lard & pommes de terre.md",
     "recettes/Poulet pané au parmesan.md",
+    "recettes/Poulet sauce moutarde.md",
     "recettes/Purée de pommes de terre façon Goblot.md",
     "recettes/Quiche à l'oignon et aux lardons fumés.md",
     "recettes/Quiche artichaut & parma.md",
@@ -344,6 +347,7 @@
     "recettes/images/frites.webp",
     "recettes/images/burrito-bœuf-&-cheddar.webp",
     "recettes/images/cabillaud,-amandes-&-haricots.webp",
+    "recettes/images/camembert-rôti-&-potatoes.webp",
     "recettes/images/cannelloni-de-viande.webp",
     "recettes/images/chakchouka-feta-&-pois-chiches.webp",
     "recettes/images/chakchouka-haricots-verts-&-feta.webp",
@@ -358,6 +362,7 @@
     "recettes/images/croissant-au-jambon-fromage.webp",
     "recettes/images/croque-monsieur.webp",
     "recettes/images/croque-monsieur-à-l'italienne.webp",
+    "recettes/images/curry-de-pois-chiches.webp",
     "recettes/images/délicieuse-salade-de-lentilles.webp",
     "recettes/images/endives-en-pochon.webp",
     "recettes/images/escalope-de-dinde-à-la-normande.webp",
@@ -459,6 +464,7 @@
     "recettes/images/salade-piémontaise-facile.webp",
     "recettes/images/saucisse-&-lentilles.webp",
     "recettes/images/soupe-aux-ramen.webp",
+    "recettes/images/soupe-de-tortellini.webp",
     "recettes/images/soupe-iranienne.webp",
     "recettes/images/spaghetti-ail-&-crevette.webp",
     "recettes/images/steak-haché-à-l'échalote-&-purée.webp",
@@ -1749,8 +1755,8 @@
       ]
     },
     "recettes/Haricots verts à la bolognaise.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 915,
+      "modifiedTime": 1712054671358,
+      "sourceSize": 923,
       "exportedPath": "recettes/haricots-verts-à-la-bolognaise.html",
       "dependencies": [
         "recettes/images/haricots-verts-à-la-bolognaise.webp"
@@ -2006,12 +2012,11 @@
       ]
     },
     "recettes/Poulet à la sauce aux champignons.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 1590,
+      "modifiedTime": 1712054671358,
+      "sourceSize": 1539,
       "exportedPath": "recettes/poulet-à-la-sauce-aux-champignons.html",
       "dependencies": [
-        "recettes/images/poulet-à-la-sauce-aux-champignons.webp",
-        "recettes/images/purée-de-pommes-de-terre-façon-goblot.webp"
+        "recettes/images/poulet-à-la-sauce-aux-champignons.webp"
       ]
     },
     "recettes/Poulet au caramel.md": {
@@ -2464,8 +2469,8 @@
       ]
     },
     "Menu de la semaine.md": {
-      "modifiedTime": 1710580778147,
-      "sourceSize": 3934,
+      "modifiedTime": 1712054671358,
+      "sourceSize": 1950,
       "exportedPath": "menu-de-la-semaine.html",
       "dependencies": []
     },
@@ -2788,7 +2793,7 @@
       "dependencies": []
     },
     "recettes/images/haricots-verts-à-la-bolognaise.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1712054671358,
       "sourceSize": 34046,
       "exportedPath": "recettes/images/haricots-verts-à-la-bolognaise.webp",
       "dependencies": []
@@ -2974,7 +2979,7 @@
       "dependencies": []
     },
     "recettes/images/poulet-à-la-sauce-aux-champignons.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1712054671358,
       "sourceSize": 87356,
       "exportedPath": "recettes/images/poulet-à-la-sauce-aux-champignons.webp",
       "dependencies": []
@@ -3298,169 +3303,169 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1710580778147,
-      "sourceSize": 115537,
+      "modifiedTime": 1712054671358,
+      "sourceSize": 116680,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1710580778147,
-      "sourceSize": 12529,
+      "modifiedTime": 1712054671358,
+      "sourceSize": 12570,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 134730,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 343,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1710580778147,
+      "modifiedTime": 1712054671358,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -3548,8 +3553,8 @@
       ]
     },
     "recettes/One pot curry de pommes de terre.md": {
-      "modifiedTime": 1709556215526,
-      "sourceSize": 1184,
+      "modifiedTime": 1712054671358,
+      "sourceSize": 1198,
       "exportedPath": "recettes/one-pot-curry-de-pommes-de-terre.html",
       "dependencies": [
         "recettes/images/one-pot-curry-de-pommes-de-terre.webp"
@@ -3594,7 +3599,7 @@
       "dependencies": []
     },
     "recettes/images/one-pot-curry-de-pommes-de-terre.webp": {
-      "modifiedTime": 1709556215526,
+      "modifiedTime": 1712054671358,
       "sourceSize": 211382,
       "exportedPath": "recettes/images/one-pot-curry-de-pommes-de-terre.webp",
       "dependencies": []
@@ -3663,6 +3668,32 @@
       "modifiedTime": 1710580778147,
       "sourceSize": 210576,
       "exportedPath": "recettes/images/soupe-de-tortellini.webp",
+      "dependencies": []
+    },
+    "recettes/images/Patates douces rôties & crottin.webp": {
+      "modifiedTime": 1712054671358,
+      "sourceSize": 176266,
+      "exportedPath": "recettes/images/patates-douces-rôties-&-crottin.webp",
+      "dependencies": []
+    },
+    "recettes/images/Poulet sauce moutarde.webp": {
+      "modifiedTime": 1712054671358,
+      "sourceSize": 206878,
+      "exportedPath": "recettes/images/poulet-sauce-moutarde.webp",
+      "dependencies": []
+    },
+    "recettes/Poulet sauce moutarde.md": {
+      "modifiedTime": 1712054671358,
+      "sourceSize": 1128,
+      "exportedPath": "recettes/poulet-sauce-moutarde.html",
+      "dependencies": [
+        "recettes/images/poulet-sauce-moutarde.webp"
+      ]
+    },
+    "recettes/images/poulet-sauce-moutarde.webp": {
+      "modifiedTime": 1712054671358,
+      "sourceSize": 206878,
+      "exportedPath": "recettes/images/poulet-sauce-moutarde.webp",
       "dependencies": []
     }
   }
