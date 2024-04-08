@@ -1,4 +1,31 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 05 Apr 2024 19:12:28 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 05 Apr 2024 19:12:27 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 08 Apr 2024 11:33:07 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 08 Apr 2024 11:33:06 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Nuggets de poulet]]></title><description><![CDATA[ 
+ <br><br><img alt="Nuggets de poulet.webp" src="/recettes/images/nuggets-de-poulet.webp"><br><br><br>
+<br>Escalopes de poulet : 4
+<br>Blancs d'oeuf : 4
+<br>Chapelure
+<br>Huile
+<br><br>
+<br>Mixez 4 escalopes de poulet avec 4 blancs d'oeuf, puis salez et poivrez.
+<br>Avec une cuillère à soupe, formez des petites boulettes avec ce mélange.
+<br>Roulez les boulettes dans la chapelure afin de les recouvrir.
+<br>Dans une poêle, faire chauffer de l'huile et mettre les nuggets à cuire.
+<br>Retournez les nuggets au bout de 4 à 5 min (quand ils sont bien dorés).
+<br>Vous pouvez servir !
+]]></description><link>recettes/nuggets-de-poulet.html</link><guid isPermaLink="false">recettes/Nuggets de poulet.md</guid><pubDate>Mon, 08 Apr 2024 11:26:19 GMT</pubDate><enclosure url="recettes/images/nuggets-de-poulet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/nuggets-de-poulet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet au curry]]></title><description><![CDATA[ 
+ <br><br><img alt="Poulet au curry.webp" src="/recettes/images/poulet-au-curry.webp"><br><br><br>
+<br>Escalopes de poulet : 4
+<br>Curry : 1cc
+<br>Lait de coco : 12cl
+<br>Riz : 280g
+<br>Coriandre
+<br><br>
+<br>Versez le riz dans un grand volume d'eau bouillante et suivez le temps de cuisson recommandé sur l'emballage.
+<br>Coupez les filets de poulet en morceaux.
+<br>Faites revenir le poulet dans une poêle 2 minutes avec un filet d'huile de cuisson, salez et poivrez.
+<br>Une fois bien dorés, ajoutez le curry en poudre. Faite revenir 2 minutes supplémentaires à feu moyen.
+<br>Versez le lait de coco. Couvrez et laissez cuire 5 minutes.
+<br>Servez le curry avec le riz. Option : ajoutez de la coriandre fraîche. C'est prêt !
+]]></description><link>recettes/poulet-au-curry.html</link><guid isPermaLink="false">recettes/Poulet au curry.md</guid><pubDate>Mon, 08 Apr 2024 11:31:41 GMT</pubDate><enclosure url="recettes/images/poulet-au-curry.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-au-curry.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br>
 <br><a data-href="Quiche chèvre épinards" href="/recettes/quiche-chèvre-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche chèvre épinards</a>
 <br><a data-href="Chèvre chaud au jambon &amp; salade" href="/recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Chèvre chaud au jambon &amp; salade</a>
@@ -1771,21 +1798,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Il faut compter 25 min environ de cuisson.
 <br>Le poulet prend une jolie couleur dorée, croustille.
 <br>En fin de cuisson, saler normalement et ajouter du gingembre râpé.
-]]></description><link>recettes/poulet-au-caramel.html</link><guid isPermaLink="false">recettes/Poulet au caramel.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/poulet-au-caramel.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-au-caramel.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet au curry]]></title><description><![CDATA[ 
- <br><br><img alt="Poulet au curry.webp" src="/recettes/images/poulet-au-curry.webp"><br><br><br>
-<br>Escalopes de poulet : 4
-<br>Curry : 1cc
-<br>Lait de coco : 12cl
-<br>Riz : 280g
-<br>Coriandre
-<br><br>
-<br>Versez le riz dans un grand volume d'eau bouillante et suivez le temps de cuisson recommandé sur l'emballage.
-<br>Coupez les filets de poulet en morceaux.
-<br>Faites revenir le poulet dans une poêle 2 minutes avec un filet d'huile de cuisson, salez et poivrez.
-<br>Une fois bien dorés, ajoutez le curry en poudre. Faite revenir 2 minutes supplémentaires à feu moyen.
-<br>Versez le lait de coco. Couvrez et laissez cuire 5 minutes.
-<br>Servez le curry avec le riz. Option : ajoutez de la coriandre fraîche. C'est prêt !
-]]></description><link>recettes/poulet-au-curry.html</link><guid isPermaLink="false">recettes/Poulet au curry.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/poulet-au-curry.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-au-curry.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet au sésame]]></title><description><![CDATA[ 
+]]></description><link>recettes/poulet-au-caramel.html</link><guid isPermaLink="false">recettes/Poulet au caramel.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/poulet-au-caramel.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-au-caramel.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet au sésame]]></title><description><![CDATA[ 
  <br><br><img alt="Poulet au sésame.webp" src="/recettes/images/poulet-au-sésame.webp"><br><br><br>
 <br>Brocoli : 320g
 <br>Filets de poulet : 4
