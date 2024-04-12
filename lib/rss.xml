@@ -1,32 +1,60 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 08 Apr 2024 11:33:07 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 08 Apr 2024 11:33:06 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Nuggets de poulet]]></title><description><![CDATA[ 
- <br><br><img alt="Nuggets de poulet.webp" src="/recettes/images/nuggets-de-poulet.webp"><br><br><br>
-<br>Escalopes de poulet : 4
-<br>Blancs d'oeuf : 4
-<br>Chapelure
-<br>Huile
-<br><br>
-<br>Mixez 4 escalopes de poulet avec 4 blancs d'oeuf, puis salez et poivrez.
-<br>Avec une cuillère à soupe, formez des petites boulettes avec ce mélange.
-<br>Roulez les boulettes dans la chapelure afin de les recouvrir.
-<br>Dans une poêle, faire chauffer de l'huile et mettre les nuggets à cuire.
-<br>Retournez les nuggets au bout de 4 à 5 min (quand ils sont bien dorés).
-<br>Vous pouvez servir !
-]]></description><link>recettes/nuggets-de-poulet.html</link><guid isPermaLink="false">recettes/Nuggets de poulet.md</guid><pubDate>Mon, 08 Apr 2024 11:26:19 GMT</pubDate><enclosure url="recettes/images/nuggets-de-poulet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/nuggets-de-poulet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet au curry]]></title><description><![CDATA[ 
- <br><br><img alt="Poulet au curry.webp" src="/recettes/images/poulet-au-curry.webp"><br><br><br>
-<br>Escalopes de poulet : 4
-<br>Curry : 1cc
-<br>Lait de coco : 12cl
-<br>Riz : 280g
-<br>Coriandre
-<br><br>
-<br>Versez le riz dans un grand volume d'eau bouillante et suivez le temps de cuisson recommandé sur l'emballage.
-<br>Coupez les filets de poulet en morceaux.
-<br>Faites revenir le poulet dans une poêle 2 minutes avec un filet d'huile de cuisson, salez et poivrez.
-<br>Une fois bien dorés, ajoutez le curry en poudre. Faite revenir 2 minutes supplémentaires à feu moyen.
-<br>Versez le lait de coco. Couvrez et laissez cuire 5 minutes.
-<br>Servez le curry avec le riz. Option : ajoutez de la coriandre fraîche. C'est prêt !
-]]></description><link>recettes/poulet-au-curry.html</link><guid isPermaLink="false">recettes/Poulet au curry.md</guid><pubDate>Mon, 08 Apr 2024 11:31:41 GMT</pubDate><enclosure url="recettes/images/poulet-au-curry.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-au-curry.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 12 Apr 2024 15:51:48 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 12 Apr 2024 15:51:47 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br>
+<br><a data-href="Omelette aux pommes de terre et lardons" href="/recettes/omelette-aux-pommes-de-terre-et-lardons.html" class="internal-link" target="_self" rel="noopener">Omelette aux pommes de terre et lardons</a>
+<br><a data-href="Tresse feuilletée au boursin, poireau et truite fumée" href="/recettes/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.html" class="internal-link" target="_self" rel="noopener">Tresse feuilletée au boursin, poireau et truite fumée</a>
+<br><a data-href="Nouilles sautées aux crevettes" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a>
+<br><a data-href="One pot pasta artichauts &amp; tomates séchées" href="/recettes/one-pot-pasta-artichauts-&amp;-tomates-séchées.html" class="internal-link" target="_self" rel="noopener">One pot pasta artichauts &amp; tomates séchées</a>
+<br><a data-href="Quiche poireaux, chèvre lardons" href="/recettes/quiche-poireaux,-chèvre-lardons.html" class="internal-link" target="_self" rel="noopener">Quiche poireaux, chèvre lardons</a>
+<br><a data-href="Rougail saucisse" href="/recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener">Rougail saucisse</a>
+<br><a data-href="Petits pois au chorizo" href="/recettes/petits-pois-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Petits pois au chorizo</a>
+<br><br>
+<br>Fruits et légumes
+
+<br>Pommes de terre : 2
+<br>Poireaux : 6
+<br>Graines de sésame (optionnel) : 2cc
+<br>Carottes : 2
+<br>Échalote : 1
+
+
+<br>Produits frais
+
+<br>Lardons : 200g
+<br>Pâte feuilletée : 1
+<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br>Lardons : 200g
+
+
+<br>Produits secs et conserves
+
+<br>Oeufs : 10
+<br>Nouilles chinoises : 280g
+<br>Haricots verts : 280g
+<br>Sauce soja : 12cl
+<br>Pâtes : 400g
+<br>Tomates séchées : 200g
+<br>Artichauts : 320g
+<br>Purée de tomate : 400g
+<br>Petits pois : 800g
+
+
+<br>Produits laitiers
+
+<br>Fromage à l'ail : 150g
+<br>Parmesan : 80g
+<br>Crème fraîche : 25cl
+<br>Fromage de chèvre : 200g
+
+
+<br>Viandes
+
+<br>Truite : 4 tranches
+<br>Crevettes : 320g
+<br>Saucisses fumées : 4
+<br>Chorizo : 1
+
+
+<br><br>
 <br><a data-href="Quiche chèvre épinards" href="/recettes/quiche-chèvre-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche chèvre épinards</a>
 <br><a data-href="Chèvre chaud au jambon &amp; salade" href="/recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Chèvre chaud au jambon &amp; salade</a>
 <br><a data-href="Haricots verts à la carbonara" href="/recettes/haricots-verts-à-la-carbonara.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la carbonara</a>
@@ -179,7 +207,34 @@
 
 <br>Vin blanc sec : 20cl
 <br>Paprika
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 05 Apr 2024 19:12:12 GMT</pubDate></item><item><title><![CDATA[Reims 2024]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 12 Apr 2024 15:51:33 GMT</pubDate></item><item><title><![CDATA[Nuggets de poulet]]></title><description><![CDATA[ 
+ <br><br><img alt="Nuggets de poulet.webp" src="/recettes/images/nuggets-de-poulet.webp"><br><br><br>
+<br>Escalopes de poulet : 4
+<br>Blancs d'oeuf : 4
+<br>Chapelure
+<br>Huile
+<br><br>
+<br>Mixez 4 escalopes de poulet avec 4 blancs d'oeuf, puis salez et poivrez.
+<br>Avec une cuillère à soupe, formez des petites boulettes avec ce mélange.
+<br>Roulez les boulettes dans la chapelure afin de les recouvrir.
+<br>Dans une poêle, faire chauffer de l'huile et mettre les nuggets à cuire.
+<br>Retournez les nuggets au bout de 4 à 5 min (quand ils sont bien dorés).
+<br>Vous pouvez servir !
+]]></description><link>recettes/nuggets-de-poulet.html</link><guid isPermaLink="false">recettes/Nuggets de poulet.md</guid><pubDate>Mon, 08 Apr 2024 11:26:19 GMT</pubDate><enclosure url="recettes/images/nuggets-de-poulet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/nuggets-de-poulet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet au curry]]></title><description><![CDATA[ 
+ <br><br><img alt="Poulet au curry.webp" src="/recettes/images/poulet-au-curry.webp"><br><br><br>
+<br>Escalopes de poulet : 4
+<br>Curry : 1cc
+<br>Lait de coco : 12cl
+<br>Riz : 280g
+<br>Coriandre
+<br><br>
+<br>Versez le riz dans un grand volume d'eau bouillante et suivez le temps de cuisson recommandé sur l'emballage.
+<br>Coupez les filets de poulet en morceaux.
+<br>Faites revenir le poulet dans une poêle 2 minutes avec un filet d'huile de cuisson, salez et poivrez.
+<br>Une fois bien dorés, ajoutez le curry en poudre. Faite revenir 2 minutes supplémentaires à feu moyen.
+<br>Versez le lait de coco. Couvrez et laissez cuire 5 minutes.
+<br>Servez le curry avec le riz. Option : ajoutez de la coriandre fraîche. C'est prêt !
+]]></description><link>recettes/poulet-au-curry.html</link><guid isPermaLink="false">recettes/Poulet au curry.md</guid><pubDate>Mon, 08 Apr 2024 11:31:41 GMT</pubDate><enclosure url="recettes/images/poulet-au-curry.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-au-curry.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Reims 2024]]></title><description><![CDATA[ 
  <br>
 <br><a data-href="Flammeküeche" href="/recettes/flammeküeche.html" class="internal-link" target="_self" rel="noopener">Flammeküeche</a>
 <br><a data-href="Feuilletés épinard, feta &amp; salade" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a>
