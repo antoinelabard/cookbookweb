@@ -1,5 +1,64 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 12 Apr 2024 15:51:48 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 12 Apr 2024 15:51:47 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 18 Apr 2024 14:38:58 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 18 Apr 2024 14:38:57 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br>
+<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/wok-legumes-sautes-poulet-et-sauce-cacahuete-8ucq30s6h54y7d4e0kyc?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/wok-legumes-sautes-poulet-et-sauce-cacahuete-8ucq30s6h54y7d4e0kyc?coversCount=4&amp;from=menu</a>
+<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/cake-epinards-et-feta-8k167xypj32oksb30ic5?coversCount=6&amp;from=menu" target="_blank">https://jow.fr/recipes/cake-epinards-et-feta-8k167xypj32oksb30ic5?coversCount=6&amp;from=menu</a>
+<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/escalope-milanaise-et-riz-a-la-tomate-8vbq3y1himjk02tc03u8?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/escalope-milanaise-et-riz-a-la-tomate-8vbq3y1himjk02tc03u8?coversCount=4&amp;from=menu</a>
+<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/salade-campagnarde-85kbi5ztgl3m4ats0bew?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/salade-campagnarde-85kbi5ztgl3m4ats0bew?coversCount=4&amp;from=menu</a>
+<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/tartine-thon-fromage-frais-radis-et-salade-8sx65a9jkro0ma680ycq?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/tartine-thon-fromage-frais-radis-et-salade-8sx65a9jkro0ma680ycq?coversCount=4&amp;from=menu</a>
+<br><a data-href="Soupe iranienne" href="/recettes/soupe-iranienne.html" class="internal-link" target="_self" rel="noopener">Soupe iranienne</a>
+<br><a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
+<br><br>
+<br>Fruits et légumes
+
+<br>Carottes : 4
+<br>Oignon : 1
+<br>Salade : 600g
+<br>courgette : 3
+<br>pommes de terre 600g
+<br>radis 200g
+<br>épinards surgelés 400g
+
+
+<br>Produits secs et conserves
+
+<br>Concentré de tomate : 70g
+<br>Blé à cuire : 200g
+<br>Bouillon de légumes : 1
+<br>Lait de coco : 10cl
+<br>Miel : 6cl
+<br>farine 150g
+<br>oeufs 3
+<br>lait 125ml
+<br>sauce tomate 400g
+<br>sauce pesto 4cc
+<br>oeufs de caille 12
+<br>thon 200g
+
+
+<br>Produits frais
+
+<br>Pâte feuilletée : 1
+<br>Lardons : 100g
+<br>bacon 8 tranches
+
+
+<br>Produits laitiers
+
+<br>Fromage de chèvre : 200g
+<br>feta 300g
+<br>fromage rapé 100g
+<br>chèvre frais 80g
+<br>fromage frais 120g
+
+
+<br>Viandes
+
+<br>escalope de poulet : 4
+<br>escalope milanaise 4
+
+
+<br>tanches de pain de campagne 4
+<br><br>
 <br><a data-href="Omelette aux pommes de terre et lardons" href="/recettes/omelette-aux-pommes-de-terre-et-lardons.html" class="internal-link" target="_self" rel="noopener">Omelette aux pommes de terre et lardons</a>
 <br><a data-href="Tresse feuilletée au boursin, poireau et truite fumée" href="/recettes/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.html" class="internal-link" target="_self" rel="noopener">Tresse feuilletée au boursin, poireau et truite fumée</a>
 <br><a data-href="Nouilles sautées aux crevettes" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a>
@@ -54,160 +113,7 @@
 <br>Chorizo : 1
 
 
-<br><br>
-<br><a data-href="Quiche chèvre épinards" href="/recettes/quiche-chèvre-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche chèvre épinards</a>
-<br><a data-href="Chèvre chaud au jambon &amp; salade" href="/recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Chèvre chaud au jambon &amp; salade</a>
-<br><a data-href="Haricots verts à la carbonara" href="/recettes/haricots-verts-à-la-carbonara.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la carbonara</a>
-<br><a data-href="Poêlée de pommes de terre &amp; saucisse fumée" href="/recettes/poêlée-de-pommes-de-terre-&amp;-saucisse-fumée.html" class="internal-link" target="_self" rel="noopener">Poêlée de pommes de terre &amp; saucisse fumée</a>
-<br><a data-href="Feuilletés épinard, feta &amp; salade" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a>
-<br><a data-href="Pasta al tonno" href="/recettes/pasta-al-tonno.html" class="internal-link" target="_self" rel="noopener">Pasta al tonno</a>
-<br><br>
-<br>Produits frais
-
-<br><a data-tooltip-position="top" aria-label="app://obsidian.md/P%C3%A2te%20bris%C3%A9e" rel="noopener" class="external-link" href="/Pâte brisée" target="_blank">Pâte brisée</a>&nbsp;: 1
-<br>Jambon : 8 tranches
-<br>Lardons : 200g
-<br>Saucisses fumées : 4
-<br>Pâte feuilletée : 1
-
-
-<br>Produits secs et conserves
-
-<br>Oeufs : 7
-<br>Herbes de Provence
-<br>Pain de mie : 8 tranches
-<br>Haricots verts : 800g
-<br>Thym
-<br>Épinards : 300g
-<br>Thon : 240g
-<br>Pâtes : 400g
-<br>Tomates séchées : 160g
-
-
-<br>Produits laitiers
-
-<br>Crème fraîche : 50cl
-<br>Fromage de chèvre : 200g
-<br>Fromage de chèvre : 200g
-<br>Parmesan râpé : 150g
-<br>Beurre : 10g
-<br>Feta : 160g
-
-
-<br>Fruits et légumes
-
-<br>Épinards : 400g
-<br>Salade : 8 poignées
-<br>Gousse d'ail : 5
-<br>Pommes de terre : 8
-<br>Échalotes : 2
-<br>Oignon : 1
-<br>Salade : 500g
-
-
-<br><br><br>
-<br><a data-href="Frittata courgette, jambon &amp; mozza" href="/recettes/frittata-courgette,-jambon-&amp;-mozza.html" class="internal-link" target="_self" rel="noopener">Frittata courgette, jambon &amp; mozza</a>
-<br><a data-href="Poulet au curry" href="/recettes/poulet-au-curry.html" class="internal-link" target="_self" rel="noopener">Poulet au curry</a>
-<br><a data-href="Velouté d'endives au lard" href="/recettes/velouté-d'endives-au-lard.html" class="internal-link" target="_self" rel="noopener">Velouté d'endives au lard</a>
-<br><a data-href="Riz au chorizo" href="/recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Riz au chorizo</a>
-<br><a data-href="Ravioli ricotta épinards à la crème d'ail et poireau" href="/recettes/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.html" class="internal-link" target="_self" rel="noopener">Ravioli ricotta épinards à la crème d'ail et poireau</a>
-<br><br>
-<br>Produits secs et conserves
-
-<br>Oeufs : 8
-<br>Lait de coco : 12cl
-<br>Jus de citron
-<br>Riz : 1kg
-<br>Olives vertes : 200g
-<br>Épinards branche : 300g
-
-
-<br>Produits laitiers
-
-<br>Mozzarella : 125g
-<br>Crème fraîche : 50cl
-
-
-<br>Légumes et fruits
-
-<br>Courgette : 1
-<br>Endives : 1kg
-<br>Poivrons : 2
-<br>Poireaux : 2
-
-
-<br>Produits frais
-
-<br>Jambon : 2 tranches
-<br>Lard : 8 tranches
-<br>Chorizo : 1
-<br>Raviolis : 500g
-
-
-<br>Surgelés
-
-<br>Escalopes de poulet : 4
-
-
-<br><br><br>
-<br><a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
-<br><a data-href="Poulet à la sauce aux champignons" href="/recettes/poulet-à-la-sauce-aux-champignons.html" class="internal-link" target="_self" rel="noopener">Poulet à la sauce aux champignons</a>
-<br><a data-href="Endives en pochon" href="/recettes/endives-en-pochon.html" class="internal-link" target="_self" rel="noopener">Endives en pochon</a>
-<br><a data-href="One pot curry de pommes de terre" href="/recettes/one-pot-curry-de-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener">One pot curry de pommes de terre</a>
-<br><a data-href="Poulet au sésame" href="/recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener">Poulet au sésame</a>
-<br><a data-href="Brochettes dinde, haricots &amp; semoule" href="/recettes/brochettes-dinde,-haricots-&amp;-semoule.html" class="internal-link" target="_self" rel="noopener">Brochettes dinde, haricots &amp; semoule</a>
-<br><br>
-<br>Fruits et légumes
-
-<br>Oignon : 5
-<br>Céleri : 10cl
-<br>Carotte : 4
-<br>Endives : 8
-<br>Gousses d'ail : 6
-<br>Graines de sésame
-<br>Pommes de terre : 800g
-<br>Brocoli : 320g
-
-
-<br>Viandes
-
-<br>Viande hachée : 800g
-<br>Filets de poulet : 8
-<br>Escalopes de dinde : 4
-
-
-<br>Produits secs et conserves
-
-<br>Coulis de tomate : 700g
-<br>Haricots verts : 800g
-<br>Champignons de Paris : 200g
-<br>pâtes : 400g
-<br>sauce tomate : 50cl
-<br>oeufs : 2
-<br>Lait de coco : 200ml
-<br>Concentré de tomate : 4cc
-<br>Pois chiches : 200g
-<br>Curry
-<br>Sauce soja : 10cl
-<br>Riz : 280g
-<br>Haricots verts : 600g
-<br>Semoule 240g
-
-
-<br>Produits frais
-
-<br>Jambon blanc : 300g
-<br>gruyère râpé : 45g
-
-
-<br>Produits laitiers
-
-<br>Yaourt grec : 20cl
-
-
-<br>Vin blanc sec : 20cl
-<br>Paprika
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 12 Apr 2024 15:51:33 GMT</pubDate></item><item><title><![CDATA[Nuggets de poulet]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Wed, 17 Apr 2024 13:15:28 GMT</pubDate></item><item><title><![CDATA[Nuggets de poulet]]></title><description><![CDATA[ 
  <br><br><img alt="Nuggets de poulet.webp" src="/recettes/images/nuggets-de-poulet.webp"><br><br><br>
 <br>Escalopes de poulet : 4
 <br>Blancs d'oeuf : 4
@@ -234,11 +140,7 @@
 <br>Une fois bien dorés, ajoutez le curry en poudre. Faite revenir 2 minutes supplémentaires à feu moyen.
 <br>Versez le lait de coco. Couvrez et laissez cuire 5 minutes.
 <br>Servez le curry avec le riz. Option : ajoutez de la coriandre fraîche. C'est prêt !
-]]></description><link>recettes/poulet-au-curry.html</link><guid isPermaLink="false">recettes/Poulet au curry.md</guid><pubDate>Mon, 08 Apr 2024 11:31:41 GMT</pubDate><enclosure url="recettes/images/poulet-au-curry.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-au-curry.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Reims 2024]]></title><description><![CDATA[ 
- <br>
-<br><a data-href="Flammeküeche" href="/recettes/flammeküeche.html" class="internal-link" target="_self" rel="noopener">Flammeküeche</a>
-<br><a data-href="Feuilletés épinard, feta &amp; salade" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a>
-]]></description><link>reims-2024.html</link><guid isPermaLink="false">Reims 2024.md</guid><pubDate>Thu, 04 Apr 2024 15:30:54 GMT</pubDate></item><item><title><![CDATA[Livre de recettes]]></title><description><![CDATA[ 
+]]></description><link>recettes/poulet-au-curry.html</link><guid isPermaLink="false">recettes/Poulet au curry.md</guid><pubDate>Mon, 08 Apr 2024 11:31:41 GMT</pubDate><enclosure url="recettes/images/poulet-au-curry.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-au-curry.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Livre de recettes]]></title><description><![CDATA[ 
  <br><br><br>Salut ! Moi, c'est Antoine.
  <img style="margin: 20px; float: right; width: 100px; max-width: 100%;" height="100" alt="profile picture" src="/photo.webp" referrerpolicy="no-referrer">J'ai mis en ligne ce site web pour partager mon livre de recettes. Il s'agit de toutes les recettes que j'essaie et que je sauvegarde pour ne jamais manquer d'idée !<br><br>Plus de 140 recettes sont disponibles ! N'hésitez pas à me faire part de vos retours ou de vos astuces pour les améliorer.
 <br><a data-href="Menu de la semaine" href="/menu-de-la-semaine.html" class="internal-link" target="_self" rel="noopener">Menu de la semaine</a><br><a data-href="Reims 2024" href="/reims-2024.html" class="internal-link" target="_self" rel="noopener">Reims 2024</a><br><br><br><br><br><br><br>Vous pouvez retrouver le repository de ce livre sur GitHub : <a rel="noopener" class="external-link" href="https://github.com/antoinelabard/Cookbook" target="_blank">https://github.com/antoinelabard/Cookbook</a>. Si vous avez des suggestions d'améliorations des recettes, vous pouvez me contacter ou utiliser GitHub si vous le maîtrisez.<br>❤️ Merci aux contributeurs du projet :<br>
