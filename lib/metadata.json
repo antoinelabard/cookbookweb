@@ -1,6 +1,6 @@
 {
   "vaultName": "cookbook",
-  "lastExport": 1713451137250,
+  "lastExport": 1714211117434,
   "pluginVersion": "1.8.0",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -1442,8 +1442,8 @@
       ]
     },
     "recettes/Chakchouka feta & pois chiches.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 1116,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 1131,
       "exportedPath": "recettes/chakchouka-feta-&-pois-chiches.html",
       "dependencies": [
         "recettes/images/chakchouka-feta-&-pois-chiches.webp"
@@ -1466,8 +1466,8 @@
       ]
     },
     "recettes/Club sandwich au thon.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 1000,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 1008,
       "exportedPath": "recettes/club-sandwich-au-thon.html",
       "dependencies": [
         "recettes/images/club-sandwich-au-thon.webp"
@@ -1522,7 +1522,7 @@
       ]
     },
     "recettes/Croque-monsieur à l'italienne.md": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 1070,
       "exportedPath": "recettes/croque-monsieur-à-l'italienne.html",
       "dependencies": [
@@ -1538,8 +1538,8 @@
       ]
     },
     "recettes/Endives en pochon.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 1212,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 1235,
       "exportedPath": "recettes/endives-en-pochon.html",
       "dependencies": [
         "recettes/images/endives-en-pochon.webp"
@@ -1570,8 +1570,8 @@
       ]
     },
     "recettes/Feuilletés épinard, feta & salade.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 1236,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 1267,
       "exportedPath": "recettes/feuilletés-épinard,-feta-&-salade.html",
       "dependencies": [
         "recettes/images/feuilletés-épinard,-feta-&-salade.webp"
@@ -1598,16 +1598,16 @@
       ]
     },
     "recettes/Frittata courgette, jambon & mozza.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 1077,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 1100,
       "exportedPath": "recettes/frittata-courgette,-jambon-&-mozza.html",
       "dependencies": [
         "recettes/images/frittata-courgette,-jambon-&-mozza.webp"
       ]
     },
     "recettes/Frittata saumon fumé & chèvre frais.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 1214,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 1245,
       "exportedPath": "recettes/frittata-saumon-fumé-&-chèvre-frais.html",
       "dependencies": [
         "recettes/images/frittata-saumon-fumé-&-chèvre-frais.webp"
@@ -1671,32 +1671,32 @@
       ]
     },
     "recettes/Gratin de haricots verts aux champignons.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 1345,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 1343,
       "exportedPath": "recettes/gratin-de-haricots-verts-aux-champignons.html",
       "dependencies": [
         "recettes/images/gratin-de-haricots-verts-aux-champignons.webp"
       ]
     },
     "recettes/Gratin de lieu noir à la sauce tomate.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 993,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 989,
       "exportedPath": "recettes/gratin-de-lieu-noir-à-la-sauce-tomate.html",
       "dependencies": [
         "recettes/images/gratin-de-lieu-noir-à-la-sauce-tomate.webp"
       ]
     },
     "recettes/Gratin de purées de carotte et pomme de terre.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 1312,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 1297,
       "exportedPath": "recettes/gratin-de-purées-de-carotte-et-pomme-de-terre.html",
       "dependencies": [
         "recettes/images/gratin-de-purées-de-carotte-et-pomme-de-terre.webp"
       ]
     },
     "recettes/Gratin de ravioles à la ratatouille.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 886,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 890,
       "exportedPath": "recettes/gratin-de-ravioles-à-la-ratatouille.html",
       "dependencies": [
         "recettes/images/gratin-de-ravioles-à-la-ratatouille.webp"
@@ -1719,25 +1719,24 @@
       ]
     },
     "recettes/Hachis Parmentier.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 1086,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 1101,
       "exportedPath": "recettes/hachis-parmentier.html",
       "dependencies": [
-        "recettes/images/hachis-parmentier.webp",
-        "recettes/images/purée-de-pommes-de-terre-façon-goblot.webp"
+        "recettes/images/hachis-parmentier.webp"
       ]
     },
     "recettes/Hamburger maison.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 917,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 932,
       "exportedPath": "recettes/hamburger-maison.html",
       "dependencies": [
         "recettes/images/hamburger-maison.webp"
       ]
     },
     "recettes/Haricots rouges à la Mexicaine.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 1124,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 1139,
       "exportedPath": "recettes/haricots-rouges-à-la-mexicaine.html",
       "dependencies": [
         "recettes/images/haricots-rouges-à-la-mexicaine.webp"
@@ -1777,8 +1776,8 @@
       ]
     },
     "recettes/Kebab.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 1647,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 1662,
       "exportedPath": "recettes/kebab.html",
       "dependencies": [
         "recettes/images/kebab.webp"
@@ -1793,16 +1792,16 @@
       ]
     },
     "recettes/Mafé de poulet & riz.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 1296,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 1311,
       "exportedPath": "recettes/mafé-de-poulet-&-riz.html",
       "dependencies": [
         "recettes/images/mafé-de-poulet-&-riz.webp"
       ]
     },
     "recettes/Mexican bowl.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 1126,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 1142,
       "exportedPath": "recettes/mexican-bowl.html",
       "dependencies": [
         "recettes/images/mexican-bowl.webp"
@@ -2074,12 +2073,11 @@
       ]
     },
     "recettes/Quiche à l'oignon et aux lardons fumés.md": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 1015,
       "exportedPath": "recettes/quiche-à-l'oignon-et-aux-lardons-fumés.html",
       "dependencies": [
-        "recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp",
-        "recettes/images/pâte-brisée.webp"
+        "recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp"
       ]
     },
     "recettes/Quiche artichaut & parma.md": {
@@ -2410,12 +2408,11 @@
       ]
     },
     "recettes/Toasts à l'avocat et oeufs mollets.md": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 704,
       "exportedPath": "recettes/toasts-à-l'avocat-et-oeufs-mollets.html",
       "dependencies": [
-        "recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp",
-        "recettes/images/oeufs-mollets.webp"
+        "recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp"
       ]
     },
     "recettes/Tomates farcies au chèvre chaud.md": {
@@ -2475,8 +2472,8 @@
       ]
     },
     "Menu de la semaine.md": {
-      "modifiedTime": 1713451137250,
-      "sourceSize": 2682,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 3085,
       "exportedPath": "menu-de-la-semaine.html",
       "dependencies": []
     },
@@ -2541,7 +2538,7 @@
       "dependencies": []
     },
     "recettes/images/chakchouka-feta-&-pois-chiches.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 231588,
       "exportedPath": "recettes/images/chakchouka-feta-&-pois-chiches.webp",
       "dependencies": []
@@ -2559,7 +2556,7 @@
       "dependencies": []
     },
     "recettes/images/club-sandwich-au-thon.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 34560,
       "exportedPath": "recettes/images/club-sandwich-au-thon.webp",
       "dependencies": []
@@ -2601,7 +2598,7 @@
       "dependencies": []
     },
     "recettes/images/croque-monsieur-à-l'italienne.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 168292,
       "exportedPath": "recettes/images/croque-monsieur-à-l'italienne.webp",
       "dependencies": []
@@ -2613,7 +2610,7 @@
       "dependencies": []
     },
     "recettes/images/endives-en-pochon.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 343202,
       "exportedPath": "recettes/images/endives-en-pochon.webp",
       "dependencies": []
@@ -2637,7 +2634,7 @@
       "dependencies": []
     },
     "recettes/images/feuilletés-épinard,-feta-&-salade.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 92626,
       "exportedPath": "recettes/images/feuilletés-épinard,-feta-&-salade.webp",
       "dependencies": []
@@ -2673,13 +2670,13 @@
       "dependencies": []
     },
     "recettes/images/frittata-courgette,-jambon-&-mozza.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 96082,
       "exportedPath": "recettes/images/frittata-courgette,-jambon-&-mozza.webp",
       "dependencies": []
     },
     "recettes/images/frittata-saumon-fumé-&-chèvre-frais.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 107082,
       "exportedPath": "recettes/images/frittata-saumon-fumé-&-chèvre-frais.webp",
       "dependencies": []
@@ -2733,25 +2730,25 @@
       "dependencies": []
     },
     "recettes/images/gratin-de-haricots-verts-aux-champignons.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 26588,
       "exportedPath": "recettes/images/gratin-de-haricots-verts-aux-champignons.webp",
       "dependencies": []
     },
     "recettes/images/gratin-de-lieu-noir-à-la-sauce-tomate.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 28426,
       "exportedPath": "recettes/images/gratin-de-lieu-noir-à-la-sauce-tomate.webp",
       "dependencies": []
     },
     "recettes/images/gratin-de-purées-de-carotte-et-pomme-de-terre.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 73974,
       "exportedPath": "recettes/images/gratin-de-purées-de-carotte-et-pomme-de-terre.webp",
       "dependencies": []
     },
     "recettes/images/gratin-de-ravioles-à-la-ratatouille.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 95868,
       "exportedPath": "recettes/images/gratin-de-ravioles-à-la-ratatouille.webp",
       "dependencies": []
@@ -2769,7 +2766,7 @@
       "dependencies": []
     },
     "recettes/images/hachis-parmentier.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 106678,
       "exportedPath": "recettes/images/hachis-parmentier.webp",
       "dependencies": []
@@ -2781,13 +2778,13 @@
       "dependencies": []
     },
     "recettes/images/hamburger-maison.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 116856,
       "exportedPath": "recettes/images/hamburger-maison.webp",
       "dependencies": []
     },
     "recettes/images/haricots-rouges-à-la-mexicaine.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 30796,
       "exportedPath": "recettes/images/haricots-rouges-à-la-mexicaine.webp",
       "dependencies": []
@@ -2811,7 +2808,7 @@
       "dependencies": []
     },
     "recettes/images/kebab.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 57294,
       "exportedPath": "recettes/images/kebab.webp",
       "dependencies": []
@@ -2823,13 +2820,13 @@
       "dependencies": []
     },
     "recettes/images/mafé-de-poulet-&-riz.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 75698,
       "exportedPath": "recettes/images/mafé-de-poulet-&-riz.webp",
       "dependencies": []
     },
     "recettes/images/mexican-bowl.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 94120,
       "exportedPath": "recettes/images/mexican-bowl.webp",
       "dependencies": []
@@ -3021,7 +3018,7 @@
       "dependencies": []
     },
     "recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 167528,
       "exportedPath": "recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp",
       "dependencies": []
@@ -3267,7 +3264,7 @@
       "dependencies": []
     },
     "recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp": {
-      "modifiedTime": 1709321860465,
+      "modifiedTime": 1714211117434,
       "sourceSize": 120928,
       "exportedPath": "recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp",
       "dependencies": []
@@ -3309,169 +3306,169 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 117764,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1713451137250,
-      "sourceSize": 12653,
+      "modifiedTime": 1714211117434,
+      "sourceSize": 12832,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 134730,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 343,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1713451137250,
+      "modifiedTime": 1714211117434,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []

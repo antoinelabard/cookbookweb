@@ -1,5 +1,323 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 18 Apr 2024 14:38:58 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 18 Apr 2024 14:38:57 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
- <br><br><br>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 27 Apr 2024 09:45:21 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 27 Apr 2024 09:45:17 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Chakchouka feta &amp; pois chiches]]></title><description><![CDATA[ 
+ <br><br><img alt="Chakchouka feta &amp; pois chiches.webp" src="/recettes/images/chakchouka-feta-&amp;-pois-chiches.webp"><br><br><br>
+<br>Oeufs : 8
+<br>Poids chiches : 400g
+<br>Sauce tomate : 600g
+<br>Feta : 160g
+<br>Oignon : 1
+<br><br>
+<br>Épluchez l'oignon et émincez-le grossièrement. Dans une poêle à feu vif, versez un filet d'huile et ajoutez l'oignon. Faites cuire 2 minutes en remuant.
+<br>Versez les pois chiches dans la poêle. Salez, poivrez et laissez cuire à feu vif 3 minutes en remuant régulièrement.
+<br>Versez la purée de tomate dans la poêle et mélangez.
+<br>Formez des puits et cassez-y les œufs. Faites cuire les œufs 3 minutes à feu moyen, puis couvrez la poêle et laissez cuire à nouveau 3 minutes.
+<br>Hors du feu, ajoutez la feta émiettée, quelques tranches d'oignon s'il vous en reste, et quelques herbes fraîches si vous en avez. Dégustez avec du pain. C'est prêt !
+]]></description><link>recettes/chakchouka-feta-&amp;-pois-chiches.html</link><guid isPermaLink="false">recettes/Chakchouka feta &amp; pois chiches.md</guid><pubDate>Wed, 24 Apr 2024 17:48:45 GMT</pubDate><enclosure url="recettes/images/chakchouka-feta-&amp;-pois-chiches.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/chakchouka-feta-&amp;-pois-chiches.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Club sandwich au thon]]></title><description><![CDATA[ 
+ <br><br><img alt="Club sandwich au thon.webp" src="/recettes/images/club-sandwich-au-thon.webp"><br><br><br>
+<br>Pain de mie : 16 tranches
+<br>Câpres : 100g
+<br>Wasabi : 10g
+<br>Jus de citron
+<br>Thon : 500g
+<br>Mayonnaise : 24cl
+<br>Concombre : 1
+<br>Salade : 1
+<br>Oignons nouveaux : 4
+<br>tomates : 2
+<br><br>
+<br>Faire griller le pain de mie.
+<br>Dans un bol, mettre ensemble le thon, l'oignon débité en petits cubes, la mayonnaise, la wasabi, les câpres et le jus de citron. Mélanger à la fourchette. Rectifier l'assaisonnement.
+<br>Découper la salade en fines lanières et l'arroser de jus de citron.
+<br>Dresser le sandwich en disposant une tranche de pain de mie, la préparation au thon, la salade, le concombre, la préparation au thon et une tranche de pain de mie.
+]]></description><link>recettes/club-sandwich-au-thon.html</link><guid isPermaLink="false">recettes/Club sandwich au thon.md</guid><pubDate>Wed, 24 Apr 2024 17:50:43 GMT</pubDate><enclosure url="recettes/images/club-sandwich-au-thon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/club-sandwich-au-thon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Croque-monsieur à l'italienne]]></title><description><![CDATA[ 
+ <br><br><img alt="Croque-monsieur à l'italienne.webp" src="/recettes/images/croque-monsieur-à-l'italienne.webp"><br><br><br>
+<br>Tranches de pain de mie : 16
+<br>Tomate : 1
+<br>Parmesan
+<br>Basilic
+<br>Huile d'olive
+<br>Tranches de jambon blanc ou jambon sec : 8
+<br>Mozzarella : 1
+<br><br>
+<br>Prenez 2 tranches de pain de mie. À l'aide d'un pinceau, badigeonnez-les d'un peu d'huile d'olive.
+<br>Sur une des tranches, posez 2 rondelles de tomate (épépinez), 2 rondelles de mozzarella, 1/2 tranche de jambon, 2 feuilles de basilic et enfin un peu de gruyère ou de parmesan.
+<br>Recouvrez avec l'autre tranche de pain de mie. Parsemez le dessus avec un peu de gruyère râpé ou de parmesan.
+<br>Refaites la même chose pour le reste du pain de mie.
+<br>Enfournez 15 min à four chaud (210°C/th 7), jusqu'à ce que ce soit bien doré.
+]]></description><link>recettes/croque-monsieur-à-l'italienne.html</link><guid isPermaLink="false">recettes/Croque-monsieur à l'italienne.md</guid><pubDate>Wed, 24 Apr 2024 17:52:46 GMT</pubDate><enclosure url="recettes/images/croque-monsieur-à-l'italienne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/croque-monsieur-à-l'italienne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Endives en pochon]]></title><description><![CDATA[ 
+ <br><br><img alt="Endives en pochon.webp" src="/recettes/images/endives-en-pochon.webp"><br><br><br>
+<br>Endives : 8
+<br>Jus de citron
+<br>Persil
+<br>Oignon : 1
+<br>Gousses d'ail : 6
+<br>Jambon blanc : 300g
+<br>sauce tomate : 50cl
+<br>oeufs : 2
+<br>gruyère râpé : 45g
+<br><br>
+<br>Retirer les feuilles extérieures des endives.
+<br>Les faire braiser avec le jus de citron pendant 20 minutes dans une cocote antiadhésive ou recouverte d'une feuille de cuisson.
+<br>Pendant ce temps, préparer le pochon : Laver le persil, éplucher l'oignon et l'ail, hacher le jambon, le persil, l'oignon et l'ail.
+<br>Faire revenir doucement ce hachis dans une poêle recouverte d'une feuille de cuisson.
+<br>Ajouter la sauce tomate, puis laisser mijoter en 10 minutes.
+<br>Casser les œufs sur ce pochon. Mélanger le tout en brouillade et laisser cuire 5 minutes en remuant.
+<br>Allumer le four en position gril.
+<br>Égoutter les endives. Les disposer dans un plat à gratin. Recouvrir du pochon. Parsemer de gruyère râpé.
+<br>Faire gratiner 15 minutes sous le gril du four.
+]]></description><link>recettes/endives-en-pochon.html</link><guid isPermaLink="false">recettes/Endives en pochon.md</guid><pubDate>Wed, 24 Apr 2024 17:53:47 GMT</pubDate><enclosure url="recettes/images/endives-en-pochon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/endives-en-pochon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Feuilletés épinard, feta &amp; salade]]></title><description><![CDATA[ 
+ <br><br><img alt="Feuilletés épinard, feta &amp; salade.webp" src="/recettes/images/feuilletés-épinard,-feta-&amp;-salade.webp"><br><br><br>
+<br>Pâte feuilletée : 1
+<br>Feta : 160g
+<br>Épinards : 300g
+<br>Gousse d'ail : 1
+<br>Salade : 500g
+<br>Oeufs : 2
+<br><br>
+<br>Préchauffez le four à 200°C. Décongelez les épinards selon les instructions du paquet puis égouttez-les bien.
+<br>Préparez la farce, dans un bol, ajoutez les épinards, la gousse d'ail émincée, la feta émiettée et les œufs. Salez et poivrez puis mélangez le tout à la fourchette.
+<br>Étalez votre pâte feuilletée sur une plaque allant au four puis découpez-la en 4.
+<br>Au centre de chaque morceau de pâte, ajoutez la farce. Repliez chaque bord de la pâte de façon à obtenir un triangle. Appuyez bien sur les bords pour souder la pâte.
+<br>Badigeonnez les feuilletées avec un jaune d'œuf s'il vous en reste et enfournez pour 20 minutes de cuisson à 200°C.
+<br>Servez avec une salade verte assaisonnée selon vos goûts. C'est prêt !
+]]></description><link>recettes/feuilletés-épinard,-feta-&amp;-salade.html</link><guid isPermaLink="false">recettes/Feuilletés épinard, feta &amp; salade.md</guid><pubDate>Wed, 24 Apr 2024 17:54:46 GMT</pubDate><enclosure url="recettes/images/feuilletés-épinard,-feta-&amp;-salade.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/feuilletés-épinard,-feta-&amp;-salade.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Frittata courgette, jambon &amp; mozza]]></title><description><![CDATA[ 
+ <br><br><img alt="Frittata courgette, jambon &amp; mozza.webp" src="/recettes/images/frittata-courgette,-jambon-&amp;-mozza.webp"><br><br><br>
+<br>Oeufs : 8
+<br>Mozzarella : 125g
+<br>Courgette : 1
+<br>Jambon : 2 tranches
+<br><br>
+<br>Préchauffez le four à 180°C. Lavez puis coupez les courgettes en fines lamelles.
+<br>Cassez les œufs dans un saladier, salez et poivrez, puis battez-les avec une fourchette ou un fouet.
+<br>Déposez une feuille de papier cuisson dans le fond d'un moule.
+<br>Ajoutez les lamelles de courgettes et le jambon déchiré en morceaux.
+<br>Recouvrez le tout avec les œufs battus.
+<br>Ajoutez la mozzarella déchirée en morceaux par-dessus. Salez et poivrez puis enfournez pendant 15 à 20 minutes à 180°C.
+<br>Sortez la frittata du four puis démoulez-la. Vous pouvez l'accompagner d'une salade verte si vous le souhaitez, c'est prêt !
+]]></description><link>recettes/frittata-courgette,-jambon-&amp;-mozza.html</link><guid isPermaLink="false">recettes/Frittata courgette, jambon &amp; mozza.md</guid><pubDate>Wed, 24 Apr 2024 17:56:32 GMT</pubDate><enclosure url="recettes/images/frittata-courgette,-jambon-&amp;-mozza.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/frittata-courgette,-jambon-&amp;-mozza.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Frittata saumon fumé &amp; chèvre frais]]></title><description><![CDATA[ 
+ <br><br><img alt="Frittata saumon fumé &amp; chèvre frais.webp" src="/recettes/images/frittata-saumon-fumé-&amp;-chèvre-frais.webp"><br><br><br>
+<br>Oeufs : 8
+<br>Chèvre frais : 200g
+<br>Saumon : 2 tranches
+<br>Épinards : 2 poignées
+<br>Échalote : 1
+<br>Aneth
+<br><br>
+<br>Préchauffez le four à 180°C. Épluchez puis coupez l'échalote en lamelles.
+<br>Cassez les œufs dans un saladier, salez et poivrez, puis battez-les avec une fourchette ou un fouet.
+<br>Déposez une feuille de papier cuisson dans le fond d'un moule, beurrez ou huilez-le à l'aide d'un pinceau.
+<br>Ajoutez les pousses d'épinards et le chèvre frais coupé en morceaux puis les échalotes et recouvrez le tout avec les œufs battus.
+<br>Disposez par-dessus des morceaux de saumon fumé, salez et poivrez. Enfournez pendant 15 à 20 minutes à 180°C.
+<br>Sortez la frittata du four puis démoulez-la. Ajoutez des brins d'aneth si vous en avez. Vous pouvez l'accompagner d'une salade verte si vous le souhaitez, c'est prêt !
+]]></description><link>recettes/frittata-saumon-fumé-&amp;-chèvre-frais.html</link><guid isPermaLink="false">recettes/Frittata saumon fumé &amp; chèvre frais.md</guid><pubDate>Wed, 24 Apr 2024 17:56:58 GMT</pubDate><enclosure url="recettes/images/frittata-saumon-fumé-&amp;-chèvre-frais.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/frittata-saumon-fumé-&amp;-chèvre-frais.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin de haricots verts aux champignons]]></title><description><![CDATA[ 
+ <br><br><img alt="Gratin de haricots verts aux champignons.webp" src="/recettes/images/gratin-de-haricots-verts-aux-champignons.webp"><br><br><br>
+<br>Champignons : 250g
+<br>Gruyère râpé : 80g
+<br>Jus de citron
+<br>Eau : 25cl
+<br>Crème fraîche : 100g
+<br>Beurre : 40g
+<br>Farine : 20g
+<br>Haricots verts : 600g
+<br>Oeuf : 1
+<br>Muscade
+<br><br>
+<br>Laver, éplucher et émincer les champignons.
+<br>Dans une casserole, porter l'eau, le jus du citron et 20 g de beurre à ébullition. Assaisonner et y faire cuire les champignons pendant 5 min. Égoutter et tamiser le jus de cuisson.
+<br>Dans un saladier, mélanger intimement le beurre avec la farine.
+<br>Faire cuire les haricots verts dans une casserole d'eau bouillante salée pendant 10 min. Rafraîchir sous l'eau froide et égoutter.
+<br>Dans un bol, mélanger le jus de cuisson des champignons et le beurre manié. Ajouter le gruyère râpé, le jaune d'œuf, la crème fraîche, quelques râpures de noix muscade et du poivre.
+<br>Beurrer un plat et y déposer les haricots verts et les champignons. Napper de sauce et faire gratiner au four.
+]]></description><link>recettes/gratin-de-haricots-verts-aux-champignons.html</link><guid isPermaLink="false">recettes/Gratin de haricots verts aux champignons.md</guid><pubDate>Wed, 24 Apr 2024 17:57:45 GMT</pubDate><enclosure url="recettes/images/gratin-de-haricots-verts-aux-champignons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-haricots-verts-aux-champignons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin de lieu noir à la sauce tomate]]></title><description><![CDATA[ 
+ <br><br><img alt="Gratin de lieu noir à la sauce tomate.webp" src="/recettes/images/gratin-de-lieu-noir-à-la-sauce-tomate.webp"><br><br><br>
+<br>Tomates : 5
+<br>Oignons : 2
+<br>Jus de citron
+<br>Gruyère râpé : 50g
+<br>Muscade
+<br>Lieu noir : 400g
+<br><br>
+<br>Coupez les oignons finement. Faites-les revenir dans un fond d'huile.
+<br>Ajoutez les tomates coupées en dés. Laissez cuire 10-15 min à feu doux.
+<br>Ajoutez le citron, le sel et le poivre et remuez.
+<br>Juste avant d'éteindre le feu, ajoutez la muscade en et remuez.
+<br>Dans un plat allant au four, positionnez les filets de lieu noir, recouvrez-les de la sauce tomate, puis du gruyère. Enfournez à 180°C (thermostat 6) pendant 30 min.
+<br>Il ne vous reste plus qu'à savourer.
+]]></description><link>recettes/gratin-de-lieu-noir-à-la-sauce-tomate.html</link><guid isPermaLink="false">recettes/Gratin de lieu noir à la sauce tomate.md</guid><pubDate>Wed, 24 Apr 2024 17:57:59 GMT</pubDate><enclosure url="recettes/images/gratin-de-lieu-noir-à-la-sauce-tomate.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-lieu-noir-à-la-sauce-tomate.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin de purées de carotte et pomme de terre]]></title><description><![CDATA[ 
+ <br><br><img alt="Gratin de purées de carotte et pomme de terre.webp" src="/recettes/images/gratin-de-purées-de-carotte-et-pomme-de-terre.webp"><br><br><br>
+<br>Carottes : 500g
+<br>Pommes de terre : 500g
+<br>Oignons : 2
+<br>Beurre
+<br>Crème fraîche : 10cl
+<br>Gruyère râpé : 50g
+<br>Muscade
+<br>Oeufs : 2
+<br><br>
+<br>Peler les carottes et les pommes de terre, puis les plonger dans l'eau bouillante salée et les laisser cuire au moins 40 min.
+<br>Les égoutter, les couper en morceaux puis les écraser à la fourchette ou passer au presse-purée.
+<br>Peler et hacher les oignons, les faire fondre à la poêle avec un peu de beurre.
+<br>Préchauffer le four à 210°C (thermostat 7).
+<br>Dans un saladier, battre les œufs avec la crème, le gruyère et la noix de muscade. Incorporer ensuite les oignons fondus, le sel et le poivre, puis la purée de carottes/pommes de terre.
+<br>Étaler le tout dans un plat à gratin beurré.
+<br>Saupoudrer de gruyère râpé et de quelques noisettes de beurre. Enfourner à four chaud pendant 10 à 15 min, puis déguster.
+]]></description><link>recettes/gratin-de-purées-de-carotte-et-pomme-de-terre.html</link><guid isPermaLink="false">recettes/Gratin de purées de carotte et pomme de terre.md</guid><pubDate>Wed, 24 Apr 2024 17:58:47 GMT</pubDate><enclosure url="recettes/images/gratin-de-purées-de-carotte-et-pomme-de-terre.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-purées-de-carotte-et-pomme-de-terre.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin de ravioles à la ratatouille]]></title><description><![CDATA[ 
+ <br><br><img alt="Gratin de ravioles à la ratatouille.webp" src="/recettes/images/gratin-de-ravioles-à-la-ratatouille.webp"><br><br><br>
+<br>Ravioles : 480g
+<br><a data-href="Ratatouille" href="/recettes/ratatouille.html" class="internal-link" target="_self" rel="noopener">Ratatouille</a> : 800g
+<br>Crème fraîche : 8cl
+<br>Comté râpé : 100g
+<br><br>
+<br>Préchauffez le four à 220°C. Beurrez un plat à gratin.
+<br>Disposez une première cuillère à soupe de ratatouille et un filet de crème fraîche dans le fond du plat. Ajoutez les ravioles "en plaque".
+<br>Répétez l'opération de manière à obtenir des couches successives.
+<br>Avant d'enfourner, parsemez le dessus de comté râpé.
+<br>Enfournez pendant 15 minutes à 220°C. Sortez du four, servez, c'est prêt !
+]]></description><link>recettes/gratin-de-ravioles-à-la-ratatouille.html</link><guid isPermaLink="false">recettes/Gratin de ravioles à la ratatouille.md</guid><pubDate>Wed, 24 Apr 2024 17:58:58 GMT</pubDate><enclosure url="recettes/images/gratin-de-ravioles-à-la-ratatouille.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-ravioles-à-la-ratatouille.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Hachis Parmentier]]></title><description><![CDATA[ 
+ <br><br><img alt="Hachis Parmentier.webp" src="/recettes/images/hachis-parmentier.webp"><br><br><br>
+<br><a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg
+<br>Farine : 10g
+<br>Herbes de Provence
+<br>Parmesan : 50g
+<br>Beurre : 30g
+<br>Fromage râpé : 50g
+<br>Viande hachée : 800g
+<br>Oignons : 2
+<br>Ail : 2 gousses
+<br><br>
+<br>Purée de pommes de terre façon Goblot<br>
+<br>Hacher l'oignon et l'ail. Les faire revenir dans le beurre jusqu'à ce qu'ils soient tendres.
+<br>Ajouter les tomates coupées en dés, la viande hachée, la farine, du sel, du poivre et les herbes de Provence.
+<br>Quand tout est cuit, couper le feu et ajouter le jaune d'œuf et un peu de parmesan. Bien mélanger.
+<br>Préchauffer le four à 200°C (thermostat 6-7). Étaler au fond du plat à gratin. Étaler la purée au-dessus de la viande. Saupoudrer de fromage râpé et faire gratiner.
+]]></description><link>recettes/hachis-parmentier.html</link><guid isPermaLink="false">recettes/Hachis Parmentier.md</guid><pubDate>Thu, 25 Apr 2024 13:21:20 GMT</pubDate><enclosure url="recettes/images/hachis-parmentier.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/hachis-parmentier.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Hamburger maison]]></title><description><![CDATA[ 
+ <br><br><img alt="Hamburger maison.webp" src="/recettes/images/hamburger-maison.webp"><br><br><br>
+<br>Oignon : 1
+<br>Tomate : 2
+<br>Ketchup
+<br>Pain pour Hamburger : 8
+<br>Viande hachée : 800g
+<br>Cheddar : 300g
+<br>Salade : 1
+<br><br>
+<br>Faites revenir les oignons à feux doux.
+<br>Ajouter les steaks.
+<br>Une fois saisi, poser une tranche de cheddar sur le steak et laisser fondre.
+<br>Une fois cuit, déposer le steak et le fromage sur une des tranches du pain que vous aurez auparavant tartinée d'un mélange de ketchup et de moutarde.
+<br>Ajouter la salade et de petites rondelles de tomates.
+<br>Vous pouvez maintenant recouvrir la préparation de l'autre tranche (avec ketchup et moutarde).
+]]></description><link>recettes/hamburger-maison.html</link><guid isPermaLink="false">recettes/Hamburger maison.md</guid><pubDate>Wed, 24 Apr 2024 18:00:13 GMT</pubDate><enclosure url="recettes/images/hamburger-maison.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/hamburger-maison.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Haricots rouges à la Mexicaine]]></title><description><![CDATA[ 
+ <br><br><img alt="Haricots rouges à la Mexicaine.webp" src="/recettes/images/haricots-rouges-à-la-mexicaine.webp"><br><br><br>
+<br>Haricots rouges : 300g
+<br>Poivron : 1
+<br>Oignon : 1
+<br>Thym
+<br>Huile d'olive
+<br>Blancs de poulet : 4
+<br>Tomates pelées : 500g
+<br><br>
+<br>Couper l'oignon en fines lamelles, ainsi que le poivron (pas besoin de retirer la peau, il suffit seulement de l'épépiner).
+<br>Faire frire ces lamelles de poivron et d'oignon dans une poêle avec l'huile de cuisson pendant environ 5 minutes.
+<br>Ajouter les tomates pelées avec leur jus, ajouter l'origan, le thym, le piment et le sel, mélanger.
+<br>Laisser mijoter 5 minutes. Pendant ce temps, couper les blancs de poulet en gros dés, les saler, puis les incorporer à la sauce.
+<br>Laisser cuire pendant 5 minutes.
+<br>Ajouter les haricots rouges, mélanger délicatement et laisser mijoter à feux doux pendant 10 minutes.
+]]></description><link>recettes/haricots-rouges-à-la-mexicaine.html</link><guid isPermaLink="false">recettes/Haricots rouges à la Mexicaine.md</guid><pubDate>Wed, 24 Apr 2024 18:00:54 GMT</pubDate><enclosure url="recettes/images/haricots-rouges-à-la-mexicaine.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/haricots-rouges-à-la-mexicaine.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Kebab]]></title><description><![CDATA[ 
+ <br><br><img alt="Kebab.webp" src="/recettes/images/kebab.webp"><br><br><br>
+<br>Pains pita ou tortillas : 4
+<br>Escalope de dinde, poulet, veau ou agneau : 1kg
+<br>Sauce blanche : 250g
+<br>Jus de citron
+<br>Tomates : 2
+<br>Salade : 250g
+<br>Oignon : 1
+<br>Ail : 2
+<br>Persil
+<br>Vinaigre
+<br>Paprika
+<br>Curry
+<br>Gingembre moulu
+<br>Herbes de Provence
+<br>Huile d'olive
+<br><br>
+<br>Couper les escalopes en petits morceaux (en dés). Dans un plat creux, verser l’huile d’olive, puis 4 cuillères à soupe de paprika, 2 de gingembre, 4 de curry. Délayer, puis ajouter du sel, du poivre et 2 cuillères à soupe de vinaigre. Pour finir, ajouter 2 ou 3 cuillères à soupe d’herbes de Provence. Mélanger le tout en y ajoutant les morceaux de viande.
+<br>Verser le fromage blanc dans 1 bol. Mélanger avec le jus de citron, 1 ou 2 cuillères à soupe d’ail en poudre, du sel, du poivre et du persil.
+<br>Faire cuire les morceaux de viande à la poêle jusqu'à ce qu'ils dorent un peu.
+<br>Couper les tomates en demi-tranches, les oignons en lamelles et la laitue en morceaux.
+<br>Poser les tortillas à plat ou alors fendre légèrement les pains pita, puis tartiner le fond avec une couche de sauce blanche, puis ajouter les morceaux de laitue, les morceaux de tomates, puis les morceaux d'oignons parsemés. Ajouter la viande cuite sur cela et arroser d'une couche de sauce. Refermer les tortillas avec un cure-dent piqué dans les bords relevés.
+]]></description><link>recettes/kebab.html</link><guid isPermaLink="false">recettes/Kebab.md</guid><pubDate>Wed, 24 Apr 2024 18:01:42 GMT</pubDate><enclosure url="recettes/images/kebab.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/kebab.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Mafé de poulet &amp; riz]]></title><description><![CDATA[ 
+ <br><br><img alt="Mafé de poulet &amp; riz.webp" src="/recettes/images/mafé-de-poulet-&amp;-riz.webp"><br><br><br>
+<br>Filets de poulets : 4
+<br>Tomates : 4
+<br>Beurre de cacahuète : 5cl
+<br>Oignons : 2
+<br>Riz : 280g
+<br>Cube de bouillon de légumes : 1
+<br><br>
+<br>Faites cuire le riz selon les instructions du paquet (soit environ 10 minutes dans de l'eau bouillante salée). Une fois cuit, égouttez-le et réservez.
+<br>Pendant ce temps, épluchez puis émincez les oignons en petits morceaux. Réservez.
+<br>Dans une casserole, faites chauffer un filet d'huile de cuisson puis faites revenir les oignons pendant 3 minutes à feu moyen.
+<br>Coupez le poulet et les tomates en petits morceaux. Réservez.
+<br>Ajoutez ensuite la tomate, mélangez et laissez réduire pendant 5 minutes à feu moyen.
+<br>Ajoutez ensuite de l'eau (10 cl par personne), le bouillon et le beurre de cacahuète puis remuez bien.
+<br>Ajoutez le poulet coupé en morceaux puis laissez cuire environ 10 minutes jusqu'à ce qu'il soit tendre.
+<br>Servez le mafé avec le riz puis ré-assaisonnez selon vos goûts. C'est prêt !
+]]></description><link>recettes/mafé-de-poulet-&amp;-riz.html</link><guid isPermaLink="false">recettes/Mafé de poulet &amp; riz.md</guid><pubDate>Wed, 24 Apr 2024 18:01:55 GMT</pubDate><enclosure url="recettes/images/mafé-de-poulet-&amp;-riz.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/mafé-de-poulet-&amp;-riz.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Mexican bowl]]></title><description><![CDATA[ 
+ <br><br><img alt="Mexican bowl.webp" src="/recettes/images/mexican-bowl.webp"><br><br><br>
+<br>Escalopes de poulet : 4
+<br>Mélange d'épices mexicaines
+<br>Avocat : 1
+<br>Maïs : 240g
+<br>Haricots rouges : 240g
+<br>Riz : 280g
+<br><br>
+<br>Cuire le riz selon les instructions de préparation du paquet.
+<br>Dans une poêle à feu moyen, ajoutez un filet d'huile de cuisson et le poulet.
+<br>Ajoutez les épices mexicaines sur le poulet et faites revenir 4 minutes sur chaque face à feu moyen.
+<br>En fin de cuisson, ajoutez un fond d'eau (2 cuillères à soupe par personne environ) puis laissez la sauce s'épaissir 2 minutes.
+<br>Une fois le riz cuit, égouttez-le et servez-le dans les assiettes.
+<br>Ajoutez le poulet, le maïs égoutté et les haricots rouges égouttés, l'avocat coupé en dés et un filet de sauce.
+<br>Ré-assaisonnez selon vos goûts et ajoutez quelques feuilles de coriandre si vous en avez. C'est prêt !
+]]></description><link>recettes/mexican-bowl.html</link><guid isPermaLink="false">recettes/Mexican bowl.md</guid><pubDate>Thu, 25 Apr 2024 12:40:59 GMT</pubDate><enclosure url="recettes/images/mexican-bowl.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/mexican-bowl.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche à l'oignon et aux lardons fumés]]></title><description><![CDATA[ 
+ <br><br><img alt="Quiche à l'oignon et aux lardons fumés.webp" src="/recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp"><br><br><br>
+<br>Oignons : 1kg
+<br>Crème fraîche : 50cl
+<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br>Oeufs : 2
+<br>Lardons : 75g
+<br>Beurre : 20g
+<br><br>Pâte brisée<br><br>
+<br>Éplucher les oignons et les couper en rondelles.
+<br>Les mettre dans le beurre chaud, et faire cuire sans prendre de couleur (pour ce faire, les mettre à froid dans le beurre qui n'est pas encore fondu); ajouter les lardons, saler et poivrer.
+<br>Foncer un plat à tarte avec la pâte.
+<br>Battre la crème fraîche avec les oeufs dans un saladier, saler et poivrer, puis ajouter les oignons cuits.
+<br>Verser la préparation dans le moule à tarte, mettre au four (thermostat 7/210°C), et faire cuire 30 min.
+]]></description><link>recettes/quiche-à-l'oignon-et-aux-lardons-fumés.html</link><guid isPermaLink="false">recettes/Quiche à l'oignon et aux lardons fumés.md</guid><pubDate>Sat, 27 Apr 2024 09:45:11 GMT</pubDate><enclosure url="recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Toasts à l'avocat et oeufs mollets]]></title><description><![CDATA[ 
+ <br><br><img alt="Toasts à l'avocat et oeufs mollets.webp" src="/recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp"><br><br><br>
+<br><a data-href="Oeufs mollets" href="/recettes/oeufs-mollets.html" class="internal-link" target="_self" rel="noopener">Oeufs mollets</a> : 4
+<br>Tranches de pain de mie : 2
+<br>Avocat : 1
+<br>Ciboulette
+<br><br>
+<br>Oeufs mollets<br>
+<br>Faire griller les toasts.
+<br>Couper l'avocat en tranche.
+<br>Éplucher délicatement les oeufs.
+<br>Déposer sur les toasts l'avocat puis les oeufs.
+<br>Saupoudrer de ciboulette et de poivre.
+<br>Couper les oeufs en deux au dernier moment.
+]]></description><link>recettes/toasts-à-l'avocat-et-oeufs-mollets.html</link><guid isPermaLink="false">recettes/Toasts à l'avocat et oeufs mollets.md</guid><pubDate>Thu, 25 Apr 2024 15:52:01 GMT</pubDate><enclosure url="recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+ <br><br><br><br>
+<br><a data-href="Ravioles à la toscane" href="/recettes/ravioles-à-la-toscane.html" class="internal-link" target="_self" rel="noopener">Ravioles à la toscane</a>
+<br><a data-href="Poulet sauce moutarde" href="/recettes/poulet-sauce-moutarde.html" class="internal-link" target="_self" rel="noopener">Poulet sauce moutarde</a>
+<br><a data-href="Poêlée de pommes de terre &amp; saucisse fumée" href="/recettes/poêlée-de-pommes-de-terre-&amp;-saucisse-fumée.html" class="internal-link" target="_self" rel="noopener">Poêlée de pommes de terre &amp; saucisse fumée</a>
+<br><a data-href="Tacos champignons, poulet &amp; comté" href="/recettes/tacos-champignons,-poulet-&amp;-comté.html" class="internal-link" target="_self" rel="noopener">Tacos champignons, poulet &amp; comté</a>
+<br><a data-href="Gratin de ravioles à la ratatouille" href="/recettes/gratin-de-ravioles-à-la-ratatouille.html" class="internal-link" target="_self" rel="noopener">Gratin de ravioles à la ratatouille</a>
+<br><a data-href="Soupe iranienne" href="/recettes/soupe-iranienne.html" class="internal-link" target="_self" rel="noopener">Soupe iranienne</a>
+<br><a data-href="Quiche à l'oignon et aux lardons fumés" href="/recettes/quiche-à-l'oignon-et-aux-lardons-fumés.html" class="internal-link" target="_self" rel="noopener">Quiche à l'oignon et aux lardons fumés</a>
+<br><br>
+<br><a data-href="Porridge à la banane &amp; cannelle" href="/recettes/porridge-à-la-banane-&amp;-cannelle.html" class="internal-link" target="_self" rel="noopener">Porridge à la banane &amp; cannelle</a>
+<br><a data-href="Granola maison" href="/recettes/granola-maison.html" class="internal-link" target="_self" rel="noopener">Granola maison</a>
+<br><br>
 <br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/wok-legumes-sautes-poulet-et-sauce-cacahuete-8ucq30s6h54y7d4e0kyc?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/wok-legumes-sautes-poulet-et-sauce-cacahuete-8ucq30s6h54y7d4e0kyc?coversCount=4&amp;from=menu</a>
 <br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/cake-epinards-et-feta-8k167xypj32oksb30ic5?coversCount=6&amp;from=menu" target="_blank">https://jow.fr/recipes/cake-epinards-et-feta-8k167xypj32oksb30ic5?coversCount=6&amp;from=menu</a>
 <br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/escalope-milanaise-et-riz-a-la-tomate-8vbq3y1himjk02tc03u8?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/escalope-milanaise-et-riz-a-la-tomate-8vbq3y1himjk02tc03u8?coversCount=4&amp;from=menu</a>
@@ -113,7 +431,7 @@
 <br>Chorizo : 1
 
 
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Wed, 17 Apr 2024 13:15:28 GMT</pubDate></item><item><title><![CDATA[Nuggets de poulet]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Thu, 25 Apr 2024 16:04:00 GMT</pubDate></item><item><title><![CDATA[Nuggets de poulet]]></title><description><![CDATA[ 
  <br><br><img alt="Nuggets de poulet.webp" src="/recettes/images/nuggets-de-poulet.webp"><br><br><br>
 <br>Escalopes de poulet : 4
 <br>Blancs d'oeuf : 4
@@ -643,20 +961,7 @@ L’autre secret : bien séparer les 2 bains de friture en laissant le temps aux
 <br>Verser le reste de la sauce sur les cannelloni, et parsemer le tout de mozzarella.
 <br>Enfourner 35 à 40 min au four à 180°C (th 6), jusqu'à ce que les cannelloni soient dorés, et que la sauce bouillonne.
 <br>Laisser reposer 10 min avant de servir. Bon appétit !
-]]></description><link>recettes/cannelloni-de-viande.html</link><guid isPermaLink="false">recettes/Cannelloni de viande.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/cannelloni-de-viande.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/cannelloni-de-viande.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Chakchouka feta &amp; pois chiches]]></title><description><![CDATA[ 
- <br><br><img alt="Chakchouka feta &amp; pois chiches.webp" src="/recettes/images/chakchouka-feta-&amp;-pois-chiches.webp"><br><br><br>
-<br>Oeufs : 8
-<br>Poids chiches : 400g
-<br>Sauce tomate : 600g
-<br>Feta : 160g
-<br>Oignon : 1
-<br><br>
-<br>Épluchez l'oignon et émincez-le grossièrement. Dans une poêle à feu vif, versez un filet d'huile et ajoutez l'oignon. Faites cuire 2 minutes en remuant.
-<br>Versez les pois chiches dans la poêle. Salez, poivrez et laissez cuire à feu vif 3 minutes en remuant régulièrement.
-<br>Versez la purée de tomate dans la poêle et mélangez.
-<br>Formez des puits et cassez-y les œufs. Faites cuire les œufs 3 minutes à feu moyen, puis couvrez la poêle et laissez cuire à nouveau 3 minutes.
-<br>Hors du feu, ajoutez la feta émiettée, quelques tranches d'oignon s'il vous en reste, et quelques herbes fraîches si vous en avez. Dégustez avec du pain. C'est prêt !
-]]></description><link>recettes/chakchouka-feta-&amp;-pois-chiches.html</link><guid isPermaLink="false">recettes/Chakchouka feta &amp; pois chiches.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/chakchouka-feta-&amp;-pois-chiches.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/chakchouka-feta-&amp;-pois-chiches.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Chèvre chaud au jambon &amp; salade]]></title><description><![CDATA[ 
+]]></description><link>recettes/cannelloni-de-viande.html</link><guid isPermaLink="false">recettes/Cannelloni de viande.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/cannelloni-de-viande.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/cannelloni-de-viande.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Chèvre chaud au jambon &amp; salade]]></title><description><![CDATA[ 
  <br><br><img alt="Chèvre chaud au jambon &amp; salade.webp" src="/recettes/images/chèvre-chaud-au-jambon-&amp;-salade.webp"><br><br><br>
 <br>Salade : 8 poignées
 <br>Fromage de chèvre : 200g
@@ -676,24 +981,7 @@ L’autre secret : bien séparer les 2 bains de friture en laissant le temps aux
 <br>Casser le chocolat en morceau, le mettre dans une casserole y ajouter le lait et les 10 cl de crème liquide.
 <br>Mélanger. Le tout doit chauffer 3 minutes.
 <br>Battre&nbsp;à l'aide d'un batteur électrique le reste de la crème liquide (ce qui donnera de la chantilly).
-]]></description><link>recettes/chocolat-chaud-maison.html</link><guid isPermaLink="false">recettes/Chocolat chaud maison.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/chocolat-chaud-maison.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/chocolat-chaud-maison.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Club sandwich au thon]]></title><description><![CDATA[ 
- <br><br><img alt="Club sandwich au thon.webp" src="/recettes/images/club-sandwich-au-thon.webp"><br><br><br>
-<br>Pain de mie : 16 tranches
-<br>Câpres : 100g
-<br>Wasabi : 10g
-<br>Jus de citron
-<br>Thon : 500g
-<br>Mayonnaise : 24cl
-<br>Concombre : 1
-<br>Salade : 1
-<br>Oignons nouveaux : 4
-<br>tomates : 2
-<br><br>
-<br>Faire griller le pain de mie.
-<br>Dans un bol, mettre ensemble le thon, l'oignon débité en petits cubes, la mayonnaise, la wasabi, les câpres et le jus de citron. Mélanger à la fourchette. Rectifier l'assaisonnement.
-<br>Découper la salade en fines lanières et l'arroser de jus de citron.
-<br>Dresser le sandwich en disposant une tranche de pain de mie, la préparation au thon, la salade, le concombre, la préparation au thon et une tranche de pain de mie.
-]]></description><link>recettes/club-sandwich-au-thon.html</link><guid isPermaLink="false">recettes/Club sandwich au thon.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/club-sandwich-au-thon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/club-sandwich-au-thon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Club sandwich poulet - bacon]]></title><description><![CDATA[ 
+]]></description><link>recettes/chocolat-chaud-maison.html</link><guid isPermaLink="false">recettes/Chocolat chaud maison.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/chocolat-chaud-maison.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/chocolat-chaud-maison.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Club sandwich poulet - bacon]]></title><description><![CDATA[ 
  <br><br><img alt="Club sandwich poulet - bacon.webp" src="/recettes/images/club-sandwich-poulet-bacon.webp"><br><br><br>
 <br>Pain de mie : 16 tranches (6 en salade)
 <br>Tomate : 2
@@ -806,22 +1094,7 @@ L’autre secret : bien séparer les 2 bains de friture en laissant le temps aux
 <br>Dans un bol mélanger le fromage râpé avec le lait, le sel, le poivre et la muscade.
 <br>Répartissez le mélange sur les croque-monsieur.
 <br>Placez sur une plaque au four sous le grill pendant 10 mn.
-]]></description><link>recettes/croque-monsieur.html</link><guid isPermaLink="false">recettes/Croque-monsieur.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/croque-monsieur.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/croque-monsieur.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Croque-monsieur à l'italienne]]></title><description><![CDATA[ 
- <br><br><img alt="Croque-monsieur à l'italienne.webp" src="/recettes/images/croque-monsieur-à-l'italienne.webp"><br><br><br>
-<br>Tranches de pain de mie : 16
-<br>Tomate : 1
-<br>Parmesan
-<br>Basilic
-<br>Huile d'olive
-<br>Tranches de jambon blanc ou jambon sec : 8
-<br>Mozzarella : 1
-<br><br>
-<br>Prenez 2 tranches de pain de mie. À l'aide d'un pinceau, badigeonnez-les d'un peu d'huile d'olive.
-<br>Sur une des tranches, posez 2 rondelles de tomate (épépinez), 2 rondelles de mozzarella, 1/2 tranche de jambon, 2 feuilles de basilic et enfin un peu de gruyère ou de parmesan.
-<br>Recouvrez avec l'autre tranche de pain de mie. Parsemez le dessus avec un peu de gruyère râpé ou de parmesan.
-<br>Refaites la même chose pour le reste du pain de mie.
-<br>Enfournez 15 min à four chaud (210°C/th 7), jusqu'à ce que ce soit bien doré.
-]]></description><link>recettes/croque-monsieur-à-l'italienne.html</link><guid isPermaLink="false">recettes/Croque-monsieur à l'italienne.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/croque-monsieur-à-l'italienne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/croque-monsieur-à-l'italienne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Délicieuse salade de lentilles]]></title><description><![CDATA[ 
+]]></description><link>recettes/croque-monsieur.html</link><guid isPermaLink="false">recettes/Croque-monsieur.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/croque-monsieur.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/croque-monsieur.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Délicieuse salade de lentilles]]></title><description><![CDATA[ 
  <br><br><img alt="Délicieuse salade de lentilles.webp" src="/recettes/images/délicieuse-salade-de-lentilles.webp"><br><br><br>
 <br>Huile de tournesol : 6cl
 <br>Vinaigre balsamique : 5cl
@@ -838,28 +1111,7 @@ L’autre secret : bien séparer les 2 bains de friture en laissant le temps aux
 <br>Faites revenir les allumettes de lardons et les oignons émincés.
 <br>Coupez les tomates en quartier assez fin (plus agréable en bouche) ainsi que la feta en dés.
 <br>Ajoutez les lentilles une fois froide ainsi que les lardons, la feta et les tomates dans votre vinaigrette.
-]]></description><link>recettes/délicieuse-salade-de-lentilles.html</link><guid isPermaLink="false">recettes/Délicieuse salade de lentilles.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/délicieuse-salade-de-lentilles.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/délicieuse-salade-de-lentilles.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Endives en pochon]]></title><description><![CDATA[ 
- <br><br><img alt="Endives en pochon.webp" src="/recettes/images/endives-en-pochon.webp"><br><br><br>
-<br>Endives : 8
-<br>Jus de citron
-<br>Persil
-<br>Oignon : 1
-<br>Gousses d'ail : 6
-<br>Jambon blanc : 300g
-<br>sauce tomate : 50cl
-<br>oeufs : 2
-<br>gruyère râpé : 45g
-<br><br>
-<br>Retirer les feuilles extérieures des endives.
-<br>Les faire braiser avec le jus de citron pendant 20 minutes dans une cocote antiadhésive ou recouverte d'une feuille de cuisson.
-<br>Pendant ce temps, préparer le pochon : Laver le persil, éplucher l'oignon et l'ail, hacher le jambon, le persil, l'oignon et l'ail.
-<br>Faire revenir doucement ce hachis dans une poêle recouverte d'une feuille de cuisson.
-<br>Ajouter la sauce tomate, puis laisser mijoter en 10 minutes.
-<br>Casser les œufs sur ce pochon. Mélanger le tout en brouillade et laisser cuire 5 minutes en remuant.
-<br>Allumer le four en position gril.
-<br>Égoutter les endives. Les disposer dans un plat à gratin. Recouvrir du pochon. Parsemer de gruyère râpé.
-<br>Faire gratiner 15 minutes sous le gril du four.
-]]></description><link>recettes/endives-en-pochon.html</link><guid isPermaLink="false">recettes/Endives en pochon.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/endives-en-pochon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/endives-en-pochon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Escalope de dinde à la normande]]></title><description><![CDATA[ 
+]]></description><link>recettes/délicieuse-salade-de-lentilles.html</link><guid isPermaLink="false">recettes/Délicieuse salade de lentilles.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/délicieuse-salade-de-lentilles.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/délicieuse-salade-de-lentilles.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Escalope de dinde à la normande]]></title><description><![CDATA[ 
  <br><br><img alt="Escalope de dinde à la normande.webp" src="/recettes/images/escalope-de-dinde-à-la-normande.webp"><br><br><br>
 <br><a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 500g
 <br>Champignons de Paris : 400g
@@ -900,22 +1152,7 @@ L’autre secret : bien séparer les 2 bains de friture en laissant le temps aux
 <br>Souder les bords en vous aidant d'une fourchette, pour que&nbsp;la garniture ne s'échappe pas à la cuisson.
 <br>Déposer les triangles sur une plaque de cuisson tapissée de papier cuisson.
 <br>Badigeonner les feuilletés avec le jaune d'œuf puis enfourner pendant 15 minutes.&nbsp;Ils doivent être bien dorés.
-]]></description><link>recettes/feuilletés-au-fromage-ultra-simples.html</link><guid isPermaLink="false">recettes/Feuilletés au fromage ultra simples.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/feuilletés-au-fromage-ultra-simples.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/feuilletés-au-fromage-ultra-simples.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Feuilletés épinard, feta &amp; salade]]></title><description><![CDATA[ 
- <br><br><img alt="Feuilletés épinard, feta &amp; salade.webp" src="/recettes/images/feuilletés-épinard,-feta-&amp;-salade.webp"><br><br><br>
-<br>Pâte feuilletée : 1
-<br>Feta : 160g
-<br>Épinards : 300g
-<br>Gousse d'ail : 1
-<br>Salade : 500g
-<br>Oeufs : 2
-<br><br>
-<br>Préchauffez le four à 200°C. Décongelez les épinards selon les instructions du paquet puis égouttez-les bien.
-<br>Préparez la farce, dans un bol, ajoutez les épinards, la gousse d'ail émincée, la feta émiettée et les œufs. Salez et poivrez puis mélangez le tout à la fourchette.
-<br>Étalez votre pâte feuilletée sur une plaque allant au four puis découpez-la en 4.
-<br>Au centre de chaque morceau de pâte, ajoutez la farce. Repliez chaque bord de la pâte de façon à obtenir un triangle. Appuyez bien sur les bords pour souder la pâte.
-<br>Badigeonnez les feuilletées avec un jaune d'œuf s'il vous en reste et enfournez pour 20 minutes de cuisson à 200°C.
-<br>Servez avec une salade verte assaisonnée selon vos goûts. C'est prêt !
-]]></description><link>recettes/feuilletés-épinard,-feta-&amp;-salade.html</link><guid isPermaLink="false">recettes/Feuilletés épinard, feta &amp; salade.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/feuilletés-épinard,-feta-&amp;-salade.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/feuilletés-épinard,-feta-&amp;-salade.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Flammeküeche]]></title><description><![CDATA[ 
+]]></description><link>recettes/feuilletés-au-fromage-ultra-simples.html</link><guid isPermaLink="false">recettes/Feuilletés au fromage ultra simples.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/feuilletés-au-fromage-ultra-simples.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/feuilletés-au-fromage-ultra-simples.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Flammeküeche]]></title><description><![CDATA[ 
  <br><br><img alt="Flammeküeche.webp" src="/recettes/images/flammeküeche.webp"><br><br><br>
 <br>pâtes à pizza : 2
 <br>Fromage blanc : 20cl
@@ -930,36 +1167,7 @@ L’autre secret : bien séparer les 2 bains de friture en laissant le temps aux
 <br>Étalez le mélange sur la pâte en laissant 1 à 2 cm de bord.
 <br>Répartissez les oignons et lardons, salez, poivrez puis enfournez pour 10-15 minutes.
 <br>Sortez la flammekueche du four et déguster immédiatement. Ajoutez des herbes fraîches si vous le souhaitez. C'est prêt !
-]]></description><link>recettes/flammeküeche.html</link><guid isPermaLink="false">recettes/Flammeküeche.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/flammeküeche.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/flammeküeche.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Frittata courgette, jambon &amp; mozza]]></title><description><![CDATA[ 
- <br><br><img alt="Frittata courgette, jambon &amp; mozza.webp" src="/recettes/images/frittata-courgette,-jambon-&amp;-mozza.webp"><br><br><br>
-<br>Oeufs : 8
-<br>Mozzarella : 125g
-<br>Courgette : 1
-<br>Jambon : 2 tranches
-<br><br>
-<br>Préchauffez le four à 180°C. Lavez puis coupez les courgettes en fines lamelles.
-<br>Cassez les œufs dans un saladier, salez et poivrez, puis battez-les avec une fourchette ou un fouet.
-<br>Déposez une feuille de papier cuisson dans le fond d'un moule.
-<br>Ajoutez les lamelles de courgettes et le jambon déchiré en morceaux.
-<br>Recouvrez le tout avec les œufs battus.
-<br>Ajoutez la mozzarella déchirée en morceaux par-dessus. Salez et poivrez puis enfournez pendant 15 à 20 minutes à 180°C.
-<br>Sortez la frittata du four puis démoulez-la. Vous pouvez l'accompagner d'une salade verte si vous le souhaitez, c'est prêt !
-]]></description><link>recettes/frittata-courgette,-jambon-&amp;-mozza.html</link><guid isPermaLink="false">recettes/Frittata courgette, jambon &amp; mozza.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/frittata-courgette,-jambon-&amp;-mozza.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/frittata-courgette,-jambon-&amp;-mozza.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Frittata saumon fumé &amp; chèvre frais]]></title><description><![CDATA[ 
- <br><br><img alt="Frittata saumon fumé &amp; chèvre frais.webp" src="/recettes/images/frittata-saumon-fumé-&amp;-chèvre-frais.webp"><br><br><br>
-<br>Oeufs : 8
-<br>Chèvre frais : 200g
-<br>Saumon : 2 tranches
-<br>Épinards : 2 poignées
-<br>Échalote : 1
-<br>Aneth
-<br><br>
-<br>Préchauffez le four à 180°C. Épluchez puis coupez l'échalote en lamelles.
-<br>Cassez les œufs dans un saladier, salez et poivrez, puis battez-les avec une fourchette ou un fouet.
-<br>Déposez une feuille de papier cuisson dans le fond d'un moule, beurrez ou huilez-le à l'aide d'un pinceau.
-<br>Ajoutez les pousses d'épinards et le chèvre frais coupé en morceaux puis les échalotes et recouvrez le tout avec les œufs battus.
-<br>Disposez par-dessus des morceaux de saumon fumé, salez et poivrez. Enfournez pendant 15 à 20 minutes à 180°C.
-<br>Sortez la frittata du four puis démoulez-la. Ajoutez des brins d'aneth si vous en avez. Vous pouvez l'accompagner d'une salade verte si vous le souhaitez, c'est prêt !
-]]></description><link>recettes/frittata-saumon-fumé-&amp;-chèvre-frais.html</link><guid isPermaLink="false">recettes/Frittata saumon fumé &amp; chèvre frais.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/frittata-saumon-fumé-&amp;-chèvre-frais.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/frittata-saumon-fumé-&amp;-chèvre-frais.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Galette des rois Frangipane]]></title><description><![CDATA[ 
+]]></description><link>recettes/flammeküeche.html</link><guid isPermaLink="false">recettes/Flammeküeche.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/flammeküeche.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/flammeküeche.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Galette des rois Frangipane]]></title><description><![CDATA[ 
  <br><br><img alt="Galette des rois Frangipane.webp" src="/recettes/images/galette-des-rois-frangipane.webp"><br><br><br>
 <br>Pâtes feuilletées : 2
 <br>Sucre : 75g
@@ -1067,71 +1275,7 @@ Cette recette est inspirée du <a data-href="Gratin de ravioles à la ratatouill
 <br>Sortez le plat immédiatement après l'avoir enfourné pour ajouter la crème fraîche que vous avez oubliée. Ne prenez pas la peine de remélanger le plat en l'incorporant, l'étaler sur le dessus permettra de plus de catalyser ce désastre.
 <br>Enfournez pendant 15 minutes à 220°C.
 <br>En sortant du four, le plat devrait avoir échoué à gratiner. C'est prêt !
-]]></description><link>recettes/gratin-de-crème-fraîche-aux-ravioles-et-légumes-à-couscous.html</link><guid isPermaLink="false">recettes/Gratin de crème fraîche aux ravioles et légumes à couscous.md</guid><pubDate>Thu, 29 Feb 2024 07:09:48 GMT</pubDate><enclosure url="recettes/images/gratin-de-crème-fraîche-aux-ravioles-et-légumes-à-couscous.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-crème-fraîche-aux-ravioles-et-légumes-à-couscous.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin de haricots verts aux champignons]]></title><description><![CDATA[ 
- <br><br><img alt="Gratin de haricots verts aux champignons.webp" src="/recettes/images/gratin-de-haricots-verts-aux-champignons.webp"><br><br><br>
-<br>Champignons : 250g
-<br>Gruyère râpé : 80g
-<br>Jus de citron
-<br>Eau : 25cl
-<br>Crème fraîche : 100g
-<br>Beurre : 40g
-<br>Farine : 20g
-<br>Muscade :
-<br>Haricots verts : 600g
-<br>Oeuf : 1
-<br><br>
-<br>Laver, éplucher et émincer les champignons.
-<br>Dans une casserole, porter l'eau, le jus du citron et 20 g de beurre à ébullition. Assaisonner et y faire cuire les champignons pendant 5 min. Égoutter et tamiser le jus de cuisson.
-<br>Dans un saladier, mélanger intimement le beurre avec la farine.
-<br>Faire cuire les haricots verts dans une casserole d'eau bouillante salée pendant 10 min. Rafraîchir sous l'eau froide et égoutter.
-<br>Dans un bol, mélanger le jus de cuisson des champignons et le beurre manié. Ajouter le gruyère râpé, le jaune d'œuf, la crème fraîche, quelques râpures de noix muscade et du poivre.
-<br>Beurrer un plat et y déposer les haricots verts et les champignons. Napper de sauce et faire gratiner au four.
-]]></description><link>recettes/gratin-de-haricots-verts-aux-champignons.html</link><guid isPermaLink="false">recettes/Gratin de haricots verts aux champignons.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/gratin-de-haricots-verts-aux-champignons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-haricots-verts-aux-champignons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin de lieu noir à la sauce tomate]]></title><description><![CDATA[ 
- <br><br><img alt="Gratin de lieu noir à la sauce tomate.webp" src="/recettes/images/gratin-de-lieu-noir-à-la-sauce-tomate.webp"><br><br><br>
-<br>Tomates : 5
-<br>Oignons : 2
-<br>Jus de citron
-<br>Gruyère râpé : 50g
-<br>Muscade
-<br>Lieu noir : 400g
-<br><br>
-<br>Coupez les oignons finement. Faites-les revenir dans un fond d'huile.
-<br>Ajoutez les tomates coupées en dés. Laissez cuire 10-15 min à feu doux.
-<br>Ajoutez le citron, le sel et le poivre et remuez.
-<br>Juste avant d'éteindre le feu, ajoutez la muscade en et remuez.
-<br>Dans un plat allant au four, positionnez les filets de lieu noir, recouvrez-les de la sauce tomate, puis du gruyère. Enfournez à 180°C (thermostat 6) pendant 30 min.
-<br>Il ne vous reste plus qu'à savourer.
-]]></description><link>recettes/gratin-de-lieu-noir-à-la-sauce-tomate.html</link><guid isPermaLink="false">recettes/Gratin de lieu noir à la sauce tomate.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/gratin-de-lieu-noir-à-la-sauce-tomate.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-lieu-noir-à-la-sauce-tomate.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin de purées de carotte et pomme de terre]]></title><description><![CDATA[ 
- <br><br><img alt="Gratin de purées de carotte et pomme de terre.webp" src="/recettes/images/gratin-de-purées-de-carotte-et-pomme-de-terre.webp"><br><br><br>
-<br>Carottes : 500g
-<br>Pommes de terre : 500g
-<br>Oignons : 2
-<br>Beurre
-<br>Crème fraîche : 10cl
-<br>Gruyère râpé : 50g
-<br>Muscade
-<br>Oeufs : 2
-<br><br>
-<br>Peler les carottes et les pommes de terre, puis les plonger dans l'eau bouillante salée et les laisser cuire au moins 40 min.
-<br>Les égoutter, les couper en morceaux puis les écraser à la fourchette ou passer au presse-purée.
-<br>Peler et hacher les oignons, les faire fondre à la poêle avec un peu de beurre.
-<br>Préchauffer le four à 210°C (thermostat 7).
-<br>Dans un saladier, battre les œufs avec la crème, le gruyère et la noix de muscade. Incorporer ensuite les oignons fondus, le sel et le poivre, puis la purée de carottes/pommes de terre.
-<br>Étaler le tout dans un plat à gratin beurré.
-<br>Saupoudrer de gruyère râpé et de quelques noisettes de beurre. Enfourner à four chaud pendant 10 à 15 min, puis déguster.
-]]></description><link>recettes/gratin-de-purées-de-carotte-et-pomme-de-terre.html</link><guid isPermaLink="false">recettes/Gratin de purées de carotte et pomme de terre.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/gratin-de-purées-de-carotte-et-pomme-de-terre.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-purées-de-carotte-et-pomme-de-terre.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin de ravioles à la ratatouille]]></title><description><![CDATA[ 
- <br><br><img alt="Gratin de ravioles à la ratatouille.webp" src="/recettes/images/gratin-de-ravioles-à-la-ratatouille.webp"><br><br><br>
-<br>Ravioles : 480g
-<br>Ratatouille : 800g
-<br>Crème fraîche : 8cl
-<br>Comté râpé : 100g
-<br><br>
-<br>Préchauffez le four à 220°C. Beurrez un plat à gratin.
-<br>Disposez une première cuillère à soupe de ratatouille et un filet de crème fraîche dans le fond du plat. Ajoutez les ravioles "en plaque".
-<br>Répétez l'opération de manière à obtenir des couches successives.
-<br>Avant d'enfourner, parsemez le dessus de comté râpé.
-<br>Enfournez pendant 15 minutes à 220°C. Sortez du four, servez, c'est prêt !
-]]></description><link>recettes/gratin-de-ravioles-à-la-ratatouille.html</link><guid isPermaLink="false">recettes/Gratin de ravioles à la ratatouille.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/gratin-de-ravioles-à-la-ratatouille.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-ravioles-à-la-ratatouille.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin de ravioles au saumon]]></title><description><![CDATA[ 
+]]></description><link>recettes/gratin-de-crème-fraîche-aux-ravioles-et-légumes-à-couscous.html</link><guid isPermaLink="false">recettes/Gratin de crème fraîche aux ravioles et légumes à couscous.md</guid><pubDate>Thu, 29 Feb 2024 07:09:48 GMT</pubDate><enclosure url="recettes/images/gratin-de-crème-fraîche-aux-ravioles-et-légumes-à-couscous.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-crème-fraîche-aux-ravioles-et-légumes-à-couscous.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin de ravioles au saumon]]></title><description><![CDATA[ 
  <br><br><img alt="Gratin de ravioles au saumon.webp" src="/recettes/images/gratin-de-ravioles-au-saumon.webp"><br><br><br>
 <br>Ravioles du Dauphiné : 480g
 <br>Poireaux : 4
@@ -1158,69 +1302,7 @@ Cette recette est inspirée du <a data-href="Gratin de ravioles à la ratatouill
 <br>Ajoutez 1 tranche de jambon et le fromage à raclette sur l'une des faces puis refermez le sandwich. Recommencez autant de fois que de sandwichs nécessaires.
 <br>Enfournez pendant 10 minutes.
 <br>Coupez les grilled cheese. Dégustez aussitôt, c'est prêt !
-]]></description><link>recettes/grilled-cheese-raclette-&amp;-jambon.html</link><guid isPermaLink="false">recettes/Grilled cheese raclette &amp; jambon.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/grilled-cheese-raclette-&amp;-jambon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/grilled-cheese-raclette-&amp;-jambon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Hachis Parmentier]]></title><description><![CDATA[ 
- <br><br><img alt="Hachis Parmentier.webp" src="/recettes/images/hachis-parmentier.webp"><br><br><br>
-<br><a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg
-<br>Farine : 10g
-<br>Herbes de Provence
-<br>Parmesan : 50g
-<br>Beurre : 30g
-<br>Fromage râpé : 50g
-<br>Viande hachée : 800g
-<br>Oignons : 2
-<br>Ail : 2 gousses
-<br><br>
-<br>Purée de pommes de terre façon Goblot<br><br><br><br><img alt="Purée de pommes de terre façon Goblot.webp" src="/recettes/images/purée-de-pommes-de-terre-façon-goblot.webp"><br><br><br>
-<br>Pommes de terre : 1kg
-<br>Crème fraiche : 10cl
-<br>Lait
-<br>Oeuf : 1
-<br>Muscade
-<br><br>
-<br>Éplucher les pommes de terre et les couper en dés.
-<br>Mettre les dés dans une casserole d'eau et faire bouillir pendant 20min.
-<br>Égoutter les pommes de terre et les écraser.
-<br>Mettre la crème et mélanger.
-<br>Ajouter du lait petit à petit jusqu'à obtenir la consistance souhaitée.
-<br>Saler, poivrer, ajouter la muscade et le jaune de l'oeuf.
-
-<br>Hacher l'oignon et l'ail. Les faire revenir dans le beurre jusqu'à ce qu'ils soient tendres.
-<br>Ajouter les tomates coupées en dés, la viande hachée, la farine, du sel, du poivre et les herbes de Provence.
-<br>Quand tout est cuit, couper le feu et ajouter le jaune d'œuf et un peu de parmesan. Bien mélanger.
-<br>Préchauffer le four à 200°C (thermostat 6-7). Étaler au fond du plat à gratin. Étaler la purée au-dessus de la viande. Saupoudrer de fromage râpé et faire gratiner.
-]]></description><link>recettes/hachis-parmentier.html</link><guid isPermaLink="false">recettes/Hachis Parmentier.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/hachis-parmentier.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/hachis-parmentier.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Hamburger maison]]></title><description><![CDATA[ 
- <br><br><img alt="Hamburger maison.webp" src="/recettes/images/hamburger-maison.webp"><br><br><br>
-<br>Oignon : 1
-<br>Tomate : 2
-<br>Ketchup
-<br>Pain pour Hamburger : 8
-<br>Viande hachée : 800g
-<br>Cheddar : 300g
-<br>Salade : 1
-<br><br>
-<br>Faites revenir les oignons à feux doux.
-<br>Ajouter les steaks.
-<br>Une fois saisi, poser une tranche de cheddar sur le steak et laisser fondre.
-<br>Une fois cuit, déposer le steak et le fromage sur une des tranches du pain que vous aurez auparavant tartinée d'un mélange de ketchup et de moutarde.
-<br>Ajouter la salade et de petites rondelles de tomates.
-<br>Vous pouvez maintenant recouvrir la préparation de l'autre tranche (avec ketchup et moutarde).
-]]></description><link>recettes/hamburger-maison.html</link><guid isPermaLink="false">recettes/Hamburger maison.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/hamburger-maison.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/hamburger-maison.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Haricots rouges à la Mexicaine]]></title><description><![CDATA[ 
- <br><br><img alt="Haricots rouges à la Mexicaine.webp" src="/recettes/images/haricots-rouges-à-la-mexicaine.webp"><br><br><br>
-<br>Haricots rouges : 300g
-<br>Poivron : 1
-<br>Oignon : 1
-<br>Thym
-<br>Huile d'olive
-<br>Blancs de poulet : 4
-<br>Tomates pelées : 500g
-<br><br>
-<br>Couper l'oignon en fines lamelles, ainsi que le poivron (pas besoin de retirer la peau, il suffit seulement de l'épépiner).
-<br>Faire frire ces lamelles de poivron et d'oignon dans une poêle avec l'huile de cuisson pendant environ 5 minutes.
-<br>Ajouter les tomates pelées avec leur jus, ajouter l'origan, le thym, le piment et le sel, mélanger.
-<br>Laisser mijoter 5 minutes. Pendant ce temps, couper les blancs de poulet en gros dés, les saler, puis les incorporer à la sauce.
-<br>Laisser cuire pendant 5 minutes.
-<br>Ajouter les haricots rouges, mélanger délicatement et laisser mijoter à feux doux pendant 10 minutes.
-]]></description><link>recettes/haricots-rouges-à-la-mexicaine.html</link><guid isPermaLink="false">recettes/Haricots rouges à la Mexicaine.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/haricots-rouges-à-la-mexicaine.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/haricots-rouges-à-la-mexicaine.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Haricots verts à l'ail]]></title><description><![CDATA[ 
+]]></description><link>recettes/grilled-cheese-raclette-&amp;-jambon.html</link><guid isPermaLink="false">recettes/Grilled cheese raclette &amp; jambon.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/grilled-cheese-raclette-&amp;-jambon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/grilled-cheese-raclette-&amp;-jambon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Haricots verts à l'ail]]></title><description><![CDATA[ 
  <br><br><img alt="Haricots verts à l'ail.webp" src="/recettes/images/haricots-verts-à-l'ail.webp">]<br><br><br>
 <br>Haricots vers : 500g
 <br>Gousse d'ail : 2
@@ -1280,30 +1362,7 @@ Cette recette est inspirée du <a data-href="Gratin de ravioles à la ratatouill
 <br>Saler et poivrer.
 <br>Verser le tout sur les haricots verts et bien mélanger.
 <br>Saupoudrer du reste de parmesan et servir immédiatement.
-]]></description><link>recettes/haricots-verts-à-la-carbonara.html</link><guid isPermaLink="false">recettes/Haricots verts à la carbonara.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/haricots-verts-à-la-carbonara.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/haricots-verts-à-la-carbonara.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Kebab]]></title><description><![CDATA[ 
- <br><br><img alt="Kebab.webp" src="/recettes/images/kebab.webp"><br><br><br>
-<br>Pains pita ou tortillas : 4
-<br>Escalope de dinde, poulet, veau ou agneau : 1kg
-<br>Sauce blanche : 250g
-<br>Jus de citron
-<br>Tomates : 2
-<br>Salade : 250g
-<br>Oignon : 1
-<br>Ail : 2
-<br>Persil
-<br>Vinaigre
-<br>Paprika
-<br>Curry
-<br>Gingembre moulu
-<br>Herbes de Provence
-<br>Huile d'olive
-<br><br>
-<br>Couper les escalopes en petits morceaux (en dés). Dans un plat creux, verser l’huile d’olive, puis 4 cuillères à soupe de paprika, 2 de gingembre, 4 de curry. Délayer, puis ajouter du sel, du poivre et 2 cuillères à soupe de vinaigre. Pour finir, ajouter 2 ou 3 cuillères à soupe d’herbes de Provence. Mélanger le tout en y ajoutant les morceaux de viande.
-<br>Verser le fromage blanc dans 1 bol. Mélanger avec le jus de citron, 1 ou 2 cuillères à soupe d’ail en poudre, du sel, du poivre et du persil.
-<br>Faire cuire les morceaux de viande à la poêle jusqu'à ce qu'ils dorent un peu.
-<br>Couper les tomates en demi-tranches, les oignons en lamelles et la laitue en morceaux.
-<br>Poser les tortillas à plat ou alors fendre légèrement les pains pita, puis tartiner le fond avec une couche de sauce blanche, puis ajouter les morceaux de laitue, les morceaux de tomates, puis les morceaux d'oignons parsemés. Ajouter la viande cuite sur cela et arroser d'une couche de sauce. Refermer les tortillas avec un cure-dent piqué dans les bords relevés.
-]]></description><link>recettes/kebab.html</link><guid isPermaLink="false">recettes/Kebab.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/kebab.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/kebab.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Lasagnes au saumon et aux épinards]]></title><description><![CDATA[ 
+]]></description><link>recettes/haricots-verts-à-la-carbonara.html</link><guid isPermaLink="false">recettes/Haricots verts à la carbonara.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/haricots-verts-à-la-carbonara.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/haricots-verts-à-la-carbonara.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Lasagnes au saumon et aux épinards]]></title><description><![CDATA[ 
  <br><br><img alt="Lasagnes au saumon et aux épinards.webp" src="/recettes/images/lasagnes-au-saumon-et-aux-épinards.webp"><br><br><br>
 <br>Boîte de lasagnes précuites : 1
 <br>Parmesan
@@ -1315,40 +1374,7 @@ Cette recette est inspirée du <a data-href="Gratin de ravioles à la ratatouill
 <br>Mettre un peu de beurre dans un plat rectangulaire ou carré allant au four, puis une couche de lasagnes, une couche de saumon, une couche d'épinards et un peu de parmesan. Recommencer l'opération jusqu'à la fin des ingrédients.
 <br>Verser la crème liquide préalablement salée et poivrée.
 <br>Remettre un peu de parmesan puis cuire à four chaud pendant 25 mn.
-]]></description><link>recettes/lasagnes-au-saumon-et-aux-épinards.html</link><guid isPermaLink="false">recettes/Lasagnes au saumon et aux épinards.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/lasagnes-au-saumon-et-aux-épinards.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/lasagnes-au-saumon-et-aux-épinards.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Mafé de poulet &amp; riz]]></title><description><![CDATA[ 
- <br><br><img alt="Mafé de poulet &amp; riz.webp" src="/recettes/images/mafé-de-poulet-&amp;-riz.webp"><br><br><br>
-<br>Filets de poulets : 4
-<br>Tomates : 4
-<br>Beurre de cacahuète : 5cl
-<br>Oignons : 2
-<br>Riz : 280g
-<br>Cube de bouillon de légumes : 1
-<br><br>
-<br>Faites cuire le riz selon les instructions du paquet (soit environ 10 minutes dans de l'eau bouillante salée). Une fois cuit, égouttez-le et réservez.
-<br>Pendant ce temps, épluchez puis émincez les oignons en petits morceaux. Réservez.
-<br>Dans une casserole, faites chauffer un filet d'huile de cuisson puis faites revenir les oignons pendant 3 minutes à feu moyen.
-<br>Coupez le poulet et les tomates en petits morceaux. Réservez.
-<br>Ajoutez ensuite la tomate, mélangez et laissez réduire pendant 5 minutes à feu moyen.
-<br>Ajoutez ensuite de l'eau (10 cl par personne), le bouillon et le beurre de cacahuète puis remuez bien.
-<br>Ajoutez le poulet coupé en morceaux puis laissez cuire environ 10 minutes jusqu'à ce qu'il soit tendre.
-<br>Servez le mafé avec le riz puis ré-assaisonnez selon vos goûts. C'est prêt !
-]]></description><link>recettes/mafé-de-poulet-&amp;-riz.html</link><guid isPermaLink="false">recettes/Mafé de poulet &amp; riz.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/mafé-de-poulet-&amp;-riz.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/mafé-de-poulet-&amp;-riz.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Mexican bowl]]></title><description><![CDATA[ 
- <br><br><img alt="Mexican bowl.webp" src="/recettes/images/mexican-bowl.webp"><br><br><br>
-<br>Escalopes de poulet : 4
-<br>Mélange d'épices mexicaines
-<br>Avocat : 1
-<br>Maïs : 240g
-<br>Haricots rouges : 240g
-<br>Riz : 280g
-<br><br>
-<br>Cuire le riz selon les instructions de préparation du paquet.
-<br>Dans une poêle à feu moyen, ajoutez un filet d'huile de cuisson et le poulet.
-<br>Ajoutez les épices mexicaines sur le poulet et faites revenir 4 minutes sur chaque face à feu moyen.
-<br>En fin de cuisson, ajoutez un fond d'eau (2 cuillères à soupe par personne environ) puis laissez la sauce s'épaissir 2 minutes.
-<br>Une fois le riz cuit, égouttez-le et servez-le dans les assiettes.
-<br>Ajoutez le poulet, le maïs égoutté et les haricots rouges égouttés, l'avocat coupé en dés et un filet de sauce.
-<br>Ré-assaisonnez selon vos goûts et ajoutez quelques feuilles de coriandre si vous en avez. C'est prêt !
-]]></description><link>recettes/mexican-bowl.html</link><guid isPermaLink="false">recettes/Mexican bowl.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/mexican-bowl.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/mexican-bowl.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Nouilles sautées aux crevettes]]></title><description><![CDATA[ 
+]]></description><link>recettes/lasagnes-au-saumon-et-aux-épinards.html</link><guid isPermaLink="false">recettes/Lasagnes au saumon et aux épinards.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/lasagnes-au-saumon-et-aux-épinards.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/lasagnes-au-saumon-et-aux-épinards.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Nouilles sautées aux crevettes]]></title><description><![CDATA[ 
  <br><br><img alt="Nouilles sautées aux crevettes.webp" src="/recettes/images/nouilles-sautées-aux-crevettes.webp"><br><br><br>
 <br>Nouilles chinoises : 280g
 <br>Haricots verts : 280g
@@ -1817,32 +1843,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Mettre la crème et mélanger.
 <br>Ajouter du lait petit à petit jusqu'à obtenir la consistance souhaitée.
 <br>Saler, poivrer, ajouter la muscade et le jaune de l'oeuf.
-]]></description><link>recettes/purée-de-pommes-de-terre-façon-goblot.html</link><guid isPermaLink="false">recettes/Purée de pommes de terre façon Goblot.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/purée-de-pommes-de-terre-façon-goblot.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/purée-de-pommes-de-terre-façon-goblot.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche à l'oignon et aux lardons fumés]]></title><description><![CDATA[ 
- <br><br><img alt="Quiche à l'oignon et aux lardons fumés.webp" src="/recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp"><br><br><br>
-<br>Oignons : 1kg
-<br>Crème fraîche : 50cl
-<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
-<br>Oeufs : 2
-<br>Lardons : 75g
-<br>Beurre : 20g
-<br><br>Pâte brisée<br><br><br><br><img alt="Pâte brisée.webp" src="/recettes/images/pâte-brisée.webp"><br><br><br>
-<br>Farine : 300g
-<br>Beurre : 150g
-<br>Sel : 1/2cc
-<br>Sucre (si pâte sucrée) : 15g
-<br>Lait ou eau : 8cl
-<br><br>
-<br>Mélanger la farine et le sel dans un plat (et le sucre si sucre il y a).
-<br>Ajouter le beurre puis l'incorporer à la farine en pétrissant rapidement et légèrement du bout des doigts. On doit obtenir une sorte de semoule grossière en 2 ou 3 min.
-<br>Incorporer rapidement le lait ou l'eau. Il en faut très peu pour permettre à la pâte de se lier et de faire boule. Le lait ou l'eau ? C'est selon les goûts.
-<br>Pour étaler sans problème, étaler la pâte sur du papier cuisson et cuire tel quel dans la platine.
-<br>
-<br>Éplucher les oignons et les couper en rondelles.
-<br>Les mettre dans le beurre chaud, et faire cuire sans prendre de couleur (pour ce faire, les mettre à froid dans le beurre qui n'est pas encore fondu); ajouter les lardons, saler et poivrer.
-<br>Foncer un plat à tarte avec la pâte.
-<br>Battre la crème fraîche avec les oeufs dans un saladier, saler et poivrer, puis ajouter les oignons cuits.
-<br>Verser la préparation dans le moule à tarte, mettre au four (thermostat 7/210°C), et faire cuire 30 min.
-]]></description><link>recettes/quiche-à-l'oignon-et-aux-lardons-fumés.html</link><guid isPermaLink="false">recettes/Quiche à l'oignon et aux lardons fumés.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche artichaut &amp; parma]]></title><description><![CDATA[ 
+]]></description><link>recettes/purée-de-pommes-de-terre-façon-goblot.html</link><guid isPermaLink="false">recettes/Purée de pommes de terre façon Goblot.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/purée-de-pommes-de-terre-façon-goblot.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/purée-de-pommes-de-terre-façon-goblot.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche artichaut &amp; parma]]></title><description><![CDATA[ 
  <br><br><img alt="Quiche artichaut &amp; parma.webp" src="/recettes/images/quiche-artichaut-&amp;-parma.webp"><br><br><br>
 <br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
 <br>Mozzarella : 1
@@ -2545,34 +2546,7 @@ La piémontaise est meilleure préparée la veille !
 <br>Faites chauffer l'huile de friture dans une grande poêle et ajoutez les dés de poulet.
 <br>Faites-les frire jusqu'à ce qu'ils soient bien dorés, égouttez-les sur du papier absorbant et dégustez chaud.
 <br>Servez avec une salade et du ketchup et régalez-vous !
-]]></description><link>recettes/tenders.html</link><guid isPermaLink="false">recettes/Tenders.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/tenders.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tenders.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Toasts à l'avocat et oeufs mollets]]></title><description><![CDATA[ 
- <br><br><img alt="Toasts à l'avocat et oeufs mollets.webp" src="/recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp"><br><br><br>
-<br><a data-href="Oeufs mollets" href="/recettes/oeufs-mollets.html" class="internal-link" target="_self" rel="noopener">Oeufs mollets</a> : 4
-<br>Tranches de pain de mie : 4
-<br>Avocat : 1
-<br>Ciboulette
-<br><br>
-<br>Oeufs mollets<br><br><br><br><img alt="Oeufs mollets.webp" src="/recettes/images/oeufs-mollets.webp"><br><br><br>
-<br>Oeufs : 4
-<br><br>
-<br>Ajouter un fond d'eau dans une casserole vapeur. Porter à ébullition.
-<br>Ajouter les oeufs, couvrir et laisser cuire :
-
-<br>4min pour obtenir des oeufs à la coque ;
-<br>5min pour des oeufs mollets.
-
-
-<br>Sortir les oeufs de la casserole. Ils sont prêts !
-<br>Info
-En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la quantité d'eau à chauffer et donc l'inertie thermique de la casserole. Ainsi, on diminue le temps de chauffe et on ne fait pas chuter la température de l'eau quand on ajoute les oeufs ; ils seront toujours baignés dans une vapeur chaude. La cuisson n'en est que plus homogène et maîtrisée.
-
-<br>Faire griller les toasts.
-<br>Couper l'avocat en tranche.
-<br>Éplucher délicatement les oeufs.
-<br>Déposer sur les toasts l'avocat puis les oeufs.
-<br>Saupoudrer de ciboulette et de poivre.
-<br>Couper les oeufs en deux au dernier moment.
-]]></description><link>recettes/toasts-à-l'avocat-et-oeufs-mollets.html</link><guid isPermaLink="false">recettes/Toasts à l'avocat et oeufs mollets.md</guid><pubDate>Thu, 29 Feb 2024 07:07:20 GMT</pubDate><enclosure url="recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tomates farcies au chèvre chaud]]></title><description><![CDATA[ 
+]]></description><link>recettes/tenders.html</link><guid isPermaLink="false">recettes/Tenders.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/tenders.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tenders.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tomates farcies au chèvre chaud]]></title><description><![CDATA[ 
  <br><br><img alt="Tomates farcies au chèvre chaud.webp" src="/recettes/images/tomates-farcies-au-chèvre-chaud.webp"><br><br><br>
 <br>Tomates charnues : 8
 <br>Fromage de chèvre : 1 bûche
