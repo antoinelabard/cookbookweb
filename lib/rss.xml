@@ -1,4 +1,38 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 27 Apr 2024 09:45:21 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 27 Apr 2024 09:45:17 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Chakchouka feta &amp; pois chiches]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 29 Apr 2024 12:08:07 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 29 Apr 2024 12:08:06 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Salade campagnarde]]></title><description><![CDATA[ 
+ <br><br><img alt="Salade campagnarde.webp" src="/recettes/images/salade-campagnarde.webp"><br><br><br>
+<br>Oeufs : 6
+<br>Pommes de terre : 600g
+<br>Salade mâche : 8 poignées
+<br>Chèvre frai : 80g
+<br>Bacon : 8 tranches
+<br><br>
+<br>Lavez les pommes de terre et coupez-les en 2 ou en 4.
+<br>Dans un poêle avec un filet d'huile d'olive, ajoutez les pommes de terre, salez, poivrez et saisissez-les 5 minutes, à feu vif.
+<br>Couvrez et laissez cuire à feu doux 10 minutes.
+<br>Pendant ce temps, faites cuire les œufs dans une casserole d'eau bouillante pendant 10 min.
+<br>Placez-les dans un bol d'eau froide pour stopper la cuisson, écalez-les et coupez-les en morceaux.
+<br>Après 10 minutes. Coupez la cuisson des pommes de terre.
+<br>Dans la poêle, faites cuire le bacon 2 minutes sur chaque face.
+<br>Dressez la salade : dans une assiette ajoutez la mâche, les pommes de terres, les œufs, le bacon et le chèvre. (Optionnel : ajoutez des herbes fraîches). C'est prêt !
+]]></description><link>recettes/salade-campagnarde.html</link><guid isPermaLink="false">recettes/Salade campagnarde.md</guid><pubDate>Mon, 29 Apr 2024 12:04:34 GMT</pubDate><enclosure url="recettes/images/salade-campagnarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-campagnarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wok légumes sautés, poulet &amp; sauce cacahuète]]></title><description><![CDATA[ 
+ <br><br><img alt="Wok légumes sautés, poulet &amp; sauce cacahuète.webp" src="/recettes/images/wok-légumes-sautés,-poulet-&amp;-sauce-cacahuète.webp"><br><br><br>
+<br>Escalopes de poulet : 4
+<br>Carottes : 4
+<br>Courgettes : 2
+<br>Gousses d'ail : 2
+<br>Beurre de cacahuète : 4cs
+<br>Sauce soja : 4cs
+<br>Riz : 280g
+<br>(Optionnel) Graines de sésame
+<br><br>
+<br>Faites cuire le riz selon les instructions du paquet. Égouttez-le en fin de cuisson. Réservez.
+<br>Réalisez des lamelles de courgettes et de carottes à l’aide d’un économe.
+<br>Coupez le poulet en tranches. Réservez.
+<br>Dans une grande poêle, faites chauffer un filet d'huile. Ajoutez les carottes, les courgettes et le poulet. Salez, poivrez et faites-les revenir pendant 8 minutes.
+<br>Pendant ce temps, préparez la sauce cacahuète. Dans un bol, mélangez : le beurre de cacahuète, la sauce soja et l'ail râpé. Si besoin, ajoutez un filet d'eau pour ajuster la consistance.
+<br>Ajoutez les légumes mis de côté dans la poêle avec le poulet, puis versez la sauce cacahuète. Mélangez le tout sur feu doux pendant 3 minutes.
+<br>Dans une assiette, ajoutez le riz et la poêlée de légumes et poulet. Parsemez de graines de sésame, si vous en avez. C'est prêt !
+]]></description><link>recettes/wok-légumes-sautés,-poulet-&amp;-sauce-cacahuète.html</link><guid isPermaLink="false">recettes/Wok légumes sautés, poulet &amp; sauce cacahuète.md</guid><pubDate>Mon, 29 Apr 2024 12:05:32 GMT</pubDate><enclosure url="recettes/images/wok-légumes-sautés,-poulet-&amp;-sauce-cacahuète.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/wok-légumes-sautés,-poulet-&amp;-sauce-cacahuète.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Chakchouka feta &amp; pois chiches]]></title><description><![CDATA[ 
  <br><br><img alt="Chakchouka feta &amp; pois chiches.webp" src="/recettes/images/chakchouka-feta-&amp;-pois-chiches.webp"><br><br><br>
 <br>Oeufs : 8
 <br>Poids chiches : 400g
