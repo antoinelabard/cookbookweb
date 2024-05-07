@@ -1,38 +1,85 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 03 May 2024 16:24:09 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 03 May 2024 16:24:07 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Salade campagnarde]]></title><description><![CDATA[ 
- <br><br><img alt="Salade campagnarde.webp" src="/recettes/images/salade-campagnarde.webp"><br><br><br>
-<br>Oeufs : 6
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 07 May 2024 18:11:52 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 07 May 2024 18:11:51 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Curry de pois chiches]]></title><description><![CDATA[ 
+ <br><br><img alt="Curry de pois chiches.webp" src="/recettes/images/curry-de-pois-chiches.webp"><br><br><br>
+<br>Pois chiches : 400g
+<br>Riz : 280g
+<br>Oignon : 1
+<br>Chair de tomates : 400g
+<br>Lait de coco : 10cl
+<br>Gousse d'ail : 1
+<br>Curry
+<br>Cumin
+<br>Gingembre
+<br>Coriandre
+<br><br>
+<br>Dans une casserole d'eau chaude, faites cuire le riz selon les instructions du paquet. Égouttez-le en fin de cuisson.
+<br>Émincez les oignons rouges.
+<br>Dans une casserole, versez un filet d'huile d'olive et ajoutez les oignons émincés. Râpez l'ail et ajoutez les épices (curry, cumin, gingembre) puis faites revenir le tout 4 minutes.
+<br>Ajoutez la chair de tomate, le lait de coco, 50 ml d'eau par personne et les pois chiches égouttés. Salez, poivrez et mélangez. Couvrez et laissez cuire pendant 10 minutes à feu doux.
+<br>Servez le riz avec le curry. (Optionnel : ajoutez de la coriandre fraîche). C'est prêt !
+]]></description><link>recettes/curry-de-pois-chiches.html</link><guid isPermaLink="false">recettes/Curry de pois chiches.md</guid><pubDate>Sat, 04 May 2024 14:45:30 GMT</pubDate><enclosure url="recettes/images/curry-de-pois-chiches.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/curry-de-pois-chiches.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Risotto de coquillettes]]></title><description><![CDATA[ 
+ <br><br><img alt="Risotto de coquillettes.webp" src="/recettes/images/risotto-de-coquillettes.webp"><br><br><br>
+<br>Jambon : 4 tranches
+<br>Vin blanc : 10cl
+<br>Pâtes (coquillettes) : 360g
+<br>Comté : 80g
+<br>Crème fraîche: 10cl
+<br>Bouillon de volaille : 1
+<br>Échalote : 1
+<br><br>
+<br>Épluchez et émincez l'échalote.
+<br>Faites-les rissoler 2 minutes dans une casserole avec une noisette de beurre.
+<br>Ajoutez les coquillettes et laissez-les dorer 2 minutes. Versez le vin blanc et mélangez jusqu'à absorption.
+<br>Faites bouillir 1l d'eau et faites-y dissoudre le bouillon.
+<br>Ajoutez une louche de bouillon et mélangez jusqu'à absorption, recommencez l'opération pendant 10 minutes. Goûtez les coquillettes. Continuez la cuisson quelques minutes si elles sont trop fermes.
+<br>Une fois les coquillettes cuites, salez, poivrez, ajoutez la crème, le comté râpé et mélangez.
+<br>Roulez les tranches de jambons et coupez-les afin d’obtenir des lamelles.
+<br>Dressez les coquillettes sur une assiette, ajoutez le jambon et quelques herbes fraîches si vous en avez. C'est prêt !
+]]></description><link>recettes/risotto-de-coquillettes.html</link><guid isPermaLink="false">recettes/Risotto de coquillettes.md</guid><pubDate>Tue, 07 May 2024 18:09:27 GMT</pubDate><enclosure url="recettes/images/risotto-de-coquillettes.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/risotto-de-coquillettes.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+ <br><br><br>
+<br><a data-href="Rougail saucisse" href="/recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener">Rougail saucisse</a>
+<br><a data-href="Pasta al tonno" href="/recettes/pasta-al-tonno.html" class="internal-link" target="_self" rel="noopener">Pasta al tonno</a>
+<br><a data-href="Risotto de coquillettes" href="/recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes</a>
+<br><a data-href="Salade campagnarde" href="/recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener">Salade campagnarde</a>
+<br><br>
+<br>Produits frais:
+
+<br>Saucisses fumées : 4
+<br>Jambon : 4 tranches
+<br>Bacon : 8 tranches
+
+
+<br>Fruits et légumes:
+
+<br>Oignon : 1
+<br>Gousse d'ail : 3
+<br>Échalote : 1
 <br>Pommes de terre : 600g
 <br>Salade mâche : 8 poignées
+
+
+<br>Produits secs et conserves
+
+<br>Riz : 280g
+<br>Gingembre : 20g
+<br>Purée de tomate : 400g
+<br>Curcuma : 4 pincées
+<br>Thon : 240g
+<br>Pâtes : 400g
+<br>Tomates séchées : 160g
+<br>Persil
+<br>Pâtes (coquillettes) : 360g
+<br>Oeufs : 6
+
+
+<br>Produits laitiers
+
+<br>Comté : 80g
+<br>Crème fraîche: 10cl
 <br>Chèvre frai : 80g
-<br>Bacon : 8 tranches
-<br><br>
-<br>Lavez les pommes de terre et coupez-les en 2 ou en 4.
-<br>Dans un poêle avec un filet d'huile d'olive, ajoutez les pommes de terre, salez, poivrez et saisissez-les 5 minutes, à feu vif.
-<br>Couvrez et laissez cuire à feu doux 10 minutes.
-<br>Pendant ce temps, faites cuire les œufs dans une casserole d'eau bouillante pendant 10 min.
-<br>Placez-les dans un bol d'eau froide pour stopper la cuisson, écalez-les et coupez-les en morceaux.
-<br>Après 10 minutes. Coupez la cuisson des pommes de terre.
-<br>Dans la poêle, faites cuire le bacon 2 minutes sur chaque face.
-<br>Dressez la salade : dans une assiette ajoutez la mâche, les pommes de terres, les œufs, le bacon et le chèvre. (Optionnel : ajoutez des herbes fraîches). C'est prêt !
-]]></description><link>recettes/salade-campagnarde.html</link><guid isPermaLink="false">recettes/Salade campagnarde.md</guid><pubDate>Mon, 29 Apr 2024 12:10:09 GMT</pubDate><enclosure url="recettes/images/salade-campagnarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-campagnarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Velouté d'endives au lard]]></title><description><![CDATA[ 
- <br><br><img alt="Velouté d'endives au lard.webp" src="/recettes/images/velouté-d'endives-au-lard.webp"><br><br><br>
-<br>Endives : 1kg
-<br>Échalotes : 2
-<br>Cube de bouillon de volaille : 1
-<br>Crème fraîche : 20cl
-<br>Lard : 8 tranches
-<br><br>
-<br>Coupez les endives en lamelles (optionnel : réservez les premières feuilles pour la décoration).
-<br>Épluchez puis hachez les échalotes.
-<br>Faites fondre une noisette de beurre. Ajoutez les échalotes et faites revenir 1 minute.
-<br>Ajoutez les endives et mélangez. Faites-les revenir 3 minutes à feu moyen en couvrant.
-<br>Ajoutez 600ml d'eau par personne et mélangez. Ajoutez le bouillon, mélangez et couvrez. Laissez cuire 15 min à feu moyen.
-<br>Pendant ce temps, faites griller le lard dans une poêle chaude. Réservez sur un papier absorbant.
-<br>Une fois que les endives sont cuites, ajoutez la crème fraîche et mélangez. Salez et poivrez.
-<br>Mixez jusqu'à l'obtention d'un velouté lisse.
-<br>Servez dans des assiettes creuses et parsemez avec les petites feuilles. Ajoutez le lard et poivrez. C'est prêt !
-]]></description><link>recettes/velouté-d'endives-au-lard.html</link><guid isPermaLink="false">recettes/Velouté d'endives au lard.md</guid><pubDate>Wed, 01 May 2024 17:15:21 GMT</pubDate><enclosure url="recettes/images/velouté-d'endives-au-lard.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/velouté-d'endives-au-lard.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
- <br><br><br><br>
+
+
+<br>Vin blanc : 10cl
+<br><br><br>
 <br><a data-href="Poulet à la moutarde &amp; pommes de terre" href="/recettes/poulet-à-la-moutarde-&amp;-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener">Poulet à la moutarde &amp; pommes de terre</a>
 <br><a data-href="Saucisse &amp; lentilles" href="/recettes/saucisse-&amp;-lentilles.html" class="internal-link" target="_self" rel="noopener">Saucisse &amp; lentilles</a>
 <br><a data-href="Curry de pois chiches" href="/recettes/curry-de-pois-chiches.html" class="internal-link" target="_self" rel="noopener">Curry de pois chiches</a>
@@ -200,7 +247,40 @@
 <br>Chorizo : 1
 
 
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 03 May 2024 16:23:53 GMT</pubDate></item><item><title><![CDATA[Wok légumes sautés, poulet &amp; sauce cacahuète]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Tue, 07 May 2024 18:11:42 GMT</pubDate></item><item><title><![CDATA[Salade campagnarde]]></title><description><![CDATA[ 
+ <br><br><img alt="Salade campagnarde.webp" src="/recettes/images/salade-campagnarde.webp"><br><br><br>
+<br>Oeufs : 6
+<br>Pommes de terre : 600g
+<br>Salade mâche : 8 poignées
+<br>Chèvre frai : 80g
+<br>Bacon : 8 tranches
+<br><br>
+<br>Lavez les pommes de terre et coupez-les en 2 ou en 4.
+<br>Dans un poêle avec un filet d'huile d'olive, ajoutez les pommes de terre, salez, poivrez et saisissez-les 5 minutes, à feu vif.
+<br>Couvrez et laissez cuire à feu doux 10 minutes.
+<br>Pendant ce temps, faites cuire les œufs dans une casserole d'eau bouillante pendant 10 min.
+<br>Placez-les dans un bol d'eau froide pour stopper la cuisson, écalez-les et coupez-les en morceaux.
+<br>Après 10 minutes. Coupez la cuisson des pommes de terre.
+<br>Dans la poêle, faites cuire le bacon 2 minutes sur chaque face.
+<br>Dressez la salade : dans une assiette ajoutez la mâche, les pommes de terres, les œufs, le bacon et le chèvre. (Optionnel : ajoutez des herbes fraîches). C'est prêt !
+]]></description><link>recettes/salade-campagnarde.html</link><guid isPermaLink="false">recettes/Salade campagnarde.md</guid><pubDate>Mon, 29 Apr 2024 12:10:09 GMT</pubDate><enclosure url="recettes/images/salade-campagnarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-campagnarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Velouté d'endives au lard]]></title><description><![CDATA[ 
+ <br><br><img alt="Velouté d'endives au lard.webp" src="/recettes/images/velouté-d'endives-au-lard.webp"><br><br><br>
+<br>Endives : 1kg
+<br>Échalotes : 2
+<br>Cube de bouillon de volaille : 1
+<br>Crème fraîche : 20cl
+<br>Lard : 8 tranches
+<br><br>
+<br>Coupez les endives en lamelles (optionnel : réservez les premières feuilles pour la décoration).
+<br>Épluchez puis hachez les échalotes.
+<br>Faites fondre une noisette de beurre. Ajoutez les échalotes et faites revenir 1 minute.
+<br>Ajoutez les endives et mélangez. Faites-les revenir 3 minutes à feu moyen en couvrant.
+<br>Ajoutez 600ml d'eau par personne et mélangez. Ajoutez le bouillon, mélangez et couvrez. Laissez cuire 15 min à feu moyen.
+<br>Pendant ce temps, faites griller le lard dans une poêle chaude. Réservez sur un papier absorbant.
+<br>Une fois que les endives sont cuites, ajoutez la crème fraîche et mélangez. Salez et poivrez.
+<br>Mixez jusqu'à l'obtention d'un velouté lisse.
+<br>Servez dans des assiettes creuses et parsemez avec les petites feuilles. Ajoutez le lard et poivrez. C'est prêt !
+]]></description><link>recettes/velouté-d'endives-au-lard.html</link><guid isPermaLink="false">recettes/Velouté d'endives au lard.md</guid><pubDate>Wed, 01 May 2024 17:15:21 GMT</pubDate><enclosure url="recettes/images/velouté-d'endives-au-lard.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/velouté-d'endives-au-lard.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wok légumes sautés, poulet &amp; sauce cacahuète]]></title><description><![CDATA[ 
  <br><br><img alt="Wok légumes sautés, poulet &amp; sauce cacahuète.webp" src="/recettes/images/wok-légumes-sautés,-poulet-&amp;-sauce-cacahuète.webp"><br><br><br>
 <br>Escalopes de poulet : 4
 <br>Carottes : 4
@@ -669,25 +749,7 @@
 <br>Enfournez le camembert pendant 15 minutes à 220°C dans un plat allant au four ou sur une plaque de cuisson recouverte de papier de cuisson.
 <br>Une fois le camembert coulant à cœur &amp; les potatoes bien dorées, sortez-les du four.
 <br>Servez le camembert avec les potatoes et une salade verte assaisonnée selon vos goûts. C'est prêt !
-]]></description><link>recettes/camembert-rôti-&amp;-potatoes.html</link><guid isPermaLink="false">recettes/Camembert rôti &amp; potatoes.md</guid><pubDate>Thu, 14 Mar 2024 15:45:00 GMT</pubDate><enclosure url="recettes/images/camembert-rôti-&amp;-potatoes.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/camembert-rôti-&amp;-potatoes.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Curry de pois chiches]]></title><description><![CDATA[ 
- <br><br><img alt="Curry de pois chiches.webp" src="/recettes/images/curry-de-pois-chiches.webp"><br><br><br>
-<br>Pois chiches : 400g
-<br>Riz : 280g
-<br>Oignon : 1
-<br>Chair de tomates : 400g
-<br>Lait de cococ : 10cl
-<br>Gousse d'ail : 1
-<br>Curry
-<br>Cumin
-<br>Gingembre
-<br>Coriandre
-<br><br>
-<br>Dans une casserole d'eau chaude, faites cuire le riz selon les instructions du paquet. Égouttez-le en fin de cuisson.
-<br>Émincez les oignons rouges.
-<br>Dans une casserole, versez un filet d'huile d'olive et ajoutez les oignons émincés. Râpez l'ail et ajoutez les épices (curry, cumin, gingembre) puis faites revenir le tout 4 minutes.
-<br>Ajoutez la chair de tomate, le lait de coco, 50 ml d'eau par personne et les pois chiches égouttés. Salez, poivrez et mélangez. Couvrez et laissez cuire pendant 10 minutes à feu doux.
-<br>Servez le riz avec le curry. (Optionnel : ajoutez de la coriandre fraîche). C'est prêt !
-]]></description><link>recettes/curry-de-pois-chiches.html</link><guid isPermaLink="false">recettes/Curry de pois chiches.md</guid><pubDate>Thu, 14 Mar 2024 15:50:43 GMT</pubDate><enclosure url="recettes/images/curry-de-pois-chiches.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/curry-de-pois-chiches.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Soupe de Tortellini]]></title><description><![CDATA[ 
+]]></description><link>recettes/camembert-rôti-&amp;-potatoes.html</link><guid isPermaLink="false">recettes/Camembert rôti &amp; potatoes.md</guid><pubDate>Thu, 14 Mar 2024 15:45:00 GMT</pubDate><enclosure url="recettes/images/camembert-rôti-&amp;-potatoes.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/camembert-rôti-&amp;-potatoes.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Soupe de Tortellini]]></title><description><![CDATA[ 
  <br><br><img alt="Soupe de Tortellini.webp" src="/recettes/images/soupe-de-tortellini.webp"><br><br><br>
 <br>Chair de tomates : 320g
 <br>Chair à saucisses : 200g
@@ -2134,25 +2196,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Le riz doit cuire entre 15 à 18 minutes. Vérifiez la cuisson du riz et coupez le feu.
 <br>Ajoutez le comté râpé, salez, poivrez.
 <br>Servez, c'est prêt !
-]]></description><link>recettes/risotto-comté-&amp;-saucisse-à-l'ancienne.html</link><guid isPermaLink="false">recettes/Risotto comté &amp; saucisse à l'ancienne.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/risotto-comté-&amp;-saucisse-à-l'ancienne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/risotto-comté-&amp;-saucisse-à-l'ancienne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Risotto de coquillettes]]></title><description><![CDATA[ 
- <br><br><img alt="Risotto de coquillettes.webp" src="/recettes/images/risotto-de-coquillettes.webp"><br><br><br>
-<br>Jambon : 4 tranches
-<br>Vin blanc : 80cl
-<br>Pâtes (coquillettes) : 360g
-<br>Comté : 80g
-<br>Crème fraîche: 10cl
-<br>Bouillon de volaille : 1
-<br>Échalote : 1
-<br><br>
-<br>Épluchez et émincez l'échalote.
-<br>Faites-les rissoler 2 minutes dans une casserole avec une noisette de beurre.
-<br>Ajoutez les coquillettes et laissez-les dorer 2 minutes. Versez le vin blanc et mélangez jusqu'à absorption.
-<br>Faites bouillir 1l d'eau et faites-y dissoudre le bouillon.
-<br>Ajoutez une louche de bouillon et mélangez jusqu'à absorption, recommencez l'opération pendant 10 minutes. Goûtez les coquillettes. Continuez la cuisson quelques minutes si elles sont trop fermes.
-<br>Une fois les coquillettes cuites, salez, poivrez, ajoutez la crème, le comté râpé et mélangez.
-<br>Roulez les tranches de jambons et coupez-les afin d’obtenir des lamelles.
-<br>Dressez les coquillettes sur une assiette, ajoutez le jambon et quelques herbes fraîches si vous en avez. C'est prêt !
-]]></description><link>recettes/risotto-de-coquillettes.html</link><guid isPermaLink="false">recettes/Risotto de coquillettes.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/risotto-de-coquillettes.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/risotto-de-coquillettes.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Risotto de coquillettes poireaux, poulet &amp; chèvre]]></title><description><![CDATA[ 
+]]></description><link>recettes/risotto-comté-&amp;-saucisse-à-l'ancienne.html</link><guid isPermaLink="false">recettes/Risotto comté &amp; saucisse à l'ancienne.md</guid><pubDate>Wed, 28 Feb 2024 19:02:04 GMT</pubDate><enclosure url="recettes/images/risotto-comté-&amp;-saucisse-à-l'ancienne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/risotto-comté-&amp;-saucisse-à-l'ancienne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Risotto de coquillettes poireaux, poulet &amp; chèvre]]></title><description><![CDATA[ 
  <br><br><img alt="Risotto de coquillettes poireaux, poulet &amp; chèvre.webp" src="/recettes/images/risotto-de-coquillettes-poireaux,-poulet-&amp;-chèvre.webp"><br><br><br>
 <br>Pâtes : 320g
 <br>Poirreaux : 2
