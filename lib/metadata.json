@@ -1,6 +1,6 @@
 {
   "vaultName": "cookbook",
-  "lastExport": 1715775733535,
+  "lastExport": 1715962492185,
   "pluginVersion": "1.8.0",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -373,6 +373,7 @@
     "recettes/images/délicieuse-salade-de-lentilles.webp",
     "recettes/images/endives-en-pochon.webp",
     "recettes/images/escalope-de-dinde-à-la-normande.webp",
+    "recettes/images/purée-de-pommes-de-terre-façon-goblot.webp",
     "recettes/images/feuilletés-apéritifs-aux-saucisses-de-strasbourg.webp",
     "recettes/images/feuilletés-au-fromage-ultra-simples.webp",
     "recettes/images/feuilletés-épinard,-feta-&-salade.webp",
@@ -442,7 +443,6 @@
     "recettes/images/poulet-boursin,-lard-&-pommes-de-terre.webp",
     "recettes/images/poulet-pané-au-parmesan.webp",
     "recettes/images/poulet-sauce-moutarde.webp",
-    "recettes/images/purée-de-pommes-de-terre-façon-goblot.webp",
     "recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp",
     "recettes/images/quiche-artichaut-&-parma.webp",
     "recettes/images/quiche-au-saumon-et-aux-épinards.webp",
@@ -528,8 +528,8 @@
   ],
   "fileInfo": {
     "catégories/Au fil des saisons.md": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 293,
+      "modifiedTime": 1715962492185,
+      "sourceSize": 421,
       "exportedPath": "catégories/au-fil-des-saisons.html",
       "dependencies": []
     },
@@ -1768,8 +1768,8 @@
       ]
     },
     "recettes/Haricots verts à la bolognaise.md": {
-      "modifiedTime": 1715775733535,
-      "sourceSize": 951,
+      "modifiedTime": 1715962492185,
+      "sourceSize": 974,
       "exportedPath": "recettes/haricots-verts-à-la-bolognaise.html",
       "dependencies": [
         "recettes/images/haricots-verts-à-la-bolognaise.webp"
@@ -2017,8 +2017,8 @@
       ]
     },
     "recettes/Poulet à la moutarde & pommes de terre.md": {
-      "modifiedTime": 1715775733535,
-      "sourceSize": 1077,
+      "modifiedTime": 1715962492185,
+      "sourceSize": 1087,
       "exportedPath": "recettes/poulet-à-la-moutarde-&-pommes-de-terre.html",
       "dependencies": [
         "recettes/images/poulet-à-la-moutarde-&-pommes-de-terre.webp"
@@ -2312,8 +2312,8 @@
       ]
     },
     "recettes/Saucisse & lentilles.md": {
-      "modifiedTime": 1715775733535,
-      "sourceSize": 1036,
+      "modifiedTime": 1715962492185,
+      "sourceSize": 972,
       "exportedPath": "recettes/saucisse-&-lentilles.html",
       "dependencies": [
         "recettes/images/saucisse-&-lentilles.webp"
@@ -2475,21 +2475,21 @@
       ]
     },
     "index.md": {
-      "modifiedTime": 1712244799454,
-      "sourceSize": 1843,
+      "modifiedTime": 1715962492185,
+      "sourceSize": 1813,
       "exportedPath": "index.html",
       "dependencies": [
         "photo.webp"
       ]
     },
     "Menu de la semaine.md": {
-      "modifiedTime": 1715105511011,
-      "sourceSize": 4650,
+      "modifiedTime": 1715962492185,
+      "sourceSize": 5704,
       "exportedPath": "menu-de-la-semaine.html",
       "dependencies": []
     },
     "photo.webp": {
-      "modifiedTime": 1712244799454,
+      "modifiedTime": 1715962492185,
       "sourceSize": 66864,
       "exportedPath": "photo.webp",
       "dependencies": []
@@ -2807,7 +2807,7 @@
       "dependencies": []
     },
     "recettes/images/haricots-verts-à-la-bolognaise.webp": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 34046,
       "exportedPath": "recettes/images/haricots-verts-à-la-bolognaise.webp",
       "dependencies": []
@@ -2987,7 +2987,7 @@
       "dependencies": []
     },
     "recettes/images/poulet-à-la-moutarde-&-pommes-de-terre.webp": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 249728,
       "exportedPath": "recettes/images/poulet-à-la-moutarde-&-pommes-de-terre.webp",
       "dependencies": []
@@ -3197,7 +3197,7 @@
       "dependencies": []
     },
     "recettes/images/saucisse-&-lentilles.webp": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 77396,
       "exportedPath": "recettes/images/saucisse-&-lentilles.webp",
       "dependencies": []
@@ -3317,169 +3317,169 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 119318,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1715775733535,
-      "sourceSize": 13165,
+      "modifiedTime": 1715962492185,
+      "sourceSize": 13085,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 134730,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 343,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1715962492185,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
