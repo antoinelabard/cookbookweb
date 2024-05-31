@@ -1,6 +1,6 @@
 {
   "vaultName": "cookbook",
-  "lastExport": 1715962492185,
+  "lastExport": 1717170120002,
   "pluginVersion": "1.8.0",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -59,7 +59,6 @@
     "recettes/images/Gratin de crème fraîche aux ravioles et légumes à couscous.webp",
     "recettes/images/Gratin de haricots verts aux champignons.webp",
     "recettes/images/Gratin de lieu noir à la sauce tomate.webp",
-    "recettes/images/Gratin de purées de carotte et pomme de terre.webp",
     "recettes/images/Gratin de ravioles à la ratatouille.webp",
     "recettes/images/Gratin de ravioles au saumon.webp",
     "recettes/images/Grilled cheese raclette & jambon.webp",
@@ -140,6 +139,7 @@
     "recettes/images/Salade jambon cru, mozza & pistaches.webp",
     "recettes/images/Salade piémontaise facile.webp",
     "recettes/images/Saucisse & lentilles.webp",
+    "recettes/images/Sauté de porc façon Goblot.webp",
     "recettes/images/Soupe aux ramen.webp",
     "recettes/images/Soupe de Tortellini.webp",
     "recettes/images/Soupe iranienne.webp",
@@ -208,7 +208,6 @@
     "recettes/Gratin de crème fraîche aux ravioles et légumes à couscous.md",
     "recettes/Gratin de haricots verts aux champignons.md",
     "recettes/Gratin de lieu noir à la sauce tomate.md",
-    "recettes/Gratin de purées de carotte et pomme de terre.md",
     "recettes/Gratin de ravioles à la ratatouille.md",
     "recettes/Gratin de ravioles au saumon.md",
     "recettes/Grilled cheese raclette & jambon.md",
@@ -291,6 +290,7 @@
     "recettes/Salade jambon cru, mozza & pistaches.md",
     "recettes/Salade piémontaise facile.md",
     "recettes/Saucisse & lentilles.md",
+    "recettes/Sauté de porc façon Goblot.md",
     "recettes/Soupe aux ramen.md",
     "recettes/Soupe de Tortellini.md",
     "recettes/Soupe iranienne.md",
@@ -394,7 +394,6 @@
     "recettes/images/gratin-de-crème-fraîche-aux-ravioles-et-légumes-à-couscous.webp",
     "recettes/images/gratin-de-haricots-verts-aux-champignons.webp",
     "recettes/images/gratin-de-lieu-noir-à-la-sauce-tomate.webp",
-    "recettes/images/gratin-de-purées-de-carotte-et-pomme-de-terre.webp",
     "recettes/images/gratin-de-ravioles-à-la-ratatouille.webp",
     "recettes/images/gratin-de-ravioles-au-saumon.webp",
     "recettes/images/grilled-cheese-raclette-&-jambon.webp",
@@ -528,7 +527,7 @@
   ],
   "fileInfo": {
     "catégories/Au fil des saisons.md": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 421,
       "exportedPath": "catégories/au-fil-des-saisons.html",
       "dependencies": []
@@ -801,12 +800,6 @@
       "modifiedTime": 1709321860465,
       "sourceSize": 28426,
       "exportedPath": "recettes/images/gratin-de-lieu-noir-à-la-sauce-tomate.webp",
-      "dependencies": []
-    },
-    "recettes/images/Gratin de purées de carotte et pomme de terre.webp": {
-      "modifiedTime": 1709321860465,
-      "sourceSize": 73974,
-      "exportedPath": "recettes/images/gratin-de-purées-de-carotte-et-pomme-de-terre.webp",
       "dependencies": []
     },
     "recettes/images/Gratin de ravioles à la ratatouille.webp": {
@@ -1472,7 +1465,7 @@
       ]
     },
     "recettes/Club sandwich au thon.md": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1717170120002,
       "sourceSize": 1048,
       "exportedPath": "recettes/club-sandwich-au-thon.html",
       "dependencies": [
@@ -1693,14 +1686,6 @@
         "recettes/images/gratin-de-lieu-noir-à-la-sauce-tomate.webp"
       ]
     },
-    "recettes/Gratin de purées de carotte et pomme de terre.md": {
-      "modifiedTime": 1715775733535,
-      "sourceSize": 1329,
-      "exportedPath": "recettes/gratin-de-purées-de-carotte-et-pomme-de-terre.html",
-      "dependencies": [
-        "recettes/images/gratin-de-purées-de-carotte-et-pomme-de-terre.webp"
-      ]
-    },
     "recettes/Gratin de ravioles à la ratatouille.md": {
       "modifiedTime": 1715775733535,
       "sourceSize": 906,
@@ -1912,8 +1897,8 @@
       ]
     },
     "recettes/Pâtes à la carbonara façon Goblot.md": {
-      "modifiedTime": 1715775733535,
-      "sourceSize": 1227,
+      "modifiedTime": 1717170120002,
+      "sourceSize": 1234,
       "exportedPath": "recettes/pâtes-à-la-carbonara-façon-goblot.html",
       "dependencies": [
         "recettes/images/pâtes-à-la-carbonara-façon-goblot.webp"
@@ -2200,7 +2185,7 @@
       ]
     },
     "recettes/Riz crevettes, coco & maïs.md": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1717170120002,
       "sourceSize": 1011,
       "exportedPath": "recettes/riz-crevettes,-coco-&-maïs.html",
       "dependencies": [
@@ -2483,8 +2468,8 @@
       ]
     },
     "Menu de la semaine.md": {
-      "modifiedTime": 1715962492185,
-      "sourceSize": 5704,
+      "modifiedTime": 1717170120002,
+      "sourceSize": 2305,
       "exportedPath": "menu-de-la-semaine.html",
       "dependencies": []
     },
@@ -2567,7 +2552,7 @@
       "dependencies": []
     },
     "recettes/images/club-sandwich-au-thon.webp": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1717170120002,
       "sourceSize": 34560,
       "exportedPath": "recettes/images/club-sandwich-au-thon.webp",
       "dependencies": []
@@ -2752,12 +2737,6 @@
       "exportedPath": "recettes/images/gratin-de-lieu-noir-à-la-sauce-tomate.webp",
       "dependencies": []
     },
-    "recettes/images/gratin-de-purées-de-carotte-et-pomme-de-terre.webp": {
-      "modifiedTime": 1715775733535,
-      "sourceSize": 73974,
-      "exportedPath": "recettes/images/gratin-de-purées-de-carotte-et-pomme-de-terre.webp",
-      "dependencies": []
-    },
     "recettes/images/gratin-de-ravioles-à-la-ratatouille.webp": {
       "modifiedTime": 1715775733535,
       "sourceSize": 95868,
@@ -2909,7 +2888,7 @@
       "dependencies": []
     },
     "recettes/images/pâtes-à-la-carbonara-façon-goblot.webp": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1717170120002,
       "sourceSize": 24374,
       "exportedPath": "recettes/images/pâtes-à-la-carbonara-façon-goblot.webp",
       "dependencies": []
@@ -3113,7 +3092,7 @@
       "dependencies": []
     },
     "recettes/images/riz-crevettes,-coco-&-maïs.webp": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1717170120002,
       "sourceSize": 83234,
       "exportedPath": "recettes/images/riz-crevettes,-coco-&-maïs.webp",
       "dependencies": []
@@ -3317,169 +3296,169 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1715962492185,
-      "sourceSize": 119318,
+      "modifiedTime": 1717170120002,
+      "sourceSize": 119242,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1715962492185,
-      "sourceSize": 13085,
+      "modifiedTime": 1717170120002,
+      "sourceSize": 12837,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 134730,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 343,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1715962492185,
+      "modifiedTime": 1717170120002,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -3757,8 +3736,8 @@
       "dependencies": []
     },
     "recettes/Salade campagnarde.md": {
-      "modifiedTime": 1715775733535,
-      "sourceSize": 1198,
+      "modifiedTime": 1717170120002,
+      "sourceSize": 1201,
       "exportedPath": "recettes/salade-campagnarde.html",
       "dependencies": [
         "recettes/images/salade-campagnarde.webp"
@@ -3773,7 +3752,7 @@
       ]
     },
     "recettes/images/salade-campagnarde.webp": {
-      "modifiedTime": 1715775733535,
+      "modifiedTime": 1717170120002,
       "sourceSize": 204534,
       "exportedPath": "recettes/images/salade-campagnarde.webp",
       "dependencies": []
@@ -3782,6 +3761,26 @@
       "modifiedTime": 1715775733535,
       "sourceSize": 224288,
       "exportedPath": "recettes/images/wok-légumes-sautés,-poulet-&-sauce-cacahuète.webp",
+      "dependencies": []
+    },
+    "recettes/images/Sauté de porc façon Goblot.webp": {
+      "modifiedTime": 1717170120002,
+      "sourceSize": 393518,
+      "exportedPath": "recettes/images/sauté-de-porc-façon-goblot.webp",
+      "dependencies": []
+    },
+    "recettes/Sauté de porc façon Goblot.md": {
+      "modifiedTime": 1717170120002,
+      "sourceSize": 972,
+      "exportedPath": "recettes/sauté-de-porc-façon-goblot.html",
+      "dependencies": [
+        "recettes/images/sauté-de-porc-façon-goblot.webp"
+      ]
+    },
+    "recettes/images/sauté-de-porc-façon-goblot.webp": {
+      "modifiedTime": 1717170120002,
+      "sourceSize": 393518,
+      "exportedPath": "recettes/images/sauté-de-porc-façon-goblot.webp",
       "dependencies": []
     }
   }
