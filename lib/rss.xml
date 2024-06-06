@@ -1,4 +1,61 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 31 May 2024 15:42:01 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 31 May 2024 15:42:00 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Au fil des saisons]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 06 Jun 2024 16:29:51 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 06 Jun 2024 16:29:50 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+ <br><br><br>
+<br><a data-href="Risotto comté &amp; saucisse à l'ancienne" href="/recettes/risotto-comté-&amp;-saucisse-à-l'ancienne.html" class="internal-link" target="_self" rel="noopener">Risotto comté &amp; saucisse à l'ancienne</a>
+<br><a data-href="Chakchouka haricots verts &amp; feta" href="/recettes/chakchouka-haricots-verts-&amp;-feta.html" class="internal-link" target="_self" rel="noopener">Chakchouka haricots verts &amp; feta</a>
+<br><a data-href="Quiche au saumon et aux épinards" href="/recettes/quiche-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche au saumon et aux épinards</a>
+<br><a data-href="Bavette à l'échalote, pommes de terre &amp; haricots" href="/recettes/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.html" class="internal-link" target="_self" rel="noopener">Bavette à l'échalote, pommes de terre &amp; haricots</a>
+<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/riz-cantonais-837ahz32meszfb0r0efj?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/riz-cantonais-837ahz32meszfb0r0efj?coversCount=4&amp;from=menu</a>
+<br><a data-href="Endives en pochon" href="/recettes/endives-en-pochon.html" class="internal-link" target="_self" rel="noopener">Endives en pochon</a>
+<br><a data-href="Steak haché à l'échalote &amp; purée" href="/recettes/steak-haché-à-l'échalote-&amp;-purée.html" class="internal-link" target="_self" rel="noopener">Steak haché à l'échalote &amp; purée</a>
+<br><br>
+<br>Produits secs et conserves
+
+<br>Riz : 560g
+<br>Purée de tomates : 400g
+<br>Oeufs : 19
+<br>Cumin
+<br>Coriandre
+<br>Basilic
+<br>Aneth
+<br>Muscade
+<br>Épinards : 350g
+<br>Persil
+<br>sauce tomate : 50cl
+<br>petits pois 120g
+
+
+<br>Produits frais
+
+<br>Saucisse fumée : 400G
+<br>Pâte feuilletée : 1
+<br>Jambon blanc : 300g
+<br>jambon 8 tranches
+
+
+<br>Fruits et légumes
+
+<br>Haricots verts : 800g
+<br>Pommes de terre : 1600g
+<br>Endives : 8
+
+
+<br>Vin blanc : 8cl
+<br>Produits laitiers
+
+<br>Feta : 120g
+<br>Crème fraiche : 25cl
+<br>Parmesan râpé : 30g
+<br>Gruyère : 100g
+
+
+<br>Viandes
+
+<br>Saumon : 200g
+<br>Boeuf (bavette) : 4
+<br>Steak haché de boeuf : 4
+
+
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Thu, 06 Jun 2024 16:20:41 GMT</pubDate></item><item><title><![CDATA[Au fil des saisons]]></title><description><![CDATA[ 
  <br><br><br><a data-tooltip-position="top" aria-label="recettes/Club sandwich au thon.md" data-href="recettes/Club sandwich au thon.md" href="/recettes/club-sandwich-au-thon.html" class="internal-link" target="_self" rel="noopener">Club sandwich au thon</a><br><a data-tooltip-position="top" aria-label="recettes/Endives en pochon.md" data-href="recettes/Endives en pochon.md" href="/recettes/endives-en-pochon.html" class="internal-link" target="_self" rel="noopener">Endives en pochon</a><br><a data-tooltip-position="top" aria-label="recettes/Feuilletés épinard, feta &amp; salade.md" data-href="recettes/Feuilletés épinard, feta &amp; salade.md" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a><br><a data-tooltip-position="top" aria-label="recettes/Frittata courgette, jambon &amp; mozza.md" data-href="recettes/Frittata courgette, jambon &amp; mozza.md" href="/recettes/frittata-courgette,-jambon-&amp;-mozza.html" class="internal-link" target="_self" rel="noopener">Frittata courgette, jambon &amp; mozza</a><br><a data-tooltip-position="top" aria-label="recettes/Frittata saumon fumé &amp; chèvre frais.md" data-href="recettes/Frittata saumon fumé &amp; chèvre frais.md" href="/recettes/frittata-saumon-fumé-&amp;-chèvre-frais.html" class="internal-link" target="_self" rel="noopener">Frittata saumon fumé &amp; chèvre frais</a><br><a data-tooltip-position="top" aria-label="recettes/Pâtes aux petits pois, poireaux et bacon.md" data-href="recettes/Pâtes aux petits pois, poireaux et bacon.md" href="/recettes/pâtes-aux-petits-pois,-poireaux-et-bacon.html" class="internal-link" target="_self" rel="noopener">Pâtes aux petits pois, poireaux et bacon</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche au saumon et aux épinards.md" data-href="recettes/Quiche au saumon et aux épinards.md" href="/recettes/quiche-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche au saumon et aux épinards</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche aux asperges et lardons.md" data-href="recettes/Quiche aux asperges et lardons.md" href="/recettes/quiche-aux-asperges-et-lardons.html" class="internal-link" target="_self" rel="noopener">Quiche aux asperges et lardons</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche chèvre épinards.md" data-href="recettes/Quiche chèvre épinards.md" href="/recettes/quiche-chèvre-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche chèvre épinards</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche poireaux, chèvre lardons.md" data-href="recettes/Quiche poireaux, chèvre lardons.md" href="/recettes/quiche-poireaux,-chèvre-lardons.html" class="internal-link" target="_self" rel="noopener">Quiche poireaux, chèvre lardons</a><br><a data-tooltip-position="top" aria-label="recettes/Ratatouille.md" data-href="recettes/Ratatouille.md" href="/recettes/ratatouille.html" class="internal-link" target="_self" rel="noopener">Ratatouille</a><br><a data-tooltip-position="top" aria-label="recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md" data-href="recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md" href="/recettes/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.html" class="internal-link" target="_self" rel="noopener">Ravioli ricotta épinards à la crème d'ail et poireau</a><br><a data-tooltip-position="top" aria-label="recettes/Risotto de coquillettes poireaux, poulet &amp; chèvre.md" data-href="recettes/Risotto de coquillettes poireaux, poulet &amp; chèvre.md" href="/recettes/risotto-de-coquillettes-poireaux,-poulet-&amp;-chèvre.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes poireaux, poulet &amp; chèvre</a><br><a data-tooltip-position="top" aria-label="recettes/Soupe de Tortellini.md" data-href="recettes/Soupe de Tortellini.md" href="/recettes/soupe-de-tortellini.html" class="internal-link" target="_self" rel="noopener">Soupe de Tortellini</a><br><a data-tooltip-position="top" aria-label="recettes/Tresse feuilletée au boursin, poireau et truite fumée.md" data-href="recettes/Tresse feuilletée au boursin, poireau et truite fumée.md" href="/recettes/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.html" class="internal-link" target="_self" rel="noopener">Tresse feuilletée au boursin, poireau et truite fumée</a><br><a data-tooltip-position="top" aria-label="recettes/Wrap Saumon.md" data-href="recettes/Wrap Saumon.md" href="/recettes/wrap-saumon.html" class="internal-link" target="_self" rel="noopener">Wrap Saumon</a><br><br><br><a data-tooltip-position="top" aria-label="recettes/Chakchouka feta &amp; pois chiches.md" data-href="recettes/Chakchouka feta &amp; pois chiches.md" href="/recettes/chakchouka-feta-&amp;-pois-chiches.html" class="internal-link" target="_self" rel="noopener">Chakchouka feta &amp; pois chiches</a><br><a data-tooltip-position="top" aria-label="recettes/Club sandwich au thon.md" data-href="recettes/Club sandwich au thon.md" href="/recettes/club-sandwich-au-thon.html" class="internal-link" target="_self" rel="noopener">Club sandwich au thon</a><br><a data-tooltip-position="top" aria-label="recettes/Club sandwich poulet - bacon.md" data-href="recettes/Club sandwich poulet - bacon.md" href="/recettes/club-sandwich-poulet-bacon.html" class="internal-link" target="_self" rel="noopener">Club sandwich poulet - bacon</a><br><a data-tooltip-position="top" aria-label="recettes/Club sandwich poulet crudités.md" data-href="recettes/Club sandwich poulet crudités.md" href="/recettes/club-sandwich-poulet-crudités.html" class="internal-link" target="_self" rel="noopener">Club sandwich poulet crudités</a><br><a data-tooltip-position="top" aria-label="recettes/Croque-monsieur à l'italienne.md" data-href="recettes/Croque-monsieur à l'italienne.md" href="/recettes/croque-monsieur-à-l'italienne.html" class="internal-link" target="_self" rel="noopener">Croque-monsieur à l'italienne</a><br><a data-tooltip-position="top" aria-label="recettes/Délicieuse salade de lentilles.md" data-href="recettes/Délicieuse salade de lentilles.md" href="/recettes/délicieuse-salade-de-lentilles.html" class="internal-link" target="_self" rel="noopener">Délicieuse salade de lentilles</a><br><a data-tooltip-position="top" aria-label="recettes/Feuilletés épinard, feta &amp; salade.md" data-href="recettes/Feuilletés épinard, feta &amp; salade.md" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a><br><a data-tooltip-position="top" aria-label="recettes/Frittata courgette, jambon &amp; mozza.md" data-href="recettes/Frittata courgette, jambon &amp; mozza.md" href="/recettes/frittata-courgette,-jambon-&amp;-mozza.html" class="internal-link" target="_self" rel="noopener">Frittata courgette, jambon &amp; mozza</a><br><a data-tooltip-position="top" aria-label="recettes/Frittata saumon fumé &amp; chèvre frais.md" data-href="recettes/Frittata saumon fumé &amp; chèvre frais.md" href="/recettes/frittata-saumon-fumé-&amp;-chèvre-frais.html" class="internal-link" target="_self" rel="noopener">Frittata saumon fumé &amp; chèvre frais</a><br><a data-tooltip-position="top" aria-label="recettes/Gratin de lieu noir à la sauce tomate.md" data-href="recettes/Gratin de lieu noir à la sauce tomate.md" href="/recettes/gratin-de-lieu-noir-à-la-sauce-tomate.html" class="internal-link" target="_self" rel="noopener">Gratin de lieu noir à la sauce tomate</a><br><a data-tooltip-position="top" aria-label="recettes/Hamburger maison.md" data-href="recettes/Hamburger maison.md" href="/recettes/hamburger-maison.html" class="internal-link" target="_self" rel="noopener">Hamburger maison</a><br><a data-tooltip-position="top" aria-label="recettes/Haricots rouges à la Mexicaine.md" data-href="recettes/Haricots rouges à la Mexicaine.md" href="/recettes/haricots-rouges-à-la-mexicaine.html" class="internal-link" target="_self" rel="noopener">Haricots rouges à la Mexicaine</a><br><a data-tooltip-position="top" aria-label="recettes/Kebab.md" data-href="recettes/Kebab.md" href="/recettes/kebab.html" class="internal-link" target="_self" rel="noopener">Kebab</a><br><a data-tooltip-position="top" aria-label="recettes/Mafé de poulet &amp; riz.md" data-href="recettes/Mafé de poulet &amp; riz.md" href="/recettes/mafé-de-poulet-&amp;-riz.html" class="internal-link" target="_self" rel="noopener">Mafé de poulet &amp; riz</a><br><a data-tooltip-position="top" aria-label="recettes/Mexican bowl.md" data-href="recettes/Mexican bowl.md" href="/recettes/mexican-bowl.html" class="internal-link" target="_self" rel="noopener">Mexican bowl</a><br><a data-tooltip-position="top" aria-label="recettes/Poulet au sésame.md" data-href="recettes/Poulet au sésame.md" href="/recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener">Poulet au sésame</a><br><a data-tooltip-position="top" aria-label="recettes/Pâtes aux crevettes à la crème.md" data-href="recettes/Pâtes aux crevettes à la crème.md" href="/recettes/pâtes-aux-crevettes-à-la-crème.html" class="internal-link" target="_self" rel="noopener">Pâtes aux crevettes à la crème</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche artichaut &amp; parma.md" data-href="recettes/Quiche artichaut &amp; parma.md" href="/recettes/quiche-artichaut-&amp;-parma.html" class="internal-link" target="_self" rel="noopener">Quiche artichaut &amp; parma</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche au saumon et aux épinards.md" data-href="recettes/Quiche au saumon et aux épinards.md" href="/recettes/quiche-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche au saumon et aux épinards</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche chèvre épinards.md" data-href="recettes/Quiche chèvre épinards.md" href="/recettes/quiche-chèvre-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche chèvre épinards</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche poireaux, chèvre lardons.md" data-href="recettes/Quiche poireaux, chèvre lardons.md" href="/recettes/quiche-poireaux,-chèvre-lardons.html" class="internal-link" target="_self" rel="noopener">Quiche poireaux, chèvre lardons</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche tomate, jambon, chèvre.md" data-href="recettes/Quiche tomate, jambon, chèvre.md" href="/recettes/quiche-tomate,-jambon,-chèvre.html" class="internal-link" target="_self" rel="noopener">Quiche tomate, jambon, chèvre</a><br><a data-tooltip-position="top" aria-label="recettes/Ratatouille.md" data-href="recettes/Ratatouille.md" href="/recettes/ratatouille.html" class="internal-link" target="_self" rel="noopener">Ratatouille</a><br><a data-tooltip-position="top" aria-label="recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md" data-href="recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md" href="/recettes/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.html" class="internal-link" target="_self" rel="noopener">Ravioli ricotta épinards à la crème d'ail et poireau</a><br><a data-tooltip-position="top" aria-label="recettes/Risotto de coquillettes poireaux, poulet &amp; chèvre.md" data-href="recettes/Risotto de coquillettes poireaux, poulet &amp; chèvre.md" href="/recettes/risotto-de-coquillettes-poireaux,-poulet-&amp;-chèvre.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes poireaux, poulet &amp; chèvre</a><br><a data-tooltip-position="top" aria-label="recettes/Riz au chorizo.md" data-href="recettes/Riz au chorizo.md" href="/recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Riz au chorizo</a><br><a data-tooltip-position="top" aria-label="recettes/Salade au poulet pané.md" data-href="recettes/Salade au poulet pané.md" href="/recettes/salade-au-poulet-pané.html" class="internal-link" target="_self" rel="noopener">Salade au poulet pané</a><br><a data-tooltip-position="top" aria-label="recettes/Salade aux haricots rouges, maïs et thon.md" data-href="recettes/Salade aux haricots rouges, maïs et thon.md" href="/recettes/salade-aux-haricots-rouges,-maïs-et-thon.html" class="internal-link" target="_self" rel="noopener">Salade aux haricots rouges, maïs et thon</a><br><a data-tooltip-position="top" aria-label="recettes/Salade de pâtes au thon, tomates et avocat.md" data-href="recettes/Salade de pâtes au thon, tomates et avocat.md" href="/recettes/salade-de-pâtes-au-thon,-tomates-et-avocat.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes au thon, tomates et avocat</a><br><a data-tooltip-position="top" aria-label="recettes/Salade de pâtes façon tacos.md" data-href="recettes/Salade de pâtes façon tacos.md" href="/recettes/salade-de-pâtes-façon-tacos.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes façon tacos</a><br><a data-tooltip-position="top" aria-label="recettes/Salade de pâtes méditerranéenne.md" data-href="recettes/Salade de pâtes méditerranéenne.md" href="/recettes/salade-de-pâtes-méditerranéenne.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes méditerranéenne</a><br><a data-tooltip-position="top" aria-label="recettes/Salade de pâtes à l'italienne.md" data-href="recettes/Salade de pâtes à l'italienne.md" href="/recettes/salade-de-pâtes-à-l'italienne.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes à l'italienne</a><br><a data-tooltip-position="top" aria-label="recettes/Salade piémontaise facile.md" data-href="recettes/Salade piémontaise facile.md" href="/recettes/salade-piémontaise-facile.html" class="internal-link" target="_self" rel="noopener">Salade piémontaise facile</a><br><a data-tooltip-position="top" aria-label="recettes/Soupe de Tortellini.md" data-href="recettes/Soupe de Tortellini.md" href="/recettes/soupe-de-tortellini.html" class="internal-link" target="_self" rel="noopener">Soupe de Tortellini</a><br><a data-tooltip-position="top" aria-label="recettes/Tarte aux légumes du soleil.md" data-href="recettes/Tarte aux légumes du soleil.md" href="/recettes/tarte-aux-légumes-du-soleil.html" class="internal-link" target="_self" rel="noopener">Tarte aux légumes du soleil</a><br><a data-tooltip-position="top" aria-label="recettes/Tarte thon, tomate et moutarde.md" data-href="recettes/Tarte thon, tomate et moutarde.md" href="/recettes/tarte-thon,-tomate-et-moutarde.html" class="internal-link" target="_self" rel="noopener">Tarte thon, tomate et moutarde</a><br><a data-tooltip-position="top" aria-label="recettes/Tomates farcies au chèvre chaud.md" data-href="recettes/Tomates farcies au chèvre chaud.md" href="/recettes/tomates-farcies-au-chèvre-chaud.html" class="internal-link" target="_self" rel="noopener">Tomates farcies au chèvre chaud</a><br><a data-tooltip-position="top" aria-label="recettes/Tresse feuilletée au boursin, poireau et truite fumée.md" data-href="recettes/Tresse feuilletée au boursin, poireau et truite fumée.md" href="/recettes/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.html" class="internal-link" target="_self" rel="noopener">Tresse feuilletée au boursin, poireau et truite fumée</a><br><a data-tooltip-position="top" aria-label="recettes/Wok légumes sautés, poulet &amp; sauce cacahuète.md" data-href="recettes/Wok légumes sautés, poulet &amp; sauce cacahuète.md" href="/recettes/wok-légumes-sautés,-poulet-&amp;-sauce-cacahuète.html" class="internal-link" target="_self" rel="noopener">Wok légumes sautés, poulet &amp; sauce cacahuète</a><br><a data-tooltip-position="top" aria-label="recettes/Wrap Saumon.md" data-href="recettes/Wrap Saumon.md" href="/recettes/wrap-saumon.html" class="internal-link" target="_self" rel="noopener">Wrap Saumon</a><br><a data-tooltip-position="top" aria-label="recettes/Wrap de tortilla à l'avocat, cheddar et oeufs brouillés.md" data-href="recettes/Wrap de tortilla à l'avocat, cheddar et oeufs brouillés.md" href="/recettes/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.html" class="internal-link" target="_self" rel="noopener">Wrap de tortilla à l'avocat, cheddar et oeufs brouillés</a><br><a data-tooltip-position="top" aria-label="recettes/Wrap maïs, thon &amp; fromage frais.md" data-href="recettes/Wrap maïs, thon &amp; fromage frais.md" href="/recettes/wrap-maïs,-thon-&amp;-fromage-frais.html" class="internal-link" target="_self" rel="noopener">Wrap maïs, thon &amp; fromage frais</a><br><br><br><a data-tooltip-position="top" aria-label="recettes/Feuilletés épinard, feta &amp; salade.md" data-href="recettes/Feuilletés épinard, feta &amp; salade.md" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a><br><a data-tooltip-position="top" aria-label="recettes/Frittata saumon fumé &amp; chèvre frais.md" data-href="recettes/Frittata saumon fumé &amp; chèvre frais.md" href="/recettes/frittata-saumon-fumé-&amp;-chèvre-frais.html" class="internal-link" target="_self" rel="noopener">Frittata saumon fumé &amp; chèvre frais</a><br><a data-tooltip-position="top" aria-label="recettes/Nouilles sautées aux crevettes.md" data-href="recettes/Nouilles sautées aux crevettes.md" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a><br><a data-tooltip-position="top" aria-label="recettes/Poulet au sésame.md" data-href="recettes/Poulet au sésame.md" href="/recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener">Poulet au sésame</a><br><a data-tooltip-position="top" aria-label="recettes/Pâtes aux petits pois, poireaux et bacon.md" data-href="recettes/Pâtes aux petits pois, poireaux et bacon.md" href="/recettes/pâtes-aux-petits-pois,-poireaux-et-bacon.html" class="internal-link" target="_self" rel="noopener">Pâtes aux petits pois, poireaux et bacon</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche artichaut &amp; parma.md" data-href="recettes/Quiche artichaut &amp; parma.md" href="/recettes/quiche-artichaut-&amp;-parma.html" class="internal-link" target="_self" rel="noopener">Quiche artichaut &amp; parma</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche au saumon et aux épinards.md" data-href="recettes/Quiche au saumon et aux épinards.md" href="/recettes/quiche-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche au saumon et aux épinards</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche chèvre épinards.md" data-href="recettes/Quiche chèvre épinards.md" href="/recettes/quiche-chèvre-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche chèvre épinards</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche poireaux, chèvre lardons.md" data-href="recettes/Quiche poireaux, chèvre lardons.md" href="/recettes/quiche-poireaux,-chèvre-lardons.html" class="internal-link" target="_self" rel="noopener">Quiche poireaux, chèvre lardons</a><br><a data-tooltip-position="top" aria-label="recettes/Ratatouille.md" data-href="recettes/Ratatouille.md" href="/recettes/ratatouille.html" class="internal-link" target="_self" rel="noopener">Ratatouille</a><br><a data-tooltip-position="top" aria-label="recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md" data-href="recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md" href="/recettes/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.html" class="internal-link" target="_self" rel="noopener">Ravioli ricotta épinards à la crème d'ail et poireau</a><br><a data-tooltip-position="top" aria-label="recettes/Risotto de coquillettes poireaux, poulet &amp; chèvre.md" data-href="recettes/Risotto de coquillettes poireaux, poulet &amp; chèvre.md" href="/recettes/risotto-de-coquillettes-poireaux,-poulet-&amp;-chèvre.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes poireaux, poulet &amp; chèvre</a><br><a data-tooltip-position="top" aria-label="recettes/Riz au chorizo.md" data-href="recettes/Riz au chorizo.md" href="/recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Riz au chorizo</a><br><a data-tooltip-position="top" aria-label="recettes/Salade jambon cru, mozza &amp; pistaches.md" data-href="recettes/Salade jambon cru, mozza &amp; pistaches.md" href="/recettes/salade-jambon-cru,-mozza-&amp;-pistaches.html" class="internal-link" target="_self" rel="noopener">Salade jambon cru, mozza &amp; pistaches</a><br><a data-tooltip-position="top" aria-label="recettes/Soupe de Tortellini.md" data-href="recettes/Soupe de Tortellini.md" href="/recettes/soupe-de-tortellini.html" class="internal-link" target="_self" rel="noopener">Soupe de Tortellini</a><br><a data-tooltip-position="top" aria-label="recettes/Tarte aux légumes du soleil.md" data-href="recettes/Tarte aux légumes du soleil.md" href="/recettes/tarte-aux-légumes-du-soleil.html" class="internal-link" target="_self" rel="noopener">Tarte aux légumes du soleil</a><br><a data-tooltip-position="top" aria-label="recettes/Tresse feuilletée au boursin, poireau et truite fumée.md" data-href="recettes/Tresse feuilletée au boursin, poireau et truite fumée.md" href="/recettes/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.html" class="internal-link" target="_self" rel="noopener">Tresse feuilletée au boursin, poireau et truite fumée</a><br><a data-tooltip-position="top" aria-label="recettes/Velouté d'endives au lard.md" data-href="recettes/Velouté d'endives au lard.md" href="/recettes/velouté-d'endives-au-lard.html" class="internal-link" target="_self" rel="noopener">Velouté d'endives au lard</a><br><br><br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>catégories/au-fil-des-saisons.html</link><guid isPermaLink="false">catégories/Au fil des saisons.md</guid><pubDate>Mon, 20 May 2024 08:15:09 GMT</pubDate></item><item><title><![CDATA[Club sandwich au thon]]></title><description><![CDATA[ 
  <br><br><img alt="Club sandwich au thon.webp" src="/recettes/images/club-sandwich-au-thon.webp"><br><br><br>
 <br>Pain de mie : 16 tranches
@@ -76,117 +133,7 @@
 <br>Ajouter la crème fraîche dans la marmite.
 <br>Faire cuire le riz ou la semoule selon les instructions du paquet.
 <br>Servir le riz/semoule avec le porc. C'est prêt !
-]]></description><link>recettes/sauté-de-porc-façon-goblot.html</link><guid isPermaLink="false">recettes/Sauté de porc façon Goblot.md</guid><pubDate>Mon, 20 May 2024 06:42:46 GMT</pubDate><enclosure url="recettes/images/sauté-de-porc-façon-goblot.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/sauté-de-porc-façon-goblot.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
- <br><br><br>
-<br><a data-href="Brunch sandwich aux champignons" href="/recettes/brunch-sandwich-aux-champignons.html" class="internal-link" target="_self" rel="noopener">Brunch sandwich aux champignons</a>
-<br><a data-href="Risotto comté &amp; saucisse à l'ancienne" href="/recettes/risotto-comté-&amp;-saucisse-à-l'ancienne.html" class="internal-link" target="_self" rel="noopener">Risotto comté &amp; saucisse à l'ancienne</a>
-<br><a data-href="Chèvre chaud au jambon &amp; salade" href="/recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Chèvre chaud au jambon &amp; salade</a>
-<br><a data-href="Tresse feuilletée au boursin, poireau et truite fumée" href="/recettes/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.html" class="internal-link" target="_self" rel="noopener">Tresse feuilletée au boursin, poireau et truite fumée</a>
-<br>Sandwhichs
-<br><br>
-<br>produits secs
-
-<br>Pain de mie : 16 tranches
-<br>Oeufs : 9
-<br>Riz : 280g
-
-
-<br>produits frais
-
-<br>Jambon : 16 tranches
-<br>Saucisse fumée : 400G
-<br>Pâte feuilletée : 1
-
-
-<br>fruits et légumes
-
-<br>Champignons de Paris : 400g
-<br>Échalote : 1
-<br>Salade : 8 poignées
-<br>Poireaux : 3
-
-
-<br>produits laitiers
-
-<br>Fromage à l'ail : 300g
-<br>Comté : 80g
-<br>Fromage de chèvre : 200g
-
-
-<br>Viandes
-
-<br>Truite : 4 tranches
-
-
-<br><br>
-<br><a data-href="Risotto de coquillettes" href="/recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes</a>
-<br><a data-href="Haricots verts à la carbonara" href="/recettes/haricots-verts-à-la-carbonara.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la carbonara</a>
-<br><a data-href="Quiche au saumon et aux épinards" href="/recettes/quiche-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche au saumon et aux épinards</a>
-<br><a data-href="Club sandwich au thon" href="/recettes/club-sandwich-au-thon.html" class="internal-link" target="_self" rel="noopener">Club sandwich au thon</a>
-<br><a data-href="Galette complète &amp; oignons confits" href="/recettes/galette-complète-&amp;-oignons-confits.html" class="internal-link" target="_self" rel="noopener">Galette complète &amp; oignons confits</a>
-<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/salade-printaniere-au-poulet-8gkee824lf0wdfoa17g4?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/salade-printaniere-au-poulet-8gkee824lf0wdfoa17g4?coversCount=4&amp;from=menu</a>
-<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/one-pan-poulet-et-citron-8uau0eovm8ojah3d0ddj?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/one-pan-poulet-et-citron-8uau0eovm8ojah3d0ddj?coversCount=4&amp;from=menu</a>
-<br><a data-href="Soupe de Tortellini" href="/recettes/soupe-de-tortellini.html" class="internal-link" target="_self" rel="noopener">Soupe de Tortellini</a>
-<br><br>
-<br>Produits frais
-
-<br>Jambon : 8 tranches
-<br>Lardons : 200g
-<br>Pâte feuilletée : 1
-<br>Galettes bretonnes : 4
-<br>Pâtes tortellini ricotta-épinards : 440g
-
-
-<br>Produits secs et conserves
-
-<br>Pâtes (coquillettes) : 360g
-<br>Haricots verts : 800g
-<br>Oeufs : 9
-<br>Basilic
-<br>Aneth
-<br>Muscade
-<br>Épinards : 550g
-<br>Câpres : 100g
-<br>Pain de mie : 16 tranches
-<br>Wasabi : 10g
-<br>Jus de citron
-<br>Thon : 500g
-<br>Mayonnaise : 24cl
-<br>Chair de tomates : 320g
-<br>petits pois : 320g
-<br>méange de céréales 240g
-<br>vinaigre balsamique 4cc
-<br>olives dénoyautées : 160g
-
-
-<br>Produits laiters
-
-<br>Comté : 80g
-<br>Crème fraîche : 70cl
-<br>Parmesan râpé : 220g
-<br>Fromage râpé : 250g
-<br>feta : 80g
-
-
-<br>Viandes
-
-<br>Saumon : 200g
-<br>Chair à saucisses : 200g
-<br>cuisses de poulet : 4
-
-
-<br>Fruits et légumes
-
-<br>Concombre : 1
-<br>Salade : 1
-<br>Oignons nouveaux : 4
-<br>tomates : 2
-<br>radis : 200g
-<br>citron : 1
-<br>pommes de terre : 800g
-
-
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 31 May 2024 15:41:52 GMT</pubDate></item><item><title><![CDATA[Haricots verts à la bolognaise]]></title><description><![CDATA[ 
+]]></description><link>recettes/sauté-de-porc-façon-goblot.html</link><guid isPermaLink="false">recettes/Sauté de porc façon Goblot.md</guid><pubDate>Mon, 20 May 2024 06:42:46 GMT</pubDate><enclosure url="recettes/images/sauté-de-porc-façon-goblot.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/sauté-de-porc-façon-goblot.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Haricots verts à la bolognaise]]></title><description><![CDATA[ 
  <br><br><img alt="Haricots verts à la bolognaise.webp" src="/recettes/images/haricots-verts-à-la-bolognaise.webp"><br><br><br>
 <br>Oignon : 1
 <br>Gousse d'ail : 1
