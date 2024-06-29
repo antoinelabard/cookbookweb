@@ -1,5 +1,133 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 20 Jun 2024 16:07:41 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 20 Jun 2024 16:07:40 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 29 Jun 2024 09:37:50 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 29 Jun 2024 09:37:48 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Oeufs cuits]]></title><description><![CDATA[ 
+ <br><br><img alt="Oeufs mollets.webp" src="/recettes/images/oeufs-mollets.webp"><br><br><br>
+<br>Oeufs : 4
+<br><br>
+<br>Ajouter un fond d'eau dans une casserole vapeur. Porter à ébullition.
+<br>Ajouter les oeufs, couvrir et laisser cuire :
+
+<br>4min pour obtenir des oeufs à la coque ;
+<br>5min pour des oeufs mollets ;
+<br>10min pour des oeufs durs.
+
+
+<br>Sortir les oeufs de la casserole. Vous pouvez les peler s'ils sont durs. Ils sont prêts !
+<br>Info
+En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la quantité d'eau à chauffer et donc l'inertie thermique de la casserole. Ainsi, on diminue le temps de chauffe et on ne fait pas chuter la température de l'eau quand on ajoute les oeufs ; ils seront toujours baignés dans une vapeur chaude. La cuisson n'en est que plus homogène et maîtrisée.
+]]></description><link>recettes/oeufs-cuits.html</link><guid isPermaLink="false">recettes/Oeufs cuits.md</guid><pubDate>Sun, 23 Jun 2024 18:31:27 GMT</pubDate><enclosure url="recettes/images/oeufs-mollets.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/oeufs-mollets.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade campagnarde]]></title><description><![CDATA[ 
+ <br><br><img alt="Salade campagnarde.webp" src="/recettes/images/salade-campagnarde.webp"><br><br><br>
+<br><a data-href="Oeufs cuits" href="/recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener">Oeufs cuits</a> durs : 6
+<br><a data-href="Pommes de terres sautées" href="/recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener">Pommes de terres sautées</a> : 600g
+<br>Salade mâche : 8 poignées
+<br>Chèvre frai : 80g
+<br>Bacon : 8 tranches
+<br><br>
+<br>Pommes de terres sautées<br>
+<br>Pendant ce temps, faites cuire les œufs dans une casserole d'eau bouillante pendant 10 min.
+<br>Placez-les dans un bol d'eau froide pour stopper la cuisson, écalez-les et coupez-les en morceaux.
+<br>Après 10 minutes. Coupez la cuisson des pommes de terre.
+<br>Dans la poêle, faites cuire le bacon 2 minutes sur chaque face.
+<br>Dressez la salade : dans une assiette ajoutez la mâche, les pommes de terres, les œufs, le bacon et le chèvre. (Optionnel : ajoutez des herbes fraîches). C'est prêt !
+]]></description><link>recettes/salade-campagnarde.html</link><guid isPermaLink="false">recettes/Salade campagnarde.md</guid><pubDate>Sun, 23 Jun 2024 18:30:50 GMT</pubDate><enclosure url="recettes/images/salade-campagnarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-campagnarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Toasts à l'avocat et oeufs mollets]]></title><description><![CDATA[ 
+ <br><br><img alt="Toasts à l'avocat et oeufs mollets.webp" src="/recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp"><br><br><br>
+<br><a data-href="Oeufs cuits" href="/recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener">Oeufs cuits</a> mollets : 4
+<br>Tranches de pain de mie : 2
+<br>Avocat : 1
+<br>Ciboulette
+<br><br>
+<br>Oeufs cuits<br><br><br><br><img alt="Oeufs mollets.webp" src="/recettes/images/oeufs-mollets.webp"><br><br><br>
+<br>Oeufs : 4
+<br><br>
+<br>Ajouter un fond d'eau dans une casserole vapeur. Porter à ébullition.
+<br>Ajouter les oeufs, couvrir et laisser cuire :
+
+<br>4min pour obtenir des oeufs à la coque ;
+<br>5min pour des oeufs mollets ;
+<br>10min pour des oeufs durs.
+
+
+<br>Sortir les oeufs de la casserole. Vous pouvez les peler s'ils sont durs. Ils sont prêts !
+<br>Info
+En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la quantité d'eau à chauffer et donc l'inertie thermique de la casserole. Ainsi, on diminue le temps de chauffe et on ne fait pas chuter la température de l'eau quand on ajoute les oeufs ; ils seront toujours baignés dans une vapeur chaude. La cuisson n'en est que plus homogène et maîtrisée.
+
+<br>Faire griller les toasts.
+<br>Couper l'avocat en tranche.
+<br>Éplucher délicatement les oeufs.
+<br>Déposer sur les toasts l'avocat puis les oeufs.
+<br>Saupoudrer de ciboulette et de poivre.
+<br>Couper les oeufs en deux au dernier moment.
+]]></description><link>recettes/toasts-à-l'avocat-et-oeufs-mollets.html</link><guid isPermaLink="false">recettes/Toasts à l'avocat et oeufs mollets.md</guid><pubDate>Sun, 23 Jun 2024 18:33:34 GMT</pubDate><enclosure url="recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br><br>
+<br><a data-href="Poulet sauce moutarde" href="/recettes/poulet-sauce-moutarde.html" class="internal-link" target="_self" rel="noopener">Poulet sauce moutarde</a>
+<br><a data-href="Pasta al tonno" href="/recettes/pasta-al-tonno.html" class="internal-link" target="_self" rel="noopener">Pasta al tonno</a>
+<br><a data-href="Salade haricots verts, lardons &amp; œuf mollet" href="/recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html" class="internal-link" target="_self" rel="noopener">Salade haricots verts, lardons &amp; œuf mollet</a>
+<br><a data-href="Ravioles à la toscane" href="/recettes/ravioles-à-la-toscane.html" class="internal-link" target="_self" rel="noopener">Ravioles à la toscane</a>
+<br><a data-href="Wrap maïs, thon &amp; fromage frais" href="/recettes/wrap-maïs,-thon-&amp;-fromage-frais.html" class="internal-link" target="_self" rel="noopener">Wrap maïs, thon &amp; fromage frais</a>
+<br><a data-href="Chakchouka feta &amp; pois chiches" href="/recettes/chakchouka-feta-&amp;-pois-chiches.html" class="internal-link" target="_self" rel="noopener">Chakchouka feta &amp; pois chiches</a>
+<br><a data-href="Poulet au sésame" href="/recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener">Poulet au sésame</a>
+<br><br>
+<br>Croque
+<br>légumes frais
+<br>Tortilla
+<br><br>
+<br>Fruits et légumes
+
+<br>Salade iceberg
+<br>Concombre x 1
+<br>Carottes x 3
+<br>Petite tomate (boite)
+<br>champignons (boite)
+<br>Mélange de champignons : 400g
+<br>Salade : 4 poignées
+<br>Graines de sésame
+<br>Brocoli : 320g
+
+
+<br>produits frais
+
+<br>jambon
+<br>Lardons : 300g
+<br>Ravioli : 500g
+
+
+<br>produts laitiers
+
+<br>Fromage tranche
+<br>Boursin
+<br>Cube de fromage (mimolette, chèvre)
+<br>Crème fraiche : 20cl
+<br>Crème fraiche : 20cl
+<br>Parmesan râpé : 60g
+<br>Fromage frais : 40g
+<br>Feta : 160g
+
+
+<br>produits secs
+
+<br>Riz : 280g
+<br>Thon : 240g
+<br>Thon : 200g
+<br>Pâtes : 400g
+<br>Tomates séchées : 160g
+<br>Haricots verts : 600g
+<br>Oeufs : 12
+<br>Moutarde à l'ancienne : 40g
+<br>Tomates séchées : 200g
+<br>Épinards : 300g
+<br>Tortillas : 4
+<br>Maïs : 120g
+<br>Poids chiches : 400g
+<br>Sauce tomate : 600g
+<br>Sauce soja : 10cl
+<br>Riz : 280g
+
+
+<br>viandes
+
+<br>Filets de poulet : 4
+
+
+<br>Chips ondulés petit paquet
+<br><br><br>
 <br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/pie-poireaux-et-champignons-8kls2fe21z1sl3be1duh?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/pie-poireaux-et-champignons-8kls2fe21z1sl3be1duh?coversCount=4&amp;from=menu</a>
 <br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/gratin-de-penne-petit-pois-et-lard-8ge0arndl10hj95x0fn9?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/gratin-de-penne-petit-pois-et-lard-8ge0arndl10hj95x0fn9?coversCount=4&amp;from=menu</a>
 <br><a data-href="Poulet à la sauce aux champignons" href="/recettes/poulet-à-la-sauce-aux-champignons.html" class="internal-link" target="_self" rel="noopener">Poulet à la sauce aux champignons</a>
@@ -148,7 +276,7 @@
 
 
 <br>Vin blanc : 10cl
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Thu, 20 Jun 2024 16:06:50 GMT</pubDate></item><item><title><![CDATA[Ravioli ricotta épinards à la crème d'ail et poireau]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Sat, 29 Jun 2024 09:34:04 GMT</pubDate></item><item><title><![CDATA[Ravioli ricotta épinards à la crème d'ail et poireau]]></title><description><![CDATA[ 
  <br><br><img alt="Ravioli ricotta épinards à la crème d'ail et poireau.webp" src="/recettes/images/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.webp"><br><br><br>
 <br>Crème fraîche : 20cl
 <br>Gousse d'ail : 1
@@ -240,23 +368,7 @@
 <br>Baissez le feu et ajoutez 80 cl d'eau par personne ainsi que le lait de coco. Salez, poivrez, mélangez et couvrez la poêle. Laissez cuire à feu doux pendant 20 minutes.
 <br>Après 20 minutes de cuisson, goûtez le riz, il doit être légèrement "al dente". Ajoutez ensuite le maïs et les crevettes. Mélangez et servez bien chaud.
 <br>Salez, poivrez et ajoutez de la coriandre si vous en avez. C'est prêt !
-]]></description><link>recettes/riz-crevettes,-coco-&amp;-maïs.html</link><guid isPermaLink="false">recettes/Riz crevettes, coco &amp; maïs.md</guid><pubDate>Mon, 20 May 2024 10:27:29 GMT</pubDate><enclosure url="recettes/images/riz-crevettes,-coco-&amp;-maïs.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/riz-crevettes,-coco-&amp;-maïs.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade campagnarde]]></title><description><![CDATA[ 
- <br><br><img alt="Salade campagnarde.webp" src="/recettes/images/salade-campagnarde.webp"><br><br><br>
-<br>Oeufs : 6
-<br>Pommes de terre : 600g
-<br>Salade mâche : 8 poignées
-<br>Chèvre frai : 80g
-<br>Bacon : 8 tranches
-<br><br>
-<br>Lavez les pommes de terre et coupez-les en 2 ou en 4.
-<br>Dans un poêle avec un filet d'huile de cuisson, ajoutez les pommes de terre, salez, poivrez et saisissez-les 5 minutes, à feu vif.
-<br>Couvrez et laissez cuire à feu doux 10 minutes.
-<br>Pendant ce temps, faites cuire les œufs dans une casserole d'eau bouillante pendant 10 min.
-<br>Placez-les dans un bol d'eau froide pour stopper la cuisson, écalez-les et coupez-les en morceaux.
-<br>Après 10 minutes. Coupez la cuisson des pommes de terre.
-<br>Dans la poêle, faites cuire le bacon 2 minutes sur chaque face.
-<br>Dressez la salade : dans une assiette ajoutez la mâche, les pommes de terres, les œufs, le bacon et le chèvre. (Optionnel : ajoutez des herbes fraîches). C'est prêt !
-]]></description><link>recettes/salade-campagnarde.html</link><guid isPermaLink="false">recettes/Salade campagnarde.md</guid><pubDate>Mon, 20 May 2024 13:40:02 GMT</pubDate><enclosure url="recettes/images/salade-campagnarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-campagnarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sauté de porc façon Goblot]]></title><description><![CDATA[ 
+]]></description><link>recettes/riz-crevettes,-coco-&amp;-maïs.html</link><guid isPermaLink="false">recettes/Riz crevettes, coco &amp; maïs.md</guid><pubDate>Mon, 20 May 2024 10:27:29 GMT</pubDate><enclosure url="recettes/images/riz-crevettes,-coco-&amp;-maïs.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/riz-crevettes,-coco-&amp;-maïs.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sauté de porc façon Goblot]]></title><description><![CDATA[ 
  <br><br><img alt="Sauté de porc façon Goblot.webp" src="/recettes/images/sauté-de-porc-façon-goblot.webp"><br><br><br>
 <br>Oignon : 1
 <br>Morceaux de porc : 500g
@@ -1391,21 +1503,7 @@ Cette recette est inspirée du <a data-href="Gratin de ravioles à la ratatouill
 <br>Ajoutez le lard.
 <br>Faites des puits à l'aide d'une cuillère et cassez les œufs délicatement. Salez et poivrez (optionnel : ajoutez une pincée de piment).
 <br>Enfournez pendant 15 minutes. Dégustez avec une salade ou une tranche de pain. C'est prêt !
-]]></description><link>recettes/oeuf-cocotte-épinards-&amp;-lard.html</link><guid isPermaLink="false">recettes/Oeuf cocotte épinards &amp; lard.md</guid><pubDate>Wed, 15 May 2024 12:15:08 GMT</pubDate><enclosure url="recettes/images/oeuf-cocotte-épinards-&amp;-lard.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/oeuf-cocotte-épinards-&amp;-lard.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Oeufs mollets]]></title><description><![CDATA[ 
- <br><br><img alt="Oeufs mollets.webp" src="/recettes/images/oeufs-mollets.webp"><br><br><br>
-<br>Oeufs : 4
-<br><br>
-<br>Ajouter un fond d'eau dans une casserole vapeur. Porter à ébullition.
-<br>Ajouter les oeufs, couvrir et laisser cuire :
-
-<br>4min pour obtenir des oeufs à la coque ;
-<br>5min pour des oeufs mollets.
-
-
-<br>Sortir les oeufs de la casserole. Ils sont prêts !
-<br>Info
-En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la quantité d'eau à chauffer et donc l'inertie thermique de la casserole. Ainsi, on diminue le temps de chauffe et on ne fait pas chuter la température de l'eau quand on ajoute les oeufs ; ils seront toujours baignés dans une vapeur chaude. La cuisson n'en est que plus homogène et maîtrisée.
-]]></description><link>recettes/oeufs-mollets.html</link><guid isPermaLink="false">recettes/Oeufs mollets.md</guid><pubDate>Wed, 15 May 2024 11:39:41 GMT</pubDate><enclosure url="recettes/images/oeufs-mollets.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/oeufs-mollets.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Oignons confits]]></title><description><![CDATA[ 
+]]></description><link>recettes/oeuf-cocotte-épinards-&amp;-lard.html</link><guid isPermaLink="false">recettes/Oeuf cocotte épinards &amp; lard.md</guid><pubDate>Wed, 15 May 2024 12:15:08 GMT</pubDate><enclosure url="recettes/images/oeuf-cocotte-épinards-&amp;-lard.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/oeuf-cocotte-épinards-&amp;-lard.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Oignons confits]]></title><description><![CDATA[ 
  <br><br><img alt="Oignons confits.webp" src="/recettes/images/oignons-confits.webp"><br><br><br>
 <br>Oignon : 2
 <br>Sucre en poudre : 2cc
@@ -2627,34 +2725,7 @@ La piémontaise est meilleure préparée la veille !
 <br>Faites chauffer l'huile de friture dans une grande poêle et ajoutez les dés de poulet.
 <br>Faites-les frire jusqu'à ce qu'ils soient bien dorés, égouttez-les sur du papier absorbant et dégustez chaud.
 <br>Servez avec une salade et du ketchup et régalez-vous !
-]]></description><link>recettes/tenders.html</link><guid isPermaLink="false">recettes/Tenders.md</guid><pubDate>Wed, 15 May 2024 11:39:41 GMT</pubDate><enclosure url="recettes/images/tenders.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tenders.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Toasts à l'avocat et oeufs mollets]]></title><description><![CDATA[ 
- <br><br><img alt="Toasts à l'avocat et oeufs mollets.webp" src="/recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp"><br><br><br>
-<br><a data-href="Oeufs mollets" href="/recettes/oeufs-mollets.html" class="internal-link" target="_self" rel="noopener">Oeufs mollets</a> : 4
-<br>Tranches de pain de mie : 2
-<br>Avocat : 1
-<br>Ciboulette
-<br><br>
-<br>Oeufs mollets<br><br><br><br><img alt="Oeufs mollets.webp" src="/recettes/images/oeufs-mollets.webp"><br><br><br>
-<br>Oeufs : 4
-<br><br>
-<br>Ajouter un fond d'eau dans une casserole vapeur. Porter à ébullition.
-<br>Ajouter les oeufs, couvrir et laisser cuire :
-
-<br>4min pour obtenir des oeufs à la coque ;
-<br>5min pour des oeufs mollets.
-
-
-<br>Sortir les oeufs de la casserole. Ils sont prêts !
-<br>Info
-En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la quantité d'eau à chauffer et donc l'inertie thermique de la casserole. Ainsi, on diminue le temps de chauffe et on ne fait pas chuter la température de l'eau quand on ajoute les oeufs ; ils seront toujours baignés dans une vapeur chaude. La cuisson n'en est que plus homogène et maîtrisée.
-
-<br>Faire griller les toasts.
-<br>Couper l'avocat en tranche.
-<br>Éplucher délicatement les oeufs.
-<br>Déposer sur les toasts l'avocat puis les oeufs.
-<br>Saupoudrer de ciboulette et de poivre.
-<br>Couper les oeufs en deux au dernier moment.
-]]></description><link>recettes/toasts-à-l'avocat-et-oeufs-mollets.html</link><guid isPermaLink="false">recettes/Toasts à l'avocat et oeufs mollets.md</guid><pubDate>Wed, 15 May 2024 12:19:08 GMT</pubDate><enclosure url="recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tomates farcies au chèvre chaud]]></title><description><![CDATA[ 
+]]></description><link>recettes/tenders.html</link><guid isPermaLink="false">recettes/Tenders.md</guid><pubDate>Wed, 15 May 2024 11:39:41 GMT</pubDate><enclosure url="recettes/images/tenders.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tenders.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tomates farcies au chèvre chaud]]></title><description><![CDATA[ 
  <br><br><img alt="Tomates farcies au chèvre chaud.webp" src="/recettes/images/tomates-farcies-au-chèvre-chaud.webp"><br><br><br>
 <br>Tomates charnues : 8
 <br>Fromage de chèvre : 1 bûche
