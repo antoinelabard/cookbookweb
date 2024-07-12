@@ -1,5 +1,120 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 04 Jul 2024 16:21:43 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 04 Jul 2024 16:21:41 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
- <br><br><br><br>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 12 Jul 2024 05:33:15 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 12 Jul 2024 05:33:13 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Croissant au jambon fromage]]></title><description><![CDATA[ 
+ <br><br><img alt="Croissant au jambon fromage.webp" src="/recettes/images/croissant-au-jambon-fromage.webp"><br><br><br>
+<br><a data-href="Béchamel" href="/béchamel.html" class="internal-link" target="_self" rel="noopener">Béchamel</a> : 80g
+<br>Gruyère râpé : 100g
+<br>Croissants : 4
+<br>Tranches de jambon : 4
+<br><br>
+<br>Commencer par ouvrir vos croissants en deux à l'aide d'un couteau sans les séparer complètement.
+<br>Béchamel<br>
+<br>Dès que votre béchamel est prête, faites y&lt; fondre du fromage puis l'étaler à l'intérieur des croissants. Ajouter une tranche de jambon roulée, puis encore de la béchamel et du fromage râpé.
+<br>Recommencer ceci pour les 3 autres.
+<br>Mettre au four à 180°C (thermostat 6) pendant 20 min tout en surveillant.
+]]></description><link>recettes/croissant-au-jambon-fromage.html</link><guid isPermaLink="false">recettes/Croissant au jambon fromage.md</guid><pubDate>Sun, 07 Jul 2024 07:15:01 GMT</pubDate><enclosure url="recettes/images/croissant-au-jambon-fromage.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/croissant-au-jambon-fromage.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet sauce moutarde]]></title><description><![CDATA[ 
+ <br><br><img alt="Poulet sauce moutarde.webp" src="/recettes/images/poulet-sauce-moutarde.webp"><br><br><br>
+<br>Escalopes de poulet : 4
+<br>Crème fraiche : 20cl
+<br>Riz : 280g
+<br>Oignons : 2
+<br>Mélange de champignons : 400g
+<br>Moutarde à l'ancienne : 1cc
+<br><br>
+<br>Cuire le riz selon les instructions du paquet. Égouttez-le en fin de cuisson.
+<br>Dans une poêle, faire revenir les champignons à feu vif pendant 5 minutes en remuant régulièrement.
+<br>Pendant ce temps, épluchez puis émincez les oignons. Coupez le poulet en fines lamelles.
+<br>Une fois les champignons légèrement dorés, ajoutez le poulet et les oignons émincés ainsi qu'un filet d'huile d'olive. Faire revenir 5 minutes à feu vif en remuant.
+<br>Baissez le feu à feu doux et ajoutez la crème et la moutarde, salez poivrez et laissez mijoter à feu doux pendant 5 minutes.
+<br>Salez, poivrez en fin de cuisson.
+<br>Servir le poulet sur le riz avec la sauce, c'est prêt !
+]]></description><link>recettes/poulet-sauce-moutarde.html</link><guid isPermaLink="false">recettes/Poulet sauce moutarde.md</guid><pubDate>Fri, 05 Jul 2024 17:45:13 GMT</pubDate><enclosure url="recettes/images/poulet-sauce-moutarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-sauce-moutarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade haricots verts, lardons &amp; œuf mollet]]></title><description><![CDATA[ 
+ <br><br><img alt="Salade haricots verts, lardons &amp; œuf mollet.webp" src="/recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp"><br><br><br>
+<br>Haricots verts : 600g
+<br><a data-href="Oeufs cuits" href="/recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener">Oeufs cuits</a> mollets : 4
+<br>Lardons : 300g
+<br>Moutarde à l'ancienne : 40g
+<br>Huile d'olive : 6cl
+<br>Persil
+<br><br>
+<br>Oeufs cuits<br><br><br><br><img alt="Oeufs mollets.webp" src="/recettes/images/oeufs-mollets.webp"><br><br><br>
+<br>Oeufs : 4
+<br><br>
+<br>Ajouter un fond d'eau dans une casserole vapeur. Porter à ébullition.
+<br>Ajouter les oeufs, couvrir et laisser cuire :
+
+<br>4min pour obtenir des oeufs à la coque ;
+<br>5min pour des oeufs mollets ;
+<br>10min pour des oeufs durs.
+
+
+<br>Sortir les oeufs de la casserole. Vous pouvez les peler s'ils sont durs. Ils sont prêts !
+<br>Info
+En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la quantité d'eau à chauffer et donc l'inertie thermique de la casserole. Ainsi, on diminue le temps de chauffe et on ne fait pas chuter la température de l'eau quand on ajoute les oeufs ; ils seront toujours baignés dans une vapeur chaude. La cuisson n'en est que plus homogène et maîtrisée.
+
+<br>En parallèle, faites cuire les haricots verts dans une casserole d'eau bouillante pendant environ 3 minutes puis égouttez-les.
+<br>Dans une poêle, faites revenir les lardons pendant 3 minutes à feu vif.
+<br>Une fois que vos œufs sont cuits, passez-les dans l'eau froide puis enlevez la coquille délicatement. Coupez-les en deux.
+<br>Préparez votre vinaigrette en mélangeant la moutarde à l'ancienne avec l'huile d'olive. Salez et poivrez.
+<br>Dressez votre salade en ajoutant les haricots verts, les lardons, l'œuf mollet et versez la sauce par-dessus. Ajoutez quelques feuilles de persil ciselés. C'est prêt !
+]]></description><link>recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html</link><guid isPermaLink="false">recettes/Salade haricots verts, lardons &amp; œuf mollet.md</guid><pubDate>Fri, 05 Jul 2024 17:46:12 GMT</pubDate><enclosure url="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+ <br><br><br>
+<br><a data-href="Risotto de coquillettes" href="/recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes</a>
+<br><a data-href="Boulettes &amp; semoule express" href="/recettes/boulettes-&amp;-semoule-express.html" class="internal-link" target="_self" rel="noopener">Boulettes &amp; semoule express</a>
+<br><a data-href="Wrap de tortilla à l'avocat, cheddar et oeufs brouillés" href="/recettes/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.html" class="internal-link" target="_self" rel="noopener">Wrap de tortilla à l'avocat, cheddar et oeufs brouillés</a>
+<br><a data-href="Tarte aux légumes du soleil" href="/recettes/tarte-aux-légumes-du-soleil.html" class="internal-link" target="_self" rel="noopener">Tarte aux légumes du soleil</a>
+<br><a data-href="Quiche tomate, jambon, chèvre" href="/recettes/quiche-tomate,-jambon,-chèvre.html" class="internal-link" target="_self" rel="noopener">Quiche tomate, jambon, chèvre</a>
+<br><a data-href="Galette complète &amp; oignons confits" href="/recettes/galette-complète-&amp;-oignons-confits.html" class="internal-link" target="_self" rel="noopener">Galette complète &amp; oignons confits</a>
+<br><br>
+<br>Produits frais
+
+<br>Jambon : 4 tranches
+<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 2
+<br>Jambon : 100g
+<br>Galettes bretonnes : 4
+<br>Jambon : 4 tranches
+
+
+<br>Produits secs
+
+<br>Pâtes (coquillettes) : 360g
+<br>Semoule : 300g
+<br>Purée de tomate : 480g
+<br>Tortillas : 8
+<br>Oeufs : 9
+<br>nouilles de riz
+<br>petit mais
+
+
+<br>Produits laitiers
+
+<br>Comté : 80g
+<br>Crème fraîche: 10cl
+<br>Cheddar : 50g
+<br>Parmesan râpé : 10g
+<br>Gruyère râpé : 300g
+<br>Fromage de chèvre : 1
+<br>Crème liquide : 50cl
+
+
+<br>Fruits et légumes
+
+<br>Échalote : 1
+<br>Avocat : 1
+<br>Poivrons : 2
+<br>Courgette : 1
+<br>Tomates : 6
+<br>Aubergine : 1
+<br>petite salade
+<br>pousses de haricots mango
+<br>petite tomate
+
+
+<br>Viandes
+
+<br>Boulettes de viande : 480g
+
+
+<br>Vin blanc : 30cl
+<br><br><br>
 <br><a data-href="Risotto de coquillettes poireaux, poulet &amp; chèvre" href="/recettes/risotto-de-coquillettes-poireaux,-poulet-&amp;-chèvre.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes poireaux, poulet &amp; chèvre</a>
 <br><a data-href="Riz crevettes, coco &amp; maïs" href="/recettes/riz-crevettes,-coco-&amp;-maïs.html" class="internal-link" target="_self" rel="noopener">Riz crevettes, coco &amp; maïs</a>
 <br><a data-href="Tomates farcies au chèvre chaud" href="/recettes/tomates-farcies-au-chèvre-chaud.html" class="internal-link" target="_self" rel="noopener">Tomates farcies au chèvre chaud</a>
@@ -27,6 +142,7 @@
 <br>Grosse Semoule
 <br>Raisin sec
 <br>COMPOTE EN GOURDE
+<br>[ ]
 
 
 <br>Fruits et légumes
@@ -75,78 +191,7 @@
 <br>Jambon sec : 4 tranches
 
 
-<br><br><br>
-<br><a data-href="Poulet sauce moutarde" href="/recettes/poulet-sauce-moutarde.html" class="internal-link" target="_self" rel="noopener">Poulet sauce moutarde</a>
-<br><a data-href="Pasta al tonno" href="/recettes/pasta-al-tonno.html" class="internal-link" target="_self" rel="noopener">Pasta al tonno</a>
-<br><a data-href="Salade haricots verts, lardons &amp; œuf mollet" href="/recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html" class="internal-link" target="_self" rel="noopener">Salade haricots verts, lardons &amp; œuf mollet</a>
-<br><a data-href="Ravioles à la toscane" href="/recettes/ravioles-à-la-toscane.html" class="internal-link" target="_self" rel="noopener">Ravioles à la toscane</a>
-<br><a data-href="Wrap maïs, thon &amp; fromage frais" href="/recettes/wrap-maïs,-thon-&amp;-fromage-frais.html" class="internal-link" target="_self" rel="noopener">Wrap maïs, thon &amp; fromage frais</a>
-<br><a data-href="Chakchouka feta &amp; pois chiches" href="/recettes/chakchouka-feta-&amp;-pois-chiches.html" class="internal-link" target="_self" rel="noopener">Chakchouka feta &amp; pois chiches</a>
-<br><a data-href="Poulet au sésame" href="/recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener">Poulet au sésame</a>
-<br><br>
-<br>Croque
-<br>légumes frais
-<br>Tortilla
-<br><br>
-<br>Fruits et légumes
-
-<br>Salade iceberg
-<br>Concombre x 1
-<br>Carottes x 3
-<br>Petite tomate (boite)
-<br>champignons (boite)
-<br>Mélange de champignons : 400g
-<br>Salade : 4 poignées
-<br>Graines de sésame
-<br>Brocoli : 320g
-
-
-<br>produits frais
-
-<br>jambon
-<br>Lardons : 300g
-<br>Ravioli : 500g
-
-
-<br>produts laitiers
-
-<br>Fromage tranche
-<br>Boursin
-<br>Cube de fromage (mimolette, chèvre)
-<br>Crème fraiche : 20cl
-<br>Crème fraiche : 20cl
-<br>Parmesan râpé : 60g
-<br>Fromage frais : 40g
-<br>Feta : 160g
-
-
-<br>produits secs
-
-<br>Riz : 280g
-<br>Thon : 240g
-<br>Thon : 200g
-<br>Pâtes : 400g
-<br>Tomates séchées : 160g
-<br>Haricots verts : 600g
-<br>Oeufs : 12
-<br>Moutarde à l'ancienne : 40g
-<br>Tomates séchées : 200g
-<br>Épinards : 300g
-<br>Tortillas : 4
-<br>Maïs : 120g
-<br>Poids chiches : 400g
-<br>Sauce tomate : 600g
-<br>Sauce soja : 10cl
-<br>Riz : 280g
-
-
-<br>viandes
-
-<br>Filets de poulet : 4
-
-
-<br>Chips ondulés petit paquet
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Thu, 04 Jul 2024 16:21:30 GMT</pubDate></item><item><title><![CDATA[Oeufs cuits]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 12 Jul 2024 05:32:55 GMT</pubDate></item><item><title><![CDATA[Oeufs cuits]]></title><description><![CDATA[ 
  <br><br><img alt="Oeufs mollets.webp" src="/recettes/images/oeufs-mollets.webp"><br><br><br>
 <br>Oeufs : 4
 <br><br>
@@ -700,21 +745,7 @@ L’autre secret : bien séparer les 2 bains de friture en laissant le temps aux
 <br>Ajoutez les crevettes dans la poêle, salez, poivrez et faites-les revenir 2 minutes.
 <br>Ajoutez l'ail, les graines de sésame, le jus de citron vert et le miel. Laissez réduire pendant 3 minutes, jusqu'à ce que la sauce commence à caraméliser.*
 <br>Dans une assiette, servez le riz avec les crevettes au miel et sésame. Parsemez de graines de sésame, s'il vous en reste. C'est prêt !
-]]></description><link>recettes/crevettes-miel-sésame.html</link><guid isPermaLink="false">recettes/Crevettes miel sésame.md</guid><pubDate>Wed, 15 May 2024 12:12:49 GMT</pubDate><enclosure url="recettes/images/crevettes-miel-sésame.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/crevettes-miel-sésame.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Croissant au jambon fromage]]></title><description><![CDATA[ 
- <br><br><img alt="Croissant au jambon fromage.webp" src="/recettes/images/croissant-au-jambon-fromage.webp"><br><br><br>
-<br>Farine : 20g
-<br>Lait : 20cl
-<br>Beurre : 20g
-<br>Gruyère râpé : 100g
-<br>Croissants : 4
-<br>Tranches de jambon : 4
-<br><br>
-<br>Commencer par ouvrir vos croissants en deux à l'aide d'un couteau sans les séparer complètement.
-<br>Faire fondre le beurre dans une casserole, y ajouter de la farine et petit à petit en remuant au fouet y ajouter du lait (les quantités sont à votre goût). Laisser épaissir à feu doux en remuant sans cesse. Ajouter du sel, du poivre et de la noix de muscade.
-<br>Dès que votre béchamel est prête faites y fondre du fromage puis l'étaler à l'intérieur des croissants. Ajouter une tranche de jambon roulée, puis encore de la béchamel et du fromage râpé.
-<br>Recommencer ceci pour les 3 autres.
-<br>Mettre au four à 180°C (thermostat 6) pendant 20 min tout en surveillant.
-]]></description><link>recettes/croissant-au-jambon-fromage.html</link><guid isPermaLink="false">recettes/Croissant au jambon fromage.md</guid><pubDate>Wed, 15 May 2024 12:12:53 GMT</pubDate><enclosure url="recettes/images/croissant-au-jambon-fromage.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/croissant-au-jambon-fromage.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Croque-monsieur]]></title><description><![CDATA[ 
+]]></description><link>recettes/crevettes-miel-sésame.html</link><guid isPermaLink="false">recettes/Crevettes miel sésame.md</guid><pubDate>Wed, 15 May 2024 12:12:49 GMT</pubDate><enclosure url="recettes/images/crevettes-miel-sésame.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/crevettes-miel-sésame.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Croque-monsieur]]></title><description><![CDATA[ 
  <br><br><img alt="Croque-monsieur.webp" src="/recettes/images/croque-monsieur.webp"><br><br><br>
 <br>Pain de mie : 8 tranches
 <br>Beurre : 50g
@@ -1876,22 +1907,7 @@ Cette recette est inspirée du <a data-href="Gratin de ravioles à la ratatouill
 <br>Faites cuire le poulet sur feu moyen jusqu'à ce qu'il soit bien doré. Retournez sur l'autre face et laissez dorer. Faites cuire environ 5 minutes de chaque côté.
 <br>Sortez le poulet de la poêle et déposez-le sur du papier absorbant puis salez selon vos goûts. Coupez-le en lamelles si vous le souhaitez.
 <br>Servez le poulet avec le brocoli et versez un filet d'huile d'olive. Saupoudrez le plat avec le reste de parmesan râpé, c'est prêt !
-]]></description><link>recettes/poulet-pané-au-parmesan.html</link><guid isPermaLink="false">recettes/Poulet pané au parmesan.md</guid><pubDate>Wed, 15 May 2024 12:16:34 GMT</pubDate><enclosure url="recettes/images/poulet-pané-au-parmesan.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-pané-au-parmesan.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet sauce moutarde]]></title><description><![CDATA[ 
- <br><br><img alt="Poulet sauce moutarde.webp" src="/recettes/images/poulet-sauce-moutarde.webp"><br><br><br>
-<br>Escalopes de poulet : 4
-<br>Crème fraiche : 20cl
-<br>Riz : 280g
-<br>Oignons : 2
-<br>Mélange de champignons : 400g
-<br><br>
-<br>Cuire le riz selon les instructions du paquet. Égouttez-le en fin de cuisson.
-<br>Dans une poêle, faire revenir les champignons à feu vif pendant 5 minutes en remuant régulièrement.
-<br>Pendant ce temps, épluchez puis émincez les oignons. Coupez le poulet en fines lamelles.
-<br>Une fois les champignons légèrement dorés, ajoutez le poulet et les oignons émincés ainsi qu'un filet d'huile d'olive. Faire revenir 5 minutes à feu vif en remuant.
-<br>Baissez le feu à feu doux et ajoutez la crème et la moutarde, salez poivrez et laissez mijoter à feu doux pendant 5 minutes.
-<br>Salez, poivrez en fin de cuisson.
-<br>Servir le poulet sur le riz avec la sauce, c'est prêt !
-]]></description><link>recettes/poulet-sauce-moutarde.html</link><guid isPermaLink="false">recettes/Poulet sauce moutarde.md</guid><pubDate>Wed, 15 May 2024 12:16:36 GMT</pubDate><enclosure url="recettes/images/poulet-sauce-moutarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-sauce-moutarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Purée de pommes de terre façon Goblot]]></title><description><![CDATA[ 
+]]></description><link>recettes/poulet-pané-au-parmesan.html</link><guid isPermaLink="false">recettes/Poulet pané au parmesan.md</guid><pubDate>Wed, 15 May 2024 12:16:34 GMT</pubDate><enclosure url="recettes/images/poulet-pané-au-parmesan.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-pané-au-parmesan.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Purée de pommes de terre façon Goblot]]></title><description><![CDATA[ 
  <br><br><img alt="Purée de pommes de terre façon Goblot.webp" src="/recettes/images/purée-de-pommes-de-terre-façon-goblot.webp"><br><br><br>
 <br>Pommes de terre : 1kg
 <br>Crème fraiche : 10cl
@@ -2385,22 +2401,7 @@ On peut ajouter un peu de sucre glace avant de les manger.
 <br>Laissez-les bien refroidir puis joutez-les dans le saladier.
 <br>Assaisonnez d'une cuillère à soupe de vinaigre balsamique, de deux cuillères d'huile de noix et sel et poivre.
 <br>Servez avec des copeaux de parmesan fraîchement râpés.
-]]></description><link>recettes/salade-de-pâtes-méditerranéenne.html</link><guid isPermaLink="false">recettes/Salade de pâtes méditerranéenne.md</guid><pubDate>Wed, 15 May 2024 12:18:21 GMT</pubDate><enclosure url="recettes/images/salade-de-pâtes-méditerranéenne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-de-pâtes-méditerranéenne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade haricots verts, lardons &amp; œuf mollet]]></title><description><![CDATA[ 
- <br><br><img alt="Salade haricots verts, lardons &amp; œuf mollet.webp" src="/recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp"><br><br><br>
-<br>Haricots verts : 600g
-<br>Oeufs : 4
-<br>Lardons : 300g
-<br>Moutarde à l'ancienne : 40g
-<br>Huile d'olive : 6cl
-<br>Persil
-<br><br>
-<br>Dans une casserole d'eau bouillante, faites cuire les œufs pendant 6 minutes.
-<br>En parallèle, faites cuire les haricots verts dans une casserole d'eau bouillante pendant environ 3 minutes puis égouttez-les.
-<br>Dans une poêle, faites revenir les lardons pendant 3 minutes à feu vif.
-<br>Une fois que vos œufs sont cuits, passez-les dans l'eau froide puis enlevez la coquille délicatement. Coupez-les en deux.
-<br>Préparez votre vinaigrette en mélangeant la moutarde à l'ancienne avec l'huile d'olive. Salez et poivrez.
-<br>Dressez votre salade en ajoutant les haricots verts, les lardons, l'œuf mollet et versez la sauce par-dessus. Ajoutez quelques feuilles de persil ciselés. C'est prêt !
-]]></description><link>recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html</link><guid isPermaLink="false">recettes/Salade haricots verts, lardons &amp; œuf mollet.md</guid><pubDate>Wed, 15 May 2024 12:18:27 GMT</pubDate><enclosure url="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade jambon cru, mozza &amp; pistaches]]></title><description><![CDATA[ 
+]]></description><link>recettes/salade-de-pâtes-méditerranéenne.html</link><guid isPermaLink="false">recettes/Salade de pâtes méditerranéenne.md</guid><pubDate>Wed, 15 May 2024 12:18:21 GMT</pubDate><enclosure url="recettes/images/salade-de-pâtes-méditerranéenne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-de-pâtes-méditerranéenne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade jambon cru, mozza &amp; pistaches]]></title><description><![CDATA[ 
  <br><br><img alt="Salade jambon cru, mozza &amp; pistaches.webp" src="/recettes/images/salade-jambon-cru,-mozza-&amp;-pistaches.webp"><br><br><br>
 <br>Jambon cru : 8 tranches
 <br>Mozzarella : 240g
