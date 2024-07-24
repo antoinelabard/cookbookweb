@@ -1,32 +1,15 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 12 Jul 2024 05:33:15 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 12 Jul 2024 05:33:13 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Croissant au jambon fromage]]></title><description><![CDATA[ 
- <br><br><img alt="Croissant au jambon fromage.webp" src="/recettes/images/croissant-au-jambon-fromage.webp"><br><br><br>
-<br><a data-href="Béchamel" href="/béchamel.html" class="internal-link" target="_self" rel="noopener">Béchamel</a> : 80g
-<br>Gruyère râpé : 100g
-<br>Croissants : 4
-<br>Tranches de jambon : 4
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 24 Jul 2024 06:55:38 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 24 Jul 2024 06:55:37 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Béchamel]]></title><description><![CDATA[ 
+ <br><br><img alt="Béchamel.webp" src="/recettes/images/béchamel.webp"><br><br><br>
+<br>Beurre : 50g
+<br>Farine : 50g
+<br>Lait : 60cl
+<br>Muscade
 <br><br>
-<br>Commencer par ouvrir vos croissants en deux à l'aide d'un couteau sans les séparer complètement.
-<br>Béchamel<br>
-<br>Dès que votre béchamel est prête, faites y&lt; fondre du fromage puis l'étaler à l'intérieur des croissants. Ajouter une tranche de jambon roulée, puis encore de la béchamel et du fromage râpé.
-<br>Recommencer ceci pour les 3 autres.
-<br>Mettre au four à 180°C (thermostat 6) pendant 20 min tout en surveillant.
-]]></description><link>recettes/croissant-au-jambon-fromage.html</link><guid isPermaLink="false">recettes/Croissant au jambon fromage.md</guid><pubDate>Sun, 07 Jul 2024 07:15:01 GMT</pubDate><enclosure url="recettes/images/croissant-au-jambon-fromage.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/croissant-au-jambon-fromage.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet sauce moutarde]]></title><description><![CDATA[ 
- <br><br><img alt="Poulet sauce moutarde.webp" src="/recettes/images/poulet-sauce-moutarde.webp"><br><br><br>
-<br>Escalopes de poulet : 4
-<br>Crème fraiche : 20cl
-<br>Riz : 280g
-<br>Oignons : 2
-<br>Mélange de champignons : 400g
-<br>Moutarde à l'ancienne : 1cc
-<br><br>
-<br>Cuire le riz selon les instructions du paquet. Égouttez-le en fin de cuisson.
-<br>Dans une poêle, faire revenir les champignons à feu vif pendant 5 minutes en remuant régulièrement.
-<br>Pendant ce temps, épluchez puis émincez les oignons. Coupez le poulet en fines lamelles.
-<br>Une fois les champignons légèrement dorés, ajoutez le poulet et les oignons émincés ainsi qu'un filet d'huile d'olive. Faire revenir 5 minutes à feu vif en remuant.
-<br>Baissez le feu à feu doux et ajoutez la crème et la moutarde, salez poivrez et laissez mijoter à feu doux pendant 5 minutes.
-<br>Salez, poivrez en fin de cuisson.
-<br>Servir le poulet sur le riz avec la sauce, c'est prêt !
-]]></description><link>recettes/poulet-sauce-moutarde.html</link><guid isPermaLink="false">recettes/Poulet sauce moutarde.md</guid><pubDate>Fri, 05 Jul 2024 17:45:13 GMT</pubDate><enclosure url="recettes/images/poulet-sauce-moutarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-sauce-moutarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade haricots verts, lardons &amp; œuf mollet]]></title><description><![CDATA[ 
+<br>Faites fondre le beurre dans une casserole à fond épais.
+<br>Ajoutez la farine et remuez avec une cuillère de bois sans laisser colorer. La farine doit juste épaissir.
+<br>Versez le lait progressivement, sans cesser de remuer, jusqu'à ce que la sauce épaississe.
+<br>Assaisonnez de sel, poivre et muscade râpée.
+]]></description><link>recettes/béchamel.html</link><guid isPermaLink="false">recettes/Béchamel.md</guid><pubDate>Sun, 07 Jul 2024 07:11:08 GMT</pubDate><enclosure url="recettes/images/béchamel.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/béchamel.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade haricots verts, lardons &amp; œuf mollet]]></title><description><![CDATA[ 
  <br><br><img alt="Salade haricots verts, lardons &amp; œuf mollet.webp" src="/recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp"><br><br><br>
 <br>Haricots verts : 600g
 <br><a data-href="Oeufs cuits" href="/recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener">Oeufs cuits</a> mollets : 4
@@ -35,28 +18,98 @@
 <br>Huile d'olive : 6cl
 <br>Persil
 <br><br>
-<br>Oeufs cuits<br><br><br><br><img alt="Oeufs mollets.webp" src="/recettes/images/oeufs-mollets.webp"><br><br><br>
-<br>Oeufs : 4
-<br><br>
-<br>Ajouter un fond d'eau dans une casserole vapeur. Porter à ébullition.
-<br>Ajouter les oeufs, couvrir et laisser cuire :
-
-<br>4min pour obtenir des oeufs à la coque ;
-<br>5min pour des oeufs mollets ;
-<br>10min pour des oeufs durs.
-
-
-<br>Sortir les oeufs de la casserole. Vous pouvez les peler s'ils sont durs. Ils sont prêts !
-<br>Info
-En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la quantité d'eau à chauffer et donc l'inertie thermique de la casserole. Ainsi, on diminue le temps de chauffe et on ne fait pas chuter la température de l'eau quand on ajoute les oeufs ; ils seront toujours baignés dans une vapeur chaude. La cuisson n'en est que plus homogène et maîtrisée.
-
+<br>Oeufs cuits<br>
 <br>En parallèle, faites cuire les haricots verts dans une casserole d'eau bouillante pendant environ 3 minutes puis égouttez-les.
 <br>Dans une poêle, faites revenir les lardons pendant 3 minutes à feu vif.
 <br>Une fois que vos œufs sont cuits, passez-les dans l'eau froide puis enlevez la coquille délicatement. Coupez-les en deux.
 <br>Préparez votre vinaigrette en mélangeant la moutarde à l'ancienne avec l'huile d'olive. Salez et poivrez.
 <br>Dressez votre salade en ajoutant les haricots verts, les lardons, l'œuf mollet et versez la sauce par-dessus. Ajoutez quelques feuilles de persil ciselés. C'est prêt !
-]]></description><link>recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html</link><guid isPermaLink="false">recettes/Salade haricots verts, lardons &amp; œuf mollet.md</guid><pubDate>Fri, 05 Jul 2024 17:46:12 GMT</pubDate><enclosure url="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+]]></description><link>recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html</link><guid isPermaLink="false">recettes/Salade haricots verts, lardons &amp; œuf mollet.md</guid><pubDate>Thu, 18 Jul 2024 12:27:19 GMT</pubDate><enclosure url="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Spaghetti ail &amp; crevette]]></title><description><![CDATA[ 
+ <br><br><img alt="Spaghetti ail &amp; crevette.webp" src="/recettes/images/spaghetti-ail-&amp;-crevette.webp"><br><br><br>
+<br>Pâtes : 400g
+<br>Crevettes : 400g
+<br>Gousses d'ail : 2
+<br>Persil
+<br><br>
+<br>Si besoin, décortiquez les crevettes. Épluchez et émincez l'ail.
+<br>Plongez les pâtes dans un grand volume d'eau bouillante et suivez le temps de cuisson recommandé sur l'emballage. Égouttez en fin de cuisson.
+<br>Faites revenir les crevettes 4 minutes dans un filet d'huile de cuisson avec l'ail émincé.
+<br>Ajoutez les pâtes à peine égouttées dans la poêle avec les crevettes, ajoutez le persil haché. Poursuivez la cuisson 1 minute supplémentaire en mélangeant. Servez avec un filet d'huile d'olive. C'est prêt !
+]]></description><link>recettes/spaghetti-ail-&amp;-crevette.html</link><guid isPermaLink="false">recettes/Spaghetti ail &amp; crevette.md</guid><pubDate>Tue, 23 Jul 2024 07:32:00 GMT</pubDate><enclosure url="recettes/images/spaghetti-ail-&amp;-crevette.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/spaghetti-ail-&amp;-crevette.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br>
+<br><a data-href="Soupe de Tortellini" href="/recettes/soupe-de-tortellini.html" class="internal-link" target="_self" rel="noopener">Soupe de Tortellini</a>
+<br><a data-href="Spaghetti ail &amp; crevette" href="/recettes/spaghetti-ail-&amp;-crevette.html" class="internal-link" target="_self" rel="noopener">Spaghetti ail &amp; crevette</a>
+<br><a data-href="Pasta saumon citron" href="/recettes/pasta-saumon-citron.html" class="internal-link" target="_self" rel="noopener">Pasta saumon citron</a>
+<br><a data-href="Salade de pâtes au thon, tomates et avocat" href="/recettes/salade-de-pâtes-au-thon,-tomates-et-avocat.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes au thon, tomates et avocat</a>
+<br><a data-href="Chèvre chaud au jambon &amp; salade" href="/recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Chèvre chaud au jambon &amp; salade</a>
+<br><a data-href="Wok légumes sautés, poulet &amp; sauce cacahuète" href="/recettes/wok-légumes-sautés,-poulet-&amp;-sauce-cacahuète.html" class="internal-link" target="_self" rel="noopener">Wok légumes sautés, poulet &amp; sauce cacahuète</a>
+<br><a data-href="Chakchouka haricots verts &amp; feta" href="/recettes/chakchouka-haricots-verts-&amp;-feta.html" class="internal-link" target="_self" rel="noopener">Chakchouka haricots verts &amp; feta</a>
+<br><br>
+<br>Produits secs
+
+<br>Chair de tomates : 320g
+<br>Épinards : 200g
+<br>Jus de citron
+<br>Vinaigre balsamique : 5cl
+<br>Pâtes coude : 100g
+<br>Boîte de thon : 1
+<br>Sauce soja : 4cs
+<br>Riz : 280g
+<br>Haricots verts : 600g
+<br>Purée de tomates : 400g
+<br>Oeufs : 8
+<br>Cumin
+<br>Coriandre
+<br>Lait
+<br>pâtes sablées
+<br>farine
+<br>craquottes
+<br>compote en gourde
+
+
+<br>Viandes
+
+<br>Chair à saucisses : 200g
+<br>Crevettes : 400g
+<br>Saumon : 4 tranches
+<br>Escalopes de poulet : 4
+
+
+<br>Produits laitiers
+
+<br>Crème fraiche : 10cl
+<br>Parmesan râpé : 40g
+<br>gros paquet de gruiyère
+<br>Crème fraîche : 10cl
+<br>Parmesan : 40g
+<br>Fromage de chèvre : 200g
+<br>Feta : 120g
+<br>margarine
+
+
+<br>Produits frais
+
+<br>Pâtes tortellini ricotta-épinards : 440g
+<br>Pâtes : 400g
+<br>Pâtes : 400g
+<br>Jambon : 8 tranches
+
+
+<br>Fruits et légumes
+
+<br>Tomates : 2
+<br>Avocat : 1
+<br>Salade : 8 poignées
+<br>oignons 1kg
+<br>Carottes : 4
+<br>Courgettes : 2
+<br>(Optionnel) Graines de sésame
+<br>courgettes 2
+<br>steak haché
+<br>fruits
+
+
+<br><br>
 <br><a data-href="Risotto de coquillettes" href="/recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes</a>
 <br><a data-href="Boulettes &amp; semoule express" href="/recettes/boulettes-&amp;-semoule-express.html" class="internal-link" target="_self" rel="noopener">Boulettes &amp; semoule express</a>
 <br><a data-href="Wrap de tortilla à l'avocat, cheddar et oeufs brouillés" href="/recettes/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.html" class="internal-link" target="_self" rel="noopener">Wrap de tortilla à l'avocat, cheddar et oeufs brouillés</a>
@@ -191,7 +244,35 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Jambon sec : 4 tranches
 
 
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 12 Jul 2024 05:32:55 GMT</pubDate></item><item><title><![CDATA[Oeufs cuits]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 19 Jul 2024 15:59:12 GMT</pubDate></item><item><title><![CDATA[Croissant au jambon fromage]]></title><description><![CDATA[ 
+ <br><br><img alt="Croissant au jambon fromage.webp" src="/recettes/images/croissant-au-jambon-fromage.webp"><br><br><br>
+<br><a data-href="Béchamel" href="/béchamel.html" class="internal-link" target="_self" rel="noopener">Béchamel</a> : 80g
+<br>Gruyère râpé : 100g
+<br>Croissants : 4
+<br>Tranches de jambon : 4
+<br><br>
+<br>Commencer par ouvrir vos croissants en deux à l'aide d'un couteau sans les séparer complètement.
+<br>Béchamel<br>
+<br>Dès que votre béchamel est prête, faites y&lt; fondre du fromage puis l'étaler à l'intérieur des croissants. Ajouter une tranche de jambon roulée, puis encore de la béchamel et du fromage râpé.
+<br>Recommencer ceci pour les 3 autres.
+<br>Mettre au four à 180°C (thermostat 6) pendant 20 min tout en surveillant.
+]]></description><link>recettes/croissant-au-jambon-fromage.html</link><guid isPermaLink="false">recettes/Croissant au jambon fromage.md</guid><pubDate>Sun, 07 Jul 2024 07:15:01 GMT</pubDate><enclosure url="recettes/images/croissant-au-jambon-fromage.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/croissant-au-jambon-fromage.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet sauce moutarde]]></title><description><![CDATA[ 
+ <br><br><img alt="Poulet sauce moutarde.webp" src="/recettes/images/poulet-sauce-moutarde.webp"><br><br><br>
+<br>Escalopes de poulet : 4
+<br>Crème fraiche : 20cl
+<br>Riz : 280g
+<br>Oignons : 2
+<br>Mélange de champignons : 400g
+<br>Moutarde à l'ancienne : 1cc
+<br><br>
+<br>Cuire le riz selon les instructions du paquet. Égouttez-le en fin de cuisson.
+<br>Dans une poêle, faire revenir les champignons à feu vif pendant 5 minutes en remuant régulièrement.
+<br>Pendant ce temps, épluchez puis émincez les oignons. Coupez le poulet en fines lamelles.
+<br>Une fois les champignons légèrement dorés, ajoutez le poulet et les oignons émincés ainsi qu'un filet d'huile d'olive. Faire revenir 5 minutes à feu vif en remuant.
+<br>Baissez le feu à feu doux et ajoutez la crème et la moutarde, salez poivrez et laissez mijoter à feu doux pendant 5 minutes.
+<br>Salez, poivrez en fin de cuisson.
+<br>Servir le poulet sur le riz avec la sauce, c'est prêt !
+]]></description><link>recettes/poulet-sauce-moutarde.html</link><guid isPermaLink="false">recettes/Poulet sauce moutarde.md</guid><pubDate>Fri, 05 Jul 2024 17:45:13 GMT</pubDate><enclosure url="recettes/images/poulet-sauce-moutarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-sauce-moutarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Oeufs cuits]]></title><description><![CDATA[ 
  <br><br><img alt="Oeufs mollets.webp" src="/recettes/images/oeufs-mollets.webp"><br><br><br>
 <br>Oeufs : 4
 <br><br>
@@ -2488,18 +2569,7 @@ La piémontaise est meilleure préparée la veille !
 <br>Puis le blé, 1,2l d'eau, le bouillon de légumes et le concentré de tomates, sel, poivre.
 <br>Mélangez, laissez mijoter à couvert à feu doux pendant 30 minutes.
 <br>Optionnel : ajoutez une pointe de lait de coco ou de crème et quelques feuilles de persil si vous en avez chez vous.
-]]></description><link>recettes/soupe-iranienne.html</link><guid isPermaLink="false">recettes/Soupe iranienne.md</guid><pubDate>Wed, 15 May 2024 12:18:42 GMT</pubDate><enclosure url="recettes/images/soupe-iranienne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/soupe-iranienne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Spaghetti ail &amp; crevette]]></title><description><![CDATA[ 
- <br><br><img alt="Spaghetti ail &amp; crevette.webp" src="/recettes/images/spaghetti-ail-&amp;-crevette.webp"><br><br><br>
-<br>Pâtes : 400g
-<br>Crevettes : 400g
-<br>Gousses d'ail : 2
-<br>Persil
-<br><br>
-<br>Si besoin, décortiquez les crevettes. Épluchez et émincez l'ail.
-<br>Plongez les pâtes dans un grand volume d'eau bouillante et suivez le temps de cuisson recommandé sur l'emballage. Égouttez en fin de cuisson.
-<br>Faites revenir les crevettes 4 minutes dans un filet d'huile de cuisson avec l'ail émincé et le piment.
-<br>Ajoutez les pâtes à peine égouttées dans la poêle avec les crevettes, ajoutez le persil haché. Poursuivez la cuisson 1 minute supplémentaire en mélangeant. Servez avec un filet d'huile d'olive. C'est prêt !
-]]></description><link>recettes/spaghetti-ail-&amp;-crevette.html</link><guid isPermaLink="false">recettes/Spaghetti ail &amp; crevette.md</guid><pubDate>Wed, 15 May 2024 12:18:43 GMT</pubDate><enclosure url="recettes/images/spaghetti-ail-&amp;-crevette.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/spaghetti-ail-&amp;-crevette.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tacos champignons, poulet &amp; comté]]></title><description><![CDATA[ 
+]]></description><link>recettes/soupe-iranienne.html</link><guid isPermaLink="false">recettes/Soupe iranienne.md</guid><pubDate>Wed, 15 May 2024 12:18:42 GMT</pubDate><enclosure url="recettes/images/soupe-iranienne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/soupe-iranienne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tacos champignons, poulet &amp; comté]]></title><description><![CDATA[ 
  <br><br><img alt="Tacos champignons, poulet &amp; comté.webp" src="/recettes/images/tacos-champignons,-poulet-&amp;-comté.webp"><br><br><br>
 <br>Kit fajitas pour 4
 <br>Champignons de Paris : 320g
