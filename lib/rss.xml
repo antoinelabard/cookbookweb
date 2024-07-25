@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 25 Jul 2024 06:42:57 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 25 Jul 2024 06:42:56 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 25 Jul 2024 14:47:44 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 25 Jul 2024 14:47:43 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br>
 <br><a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
 <br><a data-href="Haricots rouges à la Mexicaine" href="/recettes/haricots-rouges-à-la-mexicaine.html" class="internal-link" target="_self" rel="noopener">Haricots rouges à la Mexicaine</a>
@@ -20,6 +20,7 @@
 <br>Galettes bretonnes : 8
 <br>Jambon : 8 tranches
 <br>Lardons fumés : 200g
+<br>Jambon
 
 
 <br>produits laitiers
@@ -32,6 +33,8 @@
 <br>Crème fraîche : 20cl
 <br>Crème fraîche : 20cl
 <br>Parmesan râpé : 100g
+<br> Yaourt grec
+<br> Feta
 
 
 <br>Fruits et légumes
@@ -44,6 +47,9 @@
 <br>Tomate : 1
 <br>Champignons de Paris : 800g
 <br>Échalote : 1
+<br>Pomme de terre
+<br> Champignon
+<br>pommes
 
 
 <br>Produits secs
@@ -58,11 +64,13 @@
 <br>Basilic
 <br>Pâtes : 500g
 <br>Moutarde : 4cc
+<br> Oeuf 8
 
 
 <br>Viandes
 
 <br>Blancs de poulet : 8
+<br> Dinde en morceaux
 
 
 <br>Vin blanc : 10cl
@@ -139,7 +147,7 @@
 <br>fruits
 
 
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Wed, 24 Jul 2024 18:03:05 GMT</pubDate></item><item><title><![CDATA[Béchamel]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Thu, 25 Jul 2024 14:46:04 GMT</pubDate></item><item><title><![CDATA[Béchamel]]></title><description><![CDATA[ 
  <br><br><img alt="Béchamel.webp" src="/recettes/images/béchamel.webp"><br><br><br>
 <br>Beurre : 50g
 <br>Farine : 50g
