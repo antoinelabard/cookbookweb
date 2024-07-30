@@ -1,4 +1,51 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 25 Jul 2024 14:47:44 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 25 Jul 2024 14:47:43 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 30 Jul 2024 16:20:47 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 30 Jul 2024 16:20:46 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Galette de sarrasin façon mer Morte]]></title><description><![CDATA[ 
+ <br><br><img alt="Galette de sarrasin façon mer Morte.webp" src="/recettes/images/galette-de-sarrasin-façon-mer-morte.webp"><br><br><br>
+<br>Beurre : 10g
+<br>Sel : 1cc
+<br>Galette de sarrasin : 1
+<br>sucre sel : 50g
+<br>Fromage blanc : 200g
+<br>Myrtilles : 100g
+<br><br>
+<br>Dans une poêle ajouter le beurre, déposer la galette, ajouter une bonne cuillère de sucre sel en poudre.
+<br>&nbsp;Laisser pendant presque 10 minutes à feu doux, caraméliser gentiment.
+<br>Couvrir avec un couvercle pour aider le sucre sel à fondre.
+<br>Une fois que la galette a bien caramélisé séché (élasticité nulle), couper le feu et laisser refroidir un peu.
+<br>Étaler le fromage blanc et ajouter les myrtilles.
+<br>Déguster avec un rooibos bien chaud !
+]]></description><link>recettes/galette-de-sarrasin-façon-mer-morte.html</link><guid isPermaLink="false">recettes/Galette de sarrasin façon mer Morte.md</guid><pubDate>Tue, 30 Jul 2024 16:17:16 GMT</pubDate><enclosure url="recettes/images/galette-de-sarrasin-façon-mer-morte.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-de-sarrasin-façon-mer-morte.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Pâtes à la carbonara façon Goblot]]></title><description><![CDATA[ 
+ <br><br><img alt="Pâtes à la carbonara façon Goblot.webp" src="/recettes/images/pâtes-à-la-carbonara-façon-goblot.webp"><br><br><br>
+<br>Pâtes : 500g
+<br>Crème fraîche : 20cl
+<br>Lardons fumés : 200g
+<br>Champignons de Paris : 200g
+<br>Oignon : 1
+<br>Oeuf : 1
+<br>Vin blanc : 10cl
+<br>Parmesan râpé : 100g
+<br>Origan
+<br><br>
+<br>Faire cuire les pâtes selon les instructions de paquet.
+<br>Laver et couper les champignons en lamelles. Coupez l'oignon en rondelle
+<br>Dans une poêle, faire revenir les lardons, l'oignon et les champignons dans le vin blanc à feu moyen. Saler et poivrer. Si le vin s'évapore avant que les ingrédients ne soient cuits, on peut ajouter un fond d'eau pour terminer la cuisson.
+<br>Une fois le vin évaporé et les ingrédients cuits, ajouter la crème fraîche, l'origan et le parmesan. On peut garder un peu de parmesan pour saupoudrer le plat à la fin. Remuer et mélanger pour faire fondre la crème.
+<br>Ajouter les pâtes cuites et le jaune d'oeuf. Mélanger le tout.
+<br>Servir en saupoudrant du reste de parmesan. C'est prêt !
+]]></description><link>recettes/pâtes-à-la-carbonara-façon-goblot.html</link><guid isPermaLink="false">recettes/Pâtes à la carbonara façon Goblot.md</guid><pubDate>Mon, 29 Jul 2024 13:23:46 GMT</pubDate><enclosure url="recettes/images/pâtes-à-la-carbonara-façon-goblot.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/pâtes-à-la-carbonara-façon-goblot.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade de pâtes au thon, tomates et avocat]]></title><description><![CDATA[ 
+ <br><br><img alt="Salade de pâtes au thon, tomates et avocat.webp" src="/recettes/images/salade-de-pâtes-au-thon,-tomates-et-avocat.webp"><br><br><br>
+<br>Tomates : 2
+<br>Vinaigre balsamique : 5cl
+<br>Huile d'olive : 2cl
+<br>Origan
+<br>Pâtes coude : 200g
+<br>Avocat : 1
+<br>Boîte de thon : 1
+<br><br>
+<br>Cuisez les pâtes le temps indiqué puis laissez refroidir.
+<br>Découpez les tomates et l'avocat, ajoutez-les avec le thon, aux pâtes.
+<br>Ajoutez l'origan et le poivre.
+<br>Pour la vinaigrette : mélangez bien l'huile et le vinaigre balsamique. Versez-la sur la salade avant de servir !
+]]></description><link>recettes/salade-de-pâtes-au-thon,-tomates-et-avocat.html</link><guid isPermaLink="false">recettes/Salade de pâtes au thon, tomates et avocat.md</guid><pubDate>Mon, 29 Jul 2024 13:26:26 GMT</pubDate><enclosure url="recettes/images/salade-de-pâtes-au-thon,-tomates-et-avocat.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-de-pâtes-au-thon,-tomates-et-avocat.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br>
 <br><a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
 <br><a data-href="Haricots rouges à la Mexicaine" href="/recettes/haricots-rouges-à-la-mexicaine.html" class="internal-link" target="_self" rel="noopener">Haricots rouges à la Mexicaine</a>
@@ -332,24 +379,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Dans un bol, mettre ensemble le thon, l'oignon débité en petits cubes, la mayonnaise, la wasabi, les câpres et le jus de citron. Mélanger à la fourchette. Rectifier l'assaisonnement.
 <br>Découper la salade en fines lanières et l'arroser de jus de citron.
 <br>Dresser le sandwich en disposant une tranche de pain de mie, la préparation au thon, la salade, le concombre, la préparation au thon et une tranche de pain de mie.
-]]></description><link>recettes/club-sandwich-au-thon.html</link><guid isPermaLink="false">recettes/Club sandwich au thon.md</guid><pubDate>Thu, 23 May 2024 15:38:49 GMT</pubDate><enclosure url="recettes/images/club-sandwich-au-thon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/club-sandwich-au-thon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Pâtes à la carbonara façon Goblot]]></title><description><![CDATA[ 
- <br><br><img alt="Pâtes à la carbonara façon Goblot.webp" src="/recettes/images/pâtes-à-la-carbonara-façon-goblot.webp"><br><br><br>
-<br>Pâtes : 500g
-<br>Crème fraîche : 20cl
-<br>Lardons fumés : 200g
-<br>Champignons de Paris : 200g
-<br>Oignon : 1
-<br>Oeuf : 1
-<br>Vin blanc : 10cl
-<br>Parmesan râpé : 100g
-<br><br>
-<br>Faire cuire les pâtes selon les instructions de paquet.
-<br>Laver et couper les champignons en lamelles. Coupez l'oignon en rondelle
-<br>Dans une poêle, faire revenir les lardons, l'oignon et les champignons dans le vin blanc à feu moyen. Saler et poivrer. Si le vin s'évapore avant que les ingrédients ne soient cuits, on peut ajouter un fond d'eau pour terminer la cuisson.
-<br>Une fois le vin évaporé et les ingrédients cuits, ajouter la crème fraîche et le parmesan. On peut garder un peu de parmesan pour saupoudrer le plat à la fin. Remuer et mélanger pour faire fondre la crème.
-<br>Ajouter les pâtes cuites et le jaune d'oeuf. Mélanger le tout.
-<br>Servir en saupoudrant du reste de parmesan. C'est prêt !
-]]></description><link>recettes/pâtes-à-la-carbonara-façon-goblot.html</link><guid isPermaLink="false">recettes/Pâtes à la carbonara façon Goblot.md</guid><pubDate>Mon, 20 May 2024 13:40:14 GMT</pubDate><enclosure url="recettes/images/pâtes-à-la-carbonara-façon-goblot.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/pâtes-à-la-carbonara-façon-goblot.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Riz crevettes, coco &amp; maïs]]></title><description><![CDATA[ 
+]]></description><link>recettes/club-sandwich-au-thon.html</link><guid isPermaLink="false">recettes/Club sandwich au thon.md</guid><pubDate>Thu, 23 May 2024 15:38:49 GMT</pubDate><enclosure url="recettes/images/club-sandwich-au-thon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/club-sandwich-au-thon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Riz crevettes, coco &amp; maïs]]></title><description><![CDATA[ 
  <br><br><img alt="Riz crevettes, coco &amp; maïs.webp" src="/recettes/images/riz-crevettes,-coco-&amp;-maïs.webp"><br><br><br>
 <br>Riz : 280g
 <br>Maïs : 200g
@@ -2368,21 +2398,7 @@ On peut ajouter un peu de sucre glace avant de les manger.
 <br>Dans un saladier, mélanger le jus du citron et l'huile d'olive. Saler et poivrer. Ajouter 6 feuilles de basilic ciselées.
 <br>Égoutter les pâtes. Les passer rapidement sous l'eau froide puis les verser dans le saladier. Mélanger. Ajouter les billes de melon, les tomates cerises, la mozzarella, le jambon et les olives.
 <br>Parsemer du reste de basilic.
-]]></description><link>recettes/salade-de-pâtes-à-l'italienne.html</link><guid isPermaLink="false">recettes/Salade de pâtes à l'italienne.md</guid><pubDate>Wed, 15 May 2024 12:18:25 GMT</pubDate><enclosure url="recettes/images/salade-de-pâtes-à-l'italienne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-de-pâtes-à-l'italienne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade de pâtes au thon, tomates et avocat]]></title><description><![CDATA[ 
- <br><br><img alt="Salade de pâtes au thon, tomates et avocat.webp" src="/recettes/images/salade-de-pâtes-au-thon,-tomates-et-avocat.webp"><br><br><br>
-<br>Tomates : 2
-<br>Vinaigre balsamique : 5cl
-<br>Huile d'olive : 2cl
-<br>Origan
-<br>Pâtes coude : 100g
-<br>Avocat : 1
-<br>Boîte de thon : 1
-<br><br>
-<br>Cuisez les pâtes le temps indiqué puis laissez refroidir.
-<br>Découpez les tomates et l'avocat, ajoutez-les avec le thon, aux pâtes.
-<br>Ajoutez l'origan et le poivre.
-<br>Pour la vinaigrette : mélangez bien l'huile et le vinaigre balsamique. Versez-la sur la salade avant de servir !
-]]></description><link>recettes/salade-de-pâtes-au-thon,-tomates-et-avocat.html</link><guid isPermaLink="false">recettes/Salade de pâtes au thon, tomates et avocat.md</guid><pubDate>Wed, 15 May 2024 12:18:16 GMT</pubDate><enclosure url="recettes/images/salade-de-pâtes-au-thon,-tomates-et-avocat.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-de-pâtes-au-thon,-tomates-et-avocat.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade de pâtes façon tacos]]></title><description><![CDATA[ 
+]]></description><link>recettes/salade-de-pâtes-à-l'italienne.html</link><guid isPermaLink="false">recettes/Salade de pâtes à l'italienne.md</guid><pubDate>Wed, 15 May 2024 12:18:25 GMT</pubDate><enclosure url="recettes/images/salade-de-pâtes-à-l'italienne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-de-pâtes-à-l'italienne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade de pâtes façon tacos]]></title><description><![CDATA[ 
  <br><br><img alt="Salade de pâtes façon tacos.webp" src="/recettes/images/salade-de-pâtes-façon-tacos.webp"><br><br><br>
 <br>Pâtes : 350g
 <br>Tomates cerises : 200g
