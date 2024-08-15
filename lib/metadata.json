@@ -1,6 +1,6 @@
 {
   "vaultName": "cookbook",
-  "lastExport": 1723283991699,
+  "lastExport": 1723744330438,
   "pluginVersion": "1.8.0",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -477,6 +477,7 @@
     "recettes/images/salade-de-pâtes-méditerranéenne.webp",
     "recettes/images/salade-haricots-verts,-lardons-&-œuf-mollet.webp",
     "recettes/images/salade-jambon-cru,-mozza-&-pistaches.webp",
+    "recettes/images/salade-piémontaise.webp",
     "recettes/images/saucisse-&-lentilles.webp",
     "recettes/images/sauté-de-porc-façon-goblot.webp",
     "recettes/images/soupe-aux-ramen.webp",
@@ -1540,8 +1541,8 @@
       ]
     },
     "recettes/Burrito bœuf & cheddar.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1303,
+      "modifiedTime": 1723744330438,
+      "sourceSize": 1296,
       "exportedPath": "recettes/burrito-bœuf-&-cheddar.html",
       "dependencies": [
         "recettes/images/burrito-bœuf-&-cheddar.webp"
@@ -1588,8 +1589,8 @@
       ]
     },
     "recettes/Chèvre chaud au jambon & salade.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 915,
+      "modifiedTime": 1723744330438,
+      "sourceSize": 908,
       "exportedPath": "recettes/chèvre-chaud-au-jambon-&-salade.html",
       "dependencies": [
         "recettes/images/chèvre-chaud-au-jambon-&-salade.webp"
@@ -1612,16 +1613,16 @@
       ]
     },
     "recettes/Club sandwich poulet - bacon.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1147,
+      "modifiedTime": 1723744330438,
+      "sourceSize": 1144,
       "exportedPath": "recettes/club-sandwich-poulet-bacon.html",
       "dependencies": [
         "recettes/images/club-sandwich-poulet-bacon.webp"
       ]
     },
     "recettes/Club sandwich poulet crudités.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 2037,
+      "modifiedTime": 1723744330438,
+      "sourceSize": 2047,
       "exportedPath": "recettes/club-sandwich-poulet-crudités.html",
       "dependencies": [
         "recettes/images/club-sandwich-poulet-crudités.webp"
@@ -1769,8 +1770,8 @@
       ]
     },
     "recettes/Frittata saumon fumé & chèvre frais.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1269,
+      "modifiedTime": 1723744330438,
+      "sourceSize": 1262,
       "exportedPath": "recettes/frittata-saumon-fumé-&-chèvre-frais.html",
       "dependencies": [
         "recettes/images/frittata-saumon-fumé-&-chèvre-frais.webp"
@@ -2036,8 +2037,8 @@
       ]
     },
     "recettes/Omelette aux pommes de terre et lardons.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1100,
+      "modifiedTime": 1723744330438,
+      "sourceSize": 1088,
       "exportedPath": "recettes/omelette-aux-pommes-de-terre-et-lardons.html",
       "dependencies": [
         "recettes/images/omelette-aux-pommes-de-terre-et-lardons.webp"
@@ -2460,8 +2461,8 @@
       ]
     },
     "recettes/Salade campagnarde.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1040,
+      "modifiedTime": 1723744330438,
+      "sourceSize": 1026,
       "exportedPath": "recettes/salade-campagnarde.html",
       "dependencies": [
         "recettes/images/salade-campagnarde.webp",
@@ -2511,8 +2512,8 @@
       ]
     },
     "recettes/Salade jambon cru, mozza & pistaches.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 838,
+      "modifiedTime": 1723744330438,
+      "sourceSize": 831,
       "exportedPath": "recettes/salade-jambon-cru,-mozza-&-pistaches.html",
       "dependencies": [
         "recettes/images/salade-jambon-cru,-mozza-&-pistaches.webp"
@@ -2584,8 +2585,8 @@
       ]
     },
     "recettes/Tagliatelles saumon épinards.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1102,
+      "modifiedTime": 1723744330438,
+      "sourceSize": 1095,
       "exportedPath": "recettes/tagliatelles-saumon-épinards.html",
       "dependencies": [
         "recettes/images/tagliatelles-saumon-épinards.webp"
@@ -2691,16 +2692,16 @@
       ]
     },
     "recettes/Wrap maïs, thon & fromage frais.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 777,
+      "modifiedTime": 1723744330438,
+      "sourceSize": 770,
       "exportedPath": "recettes/wrap-maïs,-thon-&-fromage-frais.html",
       "dependencies": [
         "recettes/images/wrap-maïs,-thon-&-fromage-frais.webp"
       ]
     },
     "recettes/Wrap Saumon.md": {
-      "modifiedTime": 1723283991699,
-      "sourceSize": 721,
+      "modifiedTime": 1723744330438,
+      "sourceSize": 714,
       "exportedPath": "recettes/wrap-saumon.html",
       "dependencies": [
         "recettes/images/wrap-saumon.webp"
@@ -2715,8 +2716,8 @@
       ]
     },
     "Menu de la semaine.md": {
-      "modifiedTime": 1723283991699,
-      "sourceSize": 3880,
+      "modifiedTime": 1723744330438,
+      "sourceSize": 1510,
       "exportedPath": "menu-de-la-semaine.html",
       "dependencies": []
     },
@@ -2781,7 +2782,7 @@
       "dependencies": []
     },
     "recettes/images/burrito-bœuf-&-cheddar.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1723744330438,
       "sourceSize": 63428,
       "exportedPath": "recettes/images/burrito-bœuf-&-cheddar.webp",
       "dependencies": []
@@ -2817,7 +2818,7 @@
       "dependencies": []
     },
     "recettes/images/chèvre-chaud-au-jambon-&-salade.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1723744330438,
       "sourceSize": 77474,
       "exportedPath": "recettes/images/chèvre-chaud-au-jambon-&-salade.webp",
       "dependencies": []
@@ -2835,13 +2836,13 @@
       "dependencies": []
     },
     "recettes/images/club-sandwich-poulet-bacon.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1723744330438,
       "sourceSize": 75036,
       "exportedPath": "recettes/images/club-sandwich-poulet-bacon.webp",
       "dependencies": []
     },
     "recettes/images/club-sandwich-poulet-crudités.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1723744330438,
       "sourceSize": 38210,
       "exportedPath": "recettes/images/club-sandwich-poulet-crudités.webp",
       "dependencies": []
@@ -2967,7 +2968,7 @@
       "dependencies": []
     },
     "recettes/images/frittata-saumon-fumé-&-chèvre-frais.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1723744330438,
       "sourceSize": 107082,
       "exportedPath": "recettes/images/frittata-saumon-fumé-&-chèvre-frais.webp",
       "dependencies": []
@@ -3141,7 +3142,7 @@
       "dependencies": []
     },
     "recettes/images/oeufs-mollets.webp": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 126040,
       "exportedPath": "recettes/images/oeufs-mollets.webp",
       "dependencies": []
@@ -3159,7 +3160,7 @@
       "dependencies": []
     },
     "recettes/images/omelette-aux-pommes-de-terre-et-lardons.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1723744330438,
       "sourceSize": 141480,
       "exportedPath": "recettes/images/omelette-aux-pommes-de-terre-et-lardons.webp",
       "dependencies": []
@@ -3267,7 +3268,7 @@
       "dependencies": []
     },
     "recettes/images/pommes-de-terres-sautées.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1723744330438,
       "sourceSize": 137224,
       "exportedPath": "recettes/images/pommes-de-terres-sautées.webp",
       "dependencies": []
@@ -3465,7 +3466,7 @@
       "dependencies": []
     },
     "recettes/images/salade-campagnarde.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1723744330438,
       "sourceSize": 204534,
       "exportedPath": "recettes/images/salade-campagnarde.webp",
       "dependencies": []
@@ -3501,7 +3502,7 @@
       "dependencies": []
     },
     "recettes/images/salade-jambon-cru,-mozza-&-pistaches.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1723744330438,
       "sourceSize": 92474,
       "exportedPath": "recettes/images/salade-jambon-cru,-mozza-&-pistaches.webp",
       "dependencies": []
@@ -3555,7 +3556,7 @@
       "dependencies": []
     },
     "recettes/images/tagliatelles-saumon-épinards.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1723744330438,
       "sourceSize": 85834,
       "exportedPath": "recettes/images/tagliatelles-saumon-épinards.webp",
       "dependencies": []
@@ -3633,181 +3634,181 @@
       "dependencies": []
     },
     "recettes/images/wrap-maïs,-thon-&-fromage-frais.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1723744330438,
       "sourceSize": 50648,
       "exportedPath": "recettes/images/wrap-maïs,-thon-&-fromage-frais.webp",
       "dependencies": []
     },
     "recettes/images/wrap-saumon.webp": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 48716,
       "exportedPath": "recettes/images/wrap-saumon.webp",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 120672,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1723283991699,
-      "sourceSize": 13299,
+      "modifiedTime": 1723744330438,
+      "sourceSize": 13048,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 134730,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 343,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1723744330438,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []

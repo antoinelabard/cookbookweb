@@ -1,4 +1,255 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 10 Aug 2024 09:59:53 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 10 Aug 2024 09:59:51 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Salade piémontaise]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 15 Aug 2024 17:52:13 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 15 Aug 2024 17:52:10 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Burrito bœuf &amp; cheddar]]></title><description><![CDATA[ 
+ <br><br><img alt="Burrito bœuf &amp; cheddar.webp" src="/recettes/images/burrito-bœuf-&amp;-cheddar.webp"><br><br><br>
+<br>Kit burrito 4 portions : 1
+<br>Boeuf haché : 400g
+<br>Cheddar : 80g
+<br>haricots rouges : 240g
+<br>riz : 160g
+<br>Oignon rouge : 1
+<br>Laitue : 200g
+<br>Crème fraîche : 10cl
+<br><br>
+<br>Faites cuire le riz selon les instructions du paquet. Réservez.
+<br>Pendant ce temps, coupez l’oignon rouge en petits morceaux.
+<br>Dans une poêle, ajoutez un filet d'huile de cuisson puis faites revenir l'oignon pendant 2 min.
+<br>Ajoutez ensuite la viande hachée et faites cuire pendant 7 minutes.
+<br>Sortez les tortillas de leur emballage. Vous devez avoir à disposition un sachet de mélange aux épices et une sauce à napper.
+<br>Une fois la viande cuite, ajoutez les épices du kit et les haricots rouges. Mélangez bien.
+<br>Réchauffez la tortilla puis garnissez-la avec la crème fraîche, la salade, le riz cuit, la viande hachée, le cheddar râpé et la sauce à napper du kit.
+<br>Refermez votre burrito et coupez-le en deux. C’est prêt !
+]]></description><link>recettes/burrito-bœuf-&amp;-cheddar.html</link><guid isPermaLink="false">recettes/Burrito bœuf &amp; cheddar.md</guid><pubDate>Thu, 15 Aug 2024 16:26:44 GMT</pubDate><enclosure url="recettes/images/burrito-bœuf-&amp;-cheddar.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/burrito-bœuf-&amp;-cheddar.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Chèvre chaud au jambon &amp; salade]]></title><description><![CDATA[ 
+ <br><br><img alt="Chèvre chaud au jambon &amp; salade.webp" src="/recettes/images/chèvre-chaud-au-jambon-&amp;-salade.webp"><br><br><br>
+<br>Salade : 200g
+<br>Fromage de chèvre : 200g
+<br>Herbes de Provence
+<br>Pain de mie : 8 tranches
+<br>Jambon : 8 tranches
+<br><br>
+<br>Préchauffez votre four en mode grill. Sur les tranches de pain de mie, déposez les tranches de jambon et les tranches de chèvre.
+<br>Versez un filet d'huile de cuisson, salez, poivrez et ajoutez les herbes de Provence. Enfournez 5 minutes en mode grill.
+<br>Sortez les chèvres chauds du four. Dans une assiette, servez les chèvres chauds sur la salade avec la vinaigrette de votre choix. C'est prêt !
+]]></description><link>recettes/chèvre-chaud-au-jambon-&amp;-salade.html</link><guid isPermaLink="false">recettes/Chèvre chaud au jambon &amp; salade.md</guid><pubDate>Thu, 15 Aug 2024 16:26:51 GMT</pubDate><enclosure url="recettes/images/chèvre-chaud-au-jambon-&amp;-salade.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/chèvre-chaud-au-jambon-&amp;-salade.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Club sandwich poulet - bacon]]></title><description><![CDATA[ 
+ <br><br><img alt="Club sandwich poulet - bacon.webp" src="/recettes/images/club-sandwich-poulet-bacon.webp"><br><br><br>
+<br>Pain de mie : 8 tranches
+<br>Tomate : 2
+<br>Filet de poulet : 700g
+<br>bacon : 150g
+<br>Avocat : 1
+<br><a data-href="Oeufs cuits" href="/recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener">Oeufs cuits</a> durs : 3
+<br>Salade : 200g
+<br><br>
+<br>Faire cuire l'escalope à feu doux et faire frire les tranches de bacon.
+<br>Faire légèrement toaster le pain de mie.
+<br>Sur la première tranche étaler un peu de mayonnaise, disposer un peu de salade, l'escalope découpée en fines lamelles, quelques rondelles d'avocat, saler légèrement, poivrer.
+<br>Recouvrir de la deuxième tranche de pain de mie, étaler encore un peu de mayonnaise, disposer les rondelles de tomates et d'œuf dur, le bacon.
+<br>Recouvrir de la troisième tranche de pain de mie.
+<br>Presser avec la paume de la main, maintenir avec 2 cure-dents, couper en deux en diagonale.
+]]></description><link>recettes/club-sandwich-poulet-bacon.html</link><guid isPermaLink="false">recettes/Club sandwich poulet - bacon.md</guid><pubDate>Thu, 15 Aug 2024 16:50:11 GMT</pubDate><enclosure url="recettes/images/club-sandwich-poulet-bacon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/club-sandwich-poulet-bacon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Club sandwich poulet crudités]]></title><description><![CDATA[ 
+ <br><br><img alt="Club sandwich poulet crudités.webp" src="/recettes/images/club-sandwich-poulet-crudités.webp"><br><br><br>
+<br>Pain de mie : 16 tranches
+<br>Tomates : 8
+<br>Lard fumé : 8 tranches
+<br>Escalopes de poulet : 2
+<br>Salade
+<br>Fromage
+<br><a data-href="Oeufs cuits" href="/recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener">Oeufs cuits</a> durs : 2
+<br><br>
+<br>Faire dorer dans une poêle l’escalope de poulet dans un peu de beurre. Saler, poivrer. Une fois cuite, la laisser refroidir et la couper en petites tranches.
+<br>Cuire dans la poêle les tranches de lard, puis réserver. Couper les tomates en rondelles ainsi que l’oeuf dur.
+<br>Faire toaster au grille pain les 6 tranches de pain de mie, les tranches doivent être juste dorées. Une fois les toasts refroidis, les aligner sur une planche à découper.
+<br>A partir de ce point, doubler toutes les actions pour faire simultanément les 2 sandwichs.
+<br>Recouvrir 2 tranches de pain de mie de mayonnaise (sur une seule face). Sur la première des 2 tranches, répartir les morceaux de blanc de poulet préalablement coupés en petites tranches. Poser par dessus 2 rondelles de tomates.
+<br>Recouvrir de la seconde tranche de pain préalablement recouverte de mayonnaise. Poser sur celle-ci 2 ou 3 feuilles de salade ainsi que 4 rondelles d’oeuf dur et 2 tranches de lard.
+<br>Poser la tranche de fromage et recouvrir de la dernière tranche de pain. Presser le sandwich sans l’écraser.
+<br>Planter 4 piques en bois pour tout tenir, en évitant les diagonales du pain.
+<br>Avec un couteau à pain, couper le sandwich en 2 dans la diagonale du pain, puis dans l’autre diagonale afin d’obtenir 4 petits sandwichs en triangles.
+<br>Avec les piques en bois, réunir 2 petits sandwichs ensembles et les disposer dans une assiette.
+<br>Faire la même chose avec les 2 autres petits sandwichs.
+]]></description><link>recettes/club-sandwich-poulet-crudités.html</link><guid isPermaLink="false">recettes/Club sandwich poulet crudités.md</guid><pubDate>Thu, 15 Aug 2024 16:50:58 GMT</pubDate><enclosure url="recettes/images/club-sandwich-poulet-crudités.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/club-sandwich-poulet-crudités.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Frittata saumon fumé &amp; chèvre frais]]></title><description><![CDATA[ 
+ <br><br><img alt="Frittata saumon fumé &amp; chèvre frais.webp" src="/recettes/images/frittata-saumon-fumé-&amp;-chèvre-frais.webp"><br><br><br>
+<br>Oeufs : 8
+<br>Chèvre frais : 200g
+<br>Saumon : 2 tranches
+<br>Épinards : 400g
+<br>Échalote : 1
+<br>Aneth
+<br><br>
+<br>Préchauffez le four à 180°C. Épluchez puis coupez l'échalote en lamelles.
+<br>Cassez les œufs dans un saladier, salez et poivrez, puis battez-les avec une fourchette ou un fouet.
+<br>Déposez une feuille de papier cuisson dans le fond d'un moule, beurrez ou huilez-le à l'aide d'un pinceau.
+<br>Ajoutez les pousses d'épinards et le chèvre frais coupé en morceaux puis les échalotes et recouvrez le tout avec les œufs battus.
+<br>Disposez par-dessus des morceaux de saumon fumé, salez et poivrez. Enfournez pendant 15 à 20 minutes à 180°C.
+<br>Sortez la frittata du four puis démoulez-la. Ajoutez des brins d'aneth si vous en avez. Vous pouvez l'accompagner d'une salade verte si vous le souhaitez, c'est prêt !
+]]></description><link>recettes/frittata-saumon-fumé-&amp;-chèvre-frais.html</link><guid isPermaLink="false">recettes/Frittata saumon fumé &amp; chèvre frais.md</guid><pubDate>Thu, 15 Aug 2024 16:27:04 GMT</pubDate><enclosure url="recettes/images/frittata-saumon-fumé-&amp;-chèvre-frais.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/frittata-saumon-fumé-&amp;-chèvre-frais.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Omelette aux pommes de terre et lardons]]></title><description><![CDATA[ 
+ <br><br><img alt="Omelette aux pommes de terre et lardons.webp" src="/recettes/images/omelette-aux-pommes-de-terre-et-lardons.webp"><br><br><br>
+<br>Pommes de terre : 2
+<br>Lardons : 200g
+<br>Oeufs : 5
+<br><br>
+<br>Éplucher 2 pommes de terre et les couper en dés. Les faire cuire 10 mn à la vapeur ainsi coupées (pour gagner du temps !).
+<br>Mettre 1 à 2 cuillères à soupe d'huile "neutre" (tournesol par exemple) dans un poêle et y rajouter les pommes de terre.
+<br>Faire dorer 10 mn environ et juste un peu avant la fin de la cuisson, y rajouter les lardons.
+<br>Incorporer les œufs battus assaisonnés de poivre et de sel (pas trop, les lardons sont déjà suffisamment salés) à la préparation dans la poêle en remuant 30 secondes.
+<br>Laisser cuire à votre convenance, selon si vous l'aimez baveuse ou pas).
+]]></description><link>recettes/omelette-aux-pommes-de-terre-et-lardons.html</link><guid isPermaLink="false">recettes/Omelette aux pommes de terre et lardons.md</guid><pubDate>Thu, 15 Aug 2024 16:27:42 GMT</pubDate><enclosure url="recettes/images/omelette-aux-pommes-de-terre-et-lardons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/omelette-aux-pommes-de-terre-et-lardons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade campagnarde]]></title><description><![CDATA[ 
+ <br><br><img alt="Salade campagnarde.webp" src="/recettes/images/salade-campagnarde.webp"><br><br><br>
+<br><a data-href="Oeufs cuits" href="/recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener">Oeufs cuits</a> durs : 6
+<br><a data-href="Pommes de terres sautées" href="/recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener">Pommes de terres sautées</a> : 600g
+<br>Salade : 200g
+<br>Chèvre frais : 80g
+<br>Bacon : 8 tranches
+<br><br>
+<br>Oeufs cuits<br><br><br><br><img alt="Oeufs mollets.webp" src="/recettes/images/oeufs-mollets.webp"><br><br><br>
+<br>Oeufs : 4
+<br><br>
+<br>Ajouter un fond d'eau dans une casserole vapeur. Porter à ébullition.
+<br>Ajouter les oeufs, couvrir et laisser cuire :
+
+<br>4min pour obtenir des oeufs à la coque ;
+<br>5min pour des oeufs mollets ;
+<br>10min pour des oeufs durs.
+
+
+<br>Sortir les oeufs de la casserole. Vous pouvez les peler s'ils sont durs. Ils sont prêts !
+<br>Info
+En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la quantité d'eau à chauffer et donc l'inertie thermique de la casserole. Ainsi, on diminue le temps de chauffe et on ne fait pas chuter la température de l'eau quand on ajoute les oeufs ; ils seront toujours baignés dans une vapeur chaude. La cuisson n'en est que plus homogène et maîtrisée.
+
+<br>Pommes de terres sautées<br><br><br><br><img alt="Pommes de terres sautées.webp" src="/recettes/images/pommes-de-terres-sautées.webp"><br><br><br>
+<br>Pommes de terre : 6
+<br>Huile
+<br>Curry
+<br><br>
+<br>Éplucher et laver les pommes de terre, puis les couper en tranches de 1,5 cm d'épaisseur, puis en cubes. Ne plus les laver.
+<br>Dans une sauteuse, faire chauffer 3 cuillères à soupe d'huile. Lorsque l'huile est chaude, y mettre les pommes de terre d'un coup, puis les enrober d'huile dans tous les sens avec une cuillère en bois.
+<br>Ajouter sel et poivre (et éventuellement curry), puis re-mélanger.
+<br>Porter à feu maximal et faire cuire avec le couvercle jusqu'à ce qu'une bonne odeur de pommes de terre grillées s'échappe... Ne pas les découvrir avant! Cela prend entre 3 et 5 minutes.
+<br>À ce moment-là seulement, retourner les pommes de terre. Baisser la température de 2 graduations (pour mettre à feu moyen).
+<br>Remettre le couvercle, puis retourner les pommes de terre toutes les 3 min pendant 10 min.
+<br>Maintenant, elles sont cuites. Vérifier tout de même avec la pointe d'un couteau.
+
+<br>Pendant ce temps, faites cuire les œufs dans une casserole d'eau bouillante pendant 10 min.
+<br>Placez-les dans un bol d'eau froide pour stopper la cuisson, écalez-les et coupez-les en morceaux.
+<br>Après 10 minutes. Coupez la cuisson des pommes de terre.
+<br>Dans la poêle, faites cuire le bacon 2 minutes sur chaque face.
+<br>Dressez la salade : dans une assiette ajoutez la mâche, les pommes de terres, les œufs, le bacon et le chèvre. (Optionnel : ajoutez des herbes fraîches). C'est prêt !
+]]></description><link>recettes/salade-campagnarde.html</link><guid isPermaLink="false">recettes/Salade campagnarde.md</guid><pubDate>Thu, 15 Aug 2024 16:27:57 GMT</pubDate><enclosure url="recettes/images/salade-campagnarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-campagnarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade jambon cru, mozza &amp; pistaches]]></title><description><![CDATA[ 
+ <br><br><img alt="Salade jambon cru, mozza &amp; pistaches.webp" src="/recettes/images/salade-jambon-cru,-mozza-&amp;-pistaches.webp"><br><br><br>
+<br>Jambon cru : 8 tranches
+<br>Mozzarella : 240g
+<br>Pistaches grillées : 80g
+<br>Salade : 200g
+<br>Olives vertes : 120g
+<br><br>
+<br>Découpez en deux les olives si vous le souhaitez.
+<br>Découpez le jambon grossièrement.
+<br>Dans une assiette creuse, ajoutez : la roquette, le jambon, les pistaches et les olives. Déchirez la mozzarella et ajoutez-la par-dessus. Assaisonnez avec la vinaigrette de votre choix. C'est prêt !
+]]></description><link>recettes/salade-jambon-cru,-mozza-&amp;-pistaches.html</link><guid isPermaLink="false">recettes/Salade jambon cru, mozza &amp; pistaches.md</guid><pubDate>Thu, 15 Aug 2024 16:28:06 GMT</pubDate><enclosure url="recettes/images/salade-jambon-cru,-mozza-&amp;-pistaches.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-jambon-cru,-mozza-&amp;-pistaches.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tagliatelles saumon épinards]]></title><description><![CDATA[ 
+ <br><br><img alt="Tagliatelles saumon épinards.webp" src="/recettes/images/tagliatelles-saumon-épinards.webp"><br><br><br>
+<br>Pâtes : 400g
+<br>Saumon : 4 tranches
+<br>Épinards : 400g
+<br>Crème fraîche : 10cl
+<br>Citron
+<br><br>
+<br>Coupez le saumon fumé grossièrement.
+<br>Dans une casserole d'eau bouillante salée, faites cuire les pâtes selon les instructions de préparation soit environ 6 minutes.
+<br>À la fin de la cuisson des pâtes, réservez l'équivalent d'une petite louche d'eau de cuisson par personne avant d'égoutter les pâtes.
+<br>Dans une poêle à feu moyen, ajoutez la crème, 1 petite louche d'eau de cuisson par personne, le jus de citron et les épinards. Laissez cuire 2 minutes.
+<br>Salez, poivrez et ajoutez les pâtes dans la poêle. Ajoutez le saumon et mélangez. Zestez le citron au-dessus de la poêle pour plus d'acidité.
+]]></description><link>recettes/tagliatelles-saumon-épinards.html</link><guid isPermaLink="false">recettes/Tagliatelles saumon épinards.md</guid><pubDate>Thu, 15 Aug 2024 16:28:12 GMT</pubDate><enclosure url="recettes/images/tagliatelles-saumon-épinards.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tagliatelles-saumon-épinards.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wrap maïs, thon &amp; fromage frais]]></title><description><![CDATA[ 
+ <br><br><img alt="Wrap maïs, thon &amp; fromage frais.webp" src="/recettes/images/wrap-maïs,-thon-&amp;-fromage-frais.webp"><br><br><br>
+<br>Tortillas : 4
+<br>Thon : 200g
+<br>Maïs : 120g
+<br>Fromage frais : 40g
+<br>Salade : 200g
+<br>Oignon : 1
+<br><br>
+<br>Émincez l'oignon rouge en lamelles.
+<br>Étalez le fromage frais sur la tortilla.
+<br>Sur une moitié, ajoutez le maïs et le thon égoutté puis l'oignon rouge et la roquette. Salez et poivrez.
+<br>Roulez le tout. Coupez votre wrap en deux et dégustez. C'est prêt !
+]]></description><link>recettes/wrap-maïs,-thon-&amp;-fromage-frais.html</link><guid isPermaLink="false">recettes/Wrap maïs, thon &amp; fromage frais.md</guid><pubDate>Thu, 15 Aug 2024 16:28:23 GMT</pubDate><enclosure url="recettes/images/wrap-maïs,-thon-&amp;-fromage-frais.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/wrap-maïs,-thon-&amp;-fromage-frais.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wrap Saumon]]></title><description><![CDATA[ 
+ <br><br><img alt="Wrap Saumon.webp" src="/recettes/images/wrap-saumon.webp"><br><br><br>
+<br>Saumon : 4 tranches
+<br>Tortillas : 4
+<br>Concombre : 1
+<br>Fromage frais : 160g
+<br>épinards : 200g
+<br><br>
+<br>Découpez le concombre en fines tranches.
+<br>Étalez le fromage frais sur les tortillas à l'aide d'un couteau, ajoutez le saumon, les pousses d'épinard, les tranches de concombre et un trait de jus de citron.
+<br>Roulez le tout. Coupez votre wrap en deux, dégustez !
+]]></description><link>recettes/wrap-saumon.html</link><guid isPermaLink="false">recettes/Wrap Saumon.md</guid><pubDate>Sat, 10 Aug 2024 10:05:14 GMT</pubDate><enclosure url="recettes/images/wrap-saumon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/wrap-saumon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+ <br><br><br>
+<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/gazpacho-et-roules-mozza-jambon-pesto-8ydx5q0vccww03t907ju?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/gazpacho-et-roules-mozza-jambon-pesto-8ydx5q0vccww03t907ju?coversCount=4&amp;from=menu</a>
+<br><a data-href="Petits pois au chorizo" href="/recettes/petits-pois-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Petits pois au chorizo</a>
+<br><a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
+<br><a data-href="Soupe de Tortellini" href="/recettes/soupe-de-tortellini.html" class="internal-link" target="_self" rel="noopener">Soupe de Tortellini</a>
+<br><a data-href="Club sandwich poulet - bacon" href="/recettes/club-sandwich-poulet-bacon.html" class="internal-link" target="_self" rel="noopener">Club sandwich poulet - bacon</a>
+<br><a data-href="Tresse feuilletée au boursin, poireau et truite fumée" href="/recettes/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.html" class="internal-link" target="_self" rel="noopener">Tresse feuilletée au boursin, poireau et truite fumée</a>
+<br><a data-href="Salade de pâtes façon tacos" href="/recettes/salade-de-pâtes-façon-tacos.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes façon tacos</a>
+<br><br>
+<br>Fruits et légumes
+
+<br>Oignon : 2
+<br>Salade : 200g
+<br>Tomate : 2
+<br>Avocat : 1
+<br>Salade : 200g
+<br>Poireaux : 3
+<br>Graines de sésame (optionnel) : 2cc
+<br>Tomates cerises : 200g
+<br>Avocats : 2
+
+
+<br>Produits frais
+
+<br>Chorizo : 1
+<br>Pâte feuilletée : 1
+<br>Lardons : 100g
+<br>Pâtes tortellini ricotta-épinards : 440g
+<br>bacon : 150g
+<br>Pâte feuilletée : 1
+<br>jambon 4 tranches
+
+
+<br>Produits secs
+
+<br>Petits pois : 800g
+<br>Oeuf : 5
+<br>Miel : 6cl
+<br>Herbes de Provence
+<br>Chair de tomates : 320g
+<br>Épinards : 200g
+<br>Pain de mie : 16 tranches (6 en salade)
+<br>Pâtes : 350g
+<br>Olives : 50g
+<br>Huile d'olive
+<br>Maïs : 120g
+<br>Coriandre
+<br>gazpacho 1.2l
+<br>sauce pesto
+
+
+<br>Produits laitiers
+
+<br>Fromage de chèvre : 200g
+<br>Crème fraiche : 10cl
+<br>Parmesan râpé : 40g
+<br>Fromage à l'ail : 150g
+<br>Mimolette : 80g
+<br>mozza 120g
+
+
+<br>viandes
+
+<br>Chair à saucisses : 200g
+<br>Filet de poulet : 700g
+<br>Truite : 4 tranches
+
+
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Thu, 15 Aug 2024 17:49:35 GMT</pubDate></item><item><title><![CDATA[Salade piémontaise]]></title><description><![CDATA[ 
  <br><br><img alt="Salade piémontaise.webp" src="/recettes/images/salade-piémontaise.webp"><br><br><br>
 <br>Tomates : 2
 <br>Pommes de terre : 500g
@@ -26,215 +277,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Dans un grand plat, mélanger les oeufs durs coupés en petits morceaux, les pommes de terre, les tomates, les cornichons, le jambon et la mayonnaise.
 <br>Tip
 La piémontaise est meilleure préparée la veille !
-]]></description><link>recettes/salade-piémontaise.html</link><guid isPermaLink="false">recettes/Salade piémontaise.md</guid><pubDate>Sat, 10 Aug 2024 09:53:15 GMT</pubDate><enclosure url="recettes/images/salade-piémontaise.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-piémontaise.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wrap Saumon]]></title><description><![CDATA[ 
- <br><br><img alt="Wrap Saumon.webp" src="/recettes/images/wrap-saumon.webp"><br><br><br>
-<br>Saumon : 4 tranches
-<br>Tortillas : 4
-<br>Concombre : 1
-<br>Fromage frais : 160g
-<br>épinards : 2 poignées
-<br><br>
-<br>Découpez le concombre en fines tranches.
-<br>Étalez le fromage frais sur les tortillas à l'aide d'un couteau, ajoutez le saumon, les pousses d'épinard, les tranches de concombre et un trait de jus de citron.
-<br>Roulez le tout. Coupez votre wrap en deux, dégustez !
-]]></description><link>recettes/wrap-saumon.html</link><guid isPermaLink="false">recettes/Wrap Saumon.md</guid><pubDate>Sat, 10 Aug 2024 09:54:31 GMT</pubDate><enclosure url="recettes/images/wrap-saumon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/wrap-saumon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
- <br><br><br>
-<br><a data-href="Pâtes aux crevettes à la crème" href="/recettes/pâtes-aux-crevettes-à-la-crème.html" class="internal-link" target="_self" rel="noopener">Pâtes aux crevettes à la crème</a>
-<br><a data-href="Rougail saucisse" href="/recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener">Rougail saucisse</a>
-<br><a data-href="Club sandwich au thon" href="/recettes/club-sandwich-au-thon.html" class="internal-link" target="_self" rel="noopener">Club sandwich au thon</a>
-<br><a data-href="Salade piémontaise" href="/recettes/salade-piémontaise.html" class="internal-link" target="_self" rel="noopener">Salade piémontaise</a>
-<br><br>
-<br>produits secs
-
-<br>Pâtes : 500g
-<br>Persil
-<br>Riz : 280g
-<br>Gingembre : 20g
-<br>Purée de tomate : 400g
-<br>Curcuma : 4 pincées
-<br>Pain de mie : 16 tranches
-<br>Câpres : 100g
-<br>Wasabi : 10g
-<br>Thon : 500g
-<br>Mayonnaise : 30cl
-<br>Oeufs : 2
-<br>Cornichons : 200g
-
-
-<br>fruits et légumes
-
-<br>Tomates : 6
-<br>Concombre : 1
-<br>Salade : 1
-<br>Oignons nouveaux : 4
-<br>Pommes de terre : 500g
-
-
-<br>produits laitiers
-
-<br>Crème fraîche : 25cl
-
-
-<br>Viandes
-
-<br>Crevettes décortiquées : 120g
-
-
-<br>Produits frais
-
-<br>Saucisses fumées : 4
-<br>Dés de jambon : 200g
-
-
-<br><br>
-<br><a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
-<br><a data-href="Haricots rouges à la Mexicaine" href="/recettes/haricots-rouges-à-la-mexicaine.html" class="internal-link" target="_self" rel="noopener">Haricots rouges à la Mexicaine</a>
-<br><a data-href="Salade campagnarde" href="/recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener">Salade campagnarde</a>
-<br><a data-href="Croque-monsieur à l'italienne" href="/recettes/croque-monsieur-à-l'italienne.html" class="internal-link" target="_self" rel="noopener">Croque-monsieur à l'italienne</a>
-<br><a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
-<br><a data-href="Poulet à la moutarde &amp; pommes de terre" href="/recettes/poulet-à-la-moutarde-&amp;-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener">Poulet à la moutarde &amp; pommes de terre</a>
-<br><a data-href="Pâtes à la carbonara façon Goblot" href="/recettes/pâtes-à-la-carbonara-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Pâtes à la carbonara façon Goblot</a>
-<br><br>
-<br><a data-href="Quiche tomate, jambon, chèvre" href="/recettes/quiche-tomate,-jambon,-chèvre.html" class="internal-link" target="_self" rel="noopener">Quiche tomate, jambon, chèvre</a>
-<br><a data-href="Mexican bowl" href="/recettes/mexican-bowl.html" class="internal-link" target="_self" rel="noopener">Mexican bowl</a>
-<br><br>
-<br>Produits frais
-
-<br>Pâte feuilletée : 1
-<br>Lardons : 100g
-<br>Bacon : 8 tranches
-<br>Tranches de jambon blanc ou jambon sec : 8
-<br>Galettes bretonnes : 8
-<br>Jambon : 8 tranches
-<br>Lardons fumés : 200g
-<br>Jambon
-
-
-<br>produits laitiers
-
-<br>Fromage de chèvre : 200g
-<br>Chèvre frai : 80g
-<br>Parmesan
-<br>Mozzarella : 1
-<br>Fromage râpé : 200g
-<br>Crème fraîche : 20cl
-<br>Crème fraîche : 20cl
-<br>Parmesan râpé : 100g
-<br>Yaourt grec
-<br>Feta
-
-
-<br>Fruits et légumes
-
-<br>Salade : 200g
-<br>Poivron : 1
-<br>Oignon : 2
-<br>Pommes de terre : 1600g
-<br>Salade mâche : 8 poignées
-<br>Tomate : 1
-<br>Champignons de Paris : 800g
-<br>Échalote : 1
-<br>Pomme de terre
-<br>Champignon
-<br>pommes
-
-
-<br>Produits secs
-
-<br>Haricots rouges : 300g
-<br>Huile d'olive
-<br>Oeufs : 13
-<br>Thym
-<br>Tomates pelées : 500g
-<br>Curry
-<br>Tranches de pain de mie : 16
-<br>Basilic
-<br>Pâtes : 500g
-<br>Moutarde : 4cc
-<br>Oeuf 8
-
-
-<br>Viandes
-
-<br>Blancs de poulet : 8
-<br>Dinde en morceaux
-
-
-<br>Vin blanc : 10cl
-<br><br>
-<br><a data-href="Soupe de Tortellini" href="/recettes/soupe-de-tortellini.html" class="internal-link" target="_self" rel="noopener">Soupe de Tortellini</a>
-<br><a data-href="Spaghetti ail &amp; crevette" href="/recettes/spaghetti-ail-&amp;-crevette.html" class="internal-link" target="_self" rel="noopener">Spaghetti ail &amp; crevette</a>
-<br><a data-href="Pasta saumon citron" href="/recettes/pasta-saumon-citron.html" class="internal-link" target="_self" rel="noopener">Pasta saumon citron</a>
-<br><a data-href="Salade de pâtes au thon, tomates et avocat" href="/recettes/salade-de-pâtes-au-thon,-tomates-et-avocat.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes au thon, tomates et avocat</a>
-<br><a data-href="Chèvre chaud au jambon &amp; salade" href="/recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Chèvre chaud au jambon &amp; salade</a>
-<br><a data-href="Wok légumes sautés, poulet &amp; sauce cacahuète" href="/recettes/wok-légumes-sautés,-poulet-&amp;-sauce-cacahuète.html" class="internal-link" target="_self" rel="noopener">Wok légumes sautés, poulet &amp; sauce cacahuète</a>
-<br><a data-href="Chakchouka haricots verts &amp; feta" href="/recettes/chakchouka-haricots-verts-&amp;-feta.html" class="internal-link" target="_self" rel="noopener">Chakchouka haricots verts &amp; feta</a>
-<br><br>
-<br>Produits secs
-
-<br>Chair de tomates : 320g
-<br>Épinards : 200g
-<br>Jus de citron
-<br>Vinaigre balsamique : 5cl
-<br>Pâtes coude : 100g
-<br>Boîte de thon : 1
-<br>Sauce soja : 4cs
-<br>Riz : 280g
-<br>Haricots verts : 600g
-<br>Purée de tomates : 400g
-<br>Oeufs : 8
-<br>Cumin
-<br>Coriandre
-<br>Lait
-<br>pâtes sablées
-<br>farine
-<br>craquottes
-<br>compote en gourde
-
-
-<br>Viandes
-
-<br>Chair à saucisses : 200g
-<br>Crevettes : 400g
-<br>Saumon : 4 tranches
-<br>Escalopes de poulet : 4
-
-
-<br>Produits laitiers
-
-<br>Crème fraiche : 10cl
-<br>Parmesan râpé : 40g
-<br>gros paquet de gruiyère
-<br>Crème fraîche : 10cl
-<br>Parmesan : 40g
-<br>Fromage de chèvre : 200g
-<br>Feta : 120g
-<br>margarine
-
-
-<br>Produits frais
-
-<br>Pâtes tortellini ricotta-épinards : 440g
-<br>Pâtes : 400g
-<br>Pâtes : 400g
-<br>Jambon : 8 tranches
-
-
-<br>Fruits et légumes
-
-<br>Tomates : 2
-<br>Avocat : 1
-<br>Salade : 8 poignées
-<br>oignons 1kg
-<br>Carottes : 4
-<br>Courgettes : 2
-<br>(Optionnel) Graines de sésame
-<br>courgettes 2
-<br>steak haché
-<br>fruits
-
-
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Sat, 10 Aug 2024 09:51:29 GMT</pubDate></item><item><title><![CDATA[Au fil des saisons]]></title><description><![CDATA[ 
+]]></description><link>recettes/salade-piémontaise.html</link><guid isPermaLink="false">recettes/Salade piémontaise.md</guid><pubDate>Sat, 10 Aug 2024 09:53:15 GMT</pubDate><enclosure url="recettes/images/salade-piémontaise.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-piémontaise.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Au fil des saisons]]></title><description><![CDATA[ 
  <br><br><br><a data-tooltip-position="top" aria-label="recettes/Club sandwich au thon.md" data-href="recettes/Club sandwich au thon.md" href="/recettes/club-sandwich-au-thon.html" class="internal-link" target="_self" rel="noopener">Club sandwich au thon</a><br><a data-tooltip-position="top" aria-label="recettes/Endives en pochon.md" data-href="recettes/Endives en pochon.md" href="/recettes/endives-en-pochon.html" class="internal-link" target="_self" rel="noopener">Endives en pochon</a><br><a data-tooltip-position="top" aria-label="recettes/Feuilletés épinard, feta &amp; salade.md" data-href="recettes/Feuilletés épinard, feta &amp; salade.md" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a><br><a data-tooltip-position="top" aria-label="recettes/Frittata courgette, jambon &amp; mozza.md" data-href="recettes/Frittata courgette, jambon &amp; mozza.md" href="/recettes/frittata-courgette,-jambon-&amp;-mozza.html" class="internal-link" target="_self" rel="noopener">Frittata courgette, jambon &amp; mozza</a><br><a data-tooltip-position="top" aria-label="recettes/Frittata saumon fumé &amp; chèvre frais.md" data-href="recettes/Frittata saumon fumé &amp; chèvre frais.md" href="/recettes/frittata-saumon-fumé-&amp;-chèvre-frais.html" class="internal-link" target="_self" rel="noopener">Frittata saumon fumé &amp; chèvre frais</a><br><a data-tooltip-position="top" aria-label="recettes/Pâtes aux petits pois, poireaux et bacon.md" data-href="recettes/Pâtes aux petits pois, poireaux et bacon.md" href="/recettes/pâtes-aux-petits-pois,-poireaux-et-bacon.html" class="internal-link" target="_self" rel="noopener">Pâtes aux petits pois, poireaux et bacon</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche au saumon et aux épinards.md" data-href="recettes/Quiche au saumon et aux épinards.md" href="/recettes/quiche-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche au saumon et aux épinards</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche aux asperges et lardons.md" data-href="recettes/Quiche aux asperges et lardons.md" href="/recettes/quiche-aux-asperges-et-lardons.html" class="internal-link" target="_self" rel="noopener">Quiche aux asperges et lardons</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche chèvre épinards.md" data-href="recettes/Quiche chèvre épinards.md" href="/recettes/quiche-chèvre-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche chèvre épinards</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche poireaux, chèvre lardons.md" data-href="recettes/Quiche poireaux, chèvre lardons.md" href="/recettes/quiche-poireaux,-chèvre-lardons.html" class="internal-link" target="_self" rel="noopener">Quiche poireaux, chèvre lardons</a><br><a data-tooltip-position="top" aria-label="recettes/Ratatouille.md" data-href="recettes/Ratatouille.md" href="/recettes/ratatouille.html" class="internal-link" target="_self" rel="noopener">Ratatouille</a><br><a data-tooltip-position="top" aria-label="recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md" data-href="recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md" href="/recettes/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.html" class="internal-link" target="_self" rel="noopener">Ravioli ricotta épinards à la crème d'ail et poireau</a><br><a data-tooltip-position="top" aria-label="recettes/Risotto de coquillettes poireaux, poulet &amp; chèvre.md" data-href="recettes/Risotto de coquillettes poireaux, poulet &amp; chèvre.md" href="/recettes/risotto-de-coquillettes-poireaux,-poulet-&amp;-chèvre.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes poireaux, poulet &amp; chèvre</a><br><a data-tooltip-position="top" aria-label="recettes/Soupe de Tortellini.md" data-href="recettes/Soupe de Tortellini.md" href="/recettes/soupe-de-tortellini.html" class="internal-link" target="_self" rel="noopener">Soupe de Tortellini</a><br><a data-tooltip-position="top" aria-label="recettes/Tresse feuilletée au boursin, poireau et truite fumée.md" data-href="recettes/Tresse feuilletée au boursin, poireau et truite fumée.md" href="/recettes/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.html" class="internal-link" target="_self" rel="noopener">Tresse feuilletée au boursin, poireau et truite fumée</a><br><a data-tooltip-position="top" aria-label="recettes/Wrap Saumon.md" data-href="recettes/Wrap Saumon.md" href="/recettes/wrap-saumon.html" class="internal-link" target="_self" rel="noopener">Wrap Saumon</a><br><br><br><a data-tooltip-position="top" aria-label="recettes/Chakchouka feta &amp; pois chiches.md" data-href="recettes/Chakchouka feta &amp; pois chiches.md" href="/recettes/chakchouka-feta-&amp;-pois-chiches.html" class="internal-link" target="_self" rel="noopener">Chakchouka feta &amp; pois chiches</a><br><a data-tooltip-position="top" aria-label="recettes/Club sandwich au thon.md" data-href="recettes/Club sandwich au thon.md" href="/recettes/club-sandwich-au-thon.html" class="internal-link" target="_self" rel="noopener">Club sandwich au thon</a><br><a data-tooltip-position="top" aria-label="recettes/Club sandwich poulet - bacon.md" data-href="recettes/Club sandwich poulet - bacon.md" href="/recettes/club-sandwich-poulet-bacon.html" class="internal-link" target="_self" rel="noopener">Club sandwich poulet - bacon</a><br><a data-tooltip-position="top" aria-label="recettes/Club sandwich poulet crudités.md" data-href="recettes/Club sandwich poulet crudités.md" href="/recettes/club-sandwich-poulet-crudités.html" class="internal-link" target="_self" rel="noopener">Club sandwich poulet crudités</a><br><a data-tooltip-position="top" aria-label="recettes/Croque-monsieur à l'italienne.md" data-href="recettes/Croque-monsieur à l'italienne.md" href="/recettes/croque-monsieur-à-l'italienne.html" class="internal-link" target="_self" rel="noopener">Croque-monsieur à l'italienne</a><br><a data-tooltip-position="top" aria-label="recettes/Délicieuse salade de lentilles.md" data-href="recettes/Délicieuse salade de lentilles.md" href="/recettes/délicieuse-salade-de-lentilles.html" class="internal-link" target="_self" rel="noopener">Délicieuse salade de lentilles</a><br><a data-tooltip-position="top" aria-label="recettes/Feuilletés épinard, feta &amp; salade.md" data-href="recettes/Feuilletés épinard, feta &amp; salade.md" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a><br><a data-tooltip-position="top" aria-label="recettes/Frittata courgette, jambon &amp; mozza.md" data-href="recettes/Frittata courgette, jambon &amp; mozza.md" href="/recettes/frittata-courgette,-jambon-&amp;-mozza.html" class="internal-link" target="_self" rel="noopener">Frittata courgette, jambon &amp; mozza</a><br><a data-tooltip-position="top" aria-label="recettes/Frittata saumon fumé &amp; chèvre frais.md" data-href="recettes/Frittata saumon fumé &amp; chèvre frais.md" href="/recettes/frittata-saumon-fumé-&amp;-chèvre-frais.html" class="internal-link" target="_self" rel="noopener">Frittata saumon fumé &amp; chèvre frais</a><br><a data-tooltip-position="top" aria-label="recettes/Gratin de lieu noir à la sauce tomate.md" data-href="recettes/Gratin de lieu noir à la sauce tomate.md" href="/recettes/gratin-de-lieu-noir-à-la-sauce-tomate.html" class="internal-link" target="_self" rel="noopener">Gratin de lieu noir à la sauce tomate</a><br><a data-tooltip-position="top" aria-label="recettes/Hamburger maison.md" data-href="recettes/Hamburger maison.md" href="/recettes/hamburger-maison.html" class="internal-link" target="_self" rel="noopener">Hamburger maison</a><br><a data-tooltip-position="top" aria-label="recettes/Haricots rouges à la Mexicaine.md" data-href="recettes/Haricots rouges à la Mexicaine.md" href="/recettes/haricots-rouges-à-la-mexicaine.html" class="internal-link" target="_self" rel="noopener">Haricots rouges à la Mexicaine</a><br><a data-tooltip-position="top" aria-label="recettes/Kebab.md" data-href="recettes/Kebab.md" href="/recettes/kebab.html" class="internal-link" target="_self" rel="noopener">Kebab</a><br><a data-tooltip-position="top" aria-label="recettes/Mafé de poulet &amp; riz.md" data-href="recettes/Mafé de poulet &amp; riz.md" href="/recettes/mafé-de-poulet-&amp;-riz.html" class="internal-link" target="_self" rel="noopener">Mafé de poulet &amp; riz</a><br><a data-tooltip-position="top" aria-label="recettes/Mexican bowl.md" data-href="recettes/Mexican bowl.md" href="/recettes/mexican-bowl.html" class="internal-link" target="_self" rel="noopener">Mexican bowl</a><br><a data-tooltip-position="top" aria-label="recettes/Poulet au sésame.md" data-href="recettes/Poulet au sésame.md" href="/recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener">Poulet au sésame</a><br><a data-tooltip-position="top" aria-label="recettes/Pâtes aux crevettes à la crème.md" data-href="recettes/Pâtes aux crevettes à la crème.md" href="/recettes/pâtes-aux-crevettes-à-la-crème.html" class="internal-link" target="_self" rel="noopener">Pâtes aux crevettes à la crème</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche artichaut &amp; parma.md" data-href="recettes/Quiche artichaut &amp; parma.md" href="/recettes/quiche-artichaut-&amp;-parma.html" class="internal-link" target="_self" rel="noopener">Quiche artichaut &amp; parma</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche au saumon et aux épinards.md" data-href="recettes/Quiche au saumon et aux épinards.md" href="/recettes/quiche-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche au saumon et aux épinards</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche chèvre épinards.md" data-href="recettes/Quiche chèvre épinards.md" href="/recettes/quiche-chèvre-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche chèvre épinards</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche poireaux, chèvre lardons.md" data-href="recettes/Quiche poireaux, chèvre lardons.md" href="/recettes/quiche-poireaux,-chèvre-lardons.html" class="internal-link" target="_self" rel="noopener">Quiche poireaux, chèvre lardons</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche tomate, jambon, chèvre.md" data-href="recettes/Quiche tomate, jambon, chèvre.md" href="/recettes/quiche-tomate,-jambon,-chèvre.html" class="internal-link" target="_self" rel="noopener">Quiche tomate, jambon, chèvre</a><br><a data-tooltip-position="top" aria-label="recettes/Ratatouille.md" data-href="recettes/Ratatouille.md" href="/recettes/ratatouille.html" class="internal-link" target="_self" rel="noopener">Ratatouille</a><br><a data-tooltip-position="top" aria-label="recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md" data-href="recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md" href="/recettes/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.html" class="internal-link" target="_self" rel="noopener">Ravioli ricotta épinards à la crème d'ail et poireau</a><br><a data-tooltip-position="top" aria-label="recettes/Risotto de coquillettes poireaux, poulet &amp; chèvre.md" data-href="recettes/Risotto de coquillettes poireaux, poulet &amp; chèvre.md" href="/recettes/risotto-de-coquillettes-poireaux,-poulet-&amp;-chèvre.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes poireaux, poulet &amp; chèvre</a><br><a data-tooltip-position="top" aria-label="recettes/Riz au chorizo.md" data-href="recettes/Riz au chorizo.md" href="/recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Riz au chorizo</a><br><a data-tooltip-position="top" aria-label="recettes/Salade au poulet pané.md" data-href="recettes/Salade au poulet pané.md" href="/recettes/salade-au-poulet-pané.html" class="internal-link" target="_self" rel="noopener">Salade au poulet pané</a><br><a data-tooltip-position="top" aria-label="recettes/Salade aux haricots rouges, maïs et thon.md" data-href="recettes/Salade aux haricots rouges, maïs et thon.md" href="/recettes/salade-aux-haricots-rouges,-maïs-et-thon.html" class="internal-link" target="_self" rel="noopener">Salade aux haricots rouges, maïs et thon</a><br><a data-tooltip-position="top" aria-label="recettes/Salade de pâtes au thon, tomates et avocat.md" data-href="recettes/Salade de pâtes au thon, tomates et avocat.md" href="/recettes/salade-de-pâtes-au-thon,-tomates-et-avocat.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes au thon, tomates et avocat</a><br><a data-tooltip-position="top" aria-label="recettes/Salade de pâtes façon tacos.md" data-href="recettes/Salade de pâtes façon tacos.md" href="/recettes/salade-de-pâtes-façon-tacos.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes façon tacos</a><br><a data-tooltip-position="top" aria-label="recettes/Salade de pâtes méditerranéenne.md" data-href="recettes/Salade de pâtes méditerranéenne.md" href="/recettes/salade-de-pâtes-méditerranéenne.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes méditerranéenne</a><br><a data-tooltip-position="top" aria-label="recettes/Salade de pâtes à l'italienne.md" data-href="recettes/Salade de pâtes à l'italienne.md" href="/recettes/salade-de-pâtes-à-l'italienne.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes à l'italienne</a><br><a data-tooltip-position="top" aria-label="recettes/Salade piémontaise facile.md" data-href="recettes/Salade piémontaise facile.md" href="/recettes/salade-piémontaise-facile.html" class="internal-link" target="_self" rel="noopener">Salade piémontaise facile</a><br><a data-tooltip-position="top" aria-label="recettes/Soupe de Tortellini.md" data-href="recettes/Soupe de Tortellini.md" href="/recettes/soupe-de-tortellini.html" class="internal-link" target="_self" rel="noopener">Soupe de Tortellini</a><br><a data-tooltip-position="top" aria-label="recettes/Tarte aux légumes du soleil.md" data-href="recettes/Tarte aux légumes du soleil.md" href="/recettes/tarte-aux-légumes-du-soleil.html" class="internal-link" target="_self" rel="noopener">Tarte aux légumes du soleil</a><br><a data-tooltip-position="top" aria-label="recettes/Tarte thon, tomate et moutarde.md" data-href="recettes/Tarte thon, tomate et moutarde.md" href="/recettes/tarte-thon,-tomate-et-moutarde.html" class="internal-link" target="_self" rel="noopener">Tarte thon, tomate et moutarde</a><br><a data-tooltip-position="top" aria-label="recettes/Tomates farcies au chèvre chaud.md" data-href="recettes/Tomates farcies au chèvre chaud.md" href="/recettes/tomates-farcies-au-chèvre-chaud.html" class="internal-link" target="_self" rel="noopener">Tomates farcies au chèvre chaud</a><br><a data-tooltip-position="top" aria-label="recettes/Tresse feuilletée au boursin, poireau et truite fumée.md" data-href="recettes/Tresse feuilletée au boursin, poireau et truite fumée.md" href="/recettes/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.html" class="internal-link" target="_self" rel="noopener">Tresse feuilletée au boursin, poireau et truite fumée</a><br><a data-tooltip-position="top" aria-label="recettes/Wok légumes sautés, poulet &amp; sauce cacahuète.md" data-href="recettes/Wok légumes sautés, poulet &amp; sauce cacahuète.md" href="/recettes/wok-légumes-sautés,-poulet-&amp;-sauce-cacahuète.html" class="internal-link" target="_self" rel="noopener">Wok légumes sautés, poulet &amp; sauce cacahuète</a><br><a data-tooltip-position="top" aria-label="recettes/Wrap Saumon.md" data-href="recettes/Wrap Saumon.md" href="/recettes/wrap-saumon.html" class="internal-link" target="_self" rel="noopener">Wrap Saumon</a><br><a data-tooltip-position="top" aria-label="recettes/Wrap de tortilla à l'avocat, cheddar et oeufs brouillés.md" data-href="recettes/Wrap de tortilla à l'avocat, cheddar et oeufs brouillés.md" href="/recettes/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.html" class="internal-link" target="_self" rel="noopener">Wrap de tortilla à l'avocat, cheddar et oeufs brouillés</a><br><a data-tooltip-position="top" aria-label="recettes/Wrap maïs, thon &amp; fromage frais.md" data-href="recettes/Wrap maïs, thon &amp; fromage frais.md" href="/recettes/wrap-maïs,-thon-&amp;-fromage-frais.html" class="internal-link" target="_self" rel="noopener">Wrap maïs, thon &amp; fromage frais</a><br><br><br><a data-tooltip-position="top" aria-label="recettes/Feuilletés épinard, feta &amp; salade.md" data-href="recettes/Feuilletés épinard, feta &amp; salade.md" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a><br><a data-tooltip-position="top" aria-label="recettes/Frittata saumon fumé &amp; chèvre frais.md" data-href="recettes/Frittata saumon fumé &amp; chèvre frais.md" href="/recettes/frittata-saumon-fumé-&amp;-chèvre-frais.html" class="internal-link" target="_self" rel="noopener">Frittata saumon fumé &amp; chèvre frais</a><br><a data-tooltip-position="top" aria-label="recettes/Nouilles sautées aux crevettes.md" data-href="recettes/Nouilles sautées aux crevettes.md" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a><br><a data-tooltip-position="top" aria-label="recettes/Poulet au sésame.md" data-href="recettes/Poulet au sésame.md" href="/recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener">Poulet au sésame</a><br><a data-tooltip-position="top" aria-label="recettes/Pâtes aux petits pois, poireaux et bacon.md" data-href="recettes/Pâtes aux petits pois, poireaux et bacon.md" href="/recettes/pâtes-aux-petits-pois,-poireaux-et-bacon.html" class="internal-link" target="_self" rel="noopener">Pâtes aux petits pois, poireaux et bacon</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche artichaut &amp; parma.md" data-href="recettes/Quiche artichaut &amp; parma.md" href="/recettes/quiche-artichaut-&amp;-parma.html" class="internal-link" target="_self" rel="noopener">Quiche artichaut &amp; parma</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche au saumon et aux épinards.md" data-href="recettes/Quiche au saumon et aux épinards.md" href="/recettes/quiche-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche au saumon et aux épinards</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche chèvre épinards.md" data-href="recettes/Quiche chèvre épinards.md" href="/recettes/quiche-chèvre-épinards.html" class="internal-link" target="_self" rel="noopener">Quiche chèvre épinards</a><br><a data-tooltip-position="top" aria-label="recettes/Quiche poireaux, chèvre lardons.md" data-href="recettes/Quiche poireaux, chèvre lardons.md" href="/recettes/quiche-poireaux,-chèvre-lardons.html" class="internal-link" target="_self" rel="noopener">Quiche poireaux, chèvre lardons</a><br><a data-tooltip-position="top" aria-label="recettes/Ratatouille.md" data-href="recettes/Ratatouille.md" href="/recettes/ratatouille.html" class="internal-link" target="_self" rel="noopener">Ratatouille</a><br><a data-tooltip-position="top" aria-label="recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md" data-href="recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md" href="/recettes/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.html" class="internal-link" target="_self" rel="noopener">Ravioli ricotta épinards à la crème d'ail et poireau</a><br><a data-tooltip-position="top" aria-label="recettes/Risotto de coquillettes poireaux, poulet &amp; chèvre.md" data-href="recettes/Risotto de coquillettes poireaux, poulet &amp; chèvre.md" href="/recettes/risotto-de-coquillettes-poireaux,-poulet-&amp;-chèvre.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes poireaux, poulet &amp; chèvre</a><br><a data-tooltip-position="top" aria-label="recettes/Riz au chorizo.md" data-href="recettes/Riz au chorizo.md" href="/recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Riz au chorizo</a><br><a data-tooltip-position="top" aria-label="recettes/Salade jambon cru, mozza &amp; pistaches.md" data-href="recettes/Salade jambon cru, mozza &amp; pistaches.md" href="/recettes/salade-jambon-cru,-mozza-&amp;-pistaches.html" class="internal-link" target="_self" rel="noopener">Salade jambon cru, mozza &amp; pistaches</a><br><a data-tooltip-position="top" aria-label="recettes/Soupe de Tortellini.md" data-href="recettes/Soupe de Tortellini.md" href="/recettes/soupe-de-tortellini.html" class="internal-link" target="_self" rel="noopener">Soupe de Tortellini</a><br><a data-tooltip-position="top" aria-label="recettes/Tarte aux légumes du soleil.md" data-href="recettes/Tarte aux légumes du soleil.md" href="/recettes/tarte-aux-légumes-du-soleil.html" class="internal-link" target="_self" rel="noopener">Tarte aux légumes du soleil</a><br><a data-tooltip-position="top" aria-label="recettes/Tresse feuilletée au boursin, poireau et truite fumée.md" data-href="recettes/Tresse feuilletée au boursin, poireau et truite fumée.md" href="/recettes/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.html" class="internal-link" target="_self" rel="noopener">Tresse feuilletée au boursin, poireau et truite fumée</a><br><a data-tooltip-position="top" aria-label="recettes/Velouté d'endives au lard.md" data-href="recettes/Velouté d'endives au lard.md" href="/recettes/velouté-d'endives-au-lard.html" class="internal-link" target="_self" rel="noopener">Velouté d'endives au lard</a><br><br><br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>catégories/au-fil-des-saisons.html</link><guid isPermaLink="false">catégories/Au fil des saisons.md</guid><pubDate>Mon, 20 May 2024 08:15:09 GMT</pubDate></item><item><title><![CDATA[Les pêchés mignons]]></title><description><![CDATA[ 
  <br><br><br><a data-tooltip-position="top" aria-label="recettes/Burger alsacien au poulet et munster.md" data-href="recettes/Burger alsacien au poulet et munster.md" href="/recettes/burger-alsacien-au-poulet-et-munster.html" class="internal-link" target="_self" rel="noopener">Burger alsacien au poulet et munster</a><br><a data-tooltip-position="top" aria-label="recettes/Camembert rôti &amp; potatoes.md" data-href="recettes/Camembert rôti &amp; potatoes.md" href="/recettes/camembert-rôti-&amp;-potatoes.html" class="internal-link" target="_self" rel="noopener">Camembert rôti &amp; potatoes</a><br><a data-tooltip-position="top" aria-label="recettes/Flammeküeche.md" data-href="recettes/Flammeküeche.md" href="/recettes/flammeküeche.html" class="internal-link" target="_self" rel="noopener">Flammeküeche</a><br><a data-tooltip-position="top" aria-label="recettes/French tacos.md" data-href="recettes/French tacos.md" href="/recettes/french-tacos.html" class="internal-link" target="_self" rel="noopener">French tacos</a><br><a data-tooltip-position="top" aria-label="recettes/Haricots verts à l'ail et cordon bleu.md" data-href="recettes/Haricots verts à l'ail et cordon bleu.md" href="/recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail et cordon bleu</a><br><a data-tooltip-position="top" aria-label="recettes/Kebab.md" data-href="recettes/Kebab.md" href="/recettes/kebab.html" class="internal-link" target="_self" rel="noopener">Kebab</a><br><a data-tooltip-position="top" aria-label="recettes/Pizza Calzone au jambon et champignons.md" data-href="recettes/Pizza Calzone au jambon et champignons.md" href="/recettes/pizza-calzone-au-jambon-et-champignons.html" class="internal-link" target="_self" rel="noopener">Pizza Calzone au jambon et champignons</a><br><a data-tooltip-position="top" aria-label="recettes/Pizza au saumon.md" data-href="recettes/Pizza au saumon.md" href="/recettes/pizza-au-saumon.html" class="internal-link" target="_self" rel="noopener">Pizza au saumon</a><br><a data-tooltip-position="top" aria-label="recettes/Pizza baguette.md" data-href="recettes/Pizza baguette.md" href="/recettes/pizza-baguette.html" class="internal-link" target="_self" rel="noopener">Pizza baguette</a><br><a data-tooltip-position="top" aria-label="recettes/Tarte salée pommes de terre et camembert.md" data-href="recettes/Tarte salée pommes de terre et camembert.md" href="/recettes/tarte-salée-pommes-de-terre-et-camembert.html" class="internal-link" target="_self" rel="noopener">Tarte salée pommes de terre et camembert</a><br><a data-tooltip-position="top" aria-label="recettes/Tartiflette façon Goblot.md" data-href="recettes/Tartiflette façon Goblot.md" href="/recettes/tartiflette-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Tartiflette façon Goblot</a><br><br><br><a data-tooltip-position="top" aria-label="recettes/Chocolat chaud maison.md" data-href="recettes/Chocolat chaud maison.md" href="/recettes/chocolat-chaud-maison.html" class="internal-link" target="_self" rel="noopener">Chocolat chaud maison</a><br><a data-tooltip-position="top" aria-label="recettes/Cookies.md" data-href="recettes/Cookies.md" href="/recettes/cookies.html" class="internal-link" target="_self" rel="noopener">Cookies</a><br><a data-tooltip-position="top" aria-label="recettes/Croissant au jambon fromage.md" data-href="recettes/Croissant au jambon fromage.md" href="/recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener">Croissant au jambon fromage</a><br><a data-tooltip-position="top" aria-label="recettes/Croque-monsieur.md" data-href="recettes/Croque-monsieur.md" href="/recettes/croque-monsieur.html" class="internal-link" target="_self" rel="noopener">Croque-monsieur</a><br><a data-tooltip-position="top" aria-label="recettes/Feuilletés apéritifs aux Saucisses de Strasbourg.md" data-href="recettes/Feuilletés apéritifs aux Saucisses de Strasbourg.md" href="/recettes/feuilletés-apéritifs-aux-saucisses-de-strasbourg.html" class="internal-link" target="_self" rel="noopener">Feuilletés apéritifs aux Saucisses de Strasbourg</a><br><a data-tooltip-position="top" aria-label="recettes/Feuilletés au fromage ultra simples.md" data-href="recettes/Feuilletés au fromage ultra simples.md" href="/recettes/feuilletés-au-fromage-ultra-simples.html" class="internal-link" target="_self" rel="noopener">Feuilletés au fromage ultra simples</a><br><a data-tooltip-position="top" aria-label="recettes/Gâteau au chocolat fondant rapide.md" data-href="recettes/Gâteau au chocolat fondant rapide.md" href="/recettes/gâteau-au-chocolat-fondant-rapide.html" class="internal-link" target="_self" rel="noopener">Gâteau au chocolat fondant rapide</a><br><a data-tooltip-position="top" aria-label="recettes/Hachis Parmentier.md" data-href="recettes/Hachis Parmentier.md" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a><br><a data-tooltip-position="top" aria-label="recettes/Hamburger maison.md" data-href="recettes/Hamburger maison.md" href="/recettes/hamburger-maison.html" class="internal-link" target="_self" rel="noopener">Hamburger maison</a><br><a data-tooltip-position="top" aria-label="recettes/Paris-Brest au praliné.md" data-href="recettes/Paris-Brest au praliné.md" href="/recettes/paris-brest-au-praliné.html" class="internal-link" target="_self" rel="noopener">Paris-Brest au praliné</a><br><a data-tooltip-position="top" aria-label="recettes/Roses des sables au chocolat faciles.md" data-href="recettes/Roses des sables au chocolat faciles.md" href="/recettes/roses-des-sables-au-chocolat-faciles.html" class="internal-link" target="_self" rel="noopener">Roses des sables au chocolat faciles</a><br><a data-tooltip-position="top" aria-label="recettes/Sauté de porc façon Goblot.md" data-href="recettes/Sauté de porc façon Goblot.md" href="/recettes/sauté-de-porc-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Sauté de porc façon Goblot</a><br><a data-tooltip-position="top" aria-label="recettes/Soupe aux ramen.md" data-href="recettes/Soupe aux ramen.md" href="/recettes/soupe-aux-ramen.html" class="internal-link" target="_self" rel="noopener">Soupe aux ramen</a>]]></description><link>catégories/les-pêchés-mignons.html</link><guid isPermaLink="false">catégories/Les pêchés mignons.md</guid><pubDate>Thu, 04 Apr 2024 15:28:13 GMT</pubDate></item><item><title><![CDATA[Mes bases de recettes]]></title><description><![CDATA[ 
  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>]]></description><link>catégories/mes-bases-de-recettes.html</link><guid isPermaLink="false">catégories/Mes bases de recettes.md</guid><pubDate>Fri, 02 Aug 2024 17:45:05 GMT</pubDate></item><item><title><![CDATA[Pour toute la journée]]></title><description><![CDATA[ 
@@ -359,26 +402,7 @@ La piémontaise est meilleure préparée la veille !
 <br>Répartissez les tranches de fromage sur chaque filet de poulet.
 <br>Baissez le feu à moyen et prolongez la cuisson 5 à 7 min jusqu'à ce que le poulet soit cuit à cœur (la chair n'est plus rose) et le fromage fondu.
 <br>Faites dorer les pains à burger dans une poêle avec un filet d'huile de cuisson&nbsp;5 min. Sur la base de chaque&nbsp;pain,&nbsp;étalez la moutarde. Déposez dessus un filet de poulet au munster et un peu d'oignon confit. Refermez les burger.
-]]></description><link>recettes/burger-alsacien-au-poulet-et-munster.html</link><guid isPermaLink="false">recettes/Burger alsacien au poulet et munster.md</guid><pubDate>Wed, 15 May 2024 12:11:55 GMT</pubDate><enclosure url="recettes/images/burger-alsacien-au-poulet-et-munster.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/burger-alsacien-au-poulet-et-munster.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Burrito bœuf &amp; cheddar]]></title><description><![CDATA[ 
- <br><br><img alt="Burrito bœuf &amp; cheddar.webp" src="/recettes/images/burrito-bœuf-&amp;-cheddar.webp"><br><br><br>
-<br>Kit burrito 4 portions : 1
-<br>Boeuf haché : 400g
-<br>Cheddar : 80g
-<br>haricots rouges : 240g
-<br>riz : 160g
-<br>Oignon rouge : 1
-<br>Laitue : 4 poignées
-<br>Crème fraîche : 10cl
-<br><br>
-<br>Faites cuire le riz selon les instructions du paquet. Réservez.
-<br>Pendant ce temps, coupez l’oignon rouge en petits morceaux.
-<br>Dans une poêle, ajoutez un filet d'huile de cuisson puis faites revenir l'oignon pendant 2 min.
-<br>Ajoutez ensuite la viande hachée et faites cuire pendant 7 minutes.
-<br>Sortez les tortillas de leur emballage. Vous devez avoir à disposition un sachet de mélange aux épices et une sauce à napper.
-<br>Une fois la viande cuite, ajoutez les épices du kit et les haricots rouges. Mélangez bien.
-<br>Réchauffez la tortilla puis garnissez-la avec la crème fraîche, la salade, le riz cuit, la viande hachée, le cheddar râpé et la sauce à napper du kit.
-<br>Refermez votre burrito et coupez-le en deux. C’est prêt !
-]]></description><link>recettes/burrito-bœuf-&amp;-cheddar.html</link><guid isPermaLink="false">recettes/Burrito bœuf &amp; cheddar.md</guid><pubDate>Wed, 15 May 2024 12:11:58 GMT</pubDate><enclosure url="recettes/images/burrito-bœuf-&amp;-cheddar.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/burrito-bœuf-&amp;-cheddar.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Cabillaud, amandes &amp; haricots]]></title><description><![CDATA[ 
+]]></description><link>recettes/burger-alsacien-au-poulet-et-munster.html</link><guid isPermaLink="false">recettes/Burger alsacien au poulet et munster.md</guid><pubDate>Wed, 15 May 2024 12:11:55 GMT</pubDate><enclosure url="recettes/images/burger-alsacien-au-poulet-et-munster.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/burger-alsacien-au-poulet-et-munster.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Cabillaud, amandes &amp; haricots]]></title><description><![CDATA[ 
  <br><br><img alt="Cabillaud, amandes &amp; haricots.webp" src="/recettes/images/cabillaud,-amandes-&amp;-haricots.webp"><br><br><br>
 <br>Haricots : 1kg
 <br>Cabillaud : 4
@@ -451,18 +475,7 @@ La piémontaise est meilleure préparée la veille !
 <br>Ajoutez ensuite la purée de tomate, les haricots vers et le cumin dans la poêle. Salez, poivrez et mélangez, puis laissez mijoter pendant 3 minutes à couvert.
 <br>Creusez des puits dans la préparation et cassez-y délicatement les œufs. Salez et poivrez les œufs, puis laissez les cuire 2 à 3 minutes à couvert, sur feu moyen.
 <br>En fin de cuisson, ajoutez la feta émiettée et la coriandre fraîche, si vous en avez. C'est prêt !
-]]></description><link>recettes/chakchouka-haricots-verts-&amp;-feta.html</link><guid isPermaLink="false">recettes/Chakchouka haricots verts &amp; feta.md</guid><pubDate>Wed, 15 May 2024 12:12:13 GMT</pubDate><enclosure url="recettes/images/chakchouka-haricots-verts-&amp;-feta.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/chakchouka-haricots-verts-&amp;-feta.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Chèvre chaud au jambon &amp; salade]]></title><description><![CDATA[ 
- <br><br><img alt="Chèvre chaud au jambon &amp; salade.webp" src="/recettes/images/chèvre-chaud-au-jambon-&amp;-salade.webp"><br><br><br>
-<br>Salade : 8 poignées
-<br>Fromage de chèvre : 200g
-<br>Herbes de Provence
-<br>Pain de mie : 8 tranches
-<br>Jambon : 8 tranches
-<br><br>
-<br>Préchauffez votre four en mode grill. Sur les tranches de pain de mie, déposez les tranches de jambon et les tranches de chèvre.
-<br>Versez un filet d'huile de cuisson, salez, poivrez et ajoutez les herbes de Provence. Enfournez 5 minutes en mode grill.
-<br>Sortez les chèvres chauds du four. Dans une assiette, servez les chèvres chauds sur la salade avec la vinaigrette de votre choix. C'est prêt !
-]]></description><link>recettes/chèvre-chaud-au-jambon-&amp;-salade.html</link><guid isPermaLink="false">recettes/Chèvre chaud au jambon &amp; salade.md</guid><pubDate>Wed, 15 May 2024 12:12:18 GMT</pubDate><enclosure url="recettes/images/chèvre-chaud-au-jambon-&amp;-salade.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/chèvre-chaud-au-jambon-&amp;-salade.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Chocolat chaud maison]]></title><description><![CDATA[ 
+]]></description><link>recettes/chakchouka-haricots-verts-&amp;-feta.html</link><guid isPermaLink="false">recettes/Chakchouka haricots verts &amp; feta.md</guid><pubDate>Wed, 15 May 2024 12:12:13 GMT</pubDate><enclosure url="recettes/images/chakchouka-haricots-verts-&amp;-feta.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/chakchouka-haricots-verts-&amp;-feta.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Chocolat chaud maison]]></title><description><![CDATA[ 
  <br><br><img alt="Chocolat chaud maison.webp" src="/recettes/images/chocolat-chaud-maison.webp"><br><br><br>Pour un mug (25cl) :<br>
 <br>Crème liquide entière : 10cl
 <br>lait : 15cl
@@ -488,44 +501,7 @@ La piémontaise est meilleure préparée la veille !
 <br>Dans un bol, mettre ensemble le thon, l'oignon débité en petits cubes, la mayonnaise, la wasabi, les câpres et le jus de citron. Mélanger à la fourchette. Rectifier l'assaisonnement.
 <br>Découper la salade en fines lanières et l'arroser de jus de citron.
 <br>Dresser le sandwich en disposant une tranche de pain de mie, la préparation au thon, la salade, le concombre, la préparation au thon et une tranche de pain de mie.
-]]></description><link>recettes/club-sandwich-au-thon.html</link><guid isPermaLink="false">recettes/Club sandwich au thon.md</guid><pubDate>Thu, 23 May 2024 15:38:49 GMT</pubDate><enclosure url="recettes/images/club-sandwich-au-thon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/club-sandwich-au-thon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Club sandwich poulet - bacon]]></title><description><![CDATA[ 
- <br><br><img alt="Club sandwich poulet - bacon.webp" src="/recettes/images/club-sandwich-poulet-bacon.webp"><br><br><br>
-<br>Pain de mie : 16 tranches (6 en salade)
-<br>Tomate : 2
-<br>Filet de poulet : 700g
-<br>bacon : 150g
-<br>Avocat : 1
-<br>Oeuf dur : 3
-<br>Salade : 200g
-<br><br>
-<br>Faire cuire l'escalope à feu doux et faire frire les tranches de bacon.
-<br>Faire légèrement toaster le pain de mie.
-<br>Sur la première tranche étaler un peu de mayonnaise, disposer un peu de salade, l'escalope découpée en fines lamelles, quelques rondelles d'avocat, saler légèrement, poivrer.
-<br>Recouvrir de la deuxième tranche de pain de mie, étaler encore un peu de mayonnaise, disposer les rondelles de tomates et d'œuf dur, le bacon.
-<br>Recouvrir de la troisième tranche de pain de mie.
-<br>Presser avec la paume de la main, maintenir avec 2 cure-dents, couper en deux en diagonale.
-]]></description><link>recettes/club-sandwich-poulet-bacon.html</link><guid isPermaLink="false">recettes/Club sandwich poulet - bacon.md</guid><pubDate>Wed, 15 May 2024 12:12:27 GMT</pubDate><enclosure url="recettes/images/club-sandwich-poulet-bacon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/club-sandwich-poulet-bacon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Club sandwich poulet crudités]]></title><description><![CDATA[ 
- <br><br><img alt="Club sandwich poulet crudités.webp" src="/recettes/images/club-sandwich-poulet-crudités.webp"><br><br><br>
-<br>Pain de mie : 16 tranches
-<br>Tomates : 8
-<br>Lard fumé : 8 tranches
-<br>Escalopes de poulet : 2
-<br>Salade
-<br>Fromage
-<br>Oeufs durs : 2
-<br><br>
-<br>Faire dorer dans une poêle l’escalope de poulet dans un peu de beurre. Saler, poivrer. Une fois cuite, laisser-la refroidir et couper-la en petites tranches.
-<br>Cuire dans la poêle les tranches de lard, puis réserver. Couper les tomates en rondelles ainsi que l’oeuf dur.
-<br>Faire toaster au grille pain les 6 tranches de pain de mie, les tranches doivent être juste dorées. Une fois les toasts refroidis, les aligner sur une planche à découper.
-<br>A partir de ce point, doubler toutes les actions pour faire simultanément les 2 sandwichs.
-<br>Recouvrir 2 tranches de pain de mie de mayonnaise (sur une seule face). Sur la première des 2 tranches, répartir les morceaux de blanc de poulet préalablement coupés en petites tranches. Poser par dessus 2 rondelles de tomates.
-<br>Recouvrir de la seconde tranche de pain préalablement recouverte de mayonnaise. Poser sur celle-ci 2 ou 3 feuilles de salade ainsi que 4 rondelles d’oeuf dur et 2 tranches de lard.
-<br>Poser la tranche de fromage et recouvrir de la dernière tranche de pain. Presser le sandwich sans l’écraser.
-<br>Planter 4 piques en bois pour tout tenir, en évitant les diagonales du pain.
-<br>Avec un couteau à pain, couper le sandwich en 2 dans la diagonale du pain, puis dans l’autre diagonale afin d’obtenir 4 petits sandwichs en triangles.
-<br>Avec les piques en bois, réunir 2 petits sandwichs ensembles et les disposer dans une assiette.
-<br>Faire la même chose avec les 2 autres petits sandwichs.
-]]></description><link>recettes/club-sandwich-poulet-crudités.html</link><guid isPermaLink="false">recettes/Club sandwich poulet crudités.md</guid><pubDate>Wed, 15 May 2024 12:12:30 GMT</pubDate><enclosure url="recettes/images/club-sandwich-poulet-crudités.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/club-sandwich-poulet-crudités.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Cookies au chocolat]]></title><description><![CDATA[ 
+]]></description><link>recettes/club-sandwich-au-thon.html</link><guid isPermaLink="false">recettes/Club sandwich au thon.md</guid><pubDate>Thu, 23 May 2024 15:38:49 GMT</pubDate><enclosure url="recettes/images/club-sandwich-au-thon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/club-sandwich-au-thon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Cookies au chocolat]]></title><description><![CDATA[ 
  <br><br><img alt="Cookies au chocolat.webp" src="/recettes/images/cookies-au-chocolat.webp"><br><br><br>
 <br>Beurre : 85g
 <br>Sucre : 85g
@@ -860,22 +836,7 @@ L’autre secret : bien séparer les 2 bains de friture en laissant le temps aux
 <br>Recouvrez le tout avec les œufs battus.
 <br>Ajoutez la mozzarella déchirée en morceaux par-dessus. Salez et poivrez puis enfournez pendant 15 à 20 minutes à 180°C.
 <br>Sortez la frittata du four puis démoulez-la. Vous pouvez l'accompagner d'une salade verte si vous le souhaitez, c'est prêt !
-]]></description><link>recettes/frittata-courgette,-jambon-&amp;-mozza.html</link><guid isPermaLink="false">recettes/Frittata courgette, jambon &amp; mozza.md</guid><pubDate>Wed, 15 May 2024 12:13:46 GMT</pubDate><enclosure url="recettes/images/frittata-courgette,-jambon-&amp;-mozza.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/frittata-courgette,-jambon-&amp;-mozza.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Frittata saumon fumé &amp; chèvre frais]]></title><description><![CDATA[ 
- <br><br><img alt="Frittata saumon fumé &amp; chèvre frais.webp" src="/recettes/images/frittata-saumon-fumé-&amp;-chèvre-frais.webp"><br><br><br>
-<br>Oeufs : 8
-<br>Chèvre frais : 200g
-<br>Saumon : 2 tranches
-<br>Épinards : 2 poignées
-<br>Échalote : 1
-<br>Aneth
-<br><br>
-<br>Préchauffez le four à 180°C. Épluchez puis coupez l'échalote en lamelles.
-<br>Cassez les œufs dans un saladier, salez et poivrez, puis battez-les avec une fourchette ou un fouet.
-<br>Déposez une feuille de papier cuisson dans le fond d'un moule, beurrez ou huilez-le à l'aide d'un pinceau.
-<br>Ajoutez les pousses d'épinards et le chèvre frais coupé en morceaux puis les échalotes et recouvrez le tout avec les œufs battus.
-<br>Disposez par-dessus des morceaux de saumon fumé, salez et poivrez. Enfournez pendant 15 à 20 minutes à 180°C.
-<br>Sortez la frittata du four puis démoulez-la. Ajoutez des brins d'aneth si vous en avez. Vous pouvez l'accompagner d'une salade verte si vous le souhaitez, c'est prêt !
-]]></description><link>recettes/frittata-saumon-fumé-&amp;-chèvre-frais.html</link><guid isPermaLink="false">recettes/Frittata saumon fumé &amp; chèvre frais.md</guid><pubDate>Wed, 15 May 2024 12:13:50 GMT</pubDate><enclosure url="recettes/images/frittata-saumon-fumé-&amp;-chèvre-frais.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/frittata-saumon-fumé-&amp;-chèvre-frais.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Galette complète &amp; oignons confits]]></title><description><![CDATA[ 
+]]></description><link>recettes/frittata-courgette,-jambon-&amp;-mozza.html</link><guid isPermaLink="false">recettes/Frittata courgette, jambon &amp; mozza.md</guid><pubDate>Wed, 15 May 2024 12:13:46 GMT</pubDate><enclosure url="recettes/images/frittata-courgette,-jambon-&amp;-mozza.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/frittata-courgette,-jambon-&amp;-mozza.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Galette complète &amp; oignons confits]]></title><description><![CDATA[ 
  <br><br><img alt="Galette complète &amp; oignons confits.webp" src="/recettes/images/galette-complète-&amp;-oignons-confits.webp"><br><br><br>
 <br>Galettes bretonnes : 4
 <br>Oeufs : 4
@@ -1384,18 +1345,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Une fois les champignons bien dorés, ajoutez les œufs battus et le comté coupé en petit morceaux dans la poêle.
 <br>Laissez cuire à feu moyen en brisant le fond de l’omelette avec une spatule pour faciliter la cuisson.
 <br>Servir l'omelette avec la salade assaisonnée selon vos goûts, salez, poivrez, c'est prêt !
-]]></description><link>recettes/omelette-aux-champignons.html</link><guid isPermaLink="false">recettes/Omelette aux champignons.md</guid><pubDate>Wed, 15 May 2024 12:15:17 GMT</pubDate><enclosure url="recettes/images/omelette-aux-champignons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/omelette-aux-champignons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Omelette aux pommes de terre et lardons]]></title><description><![CDATA[ 
- <br><br><img alt="Omelette aux pommes de terre et lardons.webp" src="/recettes/images/omelette-aux-pommes-de-terre-et-lardons.webp"><br><br><br>
-<br>Pommes de terre : 2
-<br>Lardons : 200g
-<br>Oeufs : 5
-<br><br>
-<br>Éplucher 2 pommes de terre et les couper en dés. Les faire cuire 10 mn à la vapeur ainsi coupées (pour gagner du temps !).
-<br>Mettre 1 à 2 cuillères à soupe d'huile "neutre" (tournesol par exemple) dans un poêle et y rajouter les pommes de terre.
-<br>Faire dorer 10 mn environ et juste un peu avant la fin de la cuisson, y rajouter une poignée de lardons.
-<br>Incorporer les œufs battus assaisonnés de poivre et de sel (pas trop, les lardons sont déjà suffisamment salés) à la préparation dans la poêle en remuant 30 secondes.
-<br>Laisser cuire à votre convenance, selon si vous l'aimez baveuse ou pas).
-]]></description><link>recettes/omelette-aux-pommes-de-terre-et-lardons.html</link><guid isPermaLink="false">recettes/Omelette aux pommes de terre et lardons.md</guid><pubDate>Wed, 15 May 2024 12:15:18 GMT</pubDate><enclosure url="recettes/images/omelette-aux-pommes-de-terre-et-lardons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/omelette-aux-pommes-de-terre-et-lardons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[One pot curry de pommes de terre]]></title><description><![CDATA[ 
+]]></description><link>recettes/omelette-aux-champignons.html</link><guid isPermaLink="false">recettes/Omelette aux champignons.md</guid><pubDate>Wed, 15 May 2024 12:15:17 GMT</pubDate><enclosure url="recettes/images/omelette-aux-champignons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/omelette-aux-champignons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[One pot curry de pommes de terre]]></title><description><![CDATA[ 
  <br><br><img alt="One pot curry de pommes de terre.webp" src="/recettes/images/one-pot-curry-de-pommes-de-terre.webp"><br><br><br>
 <br>Pommes de terre : 800g
 <br>Carottes : 400g
@@ -2292,48 +2242,7 @@ On peut ajouter un peu de sucre glace avant de les manger.
 <br>Les ajouter au mélange précédent et mélanger le tout.
 <br>Pour la sauce, mélanger le vinaigre balsamique, l'huile, la moutarde et le poivre.
 <br>Mettre la salade au réfrigérateur 5 min avant de servir puis la napper de vinaigrette et déguster.
-]]></description><link>recettes/salade-aux-haricots-rouges,-maïs-et-thon.html</link><guid isPermaLink="false">recettes/Salade aux haricots rouges, maïs et thon.md</guid><pubDate>Wed, 15 May 2024 12:18:12 GMT</pubDate><enclosure url="recettes/images/salade-aux-haricots-rouges,-maïs-et-thon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-aux-haricots-rouges,-maïs-et-thon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade campagnarde]]></title><description><![CDATA[ 
- <br><br><img alt="Salade campagnarde.webp" src="/recettes/images/salade-campagnarde.webp"><br><br><br>
-<br><a data-href="Oeufs cuits" href="/recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener">Oeufs cuits</a> durs : 6
-<br><a data-href="Pommes de terres sautées" href="/recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener">Pommes de terres sautées</a> : 600g
-<br>Salade mâche : 8 poignées
-<br>Chèvre frais : 80g
-<br>Bacon : 8 tranches
-<br><br>
-<br>Oeufs cuits<br><br><br><br><img alt="Oeufs mollets.webp" src="/recettes/images/oeufs-mollets.webp"><br><br><br>
-<br>Oeufs : 4
-<br><br>
-<br>Ajouter un fond d'eau dans une casserole vapeur. Porter à ébullition.
-<br>Ajouter les oeufs, couvrir et laisser cuire :
-
-<br>4min pour obtenir des oeufs à la coque ;
-<br>5min pour des oeufs mollets ;
-<br>10min pour des oeufs durs.
-
-
-<br>Sortir les oeufs de la casserole. Vous pouvez les peler s'ils sont durs. Ils sont prêts !
-<br>Info
-En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la quantité d'eau à chauffer et donc l'inertie thermique de la casserole. Ainsi, on diminue le temps de chauffe et on ne fait pas chuter la température de l'eau quand on ajoute les oeufs ; ils seront toujours baignés dans une vapeur chaude. La cuisson n'en est que plus homogène et maîtrisée.
-
-<br>Pommes de terres sautées<br><br><br><br><img alt="Pommes de terres sautées.webp" src="/recettes/images/pommes-de-terres-sautées.webp"><br><br><br>
-<br>Pommes de terre : 6
-<br>Huile
-<br>Curry
-<br><br>
-<br>Éplucher et laver les pommes de terre, puis les couper en tranches de 1,5 cm d'épaisseur, puis en cubes. Ne plus les laver.
-<br>Dans une sauteuse, faire chauffer 3 cuillères à soupe d'huile. Lorsque l'huile est chaude, y mettre les pommes de terre d'un coup, puis les enrober d'huile dans tous les sens avec une cuillère en bois.
-<br>Ajouter sel et poivre (et éventuellement curry), puis re-mélanger.
-<br>Porter à feu maximal et faire cuire avec le couvercle jusqu'à ce qu'une bonne odeur de pommes de terre grillées s'échappe... Ne pas les découvrir avant! Cela prend entre 3 et 5 minutes.
-<br>À ce moment-là seulement, retourner les pommes de terre. Baisser la température de 2 graduations (pour mettre à feu moyen).
-<br>Remettre le couvercle, puis retourner les pommes de terre toutes les 3 min pendant 10 min.
-<br>Maintenant, elles sont cuites. Vérifier tout de même avec la pointe d'un couteau.
-
-<br>Pendant ce temps, faites cuire les œufs dans une casserole d'eau bouillante pendant 10 min.
-<br>Placez-les dans un bol d'eau froide pour stopper la cuisson, écalez-les et coupez-les en morceaux.
-<br>Après 10 minutes. Coupez la cuisson des pommes de terre.
-<br>Dans la poêle, faites cuire le bacon 2 minutes sur chaque face.
-<br>Dressez la salade : dans une assiette ajoutez la mâche, les pommes de terres, les œufs, le bacon et le chèvre. (Optionnel : ajoutez des herbes fraîches). C'est prêt !
-]]></description><link>recettes/salade-campagnarde.html</link><guid isPermaLink="false">recettes/Salade campagnarde.md</guid><pubDate>Wed, 31 Jul 2024 17:44:23 GMT</pubDate><enclosure url="recettes/images/salade-campagnarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-campagnarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade de pâtes à l'italienne]]></title><description><![CDATA[ 
+]]></description><link>recettes/salade-aux-haricots-rouges,-maïs-et-thon.html</link><guid isPermaLink="false">recettes/Salade aux haricots rouges, maïs et thon.md</guid><pubDate>Wed, 15 May 2024 12:18:12 GMT</pubDate><enclosure url="recettes/images/salade-aux-haricots-rouges,-maïs-et-thon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-aux-haricots-rouges,-maïs-et-thon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade de pâtes à l'italienne]]></title><description><![CDATA[ 
  <br><br><img alt="Salade de pâtes à l'italienne.webp" src="/recettes/images/salade-de-pâtes-à-l'italienne.webp"><br><br><br>
 <br>Melon : 1
 <br>Tomates cerises : 6
@@ -2434,18 +2343,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Une fois que vos œufs sont cuits, passez-les dans l'eau froide puis enlevez la coquille délicatement. Coupez-les en deux.
 <br>Préparez votre vinaigrette en mélangeant la moutarde à l'ancienne avec l'huile d'olive. Salez et poivrez.
 <br>Dressez votre salade en ajoutant les haricots verts, les lardons, l'œuf mollet et versez la sauce par-dessus. Ajoutez quelques feuilles de persil ciselés. C'est prêt !
-]]></description><link>recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html</link><guid isPermaLink="false">recettes/Salade haricots verts, lardons &amp; œuf mollet.md</guid><pubDate>Thu, 18 Jul 2024 12:27:19 GMT</pubDate><enclosure url="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade jambon cru, mozza &amp; pistaches]]></title><description><![CDATA[ 
- <br><br><img alt="Salade jambon cru, mozza &amp; pistaches.webp" src="/recettes/images/salade-jambon-cru,-mozza-&amp;-pistaches.webp"><br><br><br>
-<br>Jambon cru : 8 tranches
-<br>Mozzarella : 240g
-<br>Pistaches grillées : 80g
-<br>Salade : 8 poignées
-<br>Olives vertes : 120g
-<br><br>
-<br>Découpez en deux les olives si vous le souhaitez.
-<br>Découpez le jambon grossièrement.
-<br>Dans une assiette creuse, ajoutez : la roquette, le jambon, les pistaches et les olives. Déchirez la mozzarella et ajoutez-la par-dessus. Assaisonnez avec la vinaigrette de votre choix. C'est prêt !
-]]></description><link>recettes/salade-jambon-cru,-mozza-&amp;-pistaches.html</link><guid isPermaLink="false">recettes/Salade jambon cru, mozza &amp; pistaches.md</guid><pubDate>Wed, 15 May 2024 12:18:29 GMT</pubDate><enclosure url="recettes/images/salade-jambon-cru,-mozza-&amp;-pistaches.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-jambon-cru,-mozza-&amp;-pistaches.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Saucisse &amp; lentilles]]></title><description><![CDATA[ 
+]]></description><link>recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html</link><guid isPermaLink="false">recettes/Salade haricots verts, lardons &amp; œuf mollet.md</guid><pubDate>Thu, 18 Jul 2024 12:27:19 GMT</pubDate><enclosure url="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Saucisse &amp; lentilles]]></title><description><![CDATA[ 
  <br><br><img alt="Saucisse &amp; lentilles.webp" src="/recettes/images/saucisse-&amp;-lentilles.webp"><br><br><br>
 <br>Lentilles : 280g
 <br>Saucisses fumées : 4
@@ -2592,20 +2490,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Garnissez généreusement de comté râpé.
 <br>Ajoutez enfin le persil haché si vous en avez.
 <br>Servez les tacos avec une sauce salsa ou une sauce piquante si vous le souhaitez. C'est prêt !
-]]></description><link>recettes/tacos-champignons,-poulet-&amp;-comté.html</link><guid isPermaLink="false">recettes/Tacos champignons, poulet &amp; comté.md</guid><pubDate>Wed, 15 May 2024 12:18:47 GMT</pubDate><enclosure url="recettes/images/tacos-champignons,-poulet-&amp;-comté.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tacos-champignons,-poulet-&amp;-comté.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tagliatelles saumon épinards]]></title><description><![CDATA[ 
- <br><br><img alt="Tagliatelles saumon épinards.webp" src="/recettes/images/tagliatelles-saumon-épinards.webp"><br><br><br>
-<br>Pâtes : 400g
-<br>Saumon : 4 tranches
-<br>Épinards : 4 poignées
-<br>Crème fraîche : 10cl
-<br>Citron
-<br><br>
-<br>Coupez le saumon fumé grossièrement.
-<br>Dans une casserole d'eau bouillante salée, faites cuire les pâtes selon les instructions de préparation soit environ 6 minutes.
-<br>À la fin de la cuisson des pâtes, réservez l'équivalent d'une petite louche d'eau de cuisson par personne avant d'égoutter les pâtes.
-<br>Dans une poêle à feu moyen, ajoutez la crème, 1 petite louche d'eau de cuisson par personne, le jus de citron et les épinards. Laissez cuire 2 minutes.
-<br>Salez, poivrez et ajoutez les pâtes dans la poêle. Ajoutez le saumon et mélangez. Zestez le citron au-dessus de la poêle pour plus d'acidité.
-]]></description><link>recettes/tagliatelles-saumon-épinards.html</link><guid isPermaLink="false">recettes/Tagliatelles saumon épinards.md</guid><pubDate>Wed, 15 May 2024 12:18:49 GMT</pubDate><enclosure url="recettes/images/tagliatelles-saumon-épinards.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tagliatelles-saumon-épinards.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tarte aux légumes du soleil]]></title><description><![CDATA[ 
+]]></description><link>recettes/tacos-champignons,-poulet-&amp;-comté.html</link><guid isPermaLink="false">recettes/Tacos champignons, poulet &amp; comté.md</guid><pubDate>Wed, 15 May 2024 12:18:47 GMT</pubDate><enclosure url="recettes/images/tacos-champignons,-poulet-&amp;-comté.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tacos-champignons,-poulet-&amp;-comté.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tarte aux légumes du soleil]]></title><description><![CDATA[ 
  <br><br><img alt="Tarte aux légumes du soleil.webp" src="/recettes/images/tarte-aux-légumes-du-soleil.webp"><br><br><br>
 <br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
 <br>Poivrons : 2
@@ -2835,20 +2720,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Coupez la tortilla en vous arrêtant au milieu. Déposez sur chaque quart une portion d'avocat, d'œufs brouillés, cheddar et oignons rouge.
 <br>Repliez chaque quart l'un sur l'autre dans le sens des aiguilles d'une montre (voir la vidéo).
 <br>Faites cuire la tortilla à la poêle avec un peu d'huile, environ deux minutes de chaque côté.
-]]></description><link>recettes/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.html</link><guid isPermaLink="false">recettes/Wrap de tortilla à l'avocat, cheddar et oeufs brouillés.md</guid><pubDate>Wed, 15 May 2024 12:19:18 GMT</pubDate><enclosure url="recettes/images/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wrap maïs, thon &amp; fromage frais]]></title><description><![CDATA[ 
- <br><br><img alt="Wrap maïs, thon &amp; fromage frais.webp" src="/recettes/images/wrap-maïs,-thon-&amp;-fromage-frais.webp"><br><br><br>
-<br>Tortillas : 4
-<br>Thon : 200g
-<br>Maïs : 120g
-<br>Fromage frais : 40g
-<br>Salade : 4 poignées
-<br>Oignon : 1
-<br><br>
-<br>Émincez l'oignon rouge en lamelles.
-<br>Étalez le fromage frais sur la tortilla.
-<br>Sur une moitié, ajoutez le maïs et le thon égoutté puis l'oignon rouge et la roquette. Salez et poivrez.
-<br>Roulez le tout. Coupez votre wrap en deux et dégustez. C'est prêt !
-]]></description><link>recettes/wrap-maïs,-thon-&amp;-fromage-frais.html</link><guid isPermaLink="false">recettes/Wrap maïs, thon &amp; fromage frais.md</guid><pubDate>Wed, 15 May 2024 12:19:21 GMT</pubDate><enclosure url="recettes/images/wrap-maïs,-thon-&amp;-fromage-frais.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/wrap-maïs,-thon-&amp;-fromage-frais.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
+]]></description><link>recettes/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.html</link><guid isPermaLink="false">recettes/Wrap de tortilla à l'avocat, cheddar et oeufs brouillés.md</guid><pubDate>Wed, 15 May 2024 12:19:18 GMT</pubDate><enclosure url="recettes/images/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
  <br>e# Livre de recettes<br><br>Salut ! Moi, c'est Antoine.
  <img style="margin: 20px; float: right; width: 100px; max-width: 100%;" height="100" alt="profile picture" src="/photo.webp" referrerpolicy="no-referrer">J'ai mis en ligne ce site web pour partager mon livre de recettes. Il s'agit de toutes les recettes que j'essaie et que je sauvegarde pour ne jamais manquer d'idée !<br><br>Plus de 140 recettes sont disponibles ! N'hésitez pas à me faire part de vos retours ou de vos astuces pour les améliorer.
 <br><a data-href="Menu de la semaine" href="/menu-de-la-semaine.html" class="internal-link" target="_self" rel="noopener">Menu de la semaine</a><br><br><br><br><br><br><br>Vous pouvez retrouver le repository de ce livre sur GitHub : <a rel="noopener" class="external-link" href="https://github.com/antoinelabard/Cookbook" target="_blank">https://github.com/antoinelabard/Cookbook</a>. Si vous avez des suggestions d'améliorations des recettes, vous pouvez me contacter ou utiliser GitHub si vous le maîtrisez.<br>❤️ Merci aux contributeurs du projet :<br>
