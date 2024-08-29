@@ -1,5 +1,95 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 25 Aug 2024 17:37:48 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 25 Aug 2024 17:37:47 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 29 Aug 2024 16:25:20 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 29 Aug 2024 16:25:19 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Galette forestière]]></title><description><![CDATA[ 
+ <br><br><img alt="Galette forestière.webp" src="/recettes/images/galette-forestière.webp"><br><br><br>
+<br>Galettes bretonnes : 4
+<br>Jambon : 8 tranches
+<br>Fromage râpé : 200g
+<br>Champignons de Paris : 600g
+<br>Oeufs : 8
+<br>Échalote : 1
+<br><br>
+<br>Hachez les échalotes. Lavez les champignons, puis coupez-les en fines lamelles.
+<br>Dans une poêle à feu vif, ajoutez une noisette de beurre, les échalotes, et les champignons et faites-les revenir à feu vif en remuant régulièrement, jusqu'à ce que l'eau rendue par la champignons s'évapore totalement. Salez, poivrez.
+<br>Une fois les champignons bien dorés, retirez-les de la poêle et mettez-les de côté.
+<br>Ajoutez une noisette de beurre dans la poêle et une galette.
+<br>Cassez un œuf au centre, ajoutez un peu de fromage sur le dessus, ajoutez le jambon déchiré en morceaux et répartir un peu de la poêlée de champignons tout autour.
+<br>Laissez cuire à feu moyen 3 minutes jusqu'à ce que l'œuf soit cuit convenablement. Refermez la galette en 2 ou en carré, servez, c'est prêt !
+]]></description><link>recettes/galette-forestière.html</link><guid isPermaLink="false">recettes/Galette forestière.md</guid><pubDate>Sun, 25 Aug 2024 17:41:01 GMT</pubDate><enclosure url="recettes/images/galette-forestière.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-forestière.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br>
+<br><a data-href="Brunch sandwich aux champignons" href="/recettes/brunch-sandwich-aux-champignons.html" class="internal-link" target="_self" rel="noopener">Brunch sandwich aux champignons</a>
+<br><a data-href="Salade de pâtes façon tacos" href="/recettes/salade-de-pâtes-façon-tacos.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes façon tacos</a>
+<br><a data-href="Feuilletés épinard, feta &amp; salade" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a>
+<br><a data-href="Wrap de tortilla à l'avocat, cheddar et oeufs brouillés" href="/recettes/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.html" class="internal-link" target="_self" rel="noopener">Wrap de tortilla à l'avocat, cheddar et oeufs brouillés</a>
+<br><a data-href="Quiche à l'oignon et aux lardons fumés" href="/recettes/quiche-à-l'oignon-et-aux-lardons-fumés.html" class="internal-link" target="_self" rel="noopener">Quiche à l'oignon et aux lardons fumés</a>
+<br><a data-href="Gratin de ravioles à la ratatouille" href="/recettes/gratin-de-ravioles-à-la-ratatouille.html" class="internal-link" target="_self" rel="noopener">Gratin de ravioles à la ratatouille</a>
+<br><a data-href="Ravioles à la toscane" href="/recettes/ravioles-à-la-toscane.html" class="internal-link" target="_self" rel="noopener">Ravioles à la toscane</a>
+<br><br>
+<br>Produits secs
+
+<br>Pain de mie : 8 tranches
+<br>Oeufs : 15
+
+
+<br>Produits frais
+
+<br>Jambon : 8 tranches
+<br>Pâte feuilletée : 1
+<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br>Lardons : 75g
+<br>Ravioles : 480g
+
+
+<br>Surgelés
+
+<br>Champignons de Paris : 400g
+<br>Épinards : 300g
+
+
+<br>Produits laitiers
+
+<br>Fromage à l'ail : 160g
+<br>Mimolette : 80g
+<br>Feta : 160g
+<br>Cheddar : 50g
+<br>Crème fraîche : 50cl
+<br>Beurre : 20g
+<br>Crème fraîche : 8cl
+<br>Comté râpé : 100g
+<br>Crème fraiche : 20cl
+<br>Parmesan râpé : 60g
+
+
+<br>Conserves
+
+<br>Pâtes : 350g
+<br>Jus de citron
+<br>Olives : 50g
+<br>Huile d'olive
+<br>Maïs : 120g
+<br>Coriandre
+<br>Huile d'olive
+<br>Tortillas : 8
+<br><a data-href="Ratatouille" href="/recettes/ratatouille.html" class="internal-link" target="_self" rel="noopener">Ratatouille</a> : 800g
+<br>Ravioli : 500g
+<br>Tomates séchées : 200g
+
+
+<br>Fruits et légumes
+
+<br>Tomates cerises : 200g
+<br>Avocats : 3
+<br>Gousse d'ail : 1
+<br>Salade : 500g
+<br>Oignon : 1
+<br>Oignons : 1kg
+<br>Ail : 1 gousse
+
+
+<br>surgelés
+
+<br>Épinards : 300g
+
+
+<br><br>
 <br><a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
 <br><a data-href="Poulet sauce moutarde" href="/recettes/poulet-sauce-moutarde.html" class="internal-link" target="_self" rel="noopener">Poulet sauce moutarde</a>
 <br><a data-href="Haricots verts à la carbonara" href="/recettes/haricots-verts-à-la-carbonara.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la carbonara</a>
@@ -153,7 +243,7 @@
 <br>brocoli
 
 
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Sat, 24 Aug 2024 07:38:17 GMT</pubDate></item><item><title><![CDATA[Burrito bœuf &amp; cheddar]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Thu, 29 Aug 2024 16:03:00 GMT</pubDate></item><item><title><![CDATA[Burrito bœuf &amp; cheddar]]></title><description><![CDATA[ 
  <br><br><img alt="Burrito bœuf &amp; cheddar.webp" src="/recettes/images/burrito-bœuf-&amp;-cheddar.webp"><br><br><br>
 <br>Kit burrito 4 portions : 1
 <br>Boeuf haché : 400g
@@ -968,22 +1058,7 @@ L’autre secret : bien séparer les 2 bains de friture en laissant le temps aux
 <br>Etaler la préparation sur la pâte, y mettre la fève (sur un bord, pour minimiser les chances de tomber dessus en coupant la galette!).
 <br>Refermer la galette avec la seconde pâte et bien souder les bords.
 <br>Enfourner pendant 30 minutes environ (surveiller la cuisson dès 25 minutes, mais ne pas hésiter à laisser jusqu'à 40 minutes si nécessaire).
-]]></description><link>recettes/galette-des-rois-frangipane.html</link><guid isPermaLink="false">recettes/Galette des rois Frangipane.md</guid><pubDate>Wed, 15 May 2024 12:13:55 GMT</pubDate><enclosure url="recettes/images/galette-des-rois-frangipane.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-des-rois-frangipane.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Galette forestière]]></title><description><![CDATA[ 
- <br><br><img alt="Galette forestière.webp" src="/recettes/images/galette-forestière.webp"><br><br><br>
-<br>Galettes bretonnes : 8
-<br>Jambon : 8 tranches
-<br>Fromage râpé : 200g
-<br>Champignons de Paris : 600g
-<br>Oeufs : 8
-<br>Échalote : 1
-<br><br>
-<br>Hachez les échalotes. Lavez les champignons, puis coupez-les en fines lamelles.
-<br>Dans une poêle à feu vif, ajoutez une noisette de beurre, les échalotes, et les champignons et faites-les revenir à feu vif en remuant régulièrement, jusqu'à ce que l'eau rendue par la champignons s'évapore totalement. Salez, poivrez.
-<br>Une fois les champignons bien dorés, retirez-les de la poêle et mettez-les de côté.
-<br>Ajoutez une noisette de beurre dans la poêle et une galette.
-<br>Cassez un œuf au centre, ajoutez un peu de fromage sur le dessus, ajoutez le jambon déchiré en morceaux et répartir un peu de la poêlée de champignons tout autour.
-<br>Laissez cuire à feu moyen 3 minutes jusqu'à ce que l'œuf soit cuit convenablement. Refermez la galette en 2 ou en carré, servez, c'est prêt !
-]]></description><link>recettes/galette-forestière.html</link><guid isPermaLink="false">recettes/Galette forestière.md</guid><pubDate>Wed, 15 May 2024 12:13:57 GMT</pubDate><enclosure url="recettes/images/galette-forestière.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-forestière.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Galette saucisse]]></title><description><![CDATA[ 
+]]></description><link>recettes/galette-des-rois-frangipane.html</link><guid isPermaLink="false">recettes/Galette des rois Frangipane.md</guid><pubDate>Wed, 15 May 2024 12:13:55 GMT</pubDate><enclosure url="recettes/images/galette-des-rois-frangipane.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-des-rois-frangipane.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Galette saucisse]]></title><description><![CDATA[ 
  <br><br><img alt="Galette saucisse.webp" src="/recettes/images/galette-saucisse.webp"><br><br><br>
 <br>Saucisses fumées : 4
 <br>Galettes bretonnes : 4
