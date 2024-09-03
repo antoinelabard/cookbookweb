@@ -1,6 +1,6 @@
 {
   "vaultName": "cookbook",
-  "lastExport": 1724948719147,
+  "lastExport": 1725366461946,
   "pluginVersion": "1.8.0",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -56,6 +56,7 @@
     "recettes/images/Galette forestière.webp",
     "recettes/images/Galette saucisse.webp",
     "recettes/images/Gâteau au chocolat fondant rapide.webp",
+    "recettes/images/Gazpacho & roulés mozza, jambon, pesto.webp",
     "recettes/images/Granola maison.webp",
     "recettes/images/Gratin dauphinois.webp",
     "recettes/images/Gratin de crème fraîche aux ravioles et légumes à couscous.webp",
@@ -94,6 +95,7 @@
     "recettes/images/Pâtes aux crevettes a la crème.webp",
     "recettes/images/Pâtes aux petits pois, poireaux et bacon.webp",
     "recettes/images/Petits pois au chorizo.webp",
+    "recettes/images/Pie poireaux & champignons.webp",
     "recettes/images/Pizza au saumon.webp",
     "recettes/images/Pizza baguette.webp",
     "recettes/images/Pizza Calzone au jambon et champignons.webp",
@@ -116,6 +118,7 @@
     "recettes/images/Quiche aux asperges et lardons.webp",
     "recettes/images/Quiche chèvre épinards.webp",
     "recettes/images/Quiche oignons, chèvre & miel.webp",
+    "recettes/images/Quiche poireaux braisés & brie.webp",
     "recettes/images/Quiche poireaux, chèvre lardons.webp",
     "recettes/images/Quiche tomate, jambon, chèvre.webp",
     "recettes/images/Ratatouille.webp",
@@ -125,6 +128,7 @@
     "recettes/images/Risotto de coquillettes.webp",
     "recettes/images/Risotto de coquillettes poireaux, poulet & chèvre.webp",
     "recettes/images/Riz au chorizo.webp",
+    "recettes/images/Riz cantonais.webp",
     "recettes/images/Riz crevettes, coco & maïs.webp",
     "recettes/images/Roses des sables au chocolat faciles.webp",
     "recettes/images/Rösti de pommes de terre.webp",
@@ -140,6 +144,7 @@
     "recettes/images/Salade haricots verts, lardons & œuf mollet.webp",
     "recettes/images/Salade jambon cru, mozza & pistaches.webp",
     "recettes/images/Salade piémontaise.webp",
+    "recettes/images/Salade printanière au poulet.webp",
     "recettes/images/Saucisse & lentilles.webp",
     "recettes/images/Sauté de porc façon Goblot.webp",
     "recettes/images/Soupe aux ramen.webp",
@@ -207,6 +212,7 @@
     "recettes/Galette forestière.md",
     "recettes/Galette saucisse.md",
     "recettes/Gâteau au chocolat fondant rapide.md",
+    "recettes/Gazpacho & roulés mozza, jambon, pesto.md",
     "recettes/Granola maison.md",
     "recettes/Gratin dauphinois.md",
     "recettes/Gratin de crème fraîche aux ravioles et légumes à couscous.md",
@@ -247,6 +253,7 @@
     "recettes/Pâtes aux crevettes à la crème.md",
     "recettes/Pâtes aux petits pois, poireaux et bacon.md",
     "recettes/Petits pois au chorizo.md",
+    "recettes/Pie poireaux & champignons.md",
     "recettes/Pizza au saumon.md",
     "recettes/Pizza baguette.md",
     "recettes/Pizza Calzone au jambon et champignons.md",
@@ -269,6 +276,7 @@
     "recettes/Quiche aux asperges et lardons.md",
     "recettes/Quiche chèvre épinards.md",
     "recettes/Quiche oignons, chèvre & miel.md",
+    "recettes/Quiche poireaux braisés & brie.md",
     "recettes/Quiche poireaux, chèvre lardons.md",
     "recettes/Quiche tomate, jambon, chèvre.md",
     "recettes/Ratatouille.md",
@@ -278,6 +286,7 @@
     "recettes/Risotto de coquillettes.md",
     "recettes/Risotto de coquillettes poireaux, poulet & chèvre.md",
     "recettes/Riz au chorizo.md",
+    "recettes/Riz cantonais.md",
     "recettes/Riz crevettes, coco & maïs.md",
     "recettes/Roses des sables au chocolat faciles.md",
     "recettes/Rösti de pommes de terre.md",
@@ -293,6 +302,7 @@
     "recettes/Salade haricots verts, lardons & œuf mollet.md",
     "recettes/Salade jambon cru, mozza & pistaches.md",
     "recettes/Salade piémontaise.md",
+    "recettes/Salade printanière au poulet.md",
     "recettes/Saucisse & lentilles.md",
     "recettes/Sauté de porc façon Goblot.md",
     "recettes/Soupe aux ramen.md",
@@ -1726,7 +1736,7 @@
       ]
     },
     "recettes/Feuilletés épinard, feta & salade.md": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1725366461946,
       "sourceSize": 1291,
       "exportedPath": "recettes/feuilletés-épinard,-feta-&-salade.html",
       "dependencies": [
@@ -1867,8 +1877,8 @@
       ]
     },
     "recettes/Gratin de ravioles à la ratatouille.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 906,
+      "modifiedTime": 1725366461946,
+      "sourceSize": 951,
       "exportedPath": "recettes/gratin-de-ravioles-à-la-ratatouille.html",
       "dependencies": [
         "recettes/images/gratin-de-ravioles-à-la-ratatouille.webp"
@@ -2278,8 +2288,8 @@
       ]
     },
     "recettes/Quiche à l'oignon et aux lardons fumés.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1039,
+      "modifiedTime": 1725366461946,
+      "sourceSize": 1021,
       "exportedPath": "recettes/quiche-à-l'oignon-et-aux-lardons-fumés.html",
       "dependencies": [
         "recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp",
@@ -2920,7 +2930,7 @@
       "dependencies": []
     },
     "recettes/images/feuilletés-épinard,-feta-&-salade.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1725366461946,
       "sourceSize": 92626,
       "exportedPath": "recettes/images/feuilletés-épinard,-feta-&-salade.webp",
       "dependencies": []
@@ -3040,7 +3050,7 @@
       "dependencies": []
     },
     "recettes/images/gratin-de-ravioles-à-la-ratatouille.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1725366461946,
       "sourceSize": 95868,
       "exportedPath": "recettes/images/gratin-de-ravioles-à-la-ratatouille.webp",
       "dependencies": []
@@ -3202,7 +3212,7 @@
       "dependencies": []
     },
     "recettes/images/pâte-brisée.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1725366461946,
       "sourceSize": 66060,
       "exportedPath": "recettes/images/pâte-brisée.webp",
       "dependencies": []
@@ -3334,7 +3344,7 @@
       "dependencies": []
     },
     "recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1725366461946,
       "sourceSize": 167528,
       "exportedPath": "recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp",
       "dependencies": []
@@ -3646,169 +3656,169 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1724948719147,
-      "sourceSize": 120672,
+      "modifiedTime": 1725366461946,
+      "sourceSize": 124485,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1724948719147,
-      "sourceSize": 13285,
+      "modifiedTime": 1725366461946,
+      "sourceSize": 13688,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 134730,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 343,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1724948719147,
+      "modifiedTime": 1725366461946,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -3832,6 +3842,106 @@
       "modifiedTime": 1723283991699,
       "sourceSize": 381052,
       "exportedPath": "recettes/images/salade-piémontaise.webp",
+      "dependencies": []
+    },
+    "recettes/images/Gazpacho & roulés mozza, jambon, pesto.webp": {
+      "modifiedTime": 1725366461946,
+      "sourceSize": 206378,
+      "exportedPath": "recettes/images/gazpacho-&-roulés-mozza,-jambon,-pesto.webp",
+      "dependencies": []
+    },
+    "recettes/images/Pie poireaux & champignons.webp": {
+      "modifiedTime": 1725366461946,
+      "sourceSize": 204454,
+      "exportedPath": "recettes/images/pie-poireaux-&-champignons.webp",
+      "dependencies": []
+    },
+    "recettes/images/Quiche poireaux braisés & brie.webp": {
+      "modifiedTime": 1725366461946,
+      "sourceSize": 252188,
+      "exportedPath": "recettes/images/quiche-poireaux-braisés-&-brie.webp",
+      "dependencies": []
+    },
+    "recettes/images/Riz cantonais.webp": {
+      "modifiedTime": 1725366461946,
+      "sourceSize": 228238,
+      "exportedPath": "recettes/images/riz-cantonais.webp",
+      "dependencies": []
+    },
+    "recettes/images/Salade printanière au poulet.webp": {
+      "modifiedTime": 1725366461946,
+      "sourceSize": 199576,
+      "exportedPath": "recettes/images/salade-printanière-au-poulet.webp",
+      "dependencies": []
+    },
+    "recettes/Gazpacho & roulés mozza, jambon, pesto.md": {
+      "modifiedTime": 1725366461946,
+      "sourceSize": 1228,
+      "exportedPath": "recettes/gazpacho-&-roulés-mozza,-jambon,-pesto.html",
+      "dependencies": [
+        "recettes/images/gazpacho-&-roulés-mozza,-jambon,-pesto.webp"
+      ]
+    },
+    "recettes/Pie poireaux & champignons.md": {
+      "modifiedTime": 1725366461946,
+      "sourceSize": 1919,
+      "exportedPath": "recettes/pie-poireaux-&-champignons.html",
+      "dependencies": [
+        "recettes/images/pie-poireaux-&-champignons.webp"
+      ]
+    },
+    "recettes/Quiche poireaux braisés & brie.md": {
+      "modifiedTime": 1725366461946,
+      "sourceSize": 1575,
+      "exportedPath": "recettes/quiche-poireaux-braisés-&-brie.html",
+      "dependencies": [
+        "recettes/images/quiche-poireaux-braisés-&-brie.webp"
+      ]
+    },
+    "recettes/Riz cantonais.md": {
+      "modifiedTime": 1725366461946,
+      "sourceSize": 1057,
+      "exportedPath": "recettes/riz-cantonais.html",
+      "dependencies": [
+        "recettes/images/riz-cantonais.webp"
+      ]
+    },
+    "recettes/Salade printanière au poulet.md": {
+      "modifiedTime": 1725366461946,
+      "sourceSize": 1636,
+      "exportedPath": "recettes/salade-printanière-au-poulet.html",
+      "dependencies": [
+        "recettes/images/salade-printanière-au-poulet.webp"
+      ]
+    },
+    "recettes/images/gazpacho-&-roulés-mozza,-jambon,-pesto.webp": {
+      "modifiedTime": 1725366461946,
+      "sourceSize": 206378,
+      "exportedPath": "recettes/images/gazpacho-&-roulés-mozza,-jambon,-pesto.webp",
+      "dependencies": []
+    },
+    "recettes/images/pie-poireaux-&-champignons.webp": {
+      "modifiedTime": 1725366461946,
+      "sourceSize": 204454,
+      "exportedPath": "recettes/images/pie-poireaux-&-champignons.webp",
+      "dependencies": []
+    },
+    "recettes/images/quiche-poireaux-braisés-&-brie.webp": {
+      "modifiedTime": 1725366461946,
+      "sourceSize": 252188,
+      "exportedPath": "recettes/images/quiche-poireaux-braisés-&-brie.webp",
+      "dependencies": []
+    },
+    "recettes/images/riz-cantonais.webp": {
+      "modifiedTime": 1725366461946,
+      "sourceSize": 228238,
+      "exportedPath": "recettes/images/riz-cantonais.webp",
+      "dependencies": []
+    },
+    "recettes/images/salade-printanière-au-poulet.webp": {
+      "modifiedTime": 1725366461946,
+      "sourceSize": 199576,
+      "exportedPath": "recettes/images/salade-printanière-au-poulet.webp",
       "dependencies": []
     }
   }
