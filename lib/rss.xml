@@ -1,44 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 03 Sep 2024 12:27:43 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 03 Sep 2024 12:27:41 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Feuilletés épinard, feta &amp; salade]]></title><description><![CDATA[ 
- <br><br><img alt="Feuilletés épinard, feta &amp; salade.webp" src="/recettes/images/feuilletés-épinard,-feta-&amp;-salade.webp"><br><br><br>
-<br>Pâte feuilletée : 1
-<br>Feta : 160g
-<br>Épinards : 300g
-<br>Gousse d'ail : 1
-<br>Salade : 200g
-<br>Oeufs : 2
-<br><br>
-<br>Préchauffez le four à 200°C. Décongelez les épinards selon les instructions du paquet puis égouttez-les bien.
-<br>Préparez la farce, dans un bol, ajoutez les épinards, la gousse d'ail émincée, la feta émiettée et les œufs. Salez et poivrez puis mélangez le tout à la fourchette.
-<br>Étalez votre pâte feuilletée sur une plaque allant au four puis découpez-la en 4.
-<br>Au centre de chaque morceau de pâte, ajoutez la farce. Repliez chaque bord de la pâte de façon à obtenir un triangle. Appuyez bien sur les bords pour souder la pâte.
-<br>Badigeonnez les feuilletées avec un jaune d'œuf s'il vous en reste et enfournez pour 20 minutes de cuisson à 200°C.
-<br>Servez avec une salade verte assaisonnée selon vos goûts. C'est prêt !
-]]></description><link>recettes/feuilletés-épinard,-feta-&amp;-salade.html</link><guid isPermaLink="false">recettes/Feuilletés épinard, feta &amp; salade.md</guid><pubDate>Sun, 01 Sep 2024 07:35:40 GMT</pubDate><enclosure url="recettes/images/feuilletés-épinard,-feta-&amp;-salade.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/feuilletés-épinard,-feta-&amp;-salade.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gazpacho &amp; roulés mozza, jambon, pesto]]></title><description><![CDATA[ 
- <br><br><img alt="Gazpacho &amp; roulés mozza, jambon, pesto.webp" src="/recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp"><br><br><br>
-<br>Gazpacho : 1l
-<br>Pain de mie : 8 tranches
-<br>Sauce pesto : 8cc
-<br>Mozzarella : 120g
-<br>Jambon blanc : 4 tranches
-<br><br>
-<br>Coupez la mozzarella en tranches fines.
-<br>Aplatissez les tranches de pain à l'aide d'un rouleau à pâtisserie.
-<br>Étalez le pesto sur les tranches de pain de mie, puis ajoutez la mozzarella et le jambon. Roulez les tranches de pain en les serrant légèrement. Recommencez autant de fois que de roulés nécessaires.
-<br>Faites chauffer un filet d'huile d'olive dans une poêle, sur feu moyen. Ajoutez les roulés avec la jointure vers le bas. Faites-les revenir 2 minutes sur chaque face, jusqu'à ce qu'ils soient bien dorés.
-<br>Dans un bol ou une assiette creuse, servez le gazpacho bien frais accompagné des roulés au fromage &amp; jambon. Ajoutez un filet d'huile d'olive et un peu de poivre. C'est prêt !
-]]></description><link>recettes/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.html</link><guid isPermaLink="false">recettes/Gazpacho &amp; roulés mozza, jambon, pesto.md</guid><pubDate>Tue, 03 Sep 2024 12:13:33 GMT</pubDate><enclosure url="recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin de ravioles à la ratatouille]]></title><description><![CDATA[ 
- <br><br><img alt="Gratin de ravioles à la ratatouille.webp" src="/recettes/images/gratin-de-ravioles-à-la-ratatouille.webp"><br><br><br>
-<br>Ravioles : 480g
-<br><a data-href="Ratatouille" href="/recettes/ratatouille.html" class="internal-link" target="_self" rel="noopener">Ratatouille</a> : 800g
-<br>Crème fraîche : 8cl
-<br>Comté râpé : 100g
-<br><br>todo: faire cuire les ravioles à l'eau avant<br>
-<br>Préchauffez le four à 220°C. Beurrez un plat à gratin.
-<br>Disposez une première cuillère à soupe de ratatouille et un filet de crème fraîche dans le fond du plat. Ajoutez les ravioles "en plaque".
-<br>Répétez l'opération de manière à obtenir des couches successives.
-<br>Avant d'enfourner, parsemez le dessus de comté râpé.
-<br>Enfournez pendant 15 minutes à 220°C. Sortez du four, servez, c'est prêt !
-]]></description><link>recettes/gratin-de-ravioles-à-la-ratatouille.html</link><guid isPermaLink="false">recettes/Gratin de ravioles à la ratatouille.md</guid><pubDate>Tue, 03 Sep 2024 11:52:56 GMT</pubDate><enclosure url="recettes/images/gratin-de-ravioles-à-la-ratatouille.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-ravioles-à-la-ratatouille.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Pie poireaux &amp; champignons]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 06 Sep 2024 16:07:09 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 06 Sep 2024 16:07:07 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Pie poireaux &amp; champignons]]></title><description><![CDATA[ 
  <br><br><img alt="Pie poireaux &amp; champignons.webp" src="/recettes/images/pie-poireaux-&amp;-champignons.webp"><br><br><br>
 <br>Poireaux : 3
 <br>Champignons de Paris : 300g
@@ -61,31 +21,7 @@
 <br>À l'aide d'un couteau, faites un trou au centre de la pie et décorez-la comme vous le souhaitez.
 <br>Enfournez la pie pour 25 minutes à 180°C.
 <br>Sortez la pie du four, c'est prêt !
-]]></description><link>recettes/pie-poireaux-&amp;-champignons.html</link><guid isPermaLink="false">recettes/Pie poireaux &amp; champignons.md</guid><pubDate>Tue, 03 Sep 2024 12:08:55 GMT</pubDate><enclosure url="recettes/images/pie-poireaux-&amp;-champignons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/pie-poireaux-&amp;-champignons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche à l'oignon et aux lardons fumés]]></title><description><![CDATA[ 
- <br><br><img alt="Quiche à l'oignon et aux lardons fumés.webp" src="/recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp"><br><br><br>
-<br>Oignons : 1kg
-<br>Crème fraîche : 20cl
-<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
-<br>Oeufs : 2
-<br>Lardons : 100g
-<br><br>Pâte brisée<br><br><br><br><img alt="Pâte brisée.webp" src="/recettes/images/pâte-brisée.webp"><br><br><br>
-<br>Farine : 300g
-<br>Beurre : 150g
-<br>Sel : 1/2cc
-<br>Sucre (si pâte sucrée) : 15g
-<br>Lait ou eau : 8cl
-<br><br>
-<br>Mélanger la farine et le sel dans un plat (et le sucre si sucre il y a).
-<br>Ajouter le beurre puis l'incorporer à la farine en pétrissant rapidement et légèrement du bout des doigts. On doit obtenir une sorte de semoule grossière en 2 ou 3 min.
-<br>Incorporer rapidement le lait ou l'eau. Il en faut très peu pour permettre à la pâte de se lier et de faire boule. Le lait ou l'eau ? C'est selon les goûts.
-<br>Pour étaler sans problème, étaler la pâte sur du papier cuisson et cuire tel quel dans la platine.
-<br>
-<br>Éplucher les oignons et les couper en rondelles.
-<br>Les mettre dans le beurre chaud, et faire cuire sans prendre de couleur (pour ce faire, les mettre à froid dans le beurre qui n'est pas encore fondu); ajouter les lardons, saler et poivrer.
-<br>Foncer un plat à tarte avec la pâte.
-<br>Battre la crème fraîche avec les oeufs dans un saladier, saler et poivrer, puis ajouter les oignons cuits.
-<br>Verser la préparation dans le moule à tarte, mettre au four (thermostat 7/210°C), et faire cuire 30 min.
-]]></description><link>recettes/quiche-à-l'oignon-et-aux-lardons-fumés.html</link><guid isPermaLink="false">recettes/Quiche à l'oignon et aux lardons fumés.md</guid><pubDate>Sun, 01 Sep 2024 07:36:37 GMT</pubDate><enclosure url="recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche poireaux braisés &amp; brie]]></title><description><![CDATA[ 
+]]></description><link>recettes/pie-poireaux-&amp;-champignons.html</link><guid isPermaLink="false">recettes/Pie poireaux &amp; champignons.md</guid><pubDate>Fri, 06 Sep 2024 06:36:31 GMT</pubDate><enclosure url="recettes/images/pie-poireaux-&amp;-champignons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/pie-poireaux-&amp;-champignons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche poireaux braisés &amp; brie]]></title><description><![CDATA[ 
  <br><br><img alt="Quiche poireaux braisés &amp; brie.webp" src="/recettes/images/quiche-poireaux-braisés-&amp;-brie.webp"><br><br><br>
 <br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
 <br>Poireaux : 3
@@ -106,58 +42,63 @@
 <br>Puis versez l'appareil à quiche par-dessus et ajoutez le brie en tranches.
 <br>Salez, poivrez puis enfournez votre quiche pendant 30 minutes à 200°C.
 <br>C'est prêt ! À accompagner d'une salade verte.
-]]></description><link>recettes/quiche-poireaux-braisés-&amp;-brie.html</link><guid isPermaLink="false">recettes/Quiche poireaux braisés &amp; brie.md</guid><pubDate>Tue, 03 Sep 2024 12:25:23 GMT</pubDate><enclosure url="recettes/images/quiche-poireaux-braisés-&amp;-brie.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-poireaux-braisés-&amp;-brie.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Riz cantonais]]></title><description><![CDATA[ 
- <br><br><img alt="Riz cantonais.webp" src="/recettes/images/riz-cantonais.webp"><br><br><br>
-<br>Riz: 280g
-<br>Petits pois : 120g
-<br>Jambon : 8 tranches
-<br>Oeufs : 4
-<br>Sauce soja (optionnel) 
-<br><br>
-<br>Dans une casserole d’eau salée, faites cuire le riz selon les instructions de préparation du paquet. Égouttez-le et réservez-le pour plus tard.
-<br>Dans un bol, battez les oeufs, ajoutez une pincée de sel et poivre. Mélangez.
-<br>Dans une poêle à feu doux, ajoutez une noisette de beurre (ou d'huile) puis les oeufs, mélangez avec une spatule. Les oeufs doivent rester un peu baveux, pas trop cuits.
-<br>Une fois les oeufs cuits, ajoutez un peu d'huile si besoin, le riz cuit, les petits pois, le jambon déchiré en morceaux, et laissez cuire 5 min en mélangeant.
-<br>Servir aussitôt (optionnel : ajoutez un peu de sauce soja). C'est prêt !
-]]></description><link>recettes/riz-cantonais.html</link><guid isPermaLink="false">recettes/Riz cantonais.md</guid><pubDate>Tue, 03 Sep 2024 12:01:08 GMT</pubDate><enclosure url="recettes/images/riz-cantonais.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/riz-cantonais.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade printanière au poulet]]></title><description><![CDATA[ 
- <br><br><img alt="Salade printanière au poulet.webp" src="/recettes/images/salade-printanière-au-poulet.webp"><br><br><br>
-<br>Filets de poulet : 4
-<br>Feta : 80g
-<br>Radis : 200g
-<br>Petits pois : 320g
-<br>Mélange de céréales : 240g
-<br>Vinaigre balsamique : 4cc
-<br><br>
-<br>Dans une casserole d'eau bouillante, faites cuire les céréales selon les instructions de préparation du paquet (soit environ 10 min).
-<br>Pendant ce temps, dans une seconde casserole d'eau bouillante, faites cuire les petits pois pendant 8 à 10 min.
-<br>Préparez le filet de poulet.
-<br>Faites chauffer un filet d'huile ou une noisette de beurre dans une poêle. Ajoutez le poulet et faites-le dorer 2 min à feu vif sur une première face. Salez et poivrez.
-<br>Retournez le poulet sur l'autre face et faites-le cuire 8 min à feu moyen. Continuez d'arroser, salez et poivrez.
-<br>Lavez et coupez les radis en tranches.
-<br>Réservez le poulet sur une assiette et laissez-le refroidir avant de le couper en tranches.
-<br>Égouttez les petits pois.
-<br>Égouttez le mélange de graines.
-<br>Dans un saladier, ajoutez les graines, les petits pois, les tranches de radis et la feta émiettée. Ajoutez le vinaigre, un filet d'huile d'olive, sel, poivre et mélangez le tout.
-<br>Ajoutez le poulet, mélangez. Servez, c'est prêt !
-<br>Tip
-Pour avoir une peau bien dorée, roulez le filet de poulet dans la farine avant de le cuire.
-]]></description><link>recettes/salade-printanière-au-poulet.html</link><guid isPermaLink="false">recettes/Salade printanière au poulet.md</guid><pubDate>Tue, 03 Sep 2024 11:52:24 GMT</pubDate><enclosure url="recettes/images/salade-printanière-au-poulet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-printanière-au-poulet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Galette forestière]]></title><description><![CDATA[ 
- <br><br><img alt="Galette forestière.webp" src="/recettes/images/galette-forestière.webp"><br><br><br>
-<br>Galettes bretonnes : 4
-<br>Jambon : 8 tranches
-<br>Fromage râpé : 200g
-<br>Champignons de Paris : 600g
-<br>Oeufs : 8
-<br>Échalote : 1
-<br><br>
-<br>Hachez les échalotes. Lavez les champignons, puis coupez-les en fines lamelles.
-<br>Dans une poêle à feu vif, ajoutez une noisette de beurre, les échalotes, et les champignons et faites-les revenir à feu vif en remuant régulièrement, jusqu'à ce que l'eau rendue par la champignons s'évapore totalement. Salez, poivrez.
-<br>Une fois les champignons bien dorés, retirez-les de la poêle et mettez-les de côté.
-<br>Ajoutez une noisette de beurre dans la poêle et une galette.
-<br>Cassez un œuf au centre, ajoutez un peu de fromage sur le dessus, ajoutez le jambon déchiré en morceaux et répartir un peu de la poêlée de champignons tout autour.
-<br>Laissez cuire à feu moyen 3 minutes jusqu'à ce que l'œuf soit cuit convenablement. Refermez la galette en 2 ou en carré, servez, c'est prêt !
-]]></description><link>recettes/galette-forestière.html</link><guid isPermaLink="false">recettes/Galette forestière.md</guid><pubDate>Sun, 25 Aug 2024 17:41:01 GMT</pubDate><enclosure url="recettes/images/galette-forestière.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-forestière.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+]]></description><link>recettes/quiche-poireaux-braisés-&amp;-brie.html</link><guid isPermaLink="false">recettes/Quiche poireaux braisés &amp; brie.md</guid><pubDate>Fri, 06 Sep 2024 06:36:31 GMT</pubDate><enclosure url="recettes/images/quiche-poireaux-braisés-&amp;-brie.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-poireaux-braisés-&amp;-brie.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br>
+<br><a data-href="Salade haricots verts, lardons &amp; œuf mollet" href="/recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html" class="internal-link" target="_self" rel="noopener">Salade haricots verts, lardons &amp; œuf mollet</a>
+<br><a data-href="Ravioli ricotta épinards à la crème d'ail et poireau" href="/recettes/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.html" class="internal-link" target="_self" rel="noopener">Ravioli ricotta épinards à la crème d'ail et poireau</a>
+<br><a data-href="Croque-monsieur à l'italienne" href="/recettes/croque-monsieur-à-l'italienne.html" class="internal-link" target="_self" rel="noopener">Croque-monsieur à l'italienne</a>
+<br><a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
+<br><a data-href="Quiche artichaut &amp; parma" href="/recettes/quiche-artichaut-&amp;-parma.html" class="internal-link" target="_self" rel="noopener">Quiche artichaut &amp; parma</a>
+<br><br>
+<br>Fruits et légumes
+
+<br>Haricots verts : 600g
+<br>Oignon : 1
+<br>Poireaux : 2
+<br>Tomate : 1
+<br>Salade : 200g
+
+
+<br>produits secs
+
+<br>Oeufs : 7
+<br>Tranches de pain de mie : 16
+<br>Miel : 6cl
+
+
+<br>produits frais
+
+<br>Lardons : 300g
+<br>Lardons : 100g
+<br>Raviolis à la ricotta et aux épinards : 500g
+<br>Tranches de jambon blanc ou jambon sec : 8
+<br>Pâte feuilletée : 1
+<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br>Jambon cru : 4 tranches
+
+
+<br>conserves
+
+<br>Moutarde à l'ancienne : 40g
+<br>Huile d'olive : 6cl
+<br>Persil
+<br>Épinards branche : 300g
+<br>Basilic
+<br>Herbes de Provence
+<br>Artichauts marinés : 160g
+
+
+<br>produits laitiers
+
+<br>Crème fraîche : 20cl
+<br>Parmesan
+<br>Mozzarella : 1
+<br>Fromage de chèvre : 200g
+<br>Mozzarella : 1
+<br>Crème fraîche : 20cl
+
+
+<br><br>
 <br><a data-href="Brunch sandwich aux champignons" href="/recettes/brunch-sandwich-aux-champignons.html" class="internal-link" target="_self" rel="noopener">Brunch sandwich aux champignons</a>
 <br><a data-href="Salade de pâtes façon tacos" href="/recettes/salade-de-pâtes-façon-tacos.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes façon tacos</a>
 <br><a data-href="Feuilletés épinard, feta &amp; salade" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a>
@@ -386,7 +327,121 @@ Pour avoir une peau bien dorée, roulez le filet de poulet dans la farine avant 
 <br>brocoli
 
 
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Thu, 29 Aug 2024 16:03:00 GMT</pubDate></item><item><title><![CDATA[Burrito bœuf &amp; cheddar]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 06 Sep 2024 16:06:59 GMT</pubDate></item><item><title><![CDATA[Feuilletés épinard, feta &amp; salade]]></title><description><![CDATA[ 
+ <br><br><img alt="Feuilletés épinard, feta &amp; salade.webp" src="/recettes/images/feuilletés-épinard,-feta-&amp;-salade.webp"><br><br><br>
+<br>Pâte feuilletée : 1
+<br>Feta : 160g
+<br>Épinards : 300g
+<br>Gousse d'ail : 1
+<br>Salade : 200g
+<br>Oeufs : 2
+<br><br>
+<br>Préchauffez le four à 200°C. Décongelez les épinards selon les instructions du paquet puis égouttez-les bien.
+<br>Préparez la farce, dans un bol, ajoutez les épinards, la gousse d'ail émincée, la feta émiettée et les œufs. Salez et poivrez puis mélangez le tout à la fourchette.
+<br>Étalez votre pâte feuilletée sur une plaque allant au four puis découpez-la en 4.
+<br>Au centre de chaque morceau de pâte, ajoutez la farce. Repliez chaque bord de la pâte de façon à obtenir un triangle. Appuyez bien sur les bords pour souder la pâte.
+<br>Badigeonnez les feuilletées avec un jaune d'œuf s'il vous en reste et enfournez pour 20 minutes de cuisson à 200°C.
+<br>Servez avec une salade verte assaisonnée selon vos goûts. C'est prêt !
+]]></description><link>recettes/feuilletés-épinard,-feta-&amp;-salade.html</link><guid isPermaLink="false">recettes/Feuilletés épinard, feta &amp; salade.md</guid><pubDate>Sun, 01 Sep 2024 07:35:40 GMT</pubDate><enclosure url="recettes/images/feuilletés-épinard,-feta-&amp;-salade.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/feuilletés-épinard,-feta-&amp;-salade.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gazpacho &amp; roulés mozza, jambon, pesto]]></title><description><![CDATA[ 
+ <br><br><img alt="Gazpacho &amp; roulés mozza, jambon, pesto.webp" src="/recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp"><br><br><br>
+<br>Gazpacho : 1l
+<br>Pain de mie : 8 tranches
+<br>Sauce pesto : 8cc
+<br>Mozzarella : 120g
+<br>Jambon blanc : 4 tranches
+<br><br>
+<br>Coupez la mozzarella en tranches fines.
+<br>Aplatissez les tranches de pain à l'aide d'un rouleau à pâtisserie.
+<br>Étalez le pesto sur les tranches de pain de mie, puis ajoutez la mozzarella et le jambon. Roulez les tranches de pain en les serrant légèrement. Recommencez autant de fois que de roulés nécessaires.
+<br>Faites chauffer un filet d'huile d'olive dans une poêle, sur feu moyen. Ajoutez les roulés avec la jointure vers le bas. Faites-les revenir 2 minutes sur chaque face, jusqu'à ce qu'ils soient bien dorés.
+<br>Dans un bol ou une assiette creuse, servez le gazpacho bien frais accompagné des roulés au fromage &amp; jambon. Ajoutez un filet d'huile d'olive et un peu de poivre. C'est prêt !
+]]></description><link>recettes/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.html</link><guid isPermaLink="false">recettes/Gazpacho &amp; roulés mozza, jambon, pesto.md</guid><pubDate>Tue, 03 Sep 2024 12:13:33 GMT</pubDate><enclosure url="recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin de ravioles à la ratatouille]]></title><description><![CDATA[ 
+ <br><br><img alt="Gratin de ravioles à la ratatouille.webp" src="/recettes/images/gratin-de-ravioles-à-la-ratatouille.webp"><br><br><br>
+<br>Ravioles : 480g
+<br><a data-href="Ratatouille" href="/recettes/ratatouille.html" class="internal-link" target="_self" rel="noopener">Ratatouille</a> : 800g
+<br>Crème fraîche : 8cl
+<br>Comté râpé : 100g
+<br><br>todo: faire cuire les ravioles à l'eau avant<br>
+<br>Préchauffez le four à 220°C. Beurrez un plat à gratin.
+<br>Disposez une première cuillère à soupe de ratatouille et un filet de crème fraîche dans le fond du plat. Ajoutez les ravioles "en plaque".
+<br>Répétez l'opération de manière à obtenir des couches successives.
+<br>Avant d'enfourner, parsemez le dessus de comté râpé.
+<br>Enfournez pendant 15 minutes à 220°C. Sortez du four, servez, c'est prêt !
+]]></description><link>recettes/gratin-de-ravioles-à-la-ratatouille.html</link><guid isPermaLink="false">recettes/Gratin de ravioles à la ratatouille.md</guid><pubDate>Tue, 03 Sep 2024 11:52:56 GMT</pubDate><enclosure url="recettes/images/gratin-de-ravioles-à-la-ratatouille.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-ravioles-à-la-ratatouille.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche à l'oignon et aux lardons fumés]]></title><description><![CDATA[ 
+ <br><br><img alt="Quiche à l'oignon et aux lardons fumés.webp" src="/recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp"><br><br><br>
+<br>Oignons : 1kg
+<br>Crème fraîche : 20cl
+<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br>Oeufs : 2
+<br>Lardons : 100g
+<br><br>Pâte brisée<br><br><br><br><img alt="Pâte brisée.webp" src="/recettes/images/pâte-brisée.webp"><br><br><br>
+<br>Farine : 300g
+<br>Beurre : 150g
+<br>Sel : 1/2cc
+<br>Sucre (si pâte sucrée) : 15g
+<br>Lait ou eau : 8cl
+<br><br>
+<br>Mélanger la farine et le sel dans un plat (et le sucre si sucre il y a).
+<br>Ajouter le beurre puis l'incorporer à la farine en pétrissant rapidement et légèrement du bout des doigts. On doit obtenir une sorte de semoule grossière en 2 ou 3 min.
+<br>Incorporer rapidement le lait ou l'eau. Il en faut très peu pour permettre à la pâte de se lier et de faire boule. Le lait ou l'eau ? C'est selon les goûts.
+<br>Pour étaler sans problème, étaler la pâte sur du papier cuisson et cuire tel quel dans la platine.
+<br>
+<br>Éplucher les oignons et les couper en rondelles.
+<br>Les mettre dans le beurre chaud, et faire cuire sans prendre de couleur (pour ce faire, les mettre à froid dans le beurre qui n'est pas encore fondu); ajouter les lardons, saler et poivrer.
+<br>Foncer un plat à tarte avec la pâte.
+<br>Battre la crème fraîche avec les oeufs dans un saladier, saler et poivrer, puis ajouter les oignons cuits.
+<br>Verser la préparation dans le moule à tarte, mettre au four (thermostat 7/210°C), et faire cuire 30 min.
+]]></description><link>recettes/quiche-à-l'oignon-et-aux-lardons-fumés.html</link><guid isPermaLink="false">recettes/Quiche à l'oignon et aux lardons fumés.md</guid><pubDate>Sun, 01 Sep 2024 07:36:37 GMT</pubDate><enclosure url="recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Riz cantonais]]></title><description><![CDATA[ 
+ <br><br><img alt="Riz cantonais.webp" src="/recettes/images/riz-cantonais.webp"><br><br><br>
+<br>Riz: 280g
+<br>Petits pois : 120g
+<br>Jambon : 8 tranches
+<br>Oeufs : 4
+<br>Sauce soja (optionnel) 
+<br><br>
+<br>Dans une casserole d’eau salée, faites cuire le riz selon les instructions de préparation du paquet. Égouttez-le et réservez-le pour plus tard.
+<br>Dans un bol, battez les oeufs, ajoutez une pincée de sel et poivre. Mélangez.
+<br>Dans une poêle à feu doux, ajoutez une noisette de beurre (ou d'huile) puis les oeufs, mélangez avec une spatule. Les oeufs doivent rester un peu baveux, pas trop cuits.
+<br>Une fois les oeufs cuits, ajoutez un peu d'huile si besoin, le riz cuit, les petits pois, le jambon déchiré en morceaux, et laissez cuire 5 min en mélangeant.
+<br>Servir aussitôt (optionnel : ajoutez un peu de sauce soja). C'est prêt !
+]]></description><link>recettes/riz-cantonais.html</link><guid isPermaLink="false">recettes/Riz cantonais.md</guid><pubDate>Tue, 03 Sep 2024 12:01:08 GMT</pubDate><enclosure url="recettes/images/riz-cantonais.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/riz-cantonais.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade printanière au poulet]]></title><description><![CDATA[ 
+ <br><br><img alt="Salade printanière au poulet.webp" src="/recettes/images/salade-printanière-au-poulet.webp"><br><br><br>
+<br>Filets de poulet : 4
+<br>Feta : 80g
+<br>Radis : 200g
+<br>Petits pois : 320g
+<br>Mélange de céréales : 240g
+<br>Vinaigre balsamique : 4cc
+<br><br>
+<br>Dans une casserole d'eau bouillante, faites cuire les céréales selon les instructions de préparation du paquet (soit environ 10 min).
+<br>Pendant ce temps, dans une seconde casserole d'eau bouillante, faites cuire les petits pois pendant 8 à 10 min.
+<br>Préparez le filet de poulet.
+<br>Faites chauffer un filet d'huile ou une noisette de beurre dans une poêle. Ajoutez le poulet et faites-le dorer 2 min à feu vif sur une première face. Salez et poivrez.
+<br>Retournez le poulet sur l'autre face et faites-le cuire 8 min à feu moyen. Continuez d'arroser, salez et poivrez.
+<br>Lavez et coupez les radis en tranches.
+<br>Réservez le poulet sur une assiette et laissez-le refroidir avant de le couper en tranches.
+<br>Égouttez les petits pois.
+<br>Égouttez le mélange de graines.
+<br>Dans un saladier, ajoutez les graines, les petits pois, les tranches de radis et la feta émiettée. Ajoutez le vinaigre, un filet d'huile d'olive, sel, poivre et mélangez le tout.
+<br>Ajoutez le poulet, mélangez. Servez, c'est prêt !
+<br>Tip
+Pour avoir une peau bien dorée, roulez le filet de poulet dans la farine avant de le cuire.
+]]></description><link>recettes/salade-printanière-au-poulet.html</link><guid isPermaLink="false">recettes/Salade printanière au poulet.md</guid><pubDate>Tue, 03 Sep 2024 11:52:24 GMT</pubDate><enclosure url="recettes/images/salade-printanière-au-poulet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-printanière-au-poulet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Galette forestière]]></title><description><![CDATA[ 
+ <br><br><img alt="Galette forestière.webp" src="/recettes/images/galette-forestière.webp"><br><br><br>
+<br>Galettes bretonnes : 4
+<br>Jambon : 8 tranches
+<br>Fromage râpé : 200g
+<br>Champignons de Paris : 600g
+<br>Oeufs : 8
+<br>Échalote : 1
+<br><br>
+<br>Hachez les échalotes. Lavez les champignons, puis coupez-les en fines lamelles.
+<br>Dans une poêle à feu vif, ajoutez une noisette de beurre, les échalotes, et les champignons et faites-les revenir à feu vif en remuant régulièrement, jusqu'à ce que l'eau rendue par la champignons s'évapore totalement. Salez, poivrez.
+<br>Une fois les champignons bien dorés, retirez-les de la poêle et mettez-les de côté.
+<br>Ajoutez une noisette de beurre dans la poêle et une galette.
+<br>Cassez un œuf au centre, ajoutez un peu de fromage sur le dessus, ajoutez le jambon déchiré en morceaux et répartir un peu de la poêlée de champignons tout autour.
+<br>Laissez cuire à feu moyen 3 minutes jusqu'à ce que l'œuf soit cuit convenablement. Refermez la galette en 2 ou en carré, servez, c'est prêt !
+]]></description><link>recettes/galette-forestière.html</link><guid isPermaLink="false">recettes/Galette forestière.md</guid><pubDate>Sun, 25 Aug 2024 17:41:01 GMT</pubDate><enclosure url="recettes/images/galette-forestière.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-forestière.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Burrito bœuf &amp; cheddar]]></title><description><![CDATA[ 
  <br><br><img alt="Burrito bœuf &amp; cheddar.webp" src="/recettes/images/burrito-bœuf-&amp;-cheddar.webp"><br><br><br>
 <br>Kit burrito 4 portions : 1
 <br>Boeuf haché : 400g
