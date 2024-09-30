@@ -1,5 +1,94 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 13 Sep 2024 18:13:31 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 13 Sep 2024 18:13:30 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 30 Sep 2024 18:34:32 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 30 Sep 2024 18:34:30 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Sauté de porc façon Goblot]]></title><description><![CDATA[ 
+ <br><br><img alt="Sauté de porc façon Goblot.webp" src="/recettes/images/sauté-de-porc-façon-goblot.webp"><br><br><br>
+<br>Oignon : 1
+<br>Morceaux de porc : 500g
+<br>Concentré de tomates : 70g
+<br>Crème fraîche : 10cl
+<br>Riz ou semoule : 300g
+<br>Piment d'Espelette (ou de Cayenne)
+<br><br>
+<br>Couper les oignons en lamelles et le porc en morceaux.
+<br>Dans une cocotte en fonte, ajouter un fond d'huile de cuisson ou de beurre, et faire revenir les oignons.
+<br>Ensuite, ajouter le porc et le faire dorer. Saler et poivrer le tout.
+<br>Recouvrir d'eau. Saler, poivrer et ajouter le concentré de tomates et un peu de piment d'Espelette.
+<br>Faire rissoler pendant au moins 1h30.
+<br>Faire cuire le riz ou la semoule selon les instructions du paquet.
+<br>Vérifier la cuisson du porc en le piquant : s'il n'est pas tendre, laisser cuire un peu plus longtemps.
+<br>Ajouter la crème fraîche dans la marmite.
+<br>Servir le riz/semoule avec le porc. C'est prêt !
+]]></description><link>recettes/sauté-de-porc-façon-goblot.html</link><guid isPermaLink="false">recettes/Sauté de porc façon Goblot.md</guid><pubDate>Fri, 27 Sep 2024 19:03:29 GMT</pubDate><enclosure url="recettes/images/sauté-de-porc-façon-goblot.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/sauté-de-porc-façon-goblot.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br>
+<br><a data-href="Patates douces rôties &amp; crottin" href="/recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener">Patates douces rôties &amp; crottin</a>
+<br><a data-href="Pâtes à la carbonara façon Goblot" href="/recettes/pâtes-à-la-carbonara-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Pâtes à la carbonara façon Goblot</a>
+<br><a data-href="Oeuf cocotte épinards &amp; lard" href="/recettes/oeuf-cocotte-épinards-&amp;-lard.html" class="internal-link" target="_self" rel="noopener">Oeuf cocotte épinards &amp; lard</a>
+<br><a data-href="Salade haricots verts, lardons &amp; œuf mollet" href="/recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html" class="internal-link" target="_self" rel="noopener">Salade haricots verts, lardons &amp; œuf mollet</a>
+<br><a data-href="Quiche oignons, chèvre &amp; miel" href="/recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener">Quiche oignons, chèvre &amp; miel</a>
+<br><a data-href="One pot pasta artichauts &amp; tomates séchées" href="/recettes/one-pot-pasta-artichauts-&amp;-tomates-séchées.html" class="internal-link" target="_self" rel="noopener">One pot pasta artichauts &amp; tomates séchées</a>
+<br><a data-href="Salade campagnarde" href="/recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener">Salade campagnarde</a>
+<br><a data-href="Pâtes au chorizo" href="/recettes/pâtes-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Pâtes au chorizo</a>
+<br><br>
+<br>Fruits et légumes
+
+<br>Patates douces : 800g
+<br>Oignon : 7
+<br>Champignons de Paris : 200g
+<br>Échalote : 1
+<br><a data-href="Pommes de terres sautées" href="/recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener">Pommes de terres sautées</a> : 600g
+<br>Salade : 200g
+<br>Poivrons : 4
+
+
+<br>Produits laitiers
+
+<br>Crotins de chèvre : 2
+<br>Crème fraîche : 20cl
+<br>Parmesan râpé : 100g
+<br>Crème fraîche : 20cl
+<br>Parmesan : 60g
+<br>Fromage de chèvre : 200g
+<br>Crème fraîche : 25cl
+<br>Parmesan : 80g
+<br>Chèvre frais : 80g
+
+
+<br>Produits secs
+
+<br>Thym
+<br>Miel : 2cc
+<br>Pâtes : 500g
+<br>Oeuf : 18
+<br>Origan
+<br>Moutarde à l'ancienne : 40g
+<br>Huile d'olive : 6cl
+<br>Persil
+<br>Miel : 4cc
+<br>Pâtes : 400g
+<br>Tomates séchées : 200g
+<br>Artichauts : 320g
+<br>Persil
+<br>Sauce tomate : 50cl
+<br>Huile de cuisson
+
+
+<br>Produits frais
+
+<br>Lardons fumés : 200g
+<br>Lard : 8 tranches
+<br>Lardons : 300g
+<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br>Bacon : 8 tranches
+<br>Chorizo : 1
+<br>Pâtes fraîches : 400g
+
+
+<br>Vin blanc : 10cl
+<br>Surgelés
+
+<br>Épinards : 1kg
+<br>Haricots verts : 600g
+
+
+<br><br>
 <br><a data-href="Poulet boursin, lard &amp; pommes de terre" href="/recettes/poulet-boursin,-lard-&amp;-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener">Poulet boursin, lard &amp; pommes de terre</a>
 <br><a data-href="Poulet sauce moutarde" href="/recettes/poulet-sauce-moutarde.html" class="internal-link" target="_self" rel="noopener">Poulet sauce moutarde</a>
 <br><a data-href="Salade piémontaise" href="/recettes/salade-piémontaise.html" class="internal-link" target="_self" rel="noopener">Salade piémontaise</a>
@@ -346,7 +435,7 @@
 <br>brocoli
 
 
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 13 Sep 2024 18:13:14 GMT</pubDate></item><item><title><![CDATA[Club sandwich poulet crudités]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Sat, 28 Sep 2024 11:13:09 GMT</pubDate></item><item><title><![CDATA[Club sandwich poulet crudités]]></title><description><![CDATA[ 
  <br><br><img alt="Club sandwich poulet crudités.webp" src="/recettes/images/club-sandwich-poulet-crudités.webp"><br><br><br>
 <br>Pain de mie : 16 tranches
 <br>Tomates : 8
@@ -2727,22 +2816,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Dans une casserole, versez un filet d'huile de cuisson. Ajoutez l'oignon puis les rondelles de carottes. Faite revenir 6 minutes à feu moyen.
 <br>Versez les lentilles cuites. Faites revenir encore 2 minutes en continuant de mélanger. Poivrez.
 <br>Ajoutez les saucisses (vous pouvez les couper en deux) et faites cuire encore 15 minutes à couvert. Salez et poivrez, c'est prêt !
-]]></description><link>recettes/saucisse-&amp;-lentilles.html</link><guid isPermaLink="false">recettes/Saucisse &amp; lentilles.md</guid><pubDate>Wed, 15 May 2024 15:49:18 GMT</pubDate><enclosure url="recettes/images/saucisse-&amp;-lentilles.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/saucisse-&amp;-lentilles.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sauté de porc façon Goblot]]></title><description><![CDATA[ 
- <br><br><img alt="Sauté de porc façon Goblot.webp" src="/recettes/images/sauté-de-porc-façon-goblot.webp"><br><br><br>
-<br>Oignon : 1
-<br>Morceaux de porc : 500g
-<br>Concentré de tomates : 70g
-<br>Crème fraîche : 10cl
-<br>Riz/semoule : 300g
-<br><br>
-<br>Couper les oignons en lamelles et le porc en morceaux.
-<br>dans une marmite, ajouter un fond d'huile de cuisson ou de beurre, et faire revenir les oignons.
-<br>Ensuite, ajouter le porc et le faire dorer. Saler et poivrer le tout.
-<br>Faire rissoler pendant au moins 1h30. Vérifier la cuisson du porc en le piquant : s'il n'est pas tendre, laisser cuire un peu plus longtemps.
-<br>Ajouter la crème fraîche dans la marmite.
-<br>Faire cuire le riz ou la semoule selon les instructions du paquet.
-<br>Servir le riz/semoule avec le porc. C'est prêt !
-]]></description><link>recettes/sauté-de-porc-façon-goblot.html</link><guid isPermaLink="false">recettes/Sauté de porc façon Goblot.md</guid><pubDate>Mon, 20 May 2024 06:42:46 GMT</pubDate><enclosure url="recettes/images/sauté-de-porc-façon-goblot.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/sauté-de-porc-façon-goblot.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Soupe aux ramen]]></title><description><![CDATA[ 
+]]></description><link>recettes/saucisse-&amp;-lentilles.html</link><guid isPermaLink="false">recettes/Saucisse &amp; lentilles.md</guid><pubDate>Wed, 15 May 2024 15:49:18 GMT</pubDate><enclosure url="recettes/images/saucisse-&amp;-lentilles.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/saucisse-&amp;-lentilles.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Soupe aux ramen]]></title><description><![CDATA[ 
  <br><br><img alt="Soupe aux ramen.webp" src="/recettes/images/soupe-aux-ramen.webp"><br><br><br>
 <br>Gingembre : 3
 <br>Coriandre : 1 bouquet
