@@ -1,23 +1,63 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 30 Sep 2024 18:34:32 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 30 Sep 2024 18:34:30 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Sauté de porc façon Goblot]]></title><description><![CDATA[ 
- <br><br><img alt="Sauté de porc façon Goblot.webp" src="/recettes/images/sauté-de-porc-façon-goblot.webp"><br><br><br>
-<br>Oignon : 1
-<br>Morceaux de porc : 500g
-<br>Concentré de tomates : 70g
-<br>Crème fraîche : 10cl
-<br>Riz ou semoule : 300g
-<br>Piment d'Espelette (ou de Cayenne)
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 04 Oct 2024 11:50:33 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 04 Oct 2024 11:50:32 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+ <br>/# Menu de la semaine<br><br>
+<br><a data-href="Curry de pois chiches" href="/recettes/curry-de-pois-chiches.html" class="internal-link" target="_self" rel="noopener">Curry de pois chiches</a>
+<br><a data-href="Pâtes aux petits pois, poireaux et bacon" href="/recettes/pâtes-aux-petits-pois,-poireaux-et-bacon.html" class="internal-link" target="_self" rel="noopener">Pâtes aux petits pois, poireaux et bacon</a>
+<br><a data-href="Bavette à l'échalote, pommes de terre &amp; haricots" href="/recettes/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.html" class="internal-link" target="_self" rel="noopener">Bavette à l'échalote, pommes de terre &amp; haricots</a>
+<br><a data-href="Saucisse &amp; lentilles" href="/recettes/saucisse-&amp;-lentilles.html" class="internal-link" target="_self" rel="noopener">Saucisse &amp; lentilles</a>
+<br><a data-href="Petits pois au chorizo" href="/recettes/petits-pois-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Petits pois au chorizo</a>
+<br><a data-href="One pot curry de pommes de terre" href="/recettes/one-pot-curry-de-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener">One pot curry de pommes de terre</a>
 <br><br>
-<br>Couper les oignons en lamelles et le porc en morceaux.
-<br>Dans une cocotte en fonte, ajouter un fond d'huile de cuisson ou de beurre, et faire revenir les oignons.
-<br>Ensuite, ajouter le porc et le faire dorer. Saler et poivrer le tout.
-<br>Recouvrir d'eau. Saler, poivrer et ajouter le concentré de tomates et un peu de piment d'Espelette.
-<br>Faire rissoler pendant au moins 1h30.
-<br>Faire cuire le riz ou la semoule selon les instructions du paquet.
-<br>Vérifier la cuisson du porc en le piquant : s'il n'est pas tendre, laisser cuire un peu plus longtemps.
-<br>Ajouter la crème fraîche dans la marmite.
-<br>Servir le riz/semoule avec le porc. C'est prêt !
-]]></description><link>recettes/sauté-de-porc-façon-goblot.html</link><guid isPermaLink="false">recettes/Sauté de porc façon Goblot.md</guid><pubDate>Fri, 27 Sep 2024 19:03:29 GMT</pubDate><enclosure url="recettes/images/sauté-de-porc-façon-goblot.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/sauté-de-porc-façon-goblot.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
- <br><br><br>
+<br>Produits secs
+
+<br>Pois chiches : 400g
+<br>Riz : 280g
+<br>Chair de tomates : 400g
+<br>Lait de coco : 10cl
+<br>Curry
+<br>Cumin
+<br>Gingembre
+<br>Coriandre
+<br>Jus de citron
+<br>Spaghetti : 400g
+<br>Bacon : 200g
+<br>Petits pois surgelés : 200g
+<br>Petits pois : 800g
+<br>Haricots verts : 400g
+<br>Lentilles : 280g
+<br>Lait de coco : 200ml
+<br>Concentré de tomate : 4cc
+<br>Pois chiches : 200g
+
+
+<br>Légumes
+
+<br>Oignon : 5
+<br>Gousse d'ail : 1
+<br>Poireaux : 2
+<br>Échalotes : 2
+<br>Pommes de terre : 1400g
+<br>Carottes : 600g
+
+
+<br>Produits laitiers
+
+<br>Parmesan râpé : 60g
+<br>Crème fraîche : 30cl
+<br>Beurre : 80g
+
+
+<br>Produits frais
+
+<br>Saucisses fumées : 4
+
+
+<br>Viande
+
+<br>Boeuf (bavette) : 4
+<br>Chorizo : 1
+
+
+<br><br>
 <br><a data-href="Patates douces rôties &amp; crottin" href="/recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener">Patates douces rôties &amp; crottin</a>
 <br><a data-href="Pâtes à la carbonara façon Goblot" href="/recettes/pâtes-à-la-carbonara-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Pâtes à la carbonara façon Goblot</a>
 <br><a data-href="Oeuf cocotte épinards &amp; lard" href="/recettes/oeuf-cocotte-épinards-&amp;-lard.html" class="internal-link" target="_self" rel="noopener">Oeuf cocotte épinards &amp; lard</a>
@@ -435,7 +475,62 @@
 <br>brocoli
 
 
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Sat, 28 Sep 2024 11:13:09 GMT</pubDate></item><item><title><![CDATA[Club sandwich poulet crudités]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 04 Oct 2024 11:50:29 GMT</pubDate></item><item><title><![CDATA[Patates douces rôties &amp; crottin]]></title><description><![CDATA[ 
+ <br><br><img alt="Patates douces rôties &amp; crottin.webp" src="/recettes/images/patates-douces-rôties-&amp;-crottin.webp"><br><br><br>
+<br>Patates douces : 1.2kg
+<br>Oignon : 1
+<br>Crotins de chèvre : 2
+<br>Thym
+<br>Miel : 2cc
+<br><br>
+<br>Préchauffez le four à 200°C. Épluchez les patates douces à l'aide d'un économe. Coupez-les en morceaux. Épluchez puis émincez les oignons.
+<br>Ajoutez les patates douces et les oignons dans un plat allant au four. Assaisonnez d'un filet d'huile d'olive, de sel, poivre et de thym. Mélangez le tout, puis enfournez pendant 20 à 25 minutes à 200°C.
+<br>Sortez le plat du four. Mélangez les légumes, puis créez un peu d'espace pour ajouter les crottins de chèvre.
+<br>Badigeonnez d'un filet d'huile d'olive et du miel. Parsemez les crottins de chèvre de thym, puis re-assaisonnez selon vos goûts. Enfournez à nouveau 20 minutes à 200°C, jusqu'à ce que le chèvre soit coulant et légèrement doré.
+<br>Sortez le plat du four et dégustez. Vus pouvez mélanger le plat pour mieux répartir le chèvre dans les parts. C'est prêt !
+]]></description><link>recettes/patates-douces-rôties-&amp;-crottin.html</link><guid isPermaLink="false">recettes/Patates douces rôties &amp; crottin.md</guid><pubDate>Fri, 04 Oct 2024 06:34:37 GMT</pubDate><enclosure url="recettes/images/patates-douces-rôties-&amp;-crottin.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/patates-douces-rôties-&amp;-crottin.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche à l'oignon et aux lardons fumés]]></title><description><![CDATA[ 
+ <br><br><img alt="Quiche à l'oignon et aux lardons fumés.webp" src="/recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp"><br><br><br>
+<br>Oignons : 1kg
+<br>Crème fraîche : 20cl
+<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br>Oeufs : 3
+<br>Lardons : 100g
+<br><br>Pâte brisée<br><br><br><br><img alt="Pâte brisée.webp" src="/recettes/images/pâte-brisée.webp"><br><br><br>
+<br>Farine : 300g
+<br>Beurre : 150g
+<br>Sel : 1/2cc
+<br>Sucre (si pâte sucrée) : 15g
+<br>Lait ou eau : 8cl
+<br><br>
+<br>Mélanger la farine et le sel dans un plat (et le sucre si sucre il y a).
+<br>Ajouter le beurre puis l'incorporer à la farine en pétrissant rapidement et légèrement du bout des doigts. On doit obtenir une sorte de semoule grossière en 2 ou 3 min.
+<br>Incorporer rapidement le lait ou l'eau. Il en faut très peu pour permettre à la pâte de se lier et de faire boule. Le lait ou l'eau ? C'est selon les goûts.
+<br>Pour étaler sans problème, étaler la pâte sur du papier cuisson et cuire tel quel dans la platine.
+<br>
+<br>Éplucher les oignons et les couper en rondelles.
+<br>Les mettre dans le beurre chaud, et faire cuire sans prendre de couleur (pour ce faire, les mettre à froid dans le beurre qui n'est pas encore fondu); ajouter les lardons, saler et poivrer.
+<br>Foncer un plat à tarte avec la pâte.
+<br>Battre la crème fraîche avec les oeufs dans un saladier, saler et poivrer, puis ajouter les oignons cuits.
+<br>Verser la préparation dans le moule à tarte, mettre au four (thermostat 7/210°C), et faire cuire 30 min.
+]]></description><link>recettes/quiche-à-l'oignon-et-aux-lardons-fumés.html</link><guid isPermaLink="false">recettes/Quiche à l'oignon et aux lardons fumés.md</guid><pubDate>Fri, 04 Oct 2024 06:34:45 GMT</pubDate><enclosure url="recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sauté de porc façon Goblot]]></title><description><![CDATA[ 
+ <br><br><img alt="Sauté de porc façon Goblot.webp" src="/recettes/images/sauté-de-porc-façon-goblot.webp"><br><br><br>
+<br>Oignon : 1
+<br>Morceaux de porc : 500g
+<br>Concentré de tomates : 70g
+<br>Crème fraîche : 10cl
+<br>Riz ou semoule : 300g
+<br>Piment d'Espelette (ou de Cayenne)
+<br><br>
+<br>Couper les oignons en lamelles et le porc en morceaux.
+<br>Dans une cocotte en fonte, ajouter un fond d'huile de cuisson ou de beurre, et faire revenir les oignons.
+<br>Ensuite, ajouter le porc et le faire dorer. Saler et poivrer le tout.
+<br>Recouvrir d'eau. Saler, poivrer et ajouter le concentré de tomates et un peu de piment d'Espelette.
+<br>Faire rissoler pendant au moins 1h30.
+<br>Faire cuire le riz ou la semoule selon les instructions du paquet.
+<br>Vérifier la cuisson du porc en le piquant : s'il n'est pas tendre, laisser cuire un peu plus longtemps.
+<br>Ajouter la crème fraîche dans la marmite.
+<br>Servir le riz/semoule avec le porc. C'est prêt !
+]]></description><link>recettes/sauté-de-porc-façon-goblot.html</link><guid isPermaLink="false">recettes/Sauté de porc façon Goblot.md</guid><pubDate>Fri, 27 Sep 2024 19:03:29 GMT</pubDate><enclosure url="recettes/images/sauté-de-porc-façon-goblot.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/sauté-de-porc-façon-goblot.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Club sandwich poulet crudités]]></title><description><![CDATA[ 
  <br><br><img alt="Club sandwich poulet crudités.webp" src="/recettes/images/club-sandwich-poulet-crudités.webp"><br><br><br>
 <br>Pain de mie : 16 tranches
 <br>Tomates : 8
@@ -595,31 +690,7 @@
 <br>Répétez l'opération de manière à obtenir des couches successives.
 <br>Avant d'enfourner, parsemez le dessus de comté râpé.
 <br>Enfournez pendant 15 minutes à 220°C. Sortez du four, servez, c'est prêt !
-]]></description><link>recettes/gratin-de-ravioles-à-la-ratatouille.html</link><guid isPermaLink="false">recettes/Gratin de ravioles à la ratatouille.md</guid><pubDate>Tue, 03 Sep 2024 11:52:56 GMT</pubDate><enclosure url="recettes/images/gratin-de-ravioles-à-la-ratatouille.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-ravioles-à-la-ratatouille.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche à l'oignon et aux lardons fumés]]></title><description><![CDATA[ 
- <br><br><img alt="Quiche à l'oignon et aux lardons fumés.webp" src="/recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp"><br><br><br>
-<br>Oignons : 1kg
-<br>Crème fraîche : 20cl
-<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
-<br>Oeufs : 2
-<br>Lardons : 100g
-<br><br>Pâte brisée<br><br><br><br><img alt="Pâte brisée.webp" src="/recettes/images/pâte-brisée.webp"><br><br><br>
-<br>Farine : 300g
-<br>Beurre : 150g
-<br>Sel : 1/2cc
-<br>Sucre (si pâte sucrée) : 15g
-<br>Lait ou eau : 8cl
-<br><br>
-<br>Mélanger la farine et le sel dans un plat (et le sucre si sucre il y a).
-<br>Ajouter le beurre puis l'incorporer à la farine en pétrissant rapidement et légèrement du bout des doigts. On doit obtenir une sorte de semoule grossière en 2 ou 3 min.
-<br>Incorporer rapidement le lait ou l'eau. Il en faut très peu pour permettre à la pâte de se lier et de faire boule. Le lait ou l'eau ? C'est selon les goûts.
-<br>Pour étaler sans problème, étaler la pâte sur du papier cuisson et cuire tel quel dans la platine.
-<br>
-<br>Éplucher les oignons et les couper en rondelles.
-<br>Les mettre dans le beurre chaud, et faire cuire sans prendre de couleur (pour ce faire, les mettre à froid dans le beurre qui n'est pas encore fondu); ajouter les lardons, saler et poivrer.
-<br>Foncer un plat à tarte avec la pâte.
-<br>Battre la crème fraîche avec les oeufs dans un saladier, saler et poivrer, puis ajouter les oignons cuits.
-<br>Verser la préparation dans le moule à tarte, mettre au four (thermostat 7/210°C), et faire cuire 30 min.
-]]></description><link>recettes/quiche-à-l'oignon-et-aux-lardons-fumés.html</link><guid isPermaLink="false">recettes/Quiche à l'oignon et aux lardons fumés.md</guid><pubDate>Sun, 01 Sep 2024 07:36:37 GMT</pubDate><enclosure url="recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade printanière au poulet]]></title><description><![CDATA[ 
+]]></description><link>recettes/gratin-de-ravioles-à-la-ratatouille.html</link><guid isPermaLink="false">recettes/Gratin de ravioles à la ratatouille.md</guid><pubDate>Tue, 03 Sep 2024 11:52:56 GMT</pubDate><enclosure url="recettes/images/gratin-de-ravioles-à-la-ratatouille.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-ravioles-à-la-ratatouille.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade printanière au poulet]]></title><description><![CDATA[ 
  <br><br><img alt="Salade printanière au poulet.webp" src="/recettes/images/salade-printanière-au-poulet.webp"><br><br><br>
 <br>Filets de poulet : 4
 <br>Feta : 80g
@@ -1958,20 +2029,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Pendant ce temps, coupez le saumon en petits dés.
 <br>Replacez les pâtes dans la casserole. Ajoutez la crème fraîche, pressez le citron et zestez-le, salez, poivrez. Ajoutez les dés de saumon, ajoutez le parmesan et mélangez.
 <br>Servez, assaisonnez selon vos goûts. C'est prêt !
-]]></description><link>recettes/pasta-saumon-citron.html</link><guid isPermaLink="false">recettes/Pasta saumon citron.md</guid><pubDate>Wed, 15 May 2024 12:15:49 GMT</pubDate><enclosure url="recettes/images/pasta-saumon-citron.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/pasta-saumon-citron.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Patates douces rôties &amp; crottin]]></title><description><![CDATA[ 
- <br><br><img alt="Patates douces rôties &amp; crottin.webp" src="/recettes/images/patates-douces-rôties-&amp;-crottin.webp"><br><br><br>
-<br>Patates douces : 800g
-<br>Oignon : 1
-<br>Crotins de chèvre : 2
-<br>Thym
-<br>Miel : 2cc
-<br><br>
-<br>Préchauffez le four à 200°C. Épluchez les patates douces à l'aide d'un économe. Coupez-les en morceaux. Épluchez puis émincez les oignons.
-<br>Ajoutez les patates douces et les oignons dans un plat allant au four. Assaisonnez d'un filet d'huile d'olive, de sel, poivre et de thym. Mélangez le tout, puis enfournez pendant 20 à 25 minutes à 200°C.
-<br>Sortez le plat du four. Mélangez les légumes, puis créez un peu d'espace pour ajouter les crottins de chèvre.
-<br>Badigeonnez d'un filet d'huile d'olive et du miel. Parsemez les crottins de chèvre de thym, puis re-assaisonnez selon vos goûts. Enfournez à nouveau 20 minutes à 200°C, jusqu'à ce que le chèvre soit coulant et légèrement doré.
-<br>Sortez le plat du four et dégustez. C'est prêt !
-]]></description><link>recettes/patates-douces-rôties-&amp;-crottin.html</link><guid isPermaLink="false">recettes/Patates douces rôties &amp; crottin.md</guid><pubDate>Wed, 15 May 2024 12:15:51 GMT</pubDate><enclosure url="recettes/images/patates-douces-rôties-&amp;-crottin.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/patates-douces-rôties-&amp;-crottin.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Pâte brisée]]></title><description><![CDATA[ 
+]]></description><link>recettes/pasta-saumon-citron.html</link><guid isPermaLink="false">recettes/Pasta saumon citron.md</guid><pubDate>Wed, 15 May 2024 12:15:49 GMT</pubDate><enclosure url="recettes/images/pasta-saumon-citron.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/pasta-saumon-citron.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Pâte brisée]]></title><description><![CDATA[ 
  <br><br><img alt="Pâte brisée.webp" src="/recettes/images/pâte-brisée.webp"><br><br><br>
 <br>Farine : 300g
 <br>Beurre : 150g
@@ -2935,33 +2993,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Garnissez généreusement de comté râpé.
 <br>Ajoutez enfin le persil haché si vous en avez.
 <br>Servez les tacos avec une sauce salsa ou une sauce piquante si vous le souhaitez. C'est prêt !
-]]></description><link>recettes/tacos-champignons,-poulet-&amp;-comté.html</link><guid isPermaLink="false">recettes/Tacos champignons, poulet &amp; comté.md</guid><pubDate>Wed, 15 May 2024 12:18:47 GMT</pubDate><enclosure url="recettes/images/tacos-champignons,-poulet-&amp;-comté.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tacos-champignons,-poulet-&amp;-comté.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tarte aux légumes du soleil]]></title><description><![CDATA[ 
- <br><br><img alt="Tarte aux légumes du soleil.webp" src="/recettes/images/tarte-aux-légumes-du-soleil.webp"><br><br><br>
-<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
-<br>Poivrons : 2
-<br>Courgette : 1
-<br>Parmesan râpé : 10g
-<br>Tomates : 4
-<br>Aubergine : 1
-<br>Huile d'olive
-<br><br>Pâte brisée<br><br><br><br><img alt="Pâte brisée.webp" src="/recettes/images/pâte-brisée.webp"><br><br><br>
-<br>Farine : 300g
-<br>Beurre : 150g
-<br>Sel : 1/2cc
-<br>Sucre (si pâte sucrée) : 15g
-<br>Lait ou eau : 8cl
-<br><br>
-<br>Mélanger la farine et le sel dans un plat (et le sucre si sucre il y a).
-<br>Ajouter le beurre puis l'incorporer à la farine en pétrissant rapidement et légèrement du bout des doigts. On doit obtenir une sorte de semoule grossière en 2 ou 3 min.
-<br>Incorporer rapidement le lait ou l'eau. Il en faut très peu pour permettre à la pâte de se lier et de faire boule. Le lait ou l'eau ? C'est selon les goûts.
-<br>Pour étaler sans problème, étaler la pâte sur du papier cuisson et cuire tel quel dans la platine.
-<br>
-<br>Préchauffer le four à 180°C. Précuire la pâte dans son moule pendant 15 minutes à 180°C.
-<br>Faire cuire simultanément dans une poêle les oignons, les tomates et les poivrons. Dans une autre poêle, faire cuire les aubergines et les courgettes avec un filet d'huile de cuisson pendant 15 minutes.
-<br>Mélanger les ingrédients des deux poêles. Rajouter la moutarde fine et douce Amora et mélanger à nouveau.
-<br>Verser la préparation sur la pâte brisée précuite.
-<br>Recouvrir la préparation de parmesan.
-]]></description><link>recettes/tarte-aux-légumes-du-soleil.html</link><guid isPermaLink="false">recettes/Tarte aux légumes du soleil.md</guid><pubDate>Wed, 15 May 2024 12:18:52 GMT</pubDate><enclosure url="recettes/images/tarte-aux-légumes-du-soleil.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tarte-aux-légumes-du-soleil.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tarte salée pommes de terre et camembert]]></title><description><![CDATA[ 
+]]></description><link>recettes/tacos-champignons,-poulet-&amp;-comté.html</link><guid isPermaLink="false">recettes/Tacos champignons, poulet &amp; comté.md</guid><pubDate>Wed, 15 May 2024 12:18:47 GMT</pubDate><enclosure url="recettes/images/tacos-champignons,-poulet-&amp;-comté.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tacos-champignons,-poulet-&amp;-comté.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tarte salée pommes de terre et camembert]]></title><description><![CDATA[ 
  <br><br><img alt="Tarte salée pommes de terre et camembert.webp" src="/recettes/images/tarte-salée-pommes-de-terre-et-camembert.webp"><br><br><br>
 <br>Pommes de terre : 3
 <br>Oignon : 1

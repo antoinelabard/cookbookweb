@@ -1,6 +1,6 @@
 {
   "vaultName": "cookbook",
-  "lastExport": 1727721270425,
+  "lastExport": 1728042632610,
   "pluginVersion": "1.8.0",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -155,7 +155,6 @@
     "recettes/images/Steak haché à l'échalote & purée.webp",
     "recettes/images/Tacos champignons, poulet & comté.webp",
     "recettes/images/Tagliatelles saumon épinards.webp",
-    "recettes/images/Tarte aux légumes du soleil.webp",
     "recettes/images/Tarte salée pommes de terre et camembert.webp",
     "recettes/images/Tarte thon, tomate et moutarde.webp",
     "recettes/images/Tartelette chèvre miel & salade.webp",
@@ -312,7 +311,6 @@
     "recettes/Steak haché à l'échalote & purée.md",
     "recettes/Tacos champignons, poulet & comté.md",
     "recettes/Tagliatelles saumon épinards.md",
-    "recettes/Tarte aux légumes du soleil.md",
     "recettes/Tarte salée pommes de terre et camembert.md",
     "recettes/Tarte thon, tomate et moutarde.md",
     "recettes/Tartelette chèvre miel & salade.md",
@@ -502,7 +500,6 @@
     "recettes/images/steak-haché-à-l'échalote-&-purée.webp",
     "recettes/images/tacos-champignons,-poulet-&-comté.webp",
     "recettes/images/tagliatelles-saumon-épinards.webp",
-    "recettes/images/tarte-aux-légumes-du-soleil.webp",
     "recettes/images/tarte-salée-pommes-de-terre-et-camembert.webp",
     "recettes/images/tarte-thon,-tomate-et-moutarde.webp",
     "recettes/images/tartelette-chèvre-miel-&-salade.webp",
@@ -1406,12 +1403,6 @@
       "exportedPath": "recettes/images/tagliatelles-saumon-épinards.webp",
       "dependencies": []
     },
-    "recettes/images/Tarte aux légumes du soleil.webp": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 39970,
-      "exportedPath": "recettes/images/tarte-aux-légumes-du-soleil.webp",
-      "dependencies": []
-    },
     "recettes/images/Tarte salée pommes de terre et camembert.webp": {
       "modifiedTime": 1722620992126,
       "sourceSize": 164280,
@@ -2100,8 +2091,8 @@
       ]
     },
     "recettes/Patates douces rôties & crottin.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1240,
+      "modifiedTime": 1728025140907,
+      "sourceSize": 1318,
       "exportedPath": "recettes/patates-douces-rôties-&-crottin.html",
       "dependencies": [
         "recettes/images/patates-douces-rôties-&-crottin.webp"
@@ -2293,7 +2284,7 @@
       ]
     },
     "recettes/Quiche à l'oignon et aux lardons fumés.md": {
-      "modifiedTime": 1725366461946,
+      "modifiedTime": 1728025140907,
       "sourceSize": 1021,
       "exportedPath": "recettes/quiche-à-l'oignon-et-aux-lardons-fumés.html",
       "dependencies": [
@@ -2607,15 +2598,6 @@
         "recettes/images/tagliatelles-saumon-épinards.webp"
       ]
     },
-    "recettes/Tarte aux légumes du soleil.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1059,
-      "exportedPath": "recettes/tarte-aux-légumes-du-soleil.html",
-      "dependencies": [
-        "recettes/images/tarte-aux-légumes-du-soleil.webp",
-        "recettes/images/pâte-brisée.webp"
-      ]
-    },
     "recettes/Tarte salée pommes de terre et camembert.md": {
       "modifiedTime": 1722620992126,
       "sourceSize": 1332,
@@ -2731,8 +2713,8 @@
       ]
     },
     "Menu de la semaine.md": {
-      "modifiedTime": 1727721270425,
-      "sourceSize": 8556,
+      "modifiedTime": 1728042632610,
+      "sourceSize": 9666,
       "exportedPath": "menu-de-la-semaine.html",
       "dependencies": []
     },
@@ -3211,13 +3193,13 @@
       "dependencies": []
     },
     "recettes/images/patates-douces-rôties-&-crottin.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1728025140907,
       "sourceSize": 176266,
       "exportedPath": "recettes/images/patates-douces-rôties-&-crottin.webp",
       "dependencies": []
     },
     "recettes/images/pâte-brisée.webp": {
-      "modifiedTime": 1726251153986,
+      "modifiedTime": 1728025140907,
       "sourceSize": 66060,
       "exportedPath": "recettes/images/pâte-brisée.webp",
       "dependencies": []
@@ -3349,7 +3331,7 @@
       "dependencies": []
     },
     "recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp": {
-      "modifiedTime": 1725366461946,
+      "modifiedTime": 1728025140907,
       "sourceSize": 167528,
       "exportedPath": "recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp",
       "dependencies": []
@@ -3576,12 +3558,6 @@
       "exportedPath": "recettes/images/tagliatelles-saumon-épinards.webp",
       "dependencies": []
     },
-    "recettes/images/tarte-aux-légumes-du-soleil.webp": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 39970,
-      "exportedPath": "recettes/images/tarte-aux-légumes-du-soleil.webp",
-      "dependencies": []
-    },
     "recettes/images/tarte-salée-pommes-de-terre-et-camembert.webp": {
       "modifiedTime": 1722620992126,
       "sourceSize": 164280,
@@ -3661,169 +3637,169 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1727721270425,
-      "sourceSize": 124485,
+      "modifiedTime": 1728042632610,
+      "sourceSize": 123732,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1727721270425,
-      "sourceSize": 14072,
+      "modifiedTime": 1728042632610,
+      "sourceSize": 14002,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 134730,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 343,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1727721270425,
+      "modifiedTime": 1728042632610,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
