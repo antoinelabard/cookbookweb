@@ -1,5 +1,123 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 04 Oct 2024 11:50:33 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 04 Oct 2024 11:50:32 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
- <br>/# Menu de la semaine<br><br>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 10 Oct 2024 14:06:44 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 10 Oct 2024 14:06:42 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Bavette à l'échalote, pommes de terre &amp; haricots]]></title><description><![CDATA[ 
+ <br><br><img alt="Bavette à l'échalote, pommes de terre &amp; haricots.webp" src="/recettes/images/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.webp"><br><br><br>
+<br>Boeuf (bavette) : 4
+<br>Échalotes : 2
+<br>Haricots verts : 400g
+<br>Beurre : 80g
+<br><a data-href="Pommes de terres sautées" href="/recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener">Pommes de terres sautées</a> : 600g
+<br><br>
+<br><a data-href="Pommes de terres sautées" href="/recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener">Pommes de terres sautées</a>
+<br>Faites chauffer une casserole d'eau bouillante salée.
+<br>Pendant ce temps, émincez les échalotes.
+<br>Ajoutez les haricots verts dans la casserole et faites cuire pendant 12 min supplémentaires.
+<br>Dans une poêle chaude, ajoutez la moitié du beurre et y faire revenir les échalotes 2 minutes, sur feu moyen.
+<br>Une fois l'eau évaporée, ajoutez l'autre moitié du beurre, la bavette dans la poêle et faites cuire 3 minutes de chaque côté.
+<br>Retirez la viande de la poêle une fois cuite. Ajoutez un fond d'eau dans la poêle pour faire le jus.
+<br>Replacez la viande dans son jus, le temps d'égoutter les légumes.
+<br>Égouttez les haricots verts et les pommes de terre.
+<br>Coupez la viande en tranches.
+<br>Servez la bavette avec les haricots verts, le jus de cuisson et les échalotes. Salez, poivrez, c'est prêt !
+]]></description><link>recettes/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.html</link><guid isPermaLink="false">recettes/Bavette à l'échalote, pommes de terre &amp; haricots.md</guid><pubDate>Tue, 08 Oct 2024 11:04:04 GMT</pubDate><enclosure url="recettes/images/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Oeuf cocotte épinards &amp; lard]]></title><description><![CDATA[ 
+ <br><br><img alt="Oeuf cocotte épinards &amp; lard.webp" src="/recettes/images/oeuf-cocotte-épinards-&amp;-lard.webp"><br><br><br>
+<br>Oeufs : 4
+<br>Crème fraîche : 20cl
+<br>Lard : 8 tranches
+<br>Parmesan : 60g
+<br>Épinards : 1kg
+<br><br>
+<br>Préchauffez le four à 200°C. Faites cuire les épinards dans une poêle.
+<br>Dans un plat allant au four, mélangez la crème de parmesan. Salez et poivrez.
+<br>Ajoutez les épinards cuits et mélangez.
+<br>Faites des puits à l'aide d'une cuillère et cassez les œufs délicatement.
+<br>Ajoutez le lard par-dessus.
+<br>Enfournez pendant 15 minutes. Dégustez avec une salade ou une tranche de pain. C'est prêt !
+]]></description><link>recettes/oeuf-cocotte-épinards-&amp;-lard.html</link><guid isPermaLink="false">recettes/Oeuf cocotte épinards &amp; lard.md</guid><pubDate>Fri, 04 Oct 2024 19:53:11 GMT</pubDate><enclosure url="recettes/images/oeuf-cocotte-épinards-&amp;-lard.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/oeuf-cocotte-épinards-&amp;-lard.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Pâtes aux petits pois, poireaux et bacon]]></title><description><![CDATA[ 
+ <br><br><img alt="Pâtes aux petits pois, poireaux et bacon.webp" src="/recettes/images/pâtes-aux-petits-pois,-poireaux-et-bacon.webp"><br><br><br>
+<br>Poireaux : 2
+<br>Jus de citron
+<br>Parmesan râpé : 60g
+<br>Spaghetti : 400g
+<br>Bacon : 200g
+<br>Petits pois surgelés : 200g
+<br>Crème fraîche : 20cl
+<br><br>
+<br>Laver les poireaux, couper les parties blanches en rondelles et couper le bacon en petits morceaux.
+<br>Faire cuire les pâtes et les petits poids dans de l'eau bouillante.
+<br>Dans une poêle, Mettre les poireaux et le bacon avec un fond d'eau. Laisser cuire à couvert en remuant de temps en temps.
+<br>Ajouter dans la poêle la crème fraîche, les gouttes de jus de citron et remuer (pendant 5 min).
+<br>Égoutter les pâtes et les petits pois, les ajouter à la sauce aux poireaux et au bacon et mélanger.
+<br>Ajouter le parmesan râpé et servir.
+]]></description><link>recettes/pâtes-aux-petits-pois,-poireaux-et-bacon.html</link><guid isPermaLink="false">recettes/Pâtes aux petits pois, poireaux et bacon.md</guid><pubDate>Tue, 08 Oct 2024 11:06:30 GMT</pubDate><enclosure url="recettes/images/pâtes-aux-petits-pois,-poireaux-et-bacon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/pâtes-aux-petits-pois,-poireaux-et-bacon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Livre de recettes]]></title><description><![CDATA[ 
+ <br><br><br>Salut ! Moi, c'est Antoine.
+ <img style="margin: 20px; float: right; width: 100px; max-width: 100%;" height="100" alt="profile picture" src="/photo.webp" referrerpolicy="no-referrer">J'ai mis en ligne ce site web pour partager mon livre de recettes. Il s'agit de toutes les recettes que j'essaie et que je sauvegarde pour ne jamais manquer d'idée !<br><br>Plus de 140 recettes sont disponibles ! N'hésitez pas à me faire part de vos retours ou de vos astuces pour les améliorer.
+<br><a data-href="Menu de la semaine" href="/menu-de-la-semaine.html" class="internal-link" target="_self" rel="noopener">Menu de la semaine</a><br><br><br><br><br><br><br>Vous pouvez retrouver le repository de ce livre sur GitHub : <a rel="noopener" class="external-link" href="https://github.com/antoinelabard/Cookbook" target="_blank">https://github.com/antoinelabard/Cookbook</a>. Si vous avez des suggestions d'améliorations des recettes, vous pouvez me contacter ou utiliser GitHub si vous le maîtrisez.<br>❤️ Merci aux contributeurs du projet :<br>
+<br>Alexis Goblot
+<br>Katy Osmont
+<br>Nicolas Noirault
+<br><br>Ce livre de recette a été rédigé avec <a data-tooltip-position="top" aria-label="http://obsidian.md" rel="noopener" class="external-link" href="http://obsidian.md" target="_blank">Obsidian</a>. Le site web est généré avec le plugin <a data-tooltip-position="top" aria-label="https://github.com/KosmosisDire/obsidian-webpage-export" rel="noopener" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export" target="_blank">Webpage HTML Export</a> et est hébergé sur <a data-tooltip-position="top" aria-label="https://pages.github.com/" rel="noopener" class="external-link" href="https://pages.github.com/" target="_blank">GitHub Pages</a>.<br>Un script de génération de menus est également disponible si vous téléchargez le livre de recettes hors ligne. Pour comprendre comment s'en servir, rendez-vous <a data-tooltip-position="top" aria-label="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" rel="noopener" class="external-link" href="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" target="_blank">ici</a>.]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Thu, 10 Oct 2024 09:39:23 GMT</pubDate><enclosure url="photo.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="photo.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+ <br><br><br>
+<br><a data-href="Poulet boursin, lard &amp; pommes de terre" href="/recettes/poulet-boursin,-lard-&amp;-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener">Poulet boursin, lard &amp; pommes de terre</a>
+<br><a data-href="Boulettes &amp; semoule express" href="/recettes/boulettes-&amp;-semoule-express.html" class="internal-link" target="_self" rel="noopener">Boulettes &amp; semoule express</a>
+<br><a data-href="Quiche poireaux, chèvre lardons" href="/recettes/quiche-poireaux,-chèvre-lardons.html" class="internal-link" target="_self" rel="noopener">Quiche poireaux, chèvre lardons</a>
+<br><a data-href="Salade jambon cru, mozza &amp; pistaches" href="/recettes/salade-jambon-cru,-mozza-&amp;-pistaches.html" class="internal-link" target="_self" rel="noopener">Salade jambon cru, mozza &amp; pistaches</a>
+<br><a data-href="Risotto de coquillettes" href="/recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes</a>
+<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/salade-de-riz-au-surimi-8t7pc8jrbdmohqfn09l4?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/salade-de-riz-au-surimi-8t7pc8jrbdmohqfn09l4?coversCount=4&amp;from=menu</a>
+<br><br>
+<br>Viande
+
+<br>escalopes de poulet : 4
+<br>Boulettes de viande : 480g
+<br>surimi 320g
+
+
+<br>Produits laitiers
+
+<br>Fromage à l'ail : 160g
+<br>Crème fraîche : 25cl
+<br>Fromage de chèvre : 200g
+<br>Mozzarella : 240g
+<br>Comté : 80g
+<br>Crème fraîche: 10cl
+
+
+<br>Produits frais
+
+<br>Lard : 8 tranches
+<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br>Lardons : 200g
+<br>Jambon cru : 8 tranches
+<br>Jambon : 4 tranches
+
+
+<br>Fruits et légumes
+
+<br>Pommes de terre : 1kg
+<br>Ciboulette
+<br>Ail : 1 gousse
+<br>Origan : 4 pincées
+<br>Poireaux : 3
+<br>Salade : 200g
+<br>Échalote : 1
+<br>tomates 600g
+
+
+<br>Produits secs
+
+<br>Semoule : 300g
+<br>Purée de tomate : 480g
+<br>Oeufs : 3
+<br>Olives vertes : 120g
+<br>Pâtes (coquillettes) : 360g
+<br>Bouillon de volaille : 1
+<br>riz 200g
+<br>mais 200g
+<br>mayonnaise 4cs
+<br>persil
+
+
+<br>Pistaches grillées : 80g
+<br>Vin blanc : 10cl
+<br><br>
 <br><a data-href="Curry de pois chiches" href="/recettes/curry-de-pois-chiches.html" class="internal-link" target="_self" rel="noopener">Curry de pois chiches</a>
 <br><a data-href="Pâtes aux petits pois, poireaux et bacon" href="/recettes/pâtes-aux-petits-pois,-poireaux-et-bacon.html" class="internal-link" target="_self" rel="noopener">Pâtes aux petits pois, poireaux et bacon</a>
 <br><a data-href="Bavette à l'échalote, pommes de terre &amp; haricots" href="/recettes/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.html" class="internal-link" target="_self" rel="noopener">Bavette à l'échalote, pommes de terre &amp; haricots</a>
@@ -475,7 +593,7 @@
 <br>brocoli
 
 
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 04 Oct 2024 11:50:29 GMT</pubDate></item><item><title><![CDATA[Patates douces rôties &amp; crottin]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Thu, 10 Oct 2024 14:06:36 GMT</pubDate></item><item><title><![CDATA[Patates douces rôties &amp; crottin]]></title><description><![CDATA[ 
  <br><br><img alt="Patates douces rôties &amp; crottin.webp" src="/recettes/images/patates-douces-rôties-&amp;-crottin.webp"><br><br><br>
 <br>Patates douces : 1.2kg
 <br>Oignon : 1
@@ -932,25 +1050,7 @@ La piémontaise est meilleure préparée la veille !
 <br>Verser la préparation dans un moule à gateau rectangulaire. Utiliser le dos d'une cuillère pour bien tasser la préparation.
 <br>Enfourner 20min.
 <br>Quelques minutes après la sortie du four, découper la pâte en parts de taille régulière.
-]]></description><link>recettes/barres-de-céréales-aux-noix.html</link><guid isPermaLink="false">recettes/Barres de céréales aux noix.md</guid><pubDate>Wed, 15 May 2024 12:11:22 GMT</pubDate><enclosure url="recettes/images/barres-de-céréales-aux-noix.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/barres-de-céréales-aux-noix.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Bavette à l'échalote, pommes de terre &amp; haricots]]></title><description><![CDATA[ 
- <br><br><img alt="Bavette à l'échalote, pommes de terre &amp; haricots.webp" src="/recettes/images/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.webp"><br><br><br>
-<br>Boeuf (bavette) : 4
-<br>Échalotes : 2
-<br>Haricots verts : 400g
-<br>Beurre : 80g
-<br>Pommes de terre : 600g
-<br><br>
-<br>Faites chauffer une casserole d'eau bouillante salée. Ajoutez les pommes de terre, laissez cuire 10 minutes.
-<br>Pendant ce temps, émincez les échalotes.
-<br>Ajoutez les haricots verts dans la casserole et faites cuire pendant 12 min supplémentaires.
-<br>Dans une poêle chaude, ajoutez la moitié du beurre et y faire revenir les échalotes 2 minutes, sur feu moyen.
-<br>Une fois l'eau évaporée, ajoutez l'autre moitié du beurre, la bavette dans la poêle et faites cuire 2 minutes en arrosant de chaque côté pour une cuisson saignante.
-<br>Retirez la viande de la poêle une fois cuite. Ajoutez un fond d'eau dans la poêle pour faire le jus.
-<br>Replacez la viande dans son jus, le temps d'égoutter les légumes.
-<br>Égouttez les haricots verts et les pommes de terre.
-<br>Coupez la viande en tranches.
-<br>Servez la bavette avec les haricots verts, le jus de cuisson et les échalotes. Salez, poivrez, c'est prêt !
-]]></description><link>recettes/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.html</link><guid isPermaLink="false">recettes/Bavette à l'échalote, pommes de terre &amp; haricots.md</guid><pubDate>Wed, 15 May 2024 12:11:28 GMT</pubDate><enclosure url="recettes/images/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Béchamel]]></title><description><![CDATA[ 
+]]></description><link>recettes/barres-de-céréales-aux-noix.html</link><guid isPermaLink="false">recettes/Barres de céréales aux noix.md</guid><pubDate>Wed, 15 May 2024 12:11:22 GMT</pubDate><enclosure url="recettes/images/barres-de-céréales-aux-noix.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/barres-de-céréales-aux-noix.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Béchamel]]></title><description><![CDATA[ 
  <br><br><img alt="Béchamel.webp" src="/recettes/images/béchamel.webp"><br><br><br>
 <br>Beurre : 50g
 <br>Farine : 50g
@@ -1864,22 +1964,7 @@ Cette recette est inspirée du <a data-href="Gratin de ravioles à la ratatouill
 <br>Dans une poêle, faire chauffer de l'huile et mettre les nuggets à cuire.
 <br>Retournez les nuggets au bout de 4 à 5 min (quand ils sont bien dorés).
 <br>Vous pouvez servir !
-]]></description><link>recettes/nuggets-de-poulet.html</link><guid isPermaLink="false">recettes/Nuggets de poulet.md</guid><pubDate>Wed, 15 May 2024 12:15:05 GMT</pubDate><enclosure url="recettes/images/nuggets-de-poulet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/nuggets-de-poulet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Oeuf cocotte épinards &amp; lard]]></title><description><![CDATA[ 
- <br><br><img alt="Oeuf cocotte épinards &amp; lard.webp" src="/recettes/images/oeuf-cocotte-épinards-&amp;-lard.webp"><br><br><br>
-<br>Oeufs : 4
-<br>Crème fraîche : 20cl
-<br>Lard : 8 tranches
-<br>Parmesan : 60g
-<br>Épinards : 1kg
-<br><br>
-<br>Préchauffez le four à 200°C. Faites cuire les épinards dans une poêle.
-<br>Dans un bol, mélangez le parmesan et la crème. Salez et poivrez.
-<br>Beurrez un plat ou un ramequin individuel allant au four, ajoutez la crème de parmesan.
-<br>Ajoutez les épinards cuits et mélangez.
-<br>Ajoutez le lard.
-<br>Faites des puits à l'aide d'une cuillère et cassez les œufs délicatement. Salez et poivrez (optionnel : ajoutez une pincée de piment).
-<br>Enfournez pendant 15 minutes. Dégustez avec une salade ou une tranche de pain. C'est prêt !
-]]></description><link>recettes/oeuf-cocotte-épinards-&amp;-lard.html</link><guid isPermaLink="false">recettes/Oeuf cocotte épinards &amp; lard.md</guid><pubDate>Wed, 15 May 2024 12:15:08 GMT</pubDate><enclosure url="recettes/images/oeuf-cocotte-épinards-&amp;-lard.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/oeuf-cocotte-épinards-&amp;-lard.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Oeufs cuits]]></title><description><![CDATA[ 
+]]></description><link>recettes/nuggets-de-poulet.html</link><guid isPermaLink="false">recettes/Nuggets de poulet.md</guid><pubDate>Wed, 15 May 2024 12:15:05 GMT</pubDate><enclosure url="recettes/images/nuggets-de-poulet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/nuggets-de-poulet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Oeufs cuits]]></title><description><![CDATA[ 
  <br><br><img alt="Oeufs mollets.webp" src="/recettes/images/oeufs-mollets.webp"><br><br><br>
 <br>Oeufs : 4
 <br><br>
@@ -2104,23 +2189,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Quand les oignons sont bien dorés, ajoutez-y les crevettes, faites revenir 5 min puis ajoutez les tomates coupées en dés.
 <br>Laissez mijoter le tout 5 min puis ajoutez la crème fraiche puis salez et poivrez.
 <br>Ajoutez la garniture aux pâtes et laissez mijoter 5 min (si le plat est trop sec vous pouvez ajouter de la crème ou du lait).
-]]></description><link>recettes/pâtes-aux-crevettes-à-la-crème.html</link><guid isPermaLink="false">recettes/Pâtes aux crevettes à la crème.md</guid><pubDate>Wed, 15 May 2024 12:16:59 GMT</pubDate><enclosure url="recettes/images/pâtes-aux-crevettes-a-la-crème.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/pâtes-aux-crevettes-a-la-crème.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Pâtes aux petits pois, poireaux et bacon]]></title><description><![CDATA[ 
- <br><br><img alt="Pâtes aux petits pois, poireaux et bacon.webp" src="/recettes/images/pâtes-aux-petits-pois,-poireaux-et-bacon.webp"><br><br><br>
-<br>Poireaux : 2
-<br>Jus de citron
-<br>Parmesan râpé : 60g
-<br>Spaghetti : 400g
-<br>Bacon : 200g
-<br>Petits pois surgelés : 200g
-<br>Crème fraîche : 30cl
-<br><br>
-<br>Laver les poireaux, couper les parties blanches en rondelles et couper le bacon en petits morceaux.
-<br>Faire cuire les pâtes et les petits poids dans de l'eau bouillante.
-<br>Dans une poêle, Mettre les poireaux et le bacon. Ne pas cesser de remuer pendant 8 min, pour que les poireaux ne prennent pas au fond (si c'est le cas mettre 2 cuillerées à soupe d'eau de cuisson des pâtes).
-<br>Ajouter dans la poêle la crème fraîche, les gouttes de jus de citron et remuer (pendant 5 min).
-<br>Égoutter les pâtes et les petits pois, les ajouter à la sauce au poireaux et au bacon ; remuer pendant 2 min.
-<br>Ajouter du parmesan râpé.
-]]></description><link>recettes/pâtes-aux-petits-pois,-poireaux-et-bacon.html</link><guid isPermaLink="false">recettes/Pâtes aux petits pois, poireaux et bacon.md</guid><pubDate>Wed, 15 May 2024 12:17:02 GMT</pubDate><enclosure url="recettes/images/pâtes-aux-petits-pois,-poireaux-et-bacon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/pâtes-aux-petits-pois,-poireaux-et-bacon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Petits pois au chorizo]]></title><description><![CDATA[ 
+]]></description><link>recettes/pâtes-aux-crevettes-à-la-crème.html</link><guid isPermaLink="false">recettes/Pâtes aux crevettes à la crème.md</guid><pubDate>Wed, 15 May 2024 12:16:59 GMT</pubDate><enclosure url="recettes/images/pâtes-aux-crevettes-a-la-crème.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/pâtes-aux-crevettes-a-la-crème.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Petits pois au chorizo]]></title><description><![CDATA[ 
  <br><br><img alt="Petits pois au chorizo.webp" src="/recettes/images/petits-pois-au-chorizo.webp"><br><br><br>
 <br>Oignon : 1
 <br>Chorizo : 1
@@ -3197,11 +3266,4 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Coupez la tortilla en vous arrêtant au milieu. Déposez sur chaque quart une portion d'avocat, d'œufs brouillés, cheddar et oignons rouge.
 <br>Repliez chaque quart l'un sur l'autre dans le sens des aiguilles d'une montre (voir la vidéo).
 <br>Faites cuire la tortilla à la poêle avec un peu d'huile, environ deux minutes de chaque côté.
-]]></description><link>recettes/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.html</link><guid isPermaLink="false">recettes/Wrap de tortilla à l'avocat, cheddar et oeufs brouillés.md</guid><pubDate>Wed, 15 May 2024 12:19:18 GMT</pubDate><enclosure url="recettes/images/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
- <br>e# Livre de recettes<br><br>Salut ! Moi, c'est Antoine.
- <img style="margin: 20px; float: right; width: 100px; max-width: 100%;" height="100" alt="profile picture" src="/photo.webp" referrerpolicy="no-referrer">J'ai mis en ligne ce site web pour partager mon livre de recettes. Il s'agit de toutes les recettes que j'essaie et que je sauvegarde pour ne jamais manquer d'idée !<br><br>Plus de 140 recettes sont disponibles ! N'hésitez pas à me faire part de vos retours ou de vos astuces pour les améliorer.
-<br><a data-href="Menu de la semaine" href="/menu-de-la-semaine.html" class="internal-link" target="_self" rel="noopener">Menu de la semaine</a><br><br><br><br><br><br><br>Vous pouvez retrouver le repository de ce livre sur GitHub : <a rel="noopener" class="external-link" href="https://github.com/antoinelabard/Cookbook" target="_blank">https://github.com/antoinelabard/Cookbook</a>. Si vous avez des suggestions d'améliorations des recettes, vous pouvez me contacter ou utiliser GitHub si vous le maîtrisez.<br>❤️ Merci aux contributeurs du projet :<br>
-<br>Alexis Goblot
-<br>Katy Osmont
-<br>Nicolas Noirault
-<br><br>Ce livre de recette a été rédigé avec <a data-tooltip-position="top" aria-label="http://obsidian.md" rel="noopener" class="external-link" href="http://obsidian.md" target="_blank">Obsidian</a>. Le site web est généré avec le plugin <a data-tooltip-position="top" aria-label="https://github.com/KosmosisDire/obsidian-webpage-export" rel="noopener" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export" target="_blank">Webpage HTML Export</a> et est hébergé sur <a data-tooltip-position="top" aria-label="https://pages.github.com/" rel="noopener" class="external-link" href="https://pages.github.com/" target="_blank">GitHub Pages</a>.<br>Un script de génération de menus est également disponible si vous téléchargez le livre de recettes hors ligne. Pour comprendre comment s'en servir, rendez-vous <a data-tooltip-position="top" aria-label="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" rel="noopener" class="external-link" href="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" target="_blank">ici</a>.]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Wed, 15 May 2024 12:31:06 GMT</pubDate><enclosure url="photo.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="photo.webp"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+]]></description><link>recettes/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.html</link><guid isPermaLink="false">recettes/Wrap de tortilla à l'avocat, cheddar et oeufs brouillés.md</guid><pubDate>Wed, 15 May 2024 12:19:18 GMT</pubDate><enclosure url="recettes/images/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.webp"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>

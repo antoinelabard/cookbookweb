@@ -1,6 +1,6 @@
 {
   "vaultName": "cookbook",
-  "lastExport": 1728042632610,
+  "lastExport": 1728569202091,
   "pluginVersion": "1.8.0",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -1490,8 +1490,8 @@
       ]
     },
     "recettes/Bavette à l'échalote, pommes de terre & haricots.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1467,
+      "modifiedTime": 1728569202091,
+      "sourceSize": 1421,
       "exportedPath": "recettes/bavette-à-l'échalote,-pommes-de-terre-&-haricots.html",
       "dependencies": [
         "recettes/images/bavette-à-l'échalote,-pommes-de-terre-&-haricots.webp"
@@ -2003,8 +2003,8 @@
       ]
     },
     "recettes/Oeuf cocotte épinards & lard.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1015,
+      "modifiedTime": 1728569202091,
+      "sourceSize": 885,
       "exportedPath": "recettes/oeuf-cocotte-épinards-&-lard.html",
       "dependencies": [
         "recettes/images/oeuf-cocotte-épinards-&-lard.webp"
@@ -2139,8 +2139,8 @@
       ]
     },
     "recettes/Pâtes aux petits pois, poireaux et bacon.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1234,
+      "modifiedTime": 1728569202091,
+      "sourceSize": 1147,
       "exportedPath": "recettes/pâtes-aux-petits-pois,-poireaux-et-bacon.html",
       "dependencies": [
         "recettes/images/pâtes-aux-petits-pois,-poireaux-et-bacon.webp"
@@ -2705,21 +2705,21 @@
       ]
     },
     "index.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1813,
+      "modifiedTime": 1728569202091,
+      "sourceSize": 1812,
       "exportedPath": "index.html",
       "dependencies": [
         "photo.webp"
       ]
     },
     "Menu de la semaine.md": {
-      "modifiedTime": 1728042632610,
-      "sourceSize": 9666,
+      "modifiedTime": 1728569202091,
+      "sourceSize": 10971,
       "exportedPath": "menu-de-la-semaine.html",
       "dependencies": []
     },
     "photo.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1728569202091,
       "sourceSize": 66864,
       "exportedPath": "photo.webp",
       "dependencies": []
@@ -2731,7 +2731,7 @@
       "dependencies": []
     },
     "recettes/images/bavette-à-l'échalote,-pommes-de-terre-&-haricots.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1728569202091,
       "sourceSize": 64632,
       "exportedPath": "recettes/images/bavette-à-l'échalote,-pommes-de-terre-&-haricots.webp",
       "dependencies": []
@@ -3133,7 +3133,7 @@
       "dependencies": []
     },
     "recettes/images/oeuf-cocotte-épinards-&-lard.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1728569202091,
       "sourceSize": 50896,
       "exportedPath": "recettes/images/oeuf-cocotte-épinards-&-lard.webp",
       "dependencies": []
@@ -3229,7 +3229,7 @@
       "dependencies": []
     },
     "recettes/images/pâtes-aux-petits-pois,-poireaux-et-bacon.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1728569202091,
       "sourceSize": 40238,
       "exportedPath": "recettes/images/pâtes-aux-petits-pois,-poireaux-et-bacon.webp",
       "dependencies": []
@@ -3637,169 +3637,169 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 123732,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1728042632610,
-      "sourceSize": 14002,
+      "modifiedTime": 1728569202091,
+      "sourceSize": 14153,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 134730,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 343,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1728042632610,
+      "modifiedTime": 1728569202091,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
