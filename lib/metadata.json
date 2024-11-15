@@ -1,6 +1,6 @@
 {
   "vaultName": "cookbook",
-  "lastExport": 1731190778387,
+  "lastExport": 1731688231445,
   "pluginVersion": "1.8.0",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -1637,8 +1637,8 @@
       ]
     },
     "recettes/Cordon bleu roulé.md": {
-      "modifiedTime": 1730747035512,
-      "sourceSize": 1436,
+      "modifiedTime": 1731688231445,
+      "sourceSize": 1704,
       "exportedPath": "recettes/cordon-bleu-roulé.html",
       "dependencies": [
         "recettes/images/cordon-bleu-roulé.webp"
@@ -1653,12 +1653,11 @@
       ]
     },
     "recettes/Croissant au jambon fromage.md": {
-      "modifiedTime": 1731070095868,
-      "sourceSize": 936,
+      "modifiedTime": 1731688231445,
+      "sourceSize": 917,
       "exportedPath": "recettes/croissant-au-jambon-fromage.html",
       "dependencies": [
-        "recettes/images/croissant-au-jambon-fromage.webp",
-        "recettes/images/béchamel.webp"
+        "recettes/images/croissant-au-jambon-fromage.webp"
       ]
     },
     "recettes/Croque-monsieur.md": {
@@ -1702,8 +1701,8 @@
       ]
     },
     "recettes/Escalope de dinde à la normande.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1506,
+      "modifiedTime": 1731688231445,
+      "sourceSize": 1458,
       "exportedPath": "recettes/escalope-de-dinde-à-la-normande.html",
       "dependencies": [
         "recettes/images/escalope-de-dinde-à-la-normande.webp"
@@ -1742,8 +1741,8 @@
       ]
     },
     "recettes/French tacos.md": {
-      "modifiedTime": 1730552908197,
-      "sourceSize": 1917,
+      "modifiedTime": 1731688231445,
+      "sourceSize": 1903,
       "exportedPath": "recettes/french-tacos.html",
       "dependencies": [
         "recettes/images/french-tacos.webp",
@@ -1753,8 +1752,8 @@
       ]
     },
     "recettes/Frites.md": {
-      "modifiedTime": 1730552908197,
-      "sourceSize": 1632,
+      "modifiedTime": 1731688231445,
+      "sourceSize": 1636,
       "exportedPath": "recettes/frites.html",
       "dependencies": [
         "recettes/images/frites.webp"
@@ -1809,12 +1808,11 @@
       ]
     },
     "recettes/Galette saucisse.md": {
-      "modifiedTime": 1729948719318,
-      "sourceSize": 989,
+      "modifiedTime": 1731688231445,
+      "sourceSize": 965,
       "exportedPath": "recettes/galette-saucisse.html",
       "dependencies": [
-        "recettes/images/galette-saucisse.webp",
-        "recettes/images/oignons-confits.webp"
+        "recettes/images/galette-saucisse.webp"
       ]
     },
     "recettes/Gâteau au chocolat fondant rapide.md": {
@@ -1890,12 +1888,11 @@
       ]
     },
     "recettes/Hachis Parmentier.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1137,
+      "modifiedTime": 1731688231445,
+      "sourceSize": 1089,
       "exportedPath": "recettes/hachis-parmentier.html",
       "dependencies": [
-        "recettes/images/hachis-parmentier.webp",
-        "recettes/images/purée-de-pommes-de-terre-façon-goblot.webp"
+        "recettes/images/hachis-parmentier.webp"
       ]
     },
     "recettes/Hamburger maison.md": {
@@ -1956,8 +1953,8 @@
       ]
     },
     "recettes/Lasagnes au saumon et aux épinards.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 972,
+      "modifiedTime": 1731688231445,
+      "sourceSize": 1353,
       "exportedPath": "recettes/lasagnes-au-saumon-et-aux-épinards.html",
       "dependencies": [
         "recettes/images/lasagnes-au-saumon-et-aux-épinards.webp"
@@ -2028,8 +2025,8 @@
       ]
     },
     "recettes/Omelette aux champignons.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1086,
+      "modifiedTime": 1731688231445,
+      "sourceSize": 1088,
       "exportedPath": "recettes/omelette-aux-champignons.html",
       "dependencies": [
         "recettes/images/omelette-aux-champignons.webp"
@@ -2278,12 +2275,11 @@
       ]
     },
     "recettes/Quiche artichaut & parma.md": {
-      "modifiedTime": 1726251153986,
-      "sourceSize": 1249,
+      "modifiedTime": 1731688231445,
+      "sourceSize": 1229,
       "exportedPath": "recettes/quiche-artichaut-&-parma.html",
       "dependencies": [
-        "recettes/images/quiche-artichaut-&-parma.webp",
-        "recettes/images/pâte-brisée.webp"
+        "recettes/images/quiche-artichaut-&-parma.webp"
       ]
     },
     "recettes/Quiche au saumon et aux épinards.md": {
@@ -2304,21 +2300,19 @@
       ]
     },
     "recettes/Quiche chèvre épinards.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1120,
+      "modifiedTime": 1731688231445,
+      "sourceSize": 1100,
       "exportedPath": "recettes/quiche-chèvre-épinards.html",
       "dependencies": [
-        "recettes/images/quiche-chèvre-épinards.webp",
-        "recettes/images/pâte-brisée.webp"
+        "recettes/images/quiche-chèvre-épinards.webp"
       ]
     },
     "recettes/Quiche oignons, chèvre & miel.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1364,
+      "modifiedTime": 1731688231445,
+      "sourceSize": 1344,
       "exportedPath": "recettes/quiche-oignons,-chèvre-&-miel.html",
       "dependencies": [
-        "recettes/images/quiche-oignons,-chèvre-&-miel.webp",
-        "recettes/images/pâte-brisée.webp"
+        "recettes/images/quiche-oignons,-chèvre-&-miel.webp"
       ]
     },
     "recettes/Quiche poireaux, chèvre lardons.md": {
@@ -2331,12 +2325,11 @@
       ]
     },
     "recettes/Quiche tomate, jambon, chèvre.md": {
-      "modifiedTime": 1722620992126,
-      "sourceSize": 1196,
+      "modifiedTime": 1731688231445,
+      "sourceSize": 1174,
       "exportedPath": "recettes/quiche-tomate,-jambon,-chèvre.html",
       "dependencies": [
-        "recettes/images/quiche-tomate,-jambon,-chèvre.webp",
-        "recettes/images/pâte-brisée.webp"
+        "recettes/images/quiche-tomate,-jambon,-chèvre.webp"
       ]
     },
     "recettes/Ratatouille.md": {
@@ -2452,13 +2445,11 @@
       ]
     },
     "recettes/Salade campagnarde.md": {
-      "modifiedTime": 1723744330438,
-      "sourceSize": 1026,
+      "modifiedTime": 1731688231445,
+      "sourceSize": 972,
       "exportedPath": "recettes/salade-campagnarde.html",
       "dependencies": [
-        "recettes/images/salade-campagnarde.webp",
-        "recettes/images/oeufs-mollets.webp",
-        "recettes/images/pommes-de-terres-sautées.webp"
+        "recettes/images/salade-campagnarde.webp"
       ]
     },
     "recettes/Salade de pâtes à l'italienne.md": {
@@ -2698,8 +2689,8 @@
       ]
     },
     "Menu de la semaine.md": {
-      "modifiedTime": 1731190778387,
-      "sourceSize": 22331,
+      "modifiedTime": 1731688231445,
+      "sourceSize": 26389,
       "exportedPath": "menu-de-la-semaine.html",
       "dependencies": []
     },
@@ -2836,7 +2827,7 @@
       "dependencies": []
     },
     "recettes/images/cordon-bleu-roulé.webp": {
-      "modifiedTime": 1730747035512,
+      "modifiedTime": 1731688231445,
       "sourceSize": 99408,
       "exportedPath": "recettes/images/cordon-bleu-roulé.webp",
       "dependencies": []
@@ -2848,7 +2839,7 @@
       "dependencies": []
     },
     "recettes/images/croissant-au-jambon-fromage.webp": {
-      "modifiedTime": 1731070095868,
+      "modifiedTime": 1731688231445,
       "sourceSize": 57842,
       "exportedPath": "recettes/images/croissant-au-jambon-fromage.webp",
       "dependencies": []
@@ -2884,7 +2875,7 @@
       "dependencies": []
     },
     "recettes/images/escalope-de-dinde-à-la-normande.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1731688231445,
       "sourceSize": 283436,
       "exportedPath": "recettes/images/escalope-de-dinde-à-la-normande.webp",
       "dependencies": []
@@ -2914,31 +2905,31 @@
       "dependencies": []
     },
     "recettes/images/french-tacos.webp": {
-      "modifiedTime": 1730552908197,
+      "modifiedTime": 1731688231445,
       "sourceSize": 188938,
       "exportedPath": "recettes/images/french-tacos.webp",
       "dependencies": []
     },
     "recettes/images/frites.webp": {
-      "modifiedTime": 1730552908197,
+      "modifiedTime": 1731688231445,
       "sourceSize": 483378,
       "exportedPath": "recettes/images/frites.webp",
       "dependencies": []
     },
     "recettes/images/french-tacos-montage-1.webp": {
-      "modifiedTime": 1730552908197,
+      "modifiedTime": 1731688231445,
       "sourceSize": 32114,
       "exportedPath": "recettes/images/french-tacos-montage-1.webp",
       "dependencies": []
     },
     "recettes/images/french-tacos-montage-2.webp": {
-      "modifiedTime": 1730552908197,
+      "modifiedTime": 1731688231445,
       "sourceSize": 30914,
       "exportedPath": "recettes/images/french-tacos-montage-2.webp",
       "dependencies": []
     },
     "recettes/images/french-tacos-montage-3.webp": {
-      "modifiedTime": 1730552908197,
+      "modifiedTime": 1731688231445,
       "sourceSize": 27292,
       "exportedPath": "recettes/images/french-tacos-montage-3.webp",
       "dependencies": []
@@ -2980,7 +2971,7 @@
       "dependencies": []
     },
     "recettes/images/galette-saucisse.webp": {
-      "modifiedTime": 1729948719318,
+      "modifiedTime": 1731688231445,
       "sourceSize": 217220,
       "exportedPath": "recettes/images/galette-saucisse.webp",
       "dependencies": []
@@ -3040,7 +3031,7 @@
       "dependencies": []
     },
     "recettes/images/hachis-parmentier.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1731688231445,
       "sourceSize": 106678,
       "exportedPath": "recettes/images/hachis-parmentier.webp",
       "dependencies": []
@@ -3088,7 +3079,7 @@
       "dependencies": []
     },
     "recettes/images/lasagnes-au-saumon-et-aux-épinards.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1731688231445,
       "sourceSize": 162968,
       "exportedPath": "recettes/images/lasagnes-au-saumon-et-aux-épinards.webp",
       "dependencies": []
@@ -3136,7 +3127,7 @@
       "dependencies": []
     },
     "recettes/images/omelette-aux-champignons.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1731688231445,
       "sourceSize": 219318,
       "exportedPath": "recettes/images/omelette-aux-champignons.webp",
       "dependencies": []
@@ -3316,7 +3307,7 @@
       "dependencies": []
     },
     "recettes/images/quiche-artichaut-&-parma.webp": {
-      "modifiedTime": 1726251153986,
+      "modifiedTime": 1731688231445,
       "sourceSize": 86136,
       "exportedPath": "recettes/images/quiche-artichaut-&-parma.webp",
       "dependencies": []
@@ -3334,13 +3325,13 @@
       "dependencies": []
     },
     "recettes/images/quiche-chèvre-épinards.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1731688231445,
       "sourceSize": 107530,
       "exportedPath": "recettes/images/quiche-chèvre-épinards.webp",
       "dependencies": []
     },
     "recettes/images/quiche-oignons,-chèvre-&-miel.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1731688231445,
       "sourceSize": 250416,
       "exportedPath": "recettes/images/quiche-oignons,-chèvre-&-miel.webp",
       "dependencies": []
@@ -3352,7 +3343,7 @@
       "dependencies": []
     },
     "recettes/images/quiche-tomate,-jambon,-chèvre.webp": {
-      "modifiedTime": 1722620992126,
+      "modifiedTime": 1731688231445,
       "sourceSize": 39590,
       "exportedPath": "recettes/images/quiche-tomate,-jambon,-chèvre.webp",
       "dependencies": []
@@ -3442,7 +3433,7 @@
       "dependencies": []
     },
     "recettes/images/salade-campagnarde.webp": {
-      "modifiedTime": 1723744330438,
+      "modifiedTime": 1731688231445,
       "sourceSize": 204534,
       "exportedPath": "recettes/images/salade-campagnarde.webp",
       "dependencies": []
@@ -3616,169 +3607,169 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 123764,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1731190778387,
-      "sourceSize": 14479,
+      "modifiedTime": 1731688231445,
+      "sourceSize": 14453,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 134730,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 343,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1731190778387,
+      "modifiedTime": 1731688231445,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -3790,16 +3781,15 @@
       "dependencies": []
     },
     "recettes/Salade piémontaise.md": {
-      "modifiedTime": 1723283991699,
-      "sourceSize": 838,
+      "modifiedTime": 1731688231445,
+      "sourceSize": 818,
       "exportedPath": "recettes/salade-piémontaise.html",
       "dependencies": [
-        "recettes/images/salade-piémontaise.webp",
-        "recettes/images/oeufs-mollets.webp"
+        "recettes/images/salade-piémontaise.webp"
       ]
     },
     "recettes/images/salade-piémontaise.webp": {
-      "modifiedTime": 1723283991699,
+      "modifiedTime": 1731688231445,
       "sourceSize": 381052,
       "exportedPath": "recettes/images/salade-piémontaise.webp",
       "dependencies": []
