@@ -1,339 +1,120 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 15 Nov 2024 16:30:34 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 15 Nov 2024 16:30:31 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Cordon bleu roulé]]></title><description><![CDATA[ 
- <br><br><img alt="Cordon bleu roulé.webp" src="/recettes/images/cordon-bleu-roulé.webp"><br><br><br>
-<br>Chapelure : 500g
-<br>Comté : 8 tranches
-<br>Farine : 100g
-<br>Huile de cuisson : 10cl
-<br>Escalopes de dinde : 4
-<br>Jambon : 4 tranches
-<br>Oeufs : 2
-<br>Persil
-<br><br>
-<br>Déposer les escalopes de dinde sur du film alimentaire et les aplatir avec un rouleau à pâtisserie.
-<br>Déposer les tranches de jambon sur les escalopes, puis les tranches de comté.
-<br>Saler et poivrer avant de rouler les escalopes à l'aide du film alimentaire.
-<br>Rouler les escalopes en les serrant bien dans le film alimentaire et réserver 2h au congélateur.
-<br>Hacher finement le persil. Dans 3 assiettes différences, préparer les oeufs battus, la farine et la chapelure mélangée au persil.
-<br>Sortir les escalopes roulées, préchauffer le four à 180°C et mettre l'huile à chauffer dans une poêle.
-<br>Passer successivement les escalopes dans la farine, dans l'œuf battu, puis dans la chapelure.
-<br>Recommencer l'opération en passant à nouveau l'escalope roulée dans l'oeuf et la chapelure. Ne pas les repasser dans la farine pour éviter les grumeaux.
-<br>Cuire 10 minutes dans la poêle, en retournant les escalopes régulièrement pour que tous les côtés soient cuits.
-<br>Déposer sur du papier absorbant puis placer les cordons bleus sur une plaque recouverte de papier cuisson et enfourner 10 minutes à 180°C.
-]]></description><link>recettes/cordon-bleu-roulé.html</link><guid isPermaLink="false">recettes/Cordon bleu roulé.md</guid><pubDate>Mon, 11 Nov 2024 20:19:57 GMT</pubDate><enclosure url="recettes/images/cordon-bleu-roulé.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/cordon-bleu-roulé.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Croissant au jambon fromage]]></title><description><![CDATA[ 
- <br><br><img alt="Croissant au jambon fromage.webp" src="/recettes/images/croissant-au-jambon-fromage.webp"><br><br><br>
-<br><a data-href="Béchamel" href="/recettes/béchamel.html" class="internal-link" target="_self" rel="noopener">Béchamel</a> : 100g
-<br>Gruyère râpé : 100g
-<br>Croissants : 4
-<br>Jambon : 4 tranches
-<br><br>
-<br>Commencer par ouvrir vos croissants en deux à l'aide d'un couteau sans les séparer complètement.
-<br>Dès que votre béchamel est prête, faites y fondre du fromage puis l'étaler à l'intérieur des croissants. Ajouter une tranche de jambon roulée, puis encore de la béchamel et du fromage râpé.
-<br>Recommencer ceci pour les 3 autres.
-<br>Mettre au four à 180°C (thermostat 6) pendant 20 min tout en surveillant.
-]]></description><link>recettes/croissant-au-jambon-fromage.html</link><guid isPermaLink="false">recettes/Croissant au jambon fromage.md</guid><pubDate>Mon, 11 Nov 2024 20:26:09 GMT</pubDate><enclosure url="recettes/images/croissant-au-jambon-fromage.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/croissant-au-jambon-fromage.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Escalope de dinde à la normande]]></title><description><![CDATA[ 
- <br><br><img alt="Escalope de dinde à la normande.webp" src="/recettes/images/escalope-de-dinde-à-la-normande.webp"><br><br><br>
-<br><a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 500g
-<br>Champignons de Paris : 400g
-<br>Crème fraîche : 20cl
-<br>Escalopes de dinde : 4
-<br>Échalote : 1
-<br>Persil
-<br><br>
-<br>Salez et&nbsp;poivrez les escalopes de dinde.
-<br>Dans une sauteuse, faites chauffer un filet d’huile à feu moyen à vif. Faites revenir&nbsp;les escalopes de dinde 1 min de chaque côté pour les colorer. Réservez-les sur une assiette.
-<br>Ciselez l'échalote. Coupez les champignons de Paris en 2 ou 4 s'ils sont un peu gros.
-<br>Dans la même sauteuse, faites cuire les champignons et l'échalote&nbsp;6 à 8 min jusqu’à ce qu’ils soient fondants.
-<br>Une fois les champignons cuits, ajoutez les escalopes à la sauteuse. Versez la crème liquide. Couvrez et faites cuire 5 à 10 min jusqu’à ce que la sauce épaississe et que la dinde soit cuite (la chair n'est plus rose).
-<br>Salez, poivrez. Goûtez et rectifiez l’assaisonnement si nécessaire. Effeuillez et ciselez&nbsp;le persil plat.
-<br>Servez les escalopes de dinde à la normande bien chaudes, accompagnées de la purée !&nbsp;Parsemez le tout de persil plat.
-]]></description><link>recettes/escalope-de-dinde-à-la-normande.html</link><guid isPermaLink="false">recettes/Escalope de dinde à la normande.md</guid><pubDate>Fri, 15 Nov 2024 16:19:47 GMT</pubDate><enclosure url="recettes/images/escalope-de-dinde-à-la-normande.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/escalope-de-dinde-à-la-normande.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[French tacos]]></title><description><![CDATA[ 
- <br><br><img alt="French tacos.webp" src="/recettes/images/french-tacos.webp"><br><br><br>
-<br><a data-href="Frites" href="/recettes/frites.html" class="internal-link" target="_self" rel="noopener">Frites</a> : 1kg
-<br>Viandes de votre choix (boeuf haché, nuggets, Saucisses, cordon bleu, etc) : 400g
-<br>Oignons : 2
-<br>Crème fraîche : 50cl
-<br>Emmental : 100g
-<br>Cheddar : 200g
-<br>Tortillas de blé : 8
-<br>Huile d'olive
-<br>Sauce barbecue
-<br><br>
-<br>Préparer la viande : Faire revenir un oignon haché dans de l'huile de cuisson, lorsqu'il est translucide, ajouter la viande hachée, le sel et le poivre. Remuer de temps en temps jusqu'à fin de cuisson.
-<br>Préparer la sauce fromagère : Faire bouillir la crème dans une casserole, ajouter l'emmental, remuer jusqu'à ce qu'il soit fondu. Ajouter le cheddar coupé grossièrement et le poivre. Faire épaissir la sauce. Mixer.
-<br>Le montage : Disposer les deux tortillas l'une légèrement sur l'autre. Étaler la sauce barbecue (ou autre dessus en évitant les bords). Mettre la moitié des frites au centre. <img alt="French tacos - montage 1.webp" src="/recettes/images/french-tacos-montage-1.webp">
-<br>Ajouter la moitié de la sauce fromagère par dessus puis ajouter la moitié de la viande hachée. Bien centrer les aliments (en formant un rectangle) pour rendre le pliage plus facile. <img alt="French tacos - montage 2.webp" src="/recettes/images/french-tacos-montage-2.webp">
-<br>Plier les bords l'un après l'autre en commençant par le bord du haut, puis celui vers vous, puis ceux des côtés en essayant de toujours bien tasser les aliments à l'intérieur. <img alt="French tacos - montage 3.webp" src="/recettes/images/french-tacos-montage-3.webp">
-<br>Retourner le tacos et le faire cuire dans une machine à panini pendant 3 minutes (ou dans une poêle 3 minutes de chaque côté en commençant par le côté du pliage pour le sceller).
-<br>C'est prêt !
-]]></description><link>recettes/french-tacos.html</link><guid isPermaLink="false">recettes/French tacos.md</guid><pubDate>Tue, 12 Nov 2024 13:40:40 GMT</pubDate><enclosure url="recettes/images/french-tacos.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/french-tacos.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Frites]]></title><description><![CDATA[ 
- <br><br><img alt="Frites.webp" src="/recettes/images/frites.webp"><br><br><br>
-<br>Pommes de terre : 1kg
-<br>Huile de friture : 5l
-<br><br>
-<br>Préchauffer la friteuse à 150°C.
-<br>Préparation :
-
-<br>Peler les pommes de terre et retirer les yeux.
-<br>Les découper en bâtonnets d’environ 0,5 cm de diamètre.
-<br>Les passer très rapidement sous l’eau (sans trop pour ne pas retirer tout l’amidon).
-
-
-<br>Cuisson :
-
-<br>Plonger les frites dans la friteuse pendant 5 min à 150°C.
-<br>Sortir les frites et secouer le panier pour bien égoutter l'huile.
-<br>Avant de remettre les frites, rallumer la friteuse à 180°C. Les laisser reposer pendant au moins 10 min.
-<br>Plonger les frites une deuxième fois pendant 2 à 3 min.
-<br>Une fois le 2e bain réalisé, bien secouer le panier puis égoutter dans un saladier tapissé de papier absorbant. Saler tout de suite.
-
-
-<br>Tip
-Le secret de la cuisson des frites réside dans le fait de réaliser 2 cuissons successives à des températures différentes :
-
-<br>5 minutes à 140-150° pour les précuire ;
-<br>2-3 minutes à 180° pour les dorer.
-
-L’autre secret : bien séparer les 2 bains de friture en laissant le temps aux frites de « sécher » entre les 2 bains (10 minutes suffisent mais pour vous faciliter la vie, sachez que vous pouvez le faire jusqu’à 2 h à l’avance).
-]]></description><link>recettes/frites.html</link><guid isPermaLink="false">recettes/Frites.md</guid><pubDate>Mon, 11 Nov 2024 20:04:26 GMT</pubDate><enclosure url="recettes/images/frites.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/frites.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Galette saucisse]]></title><description><![CDATA[ 
- <br><br><img alt="Galette saucisse.webp" src="/recettes/images/galette-saucisse.webp"><br><br><br>
-<br>Saucisses fumées : 4
-<br>Galettes bretonnes : 4
-<br>Fromage râpé : 80g
-<br><a data-href="Oignons confits" href="/recettes/oignons-confits.html" class="internal-link" target="_self" rel="noopener">Oignons confits</a> : 1
-<br><br>
-<br>Coupez les saucisses en rondelles et faites-les revenir à feu vif dans une poêle chaude avec une noisette de beurre pendant 3 minutes jusqu'à ce qu'elles soit bien dorées.
-<br>Retirez les saucisses de la poêle et mettez-les de côté.
-<br>Ajoutez une 1 galette dans la poêle, étalez le confit d'oignon, saupoudrez de fromage râpé et ajoutez quelques rondelles de saucisse sur le dessus.
-<br>Laissez cuire à feu moyen 3 minutes, jusqu'à ce que le fromage soit bien fondu, puis refermez votre galette, servez, c'est prêt !
-]]></description><link>recettes/galette-saucisse.html</link><guid isPermaLink="false">recettes/Galette saucisse.md</guid><pubDate>Mon, 11 Nov 2024 20:26:09 GMT</pubDate><enclosure url="recettes/images/galette-saucisse.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-saucisse.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Hachis Parmentier]]></title><description><![CDATA[ 
- <br><br><img alt="Hachis Parmentier.webp" src="/recettes/images/hachis-parmentier.webp"><br><br><br>
-<br><a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg
-<br>Farine : 10g
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 15 Nov 2024 16:46:04 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 15 Nov 2024 16:46:02 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Tartelette chèvre miel &amp; salade]]></title><description><![CDATA[ 
+ <br><br><img alt="Tartelette chèvre miel &amp; salade.webp" src="/recettes/images/tartelette-chèvre-miel-&amp;-salade.webp"><br><br><br>
+<br>Pâte feuilletée : 1
+<br>Fromage de chèvre : 200g
+<br>Lardons : 200g
+<br>Miel : 6cl
+<br>Salade : 200g
 <br>Herbes de Provence
-<br>Parmesan : 50g
-<br>Beurre : 30g
-<br>Fromage râpé : 50g
-<br>Viande hachée : 800g
-<br>Oignons : 2
-<br>Ail : 2 gousses
 <br><br>
-<br>Hacher l'oignon et l'ail. Les faire revenir dans le beurre jusqu'à ce qu'ils soient tendres.
-<br>Ajouter les tomates coupées en dés, la viande hachée, la farine, du sel, du poivre et les herbes de Provence.
-<br>Quand tout est cuit, couper le feu et ajouter le jaune d'œuf et un peu de parmesan. Bien mélanger.
-<br>Préchauffer le four à 200°C (thermostat 6-7). Étaler au fond du plat à gratin. Étaler la purée au-dessus de la viande. Saupoudrer de fromage râpé et faire gratiner.
-]]></description><link>recettes/hachis-parmentier.html</link><guid isPermaLink="false">recettes/Hachis Parmentier.md</guid><pubDate>Mon, 11 Nov 2024 20:26:09 GMT</pubDate><enclosure url="recettes/images/hachis-parmentier.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/hachis-parmentier.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Lasagnes au saumon et aux épinards]]></title><description><![CDATA[ 
- <br><br><img alt="Lasagnes au saumon et aux épinards.webp" src="/recettes/images/lasagnes-au-saumon-et-aux-épinards.webp"><br><br><br>
-<br>Boîte de lasagnes précuites : 1
-<br>Parmesan : 100g
-<br>Saumon : 300g
-<br>Feuilles d'épinards : 1kg
-<br>Crème fraîche : 50cl
-<br><br>
-<br>Préchauffer le four (210°C).
-<br>Faire chauffer une casserole d'eau et cuire les pâtes pendant une minute. Sortir les pâtes ensuite et les disposer sur du papier absorbant.
-<br>Dans une casserole au feu, faire cuire à couvert les épinards avec le saumon.
-<br>Ajouter la crème fraîche et le parmesan en gardant un peu de chaque pour la fin. Saler et poivrer. Mélanger le tout en prenant soin de détacher la viande de saumon en morceaux.
-<br>Mettre un peu de beurre dans un plat rectangulaire ou carré allant au four.
-<br>Ajouter une couche de pâtes et une couche de préparation. Recommencer l'opération jusqu'à la fin des ingrédients, en finissant par les pâtes.
-<br>Étaler sur le dessus du plat le reste de la crème fraîche, et saupoudrez du reste de parmesan.
-<br>Mettre au four pendant 25min.
-]]></description><link>recettes/lasagnes-au-saumon-et-aux-épinards.html</link><guid isPermaLink="false">recettes/Lasagnes au saumon et aux épinards.md</guid><pubDate>Thu, 14 Nov 2024 02:50:19 GMT</pubDate><enclosure url="recettes/images/lasagnes-au-saumon-et-aux-épinards.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/lasagnes-au-saumon-et-aux-épinards.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Omelette aux champignons]]></title><description><![CDATA[ 
- <br><br><img alt="Omelette aux champignons.webp" src="/recettes/images/omelette-aux-champignons.webp"><br><br><br>
-<br>Oeufs : 12
-<br>Champignons de Paris : 400g
-<br>Salade : 200g
-<br>Comté : 100g
-<br>Échalote : 1
-<br><br>
-<br>Lavez puis coupez les champignons et l'échalote en lamelles.
-<br>Dans une poêle à feu vif, ajoutez un filet d'huile et faites revenir les champignons (et les échalotes) pendant 5 minutes en mélangeant régulièrement.
-<br>Pendant ce temps, dans un bol : cassez les oeufs, salez, poivrez et battez-les.
-<br>Une fois les champignons bien dorés, ajoutez les œufs battus et le comté coupé en petits morceaux dans la poêle.
-<br>Laissez cuire à feu moyen en brisant le fond de l’omelette avec une spatule pour faciliter la cuisson.
-<br>Servir l'omelette avec la salade assaisonnée selon vos goûts, salez, poivrez, c'est prêt !
-]]></description><link>recettes/omelette-aux-champignons.html</link><guid isPermaLink="false">recettes/Omelette aux champignons.md</guid><pubDate>Thu, 14 Nov 2024 02:55:05 GMT</pubDate><enclosure url="recettes/images/omelette-aux-champignons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/omelette-aux-champignons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche artichaut &amp; parma]]></title><description><![CDATA[ 
- <br><br><img alt="Quiche artichaut &amp; parma.webp" src="/recettes/images/quiche-artichaut-&amp;-parma.webp"><br><br><br>
-<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
-<br>Mozzarella : 1
-<br>Artichauts marinés : 160g
-<br>Jambon cru : 4 tranches
-<br>Oeuf : 3
-<br>Crème fraîche : 20cl
-<br>Lait: 10cl
-<br><br>
-<br>Préchauffez le four à 180°C. Placez la pâte dans votre moule à tarte et piquez-la à l'aide d'une fourchette. Une fois le four chaud, faites pré-cuire votre pâte pendant 5 minutes.
-<br>Dans un récipient, ajoutez : les oeufs, le lait, la crème, sel, poivre et fouettez le tout énergiquement.
-<br>Une fois la pâte pré-cuite, sortez-la du four.
-<br>Répartissez les artichauts dans le fond, déchirez la mozzarella et répartissez-la sur le dessus, ajoutez le jambon.
-<br>Versez l'appareil à quiche par dessus, salez et poivrez.
-<br>Enfournez votre quiche pendant 45 minutes à 180°C. Laissez reposer 10 minutes avant de déguster, c'est prêt ! À accompagner d'une salade verte.
-]]></description><link>recettes/quiche-artichaut-&amp;-parma.html</link><guid isPermaLink="false">recettes/Quiche artichaut &amp; parma.md</guid><pubDate>Mon, 11 Nov 2024 20:26:09 GMT</pubDate><enclosure url="recettes/images/quiche-artichaut-&amp;-parma.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-artichaut-&amp;-parma.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche chèvre épinards]]></title><description><![CDATA[ 
- <br><br><img alt="Quiche chèvre épinards.webp" src="/recettes/images/quiche-chèvre-épinards.webp"><br><br><br>
-<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
-<br>Oeufs : 3
-<br>Crème fraîche : 10cl
-<br>Fromage de chèvre : 200g
-<br>Épinards : 400g
-<br><br>
-<br>Préchauffez le four à 200°C. Décongelez les épinards selon les instructions du paquet et égouttez-les.
-<br>Dans un saladier, battez les œufs avec la crème fraîche, salez, poivrez et ajoutez les épinards ainsi que la moitié du chèvre émietté. Mélangez délicatement.
-<br>Placez la pâte brisée dans un moule (vous pouvez couper la pâte qui dépasse) et piquez-la. Versez le mélange dans la pâte à tarte.
-<br>Ajoutez le reste du chèvre en tranches sur le dessus de la tarte. Enfournez la quiche à 200°C pendant 40 minutes. Servez la quiche seule ou avec une salade. C'est prêt !
-]]></description><link>recettes/quiche-chèvre-épinards.html</link><guid isPermaLink="false">recettes/Quiche chèvre épinards.md</guid><pubDate>Mon, 11 Nov 2024 20:26:09 GMT</pubDate><enclosure url="recettes/images/quiche-chèvre-épinards.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-chèvre-épinards.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche oignons, chèvre &amp; miel]]></title><description><![CDATA[ 
- <br><br><img alt="Quiche oignons, chèvre &amp; miel.webp" src="/recettes/images/quiche-oignons,-chèvre-&amp;-miel.webp"><br><br><br>
-<br>Fromage de chèvre : 200g
-<br>Miel : 4cc
-<br>Oignon : 3
-<br>Oeufs : 3
-<br>Crème fraîche : 25cl
-<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
-<br><br>
-<br>Préchauffez le four à 200°C. Épluchez puis coupez les oignons en demi-rondelles.
-<br>Faites-les revenir dans une poêle à feu moyen avec un filet d'huile pendant 10 minutes en remuant régulièrement.
-<br>Pendant que les oignons cuisent, étalez la pâte dans un plat à tarte et la faire précuire au four environ 5 minutes.
-<br>À mi-cuisson des oignons, ajoutez un peu d'eau dans la poêle (1 cuillère à soupe/personne) et poursuivre la cuisson.
-<br>Dans un saladier, battre les oeufs avec la crème, salez, poivrez.
-<br>Une fois les oignons cuits, ajoutez le miel, mélangez.
-<br>Ajoutez les oignons sur la pâte brisée légèrement dorée et versez la préparation à quiche.
-<br>Emiettez le chèvre sur le dessus (optionnel : saupoudrez de thym).
-<br>Enfourner et cuire pendant 30 minutes. La tarte doit être bien dorée. C'est prêt !
-]]></description><link>recettes/quiche-oignons,-chèvre-&amp;-miel.html</link><guid isPermaLink="false">recettes/Quiche oignons, chèvre &amp; miel.md</guid><pubDate>Mon, 11 Nov 2024 20:26:09 GMT</pubDate><enclosure url="recettes/images/quiche-oignons,-chèvre-&amp;-miel.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-oignons,-chèvre-&amp;-miel.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche tomate, jambon, chèvre]]></title><description><![CDATA[ 
- <br><br><img alt="Quiche tomate, jambon, chèvre.webp" src="/recettes/images/quiche-tomate,-jambon,-chèvre.webp"><br><br><br>
-<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
-<br>Tomates : 2
-<br>Oeufs : 2
-<br>Persil
-<br>Gruyère râpé
-<br>Jambon : 100g
-<br>Fromage de chèvre : 1
-<br>Crème liquide : 50cl
-<br><br>
-<br>Préchauffer le four à 180°C.
-<br>Étaler la pâte brisée dans un moule à tarte.
-<br>Disposer le jambon coupé en dés ou en morceaux, y ajouter des morceaux de fromage de chèvre et terminer par les tomates coupées en tranches.
-<br>Battre avec une fourchette les œufs, y ajouter la crème liquide, ainsi que le sel, le poivre et le persil.
-<br>Verser cette préparation sur la quiche et parsemer du gruyère râpé.
-<br>Il ne reste plus qu'à enfourner et laisser cuire environ 30 mn jusqu'à ce que la quiche soit bien dorée.
-<br>Vous pouvez accompagner cette quiche d'une salade verte avec des cerneaux de noix.
-]]></description><link>recettes/quiche-tomate,-jambon,-chèvre.html</link><guid isPermaLink="false">recettes/Quiche tomate, jambon, chèvre.md</guid><pubDate>Mon, 11 Nov 2024 20:26:10 GMT</pubDate><enclosure url="recettes/images/quiche-tomate,-jambon,-chèvre.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-tomate,-jambon,-chèvre.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade campagnarde]]></title><description><![CDATA[ 
- <br><br><img alt="Salade campagnarde.webp" src="/recettes/images/salade-campagnarde.webp"><br><br><br>
-<br><a data-href="Oeufs cuits" href="/recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener">Oeufs cuits</a> durs : 6
-<br><a data-href="Pommes de terres sautées" href="/recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener">Pommes de terres sautées</a> : 600g
-<br>Salade : 200g
-<br>Chèvre frais : 80g
-<br>Bacon : 8 tranches
-<br><br>
-<br>Pendant ce temps, faites cuire les œufs dans une casserole d'eau bouillante pendant 10 min.
-<br>Placez-les dans un bol d'eau froide pour stopper la cuisson, écalez-les et coupez-les en morceaux.
-<br>Après 10 minutes. Coupez la cuisson des pommes de terre.
-<br>Dans la poêle, faites cuire le bacon 2 minutes sur chaque face.
-<br>Dressez la salade : dans une assiette ajoutez la mâche, les pommes de terres, les œufs, le bacon et le chèvre. (Optionnel : ajoutez des herbes fraîches). C'est prêt !
-]]></description><link>recettes/salade-campagnarde.html</link><guid isPermaLink="false">recettes/Salade campagnarde.md</guid><pubDate>Mon, 11 Nov 2024 20:26:09 GMT</pubDate><enclosure url="recettes/images/salade-campagnarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-campagnarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade piémontaise]]></title><description><![CDATA[ 
- <br><br><img alt="Salade piémontaise.webp" src="/recettes/images/salade-piémontaise.webp"><br><br><br>
-<br>Tomates : 2
-<br>Pommes de terre : 500g
-<br>Dés de jambon : 200g
-<br><a data-href="Oeufs cuits" href="/recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener">Oeufs cuits</a> durs : 2
-<br>Mayonnaise : 20cl
-<br>Cornichons : 200g
-<br><br>
-<br>Pendant ce temps, coupez les tomates en dés et les cornichons en fines lamelles.
-<br>Dans un grand plat, mélanger les oeufs durs coupés en petits morceaux, les pommes de terre, les tomates, les cornichons, le jambon et la mayonnaise.
-<br>Tip
-La piémontaise est meilleure préparée la veille !
-]]></description><link>recettes/salade-piémontaise.html</link><guid isPermaLink="false">recettes/Salade piémontaise.md</guid><pubDate>Mon, 11 Nov 2024 20:26:09 GMT</pubDate><enclosure url="recettes/images/salade-piémontaise.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-piémontaise.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+<br>Préchauffez le four à 200°C. Étalez votre pâte feuilletée sur une plaque allant au four puis découpez-la en 4.
+<br>Au centre de chaque morceau de pâte, ajoutez des rondelles de bûche de chèvre.
+<br>Ajoutez les lardons et une cuillère à café de miel sur chaque tartelette. Parsemez avec les herbes de Provence, salez et poivrez.
+<br>Badigeonnez les bords de la tarte avec un peu d'eau. Rabattez les bords de chaque part pour former des tartelettes. Versez un filet d'huile et enfournez pour 15 minutes de cuisson à 200°C.
+<br>Servez avec une salade verte assaisonnée selon vos goûts. C'est prêt !
+]]></description><link>recettes/tartelette-chèvre-miel-&amp;-salade.html</link><guid isPermaLink="false">recettes/Tartelette chèvre miel &amp; salade.md</guid><pubDate>Fri, 15 Nov 2024 16:33:41 GMT</pubDate><enclosure url="recettes/images/tartelette-chèvre-miel-&amp;-salade.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tartelette-chèvre-miel-&amp;-salade.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br>
-<br>Fondue savoyarde
+<br>Fondue savoyarde : <a rel="noopener" class="external-link" href="https://cuisine.journaldesfemmes.fr/recette/322355-fondue-savoyarde" target="_blank">https://cuisine.journaldesfemmes.fr/recette/322355-fondue-savoyarde</a>
 <br><a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
 <br><a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
 <br><a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
 <br><a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
-<br><a data-href="Patates douces rôties &amp; crottin" href="/recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener">Patates douces rôties &amp; crottin</a>
+<br><a data-href="Nouilles sautées aux crevettes" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a>
 <br><a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
 <br><br>
 <br>Conserves :
 
-<br>Petits pois : 120g ---&gt; <a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
+<br>Petits pois : 120g ---&gt;  <a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
 
 
 <br>Produits secs :
 
-<br>Farine : 10g ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
+<br>Farine : 10g ---&gt;  <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
 <br>Oeuf : 1 ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg
 <br>Oeuf : 1 ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 500g
-<br>Oeufs : 4 ---&gt; <a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
-<br>Oeufs : 8 ---&gt; <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
-<br>Riz: 280g ---&gt; <a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
+<br>Oeufs : 4 ---&gt;  <a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
+<br>Oeufs : 8 ---&gt;  <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
+<br>Riz: 280g ---&gt;  <a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
+<br>fécule de pommes de terre / maizena : 5cs
 
 
 <br>Épices :
 
-<br>Herbes de Provence ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
-<br>Herbes de Provence ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
+<br>Herbes de Provence ---&gt;  <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
+<br>Herbes de Provence ---&gt;  <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
 <br>Muscade ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg
 <br>Muscade ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 500g
-<br>Persil ---&gt; <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
-<br>Thym ---&gt; <a data-href="Patates douces rôties &amp; crottin" href="/recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener">Patates douces rôties &amp; crottin</a>
+<br>Persil ---&gt;  <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
 
 
 <br>Épicerie sucrée :
 
-<br>Miel : 2cc ---&gt; <a data-href="Patates douces rôties &amp; crottin" href="/recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener">Patates douces rôties &amp; crottin</a>
-<br>Miel : 6cl ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
+<br>Miel : 6cl ---&gt;  <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
 
 
 <br>Produits du monde :
 
-<br>Sauce soja (optionnel) ---&gt; <a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
+<br>Nouilles chinoises : 280g ---&gt;  <a data-href="Nouilles sautées aux crevettes" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a>
+<br>Sauce soja (optionnel) ---&gt;  <a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
+<br>Sauce soja : 12cl ---&gt;  <a data-href="Nouilles sautées aux crevettes" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a>
+<br>sauce soja salée
 
 
 <br>Produits frais :
 
-<br>Galettes bretonnes : 4 ---&gt; <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
-<br>Jambon : 8 tranches ---&gt; <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
-<br>Jambon : 8 tranches ---&gt; <a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
-<br>Lardons : 100g ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
-<br>Pâte feuilletée : 1 ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
+<br>Galettes bretonnes : 4 ---&gt;  <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
+<br>Jambon : 8 tranches ---&gt;  <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
+<br>Jambon : 8 tranches ---&gt;  <a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
+<br>Lardons : 200g ---&gt;  <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
+<br>Pâte feuilletée : 1 ---&gt;  <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
 
 
 <br>Produits laitiers :
 
-<br>Beurre : 30g ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
-<br>Crotins de chèvre : 2 ---&gt; <a data-href="Patates douces rôties &amp; crottin" href="/recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener">Patates douces rôties &amp; crottin</a>
+<br>beaufort : 400g
+<br>emmental : 400g
+<br>comté : 400g
+<br>appenzell : 100g
+<br>Beurre : 30g ---&gt;  <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
 <br>Crème fraîche : 10cl ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg
 <br>Crème fraîche : 10cl ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 500g
-<br>Crème fraîche : 20cl ---&gt; <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
-<br>Fromage de chèvre : 200g ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
-<br>Fromage râpé : 200g ---&gt; <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
-<br>Fromage râpé : 50g ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
+<br>Crème fraîche : 20cl ---&gt;  <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
+<br>Fromage de chèvre : 200g ---&gt;  <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
+<br>Fromage râpé : 200g ---&gt;  <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
+<br>Fromage râpé : 50g ---&gt;  <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
 <br>Lait ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg
 <br>Lait ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 500g
-<br>Parmesan : 50g ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
+<br>Parmesan : 50g ---&gt;  <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
 
 
 <br>Fruits et légumes :
 
-<br>Ail : 2 gousses ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
-<br>Champignons de Paris : 400g ---&gt; <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
-<br>Champignons de Paris : 600g ---&gt; <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
-<br>Oignon : 1 ---&gt; <a data-href="Patates douces rôties &amp; crottin" href="/recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener">Patates douces rôties &amp; crottin</a>
-<br>Oignons : 2 ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
-<br>Patates douces : 1.2kg ---&gt; <a data-href="Patates douces rôties &amp; crottin" href="/recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener">Patates douces rôties &amp; crottin</a>
+<br>ail
+<br>Ail : 2 gousses ---&gt;  <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
+<br>Carottes : 2 ---&gt;  <a data-href="Nouilles sautées aux crevettes" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a>
+<br>Champignons de Paris : 400g ---&gt;  <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
+<br>Champignons de Paris : 600g ---&gt;  <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
+<br>Gousse d'ail : 1 ---&gt;  <a data-href="Nouilles sautées aux crevettes" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a>
+<br>Haricots verts : 280g ---&gt;  <a data-href="Nouilles sautées aux crevettes" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a>
+<br>Oignons : 2 ---&gt;  <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
 <br>Pommes de terre : 1kg ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg
 <br>Pommes de terre : 1kg ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 500g
-<br>Salade : 200g ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
-<br><a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
-<br><a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 500g ---&gt; <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
-<br>Échalote : 1 ---&gt; <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
-<br>Échalote : 1 ---&gt; <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
+<br>Salade : 200g ---&gt;  <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
+<br><a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg ---&gt;  <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
+<br><a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 500g ---&gt;  <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
+<br>Échalote : 1 ---&gt;  <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
+<br>Échalote : 1 ---&gt;  <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
 
 
 <br>Viandes et poissons :
 
-<br>Escalopes de dinde : 4 ---&gt; <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
-<br>Viande hachée : 800g ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
+<br>Crevettes : 320g ---&gt;  <a data-href="Nouilles sautées aux crevettes" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a>
+<br>Escalopes de dinde : 4 ---&gt;  <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
+<br>Viande hachée : 800g ---&gt;  <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
 
 
+<br>baguettes : 2
+<br>vin blanc : 30cl
 <br><br>
 <br>Steak frites sauce roquefort
 <br>nouilles sautées
@@ -1182,7 +963,250 @@ La piémontaise est meilleure préparée la veille !
 <br>brocoli
 
 
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 15 Nov 2024 16:28:40 GMT</pubDate></item><item><title><![CDATA[Béchamel]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 15 Nov 2024 16:45:48 GMT</pubDate></item><item><title><![CDATA[Cordon bleu roulé]]></title><description><![CDATA[ 
+ <br><br><img alt="Cordon bleu roulé.webp" src="/recettes/images/cordon-bleu-roulé.webp"><br><br><br>
+<br>Chapelure : 500g
+<br>Comté : 8 tranches
+<br>Farine : 100g
+<br>Huile de cuisson : 10cl
+<br>Escalopes de dinde : 4
+<br>Jambon : 4 tranches
+<br>Oeufs : 2
+<br>Persil
+<br><br>
+<br>Déposer les escalopes de dinde sur du film alimentaire et les aplatir avec un rouleau à pâtisserie.
+<br>Déposer les tranches de jambon sur les escalopes, puis les tranches de comté.
+<br>Saler et poivrer avant de rouler les escalopes à l'aide du film alimentaire.
+<br>Rouler les escalopes en les serrant bien dans le film alimentaire et réserver 2h au congélateur.
+<br>Hacher finement le persil. Dans 3 assiettes différences, préparer les oeufs battus, la farine et la chapelure mélangée au persil.
+<br>Sortir les escalopes roulées, préchauffer le four à 180°C et mettre l'huile à chauffer dans une poêle.
+<br>Passer successivement les escalopes dans la farine, dans l'œuf battu, puis dans la chapelure.
+<br>Recommencer l'opération en passant à nouveau l'escalope roulée dans l'oeuf et la chapelure. Ne pas les repasser dans la farine pour éviter les grumeaux.
+<br>Cuire 10 minutes dans la poêle, en retournant les escalopes régulièrement pour que tous les côtés soient cuits.
+<br>Déposer sur du papier absorbant puis placer les cordons bleus sur une plaque recouverte de papier cuisson et enfourner 10 minutes à 180°C.
+]]></description><link>recettes/cordon-bleu-roulé.html</link><guid isPermaLink="false">recettes/Cordon bleu roulé.md</guid><pubDate>Mon, 11 Nov 2024 20:19:57 GMT</pubDate><enclosure url="recettes/images/cordon-bleu-roulé.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/cordon-bleu-roulé.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Croissant au jambon fromage]]></title><description><![CDATA[ 
+ <br><br><img alt="Croissant au jambon fromage.webp" src="/recettes/images/croissant-au-jambon-fromage.webp"><br><br><br>
+<br><a data-href="Béchamel" href="/recettes/béchamel.html" class="internal-link" target="_self" rel="noopener">Béchamel</a> : 100g
+<br>Gruyère râpé : 100g
+<br>Croissants : 4
+<br>Jambon : 4 tranches
+<br><br>
+<br>Commencer par ouvrir vos croissants en deux à l'aide d'un couteau sans les séparer complètement.
+<br>Dès que votre béchamel est prête, faites y fondre du fromage puis l'étaler à l'intérieur des croissants. Ajouter une tranche de jambon roulée, puis encore de la béchamel et du fromage râpé.
+<br>Recommencer ceci pour les 3 autres.
+<br>Mettre au four à 180°C (thermostat 6) pendant 20 min tout en surveillant.
+]]></description><link>recettes/croissant-au-jambon-fromage.html</link><guid isPermaLink="false">recettes/Croissant au jambon fromage.md</guid><pubDate>Mon, 11 Nov 2024 20:26:09 GMT</pubDate><enclosure url="recettes/images/croissant-au-jambon-fromage.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/croissant-au-jambon-fromage.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Escalope de dinde à la normande]]></title><description><![CDATA[ 
+ <br><br><img alt="Escalope de dinde à la normande.webp" src="/recettes/images/escalope-de-dinde-à-la-normande.webp"><br><br><br>
+<br><a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 500g
+<br>Champignons de Paris : 400g
+<br>Crème fraîche : 20cl
+<br>Escalopes de dinde : 4
+<br>Échalote : 1
+<br>Persil
+<br><br>
+<br>Salez et&nbsp;poivrez les escalopes de dinde.
+<br>Dans une sauteuse, faites chauffer un filet d’huile à feu moyen à vif. Faites revenir&nbsp;les escalopes de dinde 1 min de chaque côté pour les colorer. Réservez-les sur une assiette.
+<br>Ciselez l'échalote. Coupez les champignons de Paris en 2 ou 4 s'ils sont un peu gros.
+<br>Dans la même sauteuse, faites cuire les champignons et l'échalote&nbsp;6 à 8 min jusqu’à ce qu’ils soient fondants.
+<br>Une fois les champignons cuits, ajoutez les escalopes à la sauteuse. Versez la crème liquide. Couvrez et faites cuire 5 à 10 min jusqu’à ce que la sauce épaississe et que la dinde soit cuite (la chair n'est plus rose).
+<br>Salez, poivrez. Goûtez et rectifiez l’assaisonnement si nécessaire. Effeuillez et ciselez&nbsp;le persil plat.
+<br>Servez les escalopes de dinde à la normande bien chaudes, accompagnées de la purée !&nbsp;Parsemez le tout de persil plat.
+]]></description><link>recettes/escalope-de-dinde-à-la-normande.html</link><guid isPermaLink="false">recettes/Escalope de dinde à la normande.md</guid><pubDate>Fri, 15 Nov 2024 16:19:47 GMT</pubDate><enclosure url="recettes/images/escalope-de-dinde-à-la-normande.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/escalope-de-dinde-à-la-normande.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[French tacos]]></title><description><![CDATA[ 
+ <br><br><img alt="French tacos.webp" src="/recettes/images/french-tacos.webp"><br><br><br>
+<br><a data-href="Frites" href="/recettes/frites.html" class="internal-link" target="_self" rel="noopener">Frites</a> : 1kg
+<br>Viandes de votre choix (boeuf haché, nuggets, Saucisses, cordon bleu, etc) : 400g
+<br>Oignons : 2
+<br>Crème fraîche : 50cl
+<br>Emmental : 100g
+<br>Cheddar : 200g
+<br>Tortillas de blé : 8
+<br>Huile d'olive
+<br>Sauce barbecue
+<br><br>
+<br>Préparer la viande : Faire revenir un oignon haché dans de l'huile de cuisson, lorsqu'il est translucide, ajouter la viande hachée, le sel et le poivre. Remuer de temps en temps jusqu'à fin de cuisson.
+<br>Préparer la sauce fromagère : Faire bouillir la crème dans une casserole, ajouter l'emmental, remuer jusqu'à ce qu'il soit fondu. Ajouter le cheddar coupé grossièrement et le poivre. Faire épaissir la sauce. Mixer.
+<br>Le montage : Disposer les deux tortillas l'une légèrement sur l'autre. Étaler la sauce barbecue (ou autre dessus en évitant les bords). Mettre la moitié des frites au centre. <img alt="French tacos - montage 1.webp" src="/recettes/images/french-tacos-montage-1.webp">
+<br>Ajouter la moitié de la sauce fromagère par dessus puis ajouter la moitié de la viande hachée. Bien centrer les aliments (en formant un rectangle) pour rendre le pliage plus facile. <img alt="French tacos - montage 2.webp" src="/recettes/images/french-tacos-montage-2.webp">
+<br>Plier les bords l'un après l'autre en commençant par le bord du haut, puis celui vers vous, puis ceux des côtés en essayant de toujours bien tasser les aliments à l'intérieur. <img alt="French tacos - montage 3.webp" src="/recettes/images/french-tacos-montage-3.webp">
+<br>Retourner le tacos et le faire cuire dans une machine à panini pendant 3 minutes (ou dans une poêle 3 minutes de chaque côté en commençant par le côté du pliage pour le sceller).
+<br>C'est prêt !
+]]></description><link>recettes/french-tacos.html</link><guid isPermaLink="false">recettes/French tacos.md</guid><pubDate>Tue, 12 Nov 2024 13:40:40 GMT</pubDate><enclosure url="recettes/images/french-tacos.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/french-tacos.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Frites]]></title><description><![CDATA[ 
+ <br><br><img alt="Frites.webp" src="/recettes/images/frites.webp"><br><br><br>
+<br>Pommes de terre : 1kg
+<br>Huile de friture : 5l
+<br><br>
+<br>Préchauffer la friteuse à 150°C.
+<br>Préparation :
+
+<br>Peler les pommes de terre et retirer les yeux.
+<br>Les découper en bâtonnets d’environ 0,5 cm de diamètre.
+<br>Les passer très rapidement sous l’eau (sans trop pour ne pas retirer tout l’amidon).
+
+
+<br>Cuisson :
+
+<br>Plonger les frites dans la friteuse pendant 5 min à 150°C.
+<br>Sortir les frites et secouer le panier pour bien égoutter l'huile.
+<br>Avant de remettre les frites, rallumer la friteuse à 180°C. Les laisser reposer pendant au moins 10 min.
+<br>Plonger les frites une deuxième fois pendant 2 à 3 min.
+<br>Une fois le 2e bain réalisé, bien secouer le panier puis égoutter dans un saladier tapissé de papier absorbant. Saler tout de suite.
+
+
+<br>Tip
+Le secret de la cuisson des frites réside dans le fait de réaliser 2 cuissons successives à des températures différentes :
+
+<br>5 minutes à 140-150° pour les précuire ;
+<br>2-3 minutes à 180° pour les dorer.
+
+L’autre secret : bien séparer les 2 bains de friture en laissant le temps aux frites de « sécher » entre les 2 bains (10 minutes suffisent mais pour vous faciliter la vie, sachez que vous pouvez le faire jusqu’à 2 h à l’avance).
+]]></description><link>recettes/frites.html</link><guid isPermaLink="false">recettes/Frites.md</guid><pubDate>Mon, 11 Nov 2024 20:04:26 GMT</pubDate><enclosure url="recettes/images/frites.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/frites.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Galette saucisse]]></title><description><![CDATA[ 
+ <br><br><img alt="Galette saucisse.webp" src="/recettes/images/galette-saucisse.webp"><br><br><br>
+<br>Saucisses fumées : 4
+<br>Galettes bretonnes : 4
+<br>Fromage râpé : 80g
+<br><a data-href="Oignons confits" href="/recettes/oignons-confits.html" class="internal-link" target="_self" rel="noopener">Oignons confits</a> : 1
+<br><br>
+<br>Coupez les saucisses en rondelles et faites-les revenir à feu vif dans une poêle chaude avec une noisette de beurre pendant 3 minutes jusqu'à ce qu'elles soit bien dorées.
+<br>Retirez les saucisses de la poêle et mettez-les de côté.
+<br>Ajoutez une 1 galette dans la poêle, étalez le confit d'oignon, saupoudrez de fromage râpé et ajoutez quelques rondelles de saucisse sur le dessus.
+<br>Laissez cuire à feu moyen 3 minutes, jusqu'à ce que le fromage soit bien fondu, puis refermez votre galette, servez, c'est prêt !
+]]></description><link>recettes/galette-saucisse.html</link><guid isPermaLink="false">recettes/Galette saucisse.md</guid><pubDate>Mon, 11 Nov 2024 20:26:09 GMT</pubDate><enclosure url="recettes/images/galette-saucisse.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-saucisse.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Hachis Parmentier]]></title><description><![CDATA[ 
+ <br><br><img alt="Hachis Parmentier.webp" src="/recettes/images/hachis-parmentier.webp"><br><br><br>
+<br><a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg
+<br>Farine : 10g
+<br>Herbes de Provence
+<br>Parmesan : 50g
+<br>Beurre : 30g
+<br>Fromage râpé : 50g
+<br>Viande hachée : 800g
+<br>Oignons : 2
+<br>Ail : 2 gousses
+<br><br>
+<br>Hacher l'oignon et l'ail. Les faire revenir dans le beurre jusqu'à ce qu'ils soient tendres.
+<br>Ajouter les tomates coupées en dés, la viande hachée, la farine, du sel, du poivre et les herbes de Provence.
+<br>Quand tout est cuit, couper le feu et ajouter le jaune d'œuf et un peu de parmesan. Bien mélanger.
+<br>Préchauffer le four à 200°C (thermostat 6-7). Étaler au fond du plat à gratin. Étaler la purée au-dessus de la viande. Saupoudrer de fromage râpé et faire gratiner.
+]]></description><link>recettes/hachis-parmentier.html</link><guid isPermaLink="false">recettes/Hachis Parmentier.md</guid><pubDate>Mon, 11 Nov 2024 20:26:09 GMT</pubDate><enclosure url="recettes/images/hachis-parmentier.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/hachis-parmentier.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Lasagnes au saumon et aux épinards]]></title><description><![CDATA[ 
+ <br><br><img alt="Lasagnes au saumon et aux épinards.webp" src="/recettes/images/lasagnes-au-saumon-et-aux-épinards.webp"><br><br><br>
+<br>Boîte de lasagnes précuites : 1
+<br>Parmesan : 100g
+<br>Saumon : 300g
+<br>Feuilles d'épinards : 1kg
+<br>Crème fraîche : 50cl
+<br><br>
+<br>Préchauffer le four (210°C).
+<br>Faire chauffer une casserole d'eau et cuire les pâtes pendant une minute. Sortir les pâtes ensuite et les disposer sur du papier absorbant.
+<br>Dans une casserole au feu, faire cuire à couvert les épinards avec le saumon.
+<br>Ajouter la crème fraîche et le parmesan en gardant un peu de chaque pour la fin. Saler et poivrer. Mélanger le tout en prenant soin de détacher la viande de saumon en morceaux.
+<br>Mettre un peu de beurre dans un plat rectangulaire ou carré allant au four.
+<br>Ajouter une couche de pâtes et une couche de préparation. Recommencer l'opération jusqu'à la fin des ingrédients, en finissant par les pâtes.
+<br>Étaler sur le dessus du plat le reste de la crème fraîche, et saupoudrez du reste de parmesan.
+<br>Mettre au four pendant 25min.
+]]></description><link>recettes/lasagnes-au-saumon-et-aux-épinards.html</link><guid isPermaLink="false">recettes/Lasagnes au saumon et aux épinards.md</guid><pubDate>Thu, 14 Nov 2024 02:50:19 GMT</pubDate><enclosure url="recettes/images/lasagnes-au-saumon-et-aux-épinards.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/lasagnes-au-saumon-et-aux-épinards.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Omelette aux champignons]]></title><description><![CDATA[ 
+ <br><br><img alt="Omelette aux champignons.webp" src="/recettes/images/omelette-aux-champignons.webp"><br><br><br>
+<br>Oeufs : 12
+<br>Champignons de Paris : 400g
+<br>Salade : 200g
+<br>Comté : 100g
+<br>Échalote : 1
+<br><br>
+<br>Lavez puis coupez les champignons et l'échalote en lamelles.
+<br>Dans une poêle à feu vif, ajoutez un filet d'huile et faites revenir les champignons (et les échalotes) pendant 5 minutes en mélangeant régulièrement.
+<br>Pendant ce temps, dans un bol : cassez les oeufs, salez, poivrez et battez-les.
+<br>Une fois les champignons bien dorés, ajoutez les œufs battus et le comté coupé en petits morceaux dans la poêle.
+<br>Laissez cuire à feu moyen en brisant le fond de l’omelette avec une spatule pour faciliter la cuisson.
+<br>Servir l'omelette avec la salade assaisonnée selon vos goûts, salez, poivrez, c'est prêt !
+]]></description><link>recettes/omelette-aux-champignons.html</link><guid isPermaLink="false">recettes/Omelette aux champignons.md</guid><pubDate>Thu, 14 Nov 2024 02:55:05 GMT</pubDate><enclosure url="recettes/images/omelette-aux-champignons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/omelette-aux-champignons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche artichaut &amp; parma]]></title><description><![CDATA[ 
+ <br><br><img alt="Quiche artichaut &amp; parma.webp" src="/recettes/images/quiche-artichaut-&amp;-parma.webp"><br><br><br>
+<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br>Mozzarella : 1
+<br>Artichauts marinés : 160g
+<br>Jambon cru : 4 tranches
+<br>Oeuf : 3
+<br>Crème fraîche : 20cl
+<br>Lait: 10cl
+<br><br>
+<br>Préchauffez le four à 180°C. Placez la pâte dans votre moule à tarte et piquez-la à l'aide d'une fourchette. Une fois le four chaud, faites pré-cuire votre pâte pendant 5 minutes.
+<br>Dans un récipient, ajoutez : les oeufs, le lait, la crème, sel, poivre et fouettez le tout énergiquement.
+<br>Une fois la pâte pré-cuite, sortez-la du four.
+<br>Répartissez les artichauts dans le fond, déchirez la mozzarella et répartissez-la sur le dessus, ajoutez le jambon.
+<br>Versez l'appareil à quiche par dessus, salez et poivrez.
+<br>Enfournez votre quiche pendant 45 minutes à 180°C. Laissez reposer 10 minutes avant de déguster, c'est prêt ! À accompagner d'une salade verte.
+]]></description><link>recettes/quiche-artichaut-&amp;-parma.html</link><guid isPermaLink="false">recettes/Quiche artichaut &amp; parma.md</guid><pubDate>Mon, 11 Nov 2024 20:26:09 GMT</pubDate><enclosure url="recettes/images/quiche-artichaut-&amp;-parma.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-artichaut-&amp;-parma.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche chèvre épinards]]></title><description><![CDATA[ 
+ <br><br><img alt="Quiche chèvre épinards.webp" src="/recettes/images/quiche-chèvre-épinards.webp"><br><br><br>
+<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br>Oeufs : 3
+<br>Crème fraîche : 10cl
+<br>Fromage de chèvre : 200g
+<br>Épinards : 400g
+<br><br>
+<br>Préchauffez le four à 200°C. Décongelez les épinards selon les instructions du paquet et égouttez-les.
+<br>Dans un saladier, battez les œufs avec la crème fraîche, salez, poivrez et ajoutez les épinards ainsi que la moitié du chèvre émietté. Mélangez délicatement.
+<br>Placez la pâte brisée dans un moule (vous pouvez couper la pâte qui dépasse) et piquez-la. Versez le mélange dans la pâte à tarte.
+<br>Ajoutez le reste du chèvre en tranches sur le dessus de la tarte. Enfournez la quiche à 200°C pendant 40 minutes. Servez la quiche seule ou avec une salade. C'est prêt !
+]]></description><link>recettes/quiche-chèvre-épinards.html</link><guid isPermaLink="false">recettes/Quiche chèvre épinards.md</guid><pubDate>Mon, 11 Nov 2024 20:26:09 GMT</pubDate><enclosure url="recettes/images/quiche-chèvre-épinards.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-chèvre-épinards.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche oignons, chèvre &amp; miel]]></title><description><![CDATA[ 
+ <br><br><img alt="Quiche oignons, chèvre &amp; miel.webp" src="/recettes/images/quiche-oignons,-chèvre-&amp;-miel.webp"><br><br><br>
+<br>Fromage de chèvre : 200g
+<br>Miel : 4cc
+<br>Oignon : 3
+<br>Oeufs : 3
+<br>Crème fraîche : 25cl
+<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br><br>
+<br>Préchauffez le four à 200°C. Épluchez puis coupez les oignons en demi-rondelles.
+<br>Faites-les revenir dans une poêle à feu moyen avec un filet d'huile pendant 10 minutes en remuant régulièrement.
+<br>Pendant que les oignons cuisent, étalez la pâte dans un plat à tarte et la faire précuire au four environ 5 minutes.
+<br>À mi-cuisson des oignons, ajoutez un peu d'eau dans la poêle (1 cuillère à soupe/personne) et poursuivre la cuisson.
+<br>Dans un saladier, battre les oeufs avec la crème, salez, poivrez.
+<br>Une fois les oignons cuits, ajoutez le miel, mélangez.
+<br>Ajoutez les oignons sur la pâte brisée légèrement dorée et versez la préparation à quiche.
+<br>Emiettez le chèvre sur le dessus (optionnel : saupoudrez de thym).
+<br>Enfourner et cuire pendant 30 minutes. La tarte doit être bien dorée. C'est prêt !
+]]></description><link>recettes/quiche-oignons,-chèvre-&amp;-miel.html</link><guid isPermaLink="false">recettes/Quiche oignons, chèvre &amp; miel.md</guid><pubDate>Mon, 11 Nov 2024 20:26:09 GMT</pubDate><enclosure url="recettes/images/quiche-oignons,-chèvre-&amp;-miel.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-oignons,-chèvre-&amp;-miel.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche tomate, jambon, chèvre]]></title><description><![CDATA[ 
+ <br><br><img alt="Quiche tomate, jambon, chèvre.webp" src="/recettes/images/quiche-tomate,-jambon,-chèvre.webp"><br><br><br>
+<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br>Tomates : 2
+<br>Oeufs : 2
+<br>Persil
+<br>Gruyère râpé
+<br>Jambon : 100g
+<br>Fromage de chèvre : 1
+<br>Crème liquide : 50cl
+<br><br>
+<br>Préchauffer le four à 180°C.
+<br>Étaler la pâte brisée dans un moule à tarte.
+<br>Disposer le jambon coupé en dés ou en morceaux, y ajouter des morceaux de fromage de chèvre et terminer par les tomates coupées en tranches.
+<br>Battre avec une fourchette les œufs, y ajouter la crème liquide, ainsi que le sel, le poivre et le persil.
+<br>Verser cette préparation sur la quiche et parsemer du gruyère râpé.
+<br>Il ne reste plus qu'à enfourner et laisser cuire environ 30 mn jusqu'à ce que la quiche soit bien dorée.
+<br>Vous pouvez accompagner cette quiche d'une salade verte avec des cerneaux de noix.
+]]></description><link>recettes/quiche-tomate,-jambon,-chèvre.html</link><guid isPermaLink="false">recettes/Quiche tomate, jambon, chèvre.md</guid><pubDate>Mon, 11 Nov 2024 20:26:10 GMT</pubDate><enclosure url="recettes/images/quiche-tomate,-jambon,-chèvre.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/quiche-tomate,-jambon,-chèvre.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade campagnarde]]></title><description><![CDATA[ 
+ <br><br><img alt="Salade campagnarde.webp" src="/recettes/images/salade-campagnarde.webp"><br><br><br>
+<br><a data-href="Oeufs cuits" href="/recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener">Oeufs cuits</a> durs : 6
+<br><a data-href="Pommes de terres sautées" href="/recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener">Pommes de terres sautées</a> : 600g
+<br>Salade : 200g
+<br>Chèvre frais : 80g
+<br>Bacon : 8 tranches
+<br><br>
+<br>Pendant ce temps, faites cuire les œufs dans une casserole d'eau bouillante pendant 10 min.
+<br>Placez-les dans un bol d'eau froide pour stopper la cuisson, écalez-les et coupez-les en morceaux.
+<br>Après 10 minutes. Coupez la cuisson des pommes de terre.
+<br>Dans la poêle, faites cuire le bacon 2 minutes sur chaque face.
+<br>Dressez la salade : dans une assiette ajoutez la mâche, les pommes de terres, les œufs, le bacon et le chèvre. (Optionnel : ajoutez des herbes fraîches). C'est prêt !
+]]></description><link>recettes/salade-campagnarde.html</link><guid isPermaLink="false">recettes/Salade campagnarde.md</guid><pubDate>Mon, 11 Nov 2024 20:26:09 GMT</pubDate><enclosure url="recettes/images/salade-campagnarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-campagnarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade piémontaise]]></title><description><![CDATA[ 
+ <br><br><img alt="Salade piémontaise.webp" src="/recettes/images/salade-piémontaise.webp"><br><br><br>
+<br>Tomates : 2
+<br>Pommes de terre : 500g
+<br>Dés de jambon : 200g
+<br><a data-href="Oeufs cuits" href="/recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener">Oeufs cuits</a> durs : 2
+<br>Mayonnaise : 20cl
+<br>Cornichons : 200g
+<br><br>
+<br>Pendant ce temps, coupez les tomates en dés et les cornichons en fines lamelles.
+<br>Dans un grand plat, mélanger les oeufs durs coupés en petits morceaux, les pommes de terre, les tomates, les cornichons, le jambon et la mayonnaise.
+<br>Tip
+La piémontaise est meilleure préparée la veille !
+]]></description><link>recettes/salade-piémontaise.html</link><guid isPermaLink="false">recettes/Salade piémontaise.md</guid><pubDate>Mon, 11 Nov 2024 20:26:09 GMT</pubDate><enclosure url="recettes/images/salade-piémontaise.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-piémontaise.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Béchamel]]></title><description><![CDATA[ 
  <br><br><img alt="Béchamel.webp" src="/recettes/images/béchamel.webp"><br><br><br>
 <br>Beurre : 10g
 <br>Farine : 10g
@@ -3420,21 +3444,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Saler et poivrer.
 <br>Ajouter ce mélange sur la pâte, thon, tomate.
 <br>Mettre au four (préchauffé à 200°C/th 6-7), et cuire environ 40 min (jusqu'à ce que la tarte soit dorée sans être trop brunie!).
-]]></description><link>recettes/tarte-thon,-tomate-et-moutarde.html</link><guid isPermaLink="false">recettes/Tarte thon, tomate et moutarde.md</guid><pubDate>Wed, 15 May 2024 12:18:56 GMT</pubDate><enclosure url="recettes/images/tarte-thon,-tomate-et-moutarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tarte-thon,-tomate-et-moutarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tartelette chèvre miel &amp; salade]]></title><description><![CDATA[ 
- <br><br><img alt="Tartelette chèvre miel &amp; salade.webp" src="/recettes/images/tartelette-chèvre-miel-&amp;-salade.webp"><br><br><br>
-<br>Pâte feuilletée : 1
-<br>Fromage de chèvre : 200g
-<br>Lardons : 100g
-<br>Miel : 6cl
-<br>Salade : 200g
-<br>Herbes de Provence
-<br><br>
-<br>Préchauffez le four à 200°C. Étalez votre pâte feuilletée sur une plaque allant au four puis découpez-la en 4.
-<br>Au centre de chaque morceau de pâte, ajoutez des rondelles de bûche de chèvre.
-<br>Ajoutez les lardons et une cuillère à café de miel sur chaque tartelette. Parsemez avec les herbes de Provence, salez et poivrez.
-<br>Badigeonnez les bords de la tarte avec un peu d'eau. Rabattez les bords de chaque part pour former des tartelettes. Versez un filet d'huile et enfournez pour 15 minutes de cuisson à 200°C.
-<br>Servez avec une salade verte assaisonnée selon vos goûts. C'est prêt !
-]]></description><link>recettes/tartelette-chèvre-miel-&amp;-salade.html</link><guid isPermaLink="false">recettes/Tartelette chèvre miel &amp; salade.md</guid><pubDate>Wed, 15 May 2024 12:18:58 GMT</pubDate><enclosure url="recettes/images/tartelette-chèvre-miel-&amp;-salade.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tartelette-chèvre-miel-&amp;-salade.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tartiflette façon Goblot]]></title><description><![CDATA[ 
+]]></description><link>recettes/tarte-thon,-tomate-et-moutarde.html</link><guid isPermaLink="false">recettes/Tarte thon, tomate et moutarde.md</guid><pubDate>Wed, 15 May 2024 12:18:56 GMT</pubDate><enclosure url="recettes/images/tarte-thon,-tomate-et-moutarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tarte-thon,-tomate-et-moutarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tartiflette façon Goblot]]></title><description><![CDATA[ 
  <br><br><img alt="Tartiflette façon Goblot.webp" src="/recettes/images/tartiflette-façon-goblot.webp"><br><br><br>
 <br>Pommes de terre : 1kg
 <br>Oignon : 1
