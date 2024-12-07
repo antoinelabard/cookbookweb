@@ -1,158 +1,211 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 23 Nov 2024 15:55:17 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 23 Nov 2024 15:55:15 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Bavette à l'échalote, pommes de terre &amp; haricots]]></title><description><![CDATA[ 
- <br><br><img alt="Bavette à l'échalote, pommes de terre &amp; haricots.webp" src="/recettes/images/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.webp"><br><br><br>
-<br>Boeuf (bavette) : 4
-<br>Échalotes : 2
-<br>Haricots verts : 400g
-<br>Beurre : 80g
-<br><a data-href="Pommes de terres sautées" href="/recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener">Pommes de terres sautées</a> : 600g
-<br><br>
-<br>Faites chauffer une casserole d'eau bouillante salée.
-<br>Pendant ce temps, émincez les échalotes.
-<br>Ajoutez les haricots verts dans la casserole et faites cuire pendant 12 min supplémentaires.
-<br>Dans une poêle chaude, ajoutez la moitié du beurre et y faire revenir les échalotes 2 minutes, sur feu moyen.
-<br>Une fois l'eau évaporée, ajoutez l'autre moitié du beurre, la bavette dans la poêle et faites cuire 3 minutes de chaque côté.
-<br>Retirez la viande de la poêle une fois cuite. Ajoutez un fond d'eau dans la poêle pour faire le jus.
-<br>Replacez la viande dans son jus, le temps d'égoutter les légumes.
-<br>Égouttez les haricots verts et les pommes de terre.
-<br>Coupez la viande en tranches.
-<br>Servez la bavette avec les haricots verts, le jus de cuisson et les échalotes. Salez, poivrez, c'est prêt !
-]]></description><link>recettes/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.html</link><guid isPermaLink="false">recettes/Bavette à l'échalote, pommes de terre &amp; haricots.md</guid><pubDate>Sat, 23 Nov 2024 15:34:12 GMT</pubDate><enclosure url="recettes/images/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 07 Dec 2024 14:16:53 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 07 Dec 2024 14:16:49 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br>
-<br><a data-href="Flammeküeche" href="/recettes/flammeküeche.html" class="internal-link" target="_self" rel="noopener">Flammeküeche</a>
-<br><a data-href="Burrito bœuf &amp; cheddar" href="/recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener">Burrito bœuf &amp; cheddar</a>
-<br><a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
-<br><a rel="noopener" class="external-link" href="https://www.marmiton.org/recettes/recette_soupe-de-vermicelles-ultra-rapide_62107.aspx" target="_blank">https://www.marmiton.org/recettes/recette_soupe-de-vermicelles-ultra-rapide_62107.aspx</a>
-<br><a data-href="Feuilletés épinard, feta &amp; salade" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a>
-<br><a data-href="Risotto de coquillettes" href="/recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes</a>
-<br><a data-href="Poulet à la moutarde &amp; pommes de terre" href="/recettes/poulet-à-la-moutarde-&amp;-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener">Poulet à la moutarde &amp; pommes de terre</a>
+<br><a rel="noopener nofollow" class="external-link" href="https://www.cuisineaz.com/recettes/courge-farcie-au-fromage-84059.aspx" target="_blank">https://www.cuisineaz.com/recettes/courge-farcie-au-fromage-84059.aspx</a>
+<br><a rel="noopener nofollow" class="external-link" href="https://www.marmiton.org/recettes/recette_wok-de-nouilles-chinoises-au-tofu_165354.aspx" target="_blank">https://www.marmiton.org/recettes/recette_wok-de-nouilles-chinoises-au-tofu_165354.aspx</a>
+<br><a rel="noopener nofollow" class="external-link" href="https://jow.fr/recipes/couscous-merguez-8dol0qfsl2s115vu1dtr?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/couscous-merguez-8dol0qfsl2s115vu1dtr?coversCount=4&amp;from=menu</a>
+<br><a data-href="Tartiflette façon Goblot" href="recettes/tartiflette-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Tartiflette façon Goblot</a>
+<br><a data-href="Tagliatelles saumon épinards" href="recettes/tagliatelles-saumon-épinards.html" class="internal-link" target="_self" rel="noopener nofollow">Tagliatelles saumon épinards</a>
+<br><a data-href="Tomates farcies au chèvre chaud" href="recettes/tomates-farcies-au-chèvre-chaud.html" class="internal-link" target="_self" rel="noopener nofollow">Tomates farcies au chèvre chaud</a>
+<br><a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br><br>
+<br>fruits et légumes :
+
+<br>carottes 600g
+<br>butternut 2
+<br>oignon 1
+<br>oignons verts 2botte
+<br>poivrons rouges 2
+<br>poivron vert 1
+<br>bloc de tofu 2
+<br>échalottes 4
+<br>ail 8
+<br>Champignons de Paris : 80g ---&gt; <a data-href="Tomates farcies au chèvre chaud" href="recettes/tomates-farcies-au-chèvre-chaud.html" class="internal-link" target="_self" rel="noopener nofollow">Tomates farcies au chèvre chaud</a>
+<br>Oignon : 1 ---&gt; <a data-href="Tartiflette façon Goblot" href="recettes/tartiflette-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Tartiflette façon Goblot</a>
+<br>Pommes de terre : 1kg ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br>Pommes de terre : 1kg ---&gt; <a data-href="Tartiflette façon Goblot" href="recettes/tartiflette-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Tartiflette façon Goblot</a>
+<br>Tomates charnues : 8 ---&gt; <a data-href="Tomates farcies au chèvre chaud" href="recettes/tomates-farcies-au-chèvre-chaud.html" class="internal-link" target="_self" rel="noopener nofollow">Tomates farcies au chèvre chaud</a>
+<br>Épinards : 400g ---&gt; <a data-href="Tagliatelles saumon épinards" href="recettes/tagliatelles-saumon-épinards.html" class="internal-link" target="_self" rel="noopener nofollow">Tagliatelles saumon épinards</a>
+
+
+<br>Produits secs
+
+<br>nouilles chinoises 2
+<br>chair de tomate 160g
+<br>épices orientales
+<br>pois chiches 200g
+<br>semoule 260g
+<br>sauce soja
+<br>Oeuf : 1 ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br>Pâtes : 400g ---&gt; <a data-href="Tagliatelles saumon épinards" href="recettes/tagliatelles-saumon-épinards.html" class="internal-link" target="_self" rel="noopener nofollow">Tagliatelles saumon épinards</a>
+
+
+<br>Épices :
+
+<br>Herbes de Provence ---&gt; <a data-href="Tomates farcies au chèvre chaud" href="recettes/tomates-farcies-au-chèvre-chaud.html" class="internal-link" target="_self" rel="noopener nofollow">Tomates farcies au chèvre chaud</a>
+<br>Muscade ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br>Sel ---&gt; <a data-href="Tomates farcies au chèvre chaud" href="recettes/tomates-farcies-au-chèvre-chaud.html" class="internal-link" target="_self" rel="noopener nofollow">Tomates farcies au chèvre chaud</a>
+
+
+<br>Produits frais :
+
+<br>Lardons : 200g ---&gt; <a data-href="Tartiflette façon Goblot" href="recettes/tartiflette-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Tartiflette façon Goblot</a>
+<br>Lardons : 350g ---&gt; <a data-href="Tomates farcies au chèvre chaud" href="recettes/tomates-farcies-au-chèvre-chaud.html" class="internal-link" target="_self" rel="noopener nofollow">Tomates farcies au chèvre chaud</a>
+
+
+<br>Viandes
+
+<br>mergez 8
+<br>Saumon : 4 tranches ---&gt; <a data-href="Tagliatelles saumon épinards" href="recettes/tagliatelles-saumon-épinards.html" class="internal-link" target="_self" rel="noopener nofollow">Tagliatelles saumon épinards</a>
+
+
+<br>Produits laitiers
+
+<br>cheddar 80g
+<br>crème liquide 10cl
+<br>Crème fraîche : 10cl ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br>Crème fraîche : 10cl ---&gt; <a data-href="Tagliatelles saumon épinards" href="recettes/tagliatelles-saumon-épinards.html" class="internal-link" target="_self" rel="noopener nofollow">Tagliatelles saumon épinards</a>
+<br>romage de chèvre : 1 bûche ---&gt; <a data-href="Tomates farcies au chèvre chaud" href="recettes/tomates-farcies-au-chèvre-chaud.html" class="internal-link" target="_self" rel="noopener nofollow">Tomates farcies au chèvre chaud</a>
+<br>Lait ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br>Reblochon : 1 ---&gt; <a data-href="Tartiflette façon Goblot" href="recettes/tartiflette-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Tartiflette façon Goblot</a>
+
+
+<br><br>
+<br><a data-href="Flammeküeche" href="recettes/flammeküeche.html" class="internal-link" target="_self" rel="noopener nofollow">Flammeküeche</a>
+<br><a data-href="Burrito bœuf &amp; cheddar" href="recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener nofollow">Burrito bœuf &amp; cheddar</a>
+<br><a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br><a rel="noopener nofollow" class="external-link" href="https://www.marmiton.org/recettes/recette_soupe-de-vermicelles-ultra-rapide_62107.aspx" target="_blank">https://www.marmiton.org/recettes/recette_soupe-de-vermicelles-ultra-rapide_62107.aspx</a>
+<br><a data-href="Feuilletés épinard, feta &amp; salade" href="recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Feuilletés épinard, feta &amp; salade</a>
+<br><a data-href="Risotto de coquillettes" href="recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes</a>
+<br><a data-href="Poulet à la moutarde &amp; pommes de terre" href="recettes/poulet-à-la-moutarde-&amp;-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet à la moutarde &amp; pommes de terre</a>
 <br><br>
 <br>Conserves :
 
-<br>Coulis de tomate : 700g ---&gt;  <a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
+<br>Coulis de tomate : 700g ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
 
 
-<br>Produits secs :
+<br>Produits secs
 
-<br>Bouillon de volaille : 1 ---&gt;  <a data-href="Risotto de coquillettes" href="/recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes</a>
-<br>Kit burrito 4 portions : 1 ---&gt;  <a data-href="Burrito bœuf &amp; cheddar" href="/recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener">Burrito bœuf &amp; cheddar</a>
-<br>Moutarde : 4cc ---&gt;  <a data-href="Poulet à la moutarde &amp; pommes de terre" href="/recettes/poulet-à-la-moutarde-&amp;-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener">Poulet à la moutarde &amp; pommes de terre</a>
-<br>Oeufs : 2 ---&gt;  <a data-href="Feuilletés épinard, feta &amp; salade" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a>
-<br>Pâtes (coquillettes) : 360g ---&gt;  <a data-href="Risotto de coquillettes" href="/recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes</a>
-<br>pâtes à pizza : 2 ---&gt;  <a data-href="Flammeküeche" href="/recettes/flammeküeche.html" class="internal-link" target="_self" rel="noopener">Flammeküeche</a>
-<br>riz : 160g ---&gt;  <a data-href="Burrito bœuf &amp; cheddar" href="/recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener">Burrito bœuf &amp; cheddar</a>
+<br>Bouillon de volaille : 1 ---&gt; <a data-href="Risotto de coquillettes" href="recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes</a>
+<br>Kit burrito 4 portions : 1 ---&gt; <a data-href="Burrito bœuf &amp; cheddar" href="recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener nofollow">Burrito bœuf &amp; cheddar</a>
+<br>Moutarde : 4cc ---&gt; <a data-href="Poulet à la moutarde &amp; pommes de terre" href="recettes/poulet-à-la-moutarde-&amp;-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet à la moutarde &amp; pommes de terre</a>
+<br>Oeufs : 2 ---&gt; <a data-href="Feuilletés épinard, feta &amp; salade" href="recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Feuilletés épinard, feta &amp; salade</a>
+<br>Pâtes (coquillettes) : 360g ---&gt; <a data-href="Risotto de coquillettes" href="recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes</a>
+<br>pâtes à pizza : 2 ---&gt; <a data-href="Flammeküeche" href="recettes/flammeküeche.html" class="internal-link" target="_self" rel="noopener nofollow">Flammeküeche</a>
+<br>riz : 160g ---&gt; <a data-href="Burrito bœuf &amp; cheddar" href="recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener nofollow">Burrito bœuf &amp; cheddar</a>
 <br>Vermicelles
 <br>bouillon de volaille
 
 
 <br>Épices :
 
-<br>Origan ---&gt;  <a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
+<br>Origan ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>jus de citron
 
 
 <br>Produits frais :
 
-<br>Jambon : 4 tranches ---&gt;  <a data-href="Risotto de coquillettes" href="/recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes</a>
-<br>Pâte feuilletée : 1 ---&gt;  <a data-href="Feuilletés épinard, feta &amp; salade" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a>
-<br>lardons : 200g ---&gt;  <a data-href="Flammeküeche" href="/recettes/flammeküeche.html" class="internal-link" target="_self" rel="noopener">Flammeküeche</a>
+<br>Jambon : 4 tranches ---&gt; <a data-href="Risotto de coquillettes" href="recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes</a>
+<br>Pâte feuilletée : 1 ---&gt; <a data-href="Feuilletés épinard, feta &amp; salade" href="recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Feuilletés épinard, feta &amp; salade</a>
+<br>lardons : 200g ---&gt; <a data-href="Flammeküeche" href="recettes/flammeküeche.html" class="internal-link" target="_self" rel="noopener nofollow">Flammeküeche</a>
 
 
 <br>Produits laitiers :
 
-<br>Cheddar : 80g ---&gt;  <a data-href="Burrito bœuf &amp; cheddar" href="/recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener">Burrito bœuf &amp; cheddar</a>
-<br>Comté : 80g ---&gt;  <a data-href="Risotto de coquillettes" href="/recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes</a>
-<br>Crème fraîche : 10cl ---&gt;  <a data-href="Burrito bœuf &amp; cheddar" href="/recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener">Burrito bœuf &amp; cheddar</a>
-<br>Crème fraîche : 20cl ---&gt;  <a data-href="Flammeküeche" href="/recettes/flammeküeche.html" class="internal-link" target="_self" rel="noopener">Flammeküeche</a>
-<br>Crème fraîche : 20cl ---&gt;  <a data-href="Poulet à la moutarde &amp; pommes de terre" href="/recettes/poulet-à-la-moutarde-&amp;-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener">Poulet à la moutarde &amp; pommes de terre</a>
-<br>Crème fraîche: 10cl ---&gt;  <a data-href="Risotto de coquillettes" href="/recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes</a>
-<br>Feta : 160g ---&gt;  <a data-href="Feuilletés épinard, feta &amp; salade" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a>
-<br>Fromage blanc : 20cl ---&gt;  <a data-href="Flammeküeche" href="/recettes/flammeküeche.html" class="internal-link" target="_self" rel="noopener">Flammeküeche</a>
+<br>Cheddar : 80g ---&gt; <a data-href="Burrito bœuf &amp; cheddar" href="recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener nofollow">Burrito bœuf &amp; cheddar</a>
+<br>Comté : 80g ---&gt; <a data-href="Risotto de coquillettes" href="recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes</a>
+<br>Crème fraîche : 10cl ---&gt; <a data-href="Burrito bœuf &amp; cheddar" href="recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener nofollow">Burrito bœuf &amp; cheddar</a>
+<br>Crème fraîche : 20cl ---&gt; <a data-href="Flammeküeche" href="recettes/flammeküeche.html" class="internal-link" target="_self" rel="noopener nofollow">Flammeküeche</a>
+<br>Crème fraîche : 20cl ---&gt; <a data-href="Poulet à la moutarde &amp; pommes de terre" href="recettes/poulet-à-la-moutarde-&amp;-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet à la moutarde &amp; pommes de terre</a>
+<br>Crème fraîche: 10cl ---&gt; <a data-href="Risotto de coquillettes" href="recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes</a>
+<br>Feta : 160g ---&gt; <a data-href="Feuilletés épinard, feta &amp; salade" href="recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Feuilletés épinard, feta &amp; salade</a>
+<br>Fromage blanc : 20cl ---&gt; <a data-href="Flammeküeche" href="recettes/flammeküeche.html" class="internal-link" target="_self" rel="noopener nofollow">Flammeküeche</a>
 
 
 <br>Fruits et légumes :
 
-<br>Carotte : 1 ---&gt;  <a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
-<br>Céleri : 10cl ---&gt;  <a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
-<br>Gousse d'ail : 1 ---&gt;  <a data-href="Feuilletés épinard, feta &amp; salade" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a>
-<br>Gousse d'ail : 1 ---&gt;  <a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
-<br>Haricots verts : 800g ---&gt;  <a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
-<br>Laitue : 200g ---&gt;  <a data-href="Burrito bœuf &amp; cheddar" href="/recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener">Burrito bœuf &amp; cheddar</a>
-<br>Oignon : 1 ---&gt;  <a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
+<br>Carotte : 1 ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Céleri : 10cl ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Gousse d'ail : 1 ---&gt; <a data-href="Feuilletés épinard, feta &amp; salade" href="recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Feuilletés épinard, feta &amp; salade</a>
+<br>Gousse d'ail : 1 ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Haricots verts : 800g ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Laitue : 200g ---&gt; <a data-href="Burrito bœuf &amp; cheddar" href="recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener nofollow">Burrito bœuf &amp; cheddar</a>
+<br>Oignon : 1 ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
 <br>oignon : 1
-<br>Oignon rouge : 1 ---&gt;  <a data-href="Burrito bœuf &amp; cheddar" href="/recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener">Burrito bœuf &amp; cheddar</a>
-<br>Oignons : 2 ---&gt;  <a data-href="Flammeküeche" href="/recettes/flammeküeche.html" class="internal-link" target="_self" rel="noopener">Flammeküeche</a>
-<br>Pommes de terre grenailles : 1kg ---&gt;  <a data-href="Poulet à la moutarde &amp; pommes de terre" href="/recettes/poulet-à-la-moutarde-&amp;-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener">Poulet à la moutarde &amp; pommes de terre</a>
-<br>Salade : 200g ---&gt;  <a data-href="Feuilletés épinard, feta &amp; salade" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a>
-<br>haricots rouges : 240g ---&gt;  <a data-href="Burrito bœuf &amp; cheddar" href="/recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener">Burrito bœuf &amp; cheddar</a>
-<br>Échalote : 1 ---&gt;  <a data-href="Risotto de coquillettes" href="/recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes</a>
-<br>Épinards : 300g ---&gt;  <a data-href="Feuilletés épinard, feta &amp; salade" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a>
+<br>Oignon rouge : 1 ---&gt; <a data-href="Burrito bœuf &amp; cheddar" href="recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener nofollow">Burrito bœuf &amp; cheddar</a>
+<br>Oignons : 2 ---&gt; <a data-href="Flammeküeche" href="recettes/flammeküeche.html" class="internal-link" target="_self" rel="noopener nofollow">Flammeküeche</a>
+<br>Pommes de terre grenailles : 1kg ---&gt; <a data-href="Poulet à la moutarde &amp; pommes de terre" href="recettes/poulet-à-la-moutarde-&amp;-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet à la moutarde &amp; pommes de terre</a>
+<br>Salade : 200g ---&gt; <a data-href="Feuilletés épinard, feta &amp; salade" href="recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Feuilletés épinard, feta &amp; salade</a>
+<br>haricots rouges : 240g ---&gt; <a data-href="Burrito bœuf &amp; cheddar" href="recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener nofollow">Burrito bœuf &amp; cheddar</a>
+<br>Échalote : 1 ---&gt; <a data-href="Risotto de coquillettes" href="recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes</a>
+<br>Épinards : 300g ---&gt; <a data-href="Feuilletés épinard, feta &amp; salade" href="recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Feuilletés épinard, feta &amp; salade</a>
 
 
 <br>Apéritifs et alcools :
 
-<br>Vin blanc : 10cl ---&gt;  <a data-href="Risotto de coquillettes" href="/recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes</a>
+<br>Vin blanc : 10cl ---&gt; <a data-href="Risotto de coquillettes" href="recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes</a>
 
 
 <br>Viandes et poissons :
 
-<br>Boeuf haché : 400g ---&gt;  <a data-href="Burrito bœuf &amp; cheddar" href="/recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener">Burrito bœuf &amp; cheddar</a>
-<br>Filets de poulet : 4 ---&gt;  <a data-href="Poulet à la moutarde &amp; pommes de terre" href="/recettes/poulet-à-la-moutarde-&amp;-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener">Poulet à la moutarde &amp; pommes de terre</a>
-<br>Viande hachée : 800g ---&gt;  <a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
+<br>Boeuf haché : 400g ---&gt; <a data-href="Burrito bœuf &amp; cheddar" href="recettes/burrito-bœuf-&amp;-cheddar.html" class="internal-link" target="_self" rel="noopener nofollow">Burrito bœuf &amp; cheddar</a>
+<br>Filets de poulet : 4 ---&gt; <a data-href="Poulet à la moutarde &amp; pommes de terre" href="recettes/poulet-à-la-moutarde-&amp;-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet à la moutarde &amp; pommes de terre</a>
+<br>Viande hachée : 800g ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
 
 
 <br><br>
-<br>Fondue savoyarde : <a rel="noopener" class="external-link" href="https://cuisine.journaldesfemmes.fr/recette/322355-fondue-savoyarde" target="_blank">https://cuisine.journaldesfemmes.fr/recette/322355-fondue-savoyarde</a>
-<br><a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
-<br><a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
-<br><a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
-<br><a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
-<br><a data-href="Nouilles sautées aux crevettes" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a>
-<br><a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
+<br>Fondue savoyarde : <a rel="noopener nofollow" class="external-link" href="https://cuisine.journaldesfemmes.fr/recette/322355-fondue-savoyarde" target="_blank">https://cuisine.journaldesfemmes.fr/recette/322355-fondue-savoyarde</a>
+<br><a data-href="Hachis Parmentier" href="recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener nofollow">Hachis Parmentier</a>
+<br><a data-href="Escalope de dinde à la normande" href="recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener nofollow">Escalope de dinde à la normande</a>
+<br><a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
+<br><a data-href="Galette forestière" href="recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener nofollow">Galette forestière</a>
+<br><a data-href="Nouilles sautées aux crevettes" href="recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener nofollow">Nouilles sautées aux crevettes</a>
+<br><a data-href="Tartelette chèvre miel &amp; salade" href="recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Tartelette chèvre miel &amp; salade</a>
 <br><br>
 <br>Conserves :
 
-<br>Petits pois : 120g ---&gt; <a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
+<br>Petits pois : 120g ---&gt; <a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
 
 
 <br>Produits secs :
 
-<br>Farine : 10g ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
-<br>Oeuf : 1 ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg
-<br>Oeuf : 1 ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 500g
-<br>Oeufs : 4 ---&gt; <a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
-<br>Oeufs : 8 ---&gt; <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
-<br>Riz: 280g ---&gt; <a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
+<br>Farine : 10g ---&gt; <a data-href="Hachis Parmentier" href="recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener nofollow">Hachis Parmentier</a>
+<br>Oeuf : 1 ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 1kg
+<br>Oeuf : 1 ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 500g
+<br>Oeufs : 4 ---&gt; <a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
+<br>Oeufs : 8 ---&gt; <a data-href="Galette forestière" href="recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener nofollow">Galette forestière</a>
+<br>Riz: 280g ---&gt; <a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
 <br>fécule de pommes de terre / maizena : 5cs
 
 
 <br>Épices :
 
-<br>Herbes de Provence ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
-<br>Herbes de Provence ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
-<br>Muscade ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg
-<br>Muscade ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 500g
-<br>Persil ---&gt; <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
+<br>Herbes de Provence ---&gt; <a data-href="Hachis Parmentier" href="recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener nofollow">Hachis Parmentier</a>
+<br>Herbes de Provence ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Tartelette chèvre miel &amp; salade</a>
+<br>Muscade ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 1kg
+<br>Muscade ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 500g
+<br>Persil ---&gt; <a data-href="Escalope de dinde à la normande" href="recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener nofollow">Escalope de dinde à la normande</a>
 
 
 <br>Épicerie sucrée :
 
-<br>Miel : 6cl ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
+<br>Miel : 6cl ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Tartelette chèvre miel &amp; salade</a>
 
 
 <br>Produits du monde :
 
-<br>Nouilles chinoises : 280g ---&gt; <a data-href="Nouilles sautées aux crevettes" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a>
-<br>Sauce soja (optionnel) ---&gt; <a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
-<br>Sauce soja : 12cl ---&gt; <a data-href="Nouilles sautées aux crevettes" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a>
+<br>Nouilles chinoises : 280g ---&gt; <a data-href="Nouilles sautées aux crevettes" href="recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener nofollow">Nouilles sautées aux crevettes</a>
+<br>Sauce soja (optionnel) ---&gt; <a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
+<br>Sauce soja : 12cl ---&gt; <a data-href="Nouilles sautées aux crevettes" href="recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener nofollow">Nouilles sautées aux crevettes</a>
 <br>sauce soja salée
 
 
 <br>Produits frais :
 
-<br>Galettes bretonnes : 4 ---&gt; <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
-<br>Jambon : 8 tranches ---&gt; <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
-<br>Jambon : 8 tranches ---&gt; <a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
-<br>Lardons : 200g ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
-<br>Pâte feuilletée : 1 ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
+<br>Galettes bretonnes : 4 ---&gt; <a data-href="Galette forestière" href="recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener nofollow">Galette forestière</a>
+<br>Jambon : 8 tranches ---&gt; <a data-href="Galette forestière" href="recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener nofollow">Galette forestière</a>
+<br>Jambon : 8 tranches ---&gt; <a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
+<br>Lardons : 200g ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Tartelette chèvre miel &amp; salade</a>
+<br>Pâte feuilletée : 1 ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Tartelette chèvre miel &amp; salade</a>
 
 
 <br>Produits laitiers :
@@ -161,42 +214,42 @@
 <br>emmental : 400g
 <br>comté : 400g
 <br>appenzell : 100g
-<br>Beurre : 30g ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
-<br>Crème fraîche : 10cl ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg
-<br>Crème fraîche : 10cl ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 500g
-<br>Crème fraîche : 20cl ---&gt; <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
-<br>Fromage de chèvre : 200g ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
-<br>Fromage râpé : 200g ---&gt; <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
-<br>Fromage râpé : 50g ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
-<br>Lait ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg
-<br>Lait ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 500g
-<br>Parmesan : 50g ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
+<br>Beurre : 30g ---&gt; <a data-href="Hachis Parmentier" href="recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener nofollow">Hachis Parmentier</a>
+<br>Crème fraîche : 10cl ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 1kg
+<br>Crème fraîche : 10cl ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 500g
+<br>Crème fraîche : 20cl ---&gt; <a data-href="Escalope de dinde à la normande" href="recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener nofollow">Escalope de dinde à la normande</a>
+<br>Fromage de chèvre : 200g ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Tartelette chèvre miel &amp; salade</a>
+<br>Fromage râpé : 200g ---&gt; <a data-href="Galette forestière" href="recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener nofollow">Galette forestière</a>
+<br>Fromage râpé : 50g ---&gt; <a data-href="Hachis Parmentier" href="recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener nofollow">Hachis Parmentier</a>
+<br>Lait ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 1kg
+<br>Lait ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 500g
+<br>Parmesan : 50g ---&gt; <a data-href="Hachis Parmentier" href="recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener nofollow">Hachis Parmentier</a>
 
 
 <br>Fruits et légumes :
 
 <br>ail
-<br>Ail : 2 gousses ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
-<br>Carottes : 2 ---&gt; <a data-href="Nouilles sautées aux crevettes" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a>
-<br>Champignons de Paris : 400g ---&gt; <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
-<br>Champignons de Paris : 600g ---&gt; <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
-<br>Gousse d'ail : 1 ---&gt; <a data-href="Nouilles sautées aux crevettes" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a>
-<br>Haricots verts : 280g ---&gt; <a data-href="Nouilles sautées aux crevettes" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a>
-<br>Oignons : 2 ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
-<br>Pommes de terre : 1kg ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg
-<br>Pommes de terre : 1kg ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 500g
-<br>Salade : 200g ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
-<br><a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 1kg ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
-<br><a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 500g ---&gt; <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
-<br>Échalote : 1 ---&gt; <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
-<br>Échalote : 1 ---&gt; <a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
+<br>Ail : 2 gousses ---&gt; <a data-href="Hachis Parmentier" href="recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener nofollow">Hachis Parmentier</a>
+<br>Carottes : 2 ---&gt; <a data-href="Nouilles sautées aux crevettes" href="recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener nofollow">Nouilles sautées aux crevettes</a>
+<br>Champignons de Paris : 400g ---&gt; <a data-href="Escalope de dinde à la normande" href="recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener nofollow">Escalope de dinde à la normande</a>
+<br>Champignons de Paris : 600g ---&gt; <a data-href="Galette forestière" href="recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener nofollow">Galette forestière</a>
+<br>Gousse d'ail : 1 ---&gt; <a data-href="Nouilles sautées aux crevettes" href="recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener nofollow">Nouilles sautées aux crevettes</a>
+<br>Haricots verts : 280g ---&gt; <a data-href="Nouilles sautées aux crevettes" href="recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener nofollow">Nouilles sautées aux crevettes</a>
+<br>Oignons : 2 ---&gt; <a data-href="Hachis Parmentier" href="recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener nofollow">Hachis Parmentier</a>
+<br>Pommes de terre : 1kg ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 1kg
+<br>Pommes de terre : 1kg ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 500g
+<br>Salade : 200g ---&gt; <a data-href="Tartelette chèvre miel &amp; salade" href="recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Tartelette chèvre miel &amp; salade</a>
+<br><a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 1kg ---&gt; <a data-href="Hachis Parmentier" href="recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener nofollow">Hachis Parmentier</a>
+<br><a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 500g ---&gt; <a data-href="Escalope de dinde à la normande" href="recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener nofollow">Escalope de dinde à la normande</a>
+<br>Échalote : 1 ---&gt; <a data-href="Escalope de dinde à la normande" href="recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener nofollow">Escalope de dinde à la normande</a>
+<br>Échalote : 1 ---&gt; <a data-href="Galette forestière" href="recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener nofollow">Galette forestière</a>
 
 
 <br>Viandes et poissons :
 
-<br>Crevettes : 320g ---&gt; <a data-href="Nouilles sautées aux crevettes" href="/recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener">Nouilles sautées aux crevettes</a>
-<br>Escalopes de dinde : 4 ---&gt; <a data-href="Escalope de dinde à la normande" href="/recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener">Escalope de dinde à la normande</a>
-<br>Viande hachée : 800g ---&gt; <a data-href="Hachis Parmentier" href="/recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener">Hachis Parmentier</a>
+<br>Crevettes : 320g ---&gt; <a data-href="Nouilles sautées aux crevettes" href="recettes/nouilles-sautées-aux-crevettes.html" class="internal-link" target="_self" rel="noopener nofollow">Nouilles sautées aux crevettes</a>
+<br>Escalopes de dinde : 4 ---&gt; <a data-href="Escalope de dinde à la normande" href="recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener nofollow">Escalope de dinde à la normande</a>
+<br>Viande hachée : 800g ---&gt; <a data-href="Hachis Parmentier" href="recettes/hachis-parmentier.html" class="internal-link" target="_self" rel="noopener nofollow">Hachis Parmentier</a>
 
 
 <br>baguettes : 2
@@ -204,61 +257,61 @@
 <br><br>
 <br>Steak frites sauce roquefort
 <br>nouilles sautées
-<br><a data-href="Lasagnes au saumon et aux épinards" href="/recettes/lasagnes-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener">Lasagnes au saumon et aux épinards</a>
-<br><a data-href="Crevettes miel sésame" href="/recettes/crevettes-miel-sésame.html" class="internal-link" target="_self" rel="noopener">Crevettes miel sésame</a>
-<br><a data-href="Rougail saucisse" href="/recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener">Rougail saucisse</a>
-<br><a data-href="Quiche oignons, chèvre &amp; miel" href="/recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener">Quiche oignons, chèvre &amp; miel</a>
-<br><a data-href="Riz au chorizo" href="/recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Riz au chorizo</a>
-<br><a data-href="Omelette aux champignons" href="/recettes/omelette-aux-champignons.html" class="internal-link" target="_self" rel="noopener">Omelette aux champignons</a>
+<br><a data-href="Lasagnes au saumon et aux épinards" href="recettes/lasagnes-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener nofollow">Lasagnes au saumon et aux épinards</a>
+<br><a data-href="Crevettes miel sésame" href="recettes/crevettes-miel-sésame.html" class="internal-link" target="_self" rel="noopener nofollow">Crevettes miel sésame</a>
+<br><a data-href="Rougail saucisse" href="recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener nofollow">Rougail saucisse</a>
+<br><a data-href="Quiche oignons, chèvre &amp; miel" href="recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche oignons, chèvre &amp; miel</a>
+<br><a data-href="Riz au chorizo" href="recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener nofollow">Riz au chorizo</a>
+<br><a data-href="Omelette aux champignons" href="recettes/omelette-aux-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Omelette aux champignons</a>
 <br><br>
 <br>Conserves :
 
-<br>Olives vertes : 200g ---&gt; <a data-href="Riz au chorizo" href="/recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Riz au chorizo</a>
-<br>Purée de tomate : 400g ---&gt; <a data-href="Rougail saucisse" href="/recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener">Rougail saucisse</a>
+<br>Olives vertes : 200g ---&gt; <a data-href="Riz au chorizo" href="recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener nofollow">Riz au chorizo</a>
+<br>Purée de tomate : 400g ---&gt; <a data-href="Rougail saucisse" href="recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener nofollow">Rougail saucisse</a>
 
 
 <br>Produits secs :
 
 <br>nouilles de blé
-<br>Bouillon de volaille : 1 ---&gt; <a data-href="Riz au chorizo" href="/recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Riz au chorizo</a>
-<br>Boîte de lasagnes précuites : 1 ---&gt; <a data-href="Lasagnes au saumon et aux épinards" href="/recettes/lasagnes-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener">Lasagnes au saumon et aux épinards</a>
-<br>Chorizo : 1 ---&gt; <a data-href="Riz au chorizo" href="/recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Riz au chorizo</a>
-<br>Farine : 300g ---&gt; <a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1 ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="/recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener">Quiche oignons, chèvre &amp; miel</a>
-<br>Oeufs : 3 ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="/recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener">Quiche oignons, chèvre &amp; miel</a>
-<br>Oeufs : 8 ---&gt; <a data-href="Omelette aux champignons" href="/recettes/omelette-aux-champignons.html" class="internal-link" target="_self" rel="noopener">Omelette aux champignons</a>
-<br>Riz : 280g ---&gt; <a data-href="Crevettes miel sésame" href="/recettes/crevettes-miel-sésame.html" class="internal-link" target="_self" rel="noopener">Crevettes miel sésame</a>
-<br>Riz : 280g ---&gt; <a data-href="Rougail saucisse" href="/recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener">Rougail saucisse</a>
-<br>Riz : 400g ---&gt; <a data-href="Riz au chorizo" href="/recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Riz au chorizo</a>
+<br>Bouillon de volaille : 1 ---&gt; <a data-href="Riz au chorizo" href="recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener nofollow">Riz au chorizo</a>
+<br>Boîte de lasagnes précuites : 1 ---&gt; <a data-href="Lasagnes au saumon et aux épinards" href="recettes/lasagnes-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener nofollow">Lasagnes au saumon et aux épinards</a>
+<br>Chorizo : 1 ---&gt; <a data-href="Riz au chorizo" href="recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener nofollow">Riz au chorizo</a>
+<br>Farine : 300g ---&gt; <a data-href="Pâte brisée" href="recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener nofollow">Pâte brisée</a> : 1 ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche oignons, chèvre &amp; miel</a>
+<br>Oeufs : 3 ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche oignons, chèvre &amp; miel</a>
+<br>Oeufs : 8 ---&gt; <a data-href="Omelette aux champignons" href="recettes/omelette-aux-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Omelette aux champignons</a>
+<br>Riz : 280g ---&gt; <a data-href="Crevettes miel sésame" href="recettes/crevettes-miel-sésame.html" class="internal-link" target="_self" rel="noopener nofollow">Crevettes miel sésame</a>
+<br>Riz : 280g ---&gt; <a data-href="Rougail saucisse" href="recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener nofollow">Rougail saucisse</a>
+<br>Riz : 400g ---&gt; <a data-href="Riz au chorizo" href="recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener nofollow">Riz au chorizo</a>
 
 
 <br>Épices :
 
-<br>Curcuma : 4 pincées ---&gt; <a data-href="Rougail saucisse" href="/recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener">Rougail saucisse</a>
-<br>Gingembre : 20g ---&gt; <a data-href="Rougail saucisse" href="/recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener">Rougail saucisse</a>
-<br>Graines de sésame : 4cc ---&gt; <a data-href="Crevettes miel sésame" href="/recettes/crevettes-miel-sésame.html" class="internal-link" target="_self" rel="noopener">Crevettes miel sésame</a>
+<br>Curcuma : 4 pincées ---&gt; <a data-href="Rougail saucisse" href="recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener nofollow">Rougail saucisse</a>
+<br>Gingembre : 20g ---&gt; <a data-href="Rougail saucisse" href="recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener nofollow">Rougail saucisse</a>
+<br>Graines de sésame : 4cc ---&gt; <a data-href="Crevettes miel sésame" href="recettes/crevettes-miel-sésame.html" class="internal-link" target="_self" rel="noopener nofollow">Crevettes miel sésame</a>
 
 
 <br>Épicerie sucrée :
 
-<br>Miel : 20g ---&gt; <a data-href="Crevettes miel sésame" href="/recettes/crevettes-miel-sésame.html" class="internal-link" target="_self" rel="noopener">Crevettes miel sésame</a>
-<br>Miel : 4cc ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="/recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener">Quiche oignons, chèvre &amp; miel</a>
-<br>Sucre (si pâte sucrée) : 15g ---&gt; <a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1 ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="/recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener">Quiche oignons, chèvre &amp; miel</a>
+<br>Miel : 20g ---&gt; <a data-href="Crevettes miel sésame" href="recettes/crevettes-miel-sésame.html" class="internal-link" target="_self" rel="noopener nofollow">Crevettes miel sésame</a>
+<br>Miel : 4cc ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche oignons, chèvre &amp; miel</a>
+<br>Sucre (si pâte sucrée) : 15g ---&gt; <a data-href="Pâte brisée" href="recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener nofollow">Pâte brisée</a> : 1 ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche oignons, chèvre &amp; miel</a>
 
 
 <br>Produits frais :
 
-<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1 ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="/recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener">Quiche oignons, chèvre &amp; miel</a>
+<br><a data-href="Pâte brisée" href="recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener nofollow">Pâte brisée</a> : 1 ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche oignons, chèvre &amp; miel</a>
 
 
 <br>Produits laitiers :
 
-<br>Beurre : 150g ---&gt; <a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1 ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="/recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener">Quiche oignons, chèvre &amp; miel</a>
-<br>Comté : 100g ---&gt; <a data-href="Omelette aux champignons" href="/recettes/omelette-aux-champignons.html" class="internal-link" target="_self" rel="noopener">Omelette aux champignons</a>
-<br>Crème fraîche : 25cl ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="/recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener">Quiche oignons, chèvre &amp; miel</a>
-<br>Crème liquide : 50cl ---&gt; <a data-href="Lasagnes au saumon et aux épinards" href="/recettes/lasagnes-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener">Lasagnes au saumon et aux épinards</a>
-<br>Fromage de chèvre : 200g ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="/recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener">Quiche oignons, chèvre &amp; miel</a>
-<br>Lait ou eau : 8cl ---&gt; <a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1 ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="/recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener">Quiche oignons, chèvre &amp; miel</a>
-<br>Parmesan ---&gt; <a data-href="Lasagnes au saumon et aux épinards" href="/recettes/lasagnes-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener">Lasagnes au saumon et aux épinards</a>
+<br>Beurre : 150g ---&gt; <a data-href="Pâte brisée" href="recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener nofollow">Pâte brisée</a> : 1 ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche oignons, chèvre &amp; miel</a>
+<br>Comté : 100g ---&gt; <a data-href="Omelette aux champignons" href="recettes/omelette-aux-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Omelette aux champignons</a>
+<br>Crème fraîche : 25cl ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche oignons, chèvre &amp; miel</a>
+<br>Crème liquide : 50cl ---&gt; <a data-href="Lasagnes au saumon et aux épinards" href="recettes/lasagnes-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener nofollow">Lasagnes au saumon et aux épinards</a>
+<br>Fromage de chèvre : 200g ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche oignons, chèvre &amp; miel</a>
+<br>Lait ou eau : 8cl ---&gt; <a data-href="Pâte brisée" href="recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener nofollow">Pâte brisée</a> : 1 ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche oignons, chèvre &amp; miel</a>
+<br>Parmesan ---&gt; <a data-href="Lasagnes au saumon et aux épinards" href="recettes/lasagnes-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener nofollow">Lasagnes au saumon et aux épinards</a>
 <br>Crème fraîche : 20cl
 <br>Requefort : 1
 
@@ -268,116 +321,116 @@
 <br>patates : 1kg
 <br>champignons : 1 barquette
 <br>poivron vert : 1
-<br>Ail : 2 gousses ---&gt; <a data-href="Crevettes miel sésame" href="/recettes/crevettes-miel-sésame.html" class="internal-link" target="_self" rel="noopener">Crevettes miel sésame</a>
-<br>Champignons de Paris : 400g ---&gt; <a data-href="Omelette aux champignons" href="/recettes/omelette-aux-champignons.html" class="internal-link" target="_self" rel="noopener">Omelette aux champignons</a>
-<br>Citron ---&gt; <a data-href="Crevettes miel sésame" href="/recettes/crevettes-miel-sésame.html" class="internal-link" target="_self" rel="noopener">Crevettes miel sésame</a>
-<br>Feuilles d'épinards : 500g ---&gt; <a data-href="Lasagnes au saumon et aux épinards" href="/recettes/lasagnes-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener">Lasagnes au saumon et aux épinards</a>
-<br>Gousse d'ail : 2 ---&gt; <a data-href="Rougail saucisse" href="/recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener">Rougail saucisse</a>
-<br>Oignon : 1 ---&gt; <a data-href="Riz au chorizo" href="/recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Riz au chorizo</a>
-<br>Oignon : 1 ---&gt; <a data-href="Rougail saucisse" href="/recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener">Rougail saucisse</a>
-<br>Oignon : 3 ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="/recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener">Quiche oignons, chèvre &amp; miel</a>
-<br>Oignons : 2 ---&gt; <a data-href="Crevettes miel sésame" href="/recettes/crevettes-miel-sésame.html" class="internal-link" target="_self" rel="noopener">Crevettes miel sésame</a>
-<br>Poivrons : 2 ---&gt; <a data-href="Riz au chorizo" href="/recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Riz au chorizo</a>
-<br>Salade : 200g ---&gt; <a data-href="Omelette aux champignons" href="/recettes/omelette-aux-champignons.html" class="internal-link" target="_self" rel="noopener">Omelette aux champignons</a>
-<br>Échalote : 1 ---&gt; <a data-href="Omelette aux champignons" href="/recettes/omelette-aux-champignons.html" class="internal-link" target="_self" rel="noopener">Omelette aux champignons</a>
+<br>Ail : 2 gousses ---&gt; <a data-href="Crevettes miel sésame" href="recettes/crevettes-miel-sésame.html" class="internal-link" target="_self" rel="noopener nofollow">Crevettes miel sésame</a>
+<br>Champignons de Paris : 400g ---&gt; <a data-href="Omelette aux champignons" href="recettes/omelette-aux-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Omelette aux champignons</a>
+<br>Citron ---&gt; <a data-href="Crevettes miel sésame" href="recettes/crevettes-miel-sésame.html" class="internal-link" target="_self" rel="noopener nofollow">Crevettes miel sésame</a>
+<br>Feuilles d'épinards : 500g ---&gt; <a data-href="Lasagnes au saumon et aux épinards" href="recettes/lasagnes-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener nofollow">Lasagnes au saumon et aux épinards</a>
+<br>Gousse d'ail : 2 ---&gt; <a data-href="Rougail saucisse" href="recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener nofollow">Rougail saucisse</a>
+<br>Oignon : 1 ---&gt; <a data-href="Riz au chorizo" href="recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener nofollow">Riz au chorizo</a>
+<br>Oignon : 1 ---&gt; <a data-href="Rougail saucisse" href="recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener nofollow">Rougail saucisse</a>
+<br>Oignon : 3 ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche oignons, chèvre &amp; miel</a>
+<br>Oignons : 2 ---&gt; <a data-href="Crevettes miel sésame" href="recettes/crevettes-miel-sésame.html" class="internal-link" target="_self" rel="noopener nofollow">Crevettes miel sésame</a>
+<br>Poivrons : 2 ---&gt; <a data-href="Riz au chorizo" href="recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener nofollow">Riz au chorizo</a>
+<br>Salade : 200g ---&gt; <a data-href="Omelette aux champignons" href="recettes/omelette-aux-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Omelette aux champignons</a>
+<br>Échalote : 1 ---&gt; <a data-href="Omelette aux champignons" href="recettes/omelette-aux-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Omelette aux champignons</a>
 
 
 <br>Viandes et poissons :
 
 <br>barquette de steak 3 étoiles : 2
-<br>Crevettes : 400g ---&gt; <a data-href="Crevettes miel sésame" href="/recettes/crevettes-miel-sésame.html" class="internal-link" target="_self" rel="noopener">Crevettes miel sésame</a>
-<br>Saucisses fumées : 4 ---&gt; <a data-href="Rougail saucisse" href="/recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener">Rougail saucisse</a>
-<br>Saumon : 300g ---&gt; <a data-href="Lasagnes au saumon et aux épinards" href="/recettes/lasagnes-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener">Lasagnes au saumon et aux épinards</a>
+<br>Crevettes : 400g ---&gt; <a data-href="Crevettes miel sésame" href="recettes/crevettes-miel-sésame.html" class="internal-link" target="_self" rel="noopener nofollow">Crevettes miel sésame</a>
+<br>Saucisses fumées : 4 ---&gt; <a data-href="Rougail saucisse" href="recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener nofollow">Rougail saucisse</a>
+<br>Saumon : 300g ---&gt; <a data-href="Lasagnes au saumon et aux épinards" href="recettes/lasagnes-au-saumon-et-aux-épinards.html" class="internal-link" target="_self" rel="noopener nofollow">Lasagnes au saumon et aux épinards</a>
 
 
 <br>Unclassified :
 
-<br>Sel : 1/2cc ---&gt; <a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1 ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="/recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener">Quiche oignons, chèvre &amp; miel</a>
+<br>Sel : 1/2cc ---&gt; <a data-href="Pâte brisée" href="recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener nofollow">Pâte brisée</a> : 1 ---&gt; <a data-href="Quiche oignons, chèvre &amp; miel" href="recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche oignons, chèvre &amp; miel</a>
 
 
 <br><br>
-<br><a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
-<br><a data-href="Haricots verts à l'ail et cordon bleu" href="/recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail et cordon bleu</a>
-<br><a data-href="Croissant au jambon fromage" href="/recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener">Croissant au jambon fromage</a>
-<br><a data-href="Galette complète &amp; oignons confits" href="/recettes/galette-complète-&amp;-oignons-confits.html" class="internal-link" target="_self" rel="noopener">Galette complète &amp; oignons confits</a>
-<br><a data-href="Poulet au sésame" href="/recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener">Poulet au sésame</a>
-<br><a data-href="Chèvre chaud au jambon &amp; salade" href="/recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Chèvre chaud au jambon &amp; salade</a>
+<br><a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br><a data-href="Haricots verts à l'ail et cordon bleu" href="recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail et cordon bleu</a>
+<br><a data-href="Croissant au jambon fromage" href="recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener nofollow">Croissant au jambon fromage</a>
+<br><a data-href="Galette complète &amp; oignons confits" href="recettes/galette-complète-&amp;-oignons-confits.html" class="internal-link" target="_self" rel="noopener nofollow">Galette complète &amp; oignons confits</a>
+<br><a data-href="Poulet au sésame" href="recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet au sésame</a>
+<br><a data-href="Chèvre chaud au jambon &amp; salade" href="recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Chèvre chaud au jambon &amp; salade</a>
 <br><br>
 <br>Conserves :
 
-<br>Beurre : 50g ---&gt; <a data-href="Haricots verts à l'ail" href="/recettes/haricots-verts-à-l'ail.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail</a> ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="/recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail et cordon bleu</a>
-<br>Carotte : 1 ---&gt; <a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
-<br>Comté : 8 tranches ---&gt; <a data-href="Cordon bleu roulé" href="/recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="/recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail et cordon bleu</a>
-<br>Coulis de tomate : 700g ---&gt; <a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
-<br>Céleri : 10cl ---&gt; <a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
-<br>Escalopes de dinde : 4 ---&gt; <a data-href="Cordon bleu roulé" href="/recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="/recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail et cordon bleu</a>
-<br>Farine ---&gt; <a data-href="Cordon bleu roulé" href="/recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="/recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail et cordon bleu</a>
-<br>Gousse d'ail : 1 ---&gt; <a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
-<br>Gousse d'ail : 2 ---&gt; <a data-href="Haricots verts à l'ail" href="/recettes/haricots-verts-à-l'ail.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail</a> ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="/recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail et cordon bleu</a>
-<br>Haricots vers : 500g ---&gt; <a data-href="Haricots verts à l'ail" href="/recettes/haricots-verts-à-l'ail.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail</a> ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="/recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail et cordon bleu</a>
-<br>Haricots verts : 800g ---&gt; <a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
-<br>Huile de friture ---&gt; <a data-href="Cordon bleu roulé" href="/recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="/recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail et cordon bleu</a>
-<br>Oeufs : 2 ---&gt; <a data-href="Cordon bleu roulé" href="/recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="/recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail et cordon bleu</a>
-<br>Oignon : 1 ---&gt; <a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
-<br>Origan ---&gt; <a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
-<br>Pain de campagne en tranche rassi ---&gt; <a data-href="Cordon bleu roulé" href="/recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="/recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail et cordon bleu</a>
-<br>Persil ---&gt; <a data-href="Cordon bleu roulé" href="/recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="/recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail et cordon bleu</a>
-<br>Tranches de jambon : 4 ---&gt; <a data-href="Cordon bleu roulé" href="/recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="/recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail et cordon bleu</a>
-<br>Viande hachée : 800g ---&gt; <a data-href="Haricots verts à la bolognaise" href="/recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la bolognaise</a>
-<br><a data-href="Cordon bleu roulé" href="/recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="/recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail et cordon bleu</a>
-<br><a data-href="Haricots verts à l'ail" href="/recettes/haricots-verts-à-l'ail.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail</a> ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="/recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener">Haricots verts à l'ail et cordon bleu</a>
+<br>Beurre : 50g ---&gt; <a data-href="Haricots verts à l'ail" href="recettes/haricots-verts-à-l'ail.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail</a> ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail et cordon bleu</a>
+<br>Carotte : 1 ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Comté : 8 tranches ---&gt; <a data-href="Cordon bleu roulé" href="recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener nofollow">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail et cordon bleu</a>
+<br>Coulis de tomate : 700g ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Céleri : 10cl ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Escalopes de dinde : 4 ---&gt; <a data-href="Cordon bleu roulé" href="recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener nofollow">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail et cordon bleu</a>
+<br>Farine ---&gt; <a data-href="Cordon bleu roulé" href="recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener nofollow">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail et cordon bleu</a>
+<br>Gousse d'ail : 1 ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Gousse d'ail : 2 ---&gt; <a data-href="Haricots verts à l'ail" href="recettes/haricots-verts-à-l'ail.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail</a> ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail et cordon bleu</a>
+<br>Haricots vers : 500g ---&gt; <a data-href="Haricots verts à l'ail" href="recettes/haricots-verts-à-l'ail.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail</a> ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail et cordon bleu</a>
+<br>Haricots verts : 800g ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Huile de friture ---&gt; <a data-href="Cordon bleu roulé" href="recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener nofollow">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail et cordon bleu</a>
+<br>Oeufs : 2 ---&gt; <a data-href="Cordon bleu roulé" href="recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener nofollow">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail et cordon bleu</a>
+<br>Oignon : 1 ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Origan ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Pain de campagne en tranche rassi ---&gt; <a data-href="Cordon bleu roulé" href="recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener nofollow">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail et cordon bleu</a>
+<br>Persil ---&gt; <a data-href="Cordon bleu roulé" href="recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener nofollow">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail et cordon bleu</a>
+<br>Tranches de jambon : 4 ---&gt; <a data-href="Cordon bleu roulé" href="recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener nofollow">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail et cordon bleu</a>
+<br>Viande hachée : 800g ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br><a data-href="Cordon bleu roulé" href="recettes/cordon-bleu-roulé.html" class="internal-link" target="_self" rel="noopener nofollow">Cordon bleu roulé</a> : 4 ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail et cordon bleu</a>
+<br><a data-href="Haricots verts à l'ail" href="recettes/haricots-verts-à-l'ail.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail</a> ---&gt; <a data-href="Haricots verts à l'ail et cordon bleu" href="recettes/haricots-verts-à-l'ail-et-cordon-bleu.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à l'ail et cordon bleu</a>
 
 
 <br>Produits secs :
 
-<br>Farine : 50g ---&gt; <a data-href="Béchamel" href="/recettes/béchamel.html" class="internal-link" target="_self" rel="noopener">Béchamel</a> : 80g ---&gt; <a data-href="Croissant au jambon fromage" href="/recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener">Croissant au jambon fromage</a>
-<br>Oeufs : 4 ---&gt; <a data-href="Galette complète &amp; oignons confits" href="/recettes/galette-complète-&amp;-oignons-confits.html" class="internal-link" target="_self" rel="noopener">Galette complète &amp; oignons confits</a>
-<br>Pain de mie : 8 tranches ---&gt; <a data-href="Chèvre chaud au jambon &amp; salade" href="/recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Chèvre chaud au jambon &amp; salade</a>
-<br>Riz : 280g ---&gt; <a data-href="Poulet au sésame" href="/recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener">Poulet au sésame</a>
-<br>Sauce soja : 10cl ---&gt; <a data-href="Poulet au sésame" href="/recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener">Poulet au sésame</a>
+<br>Farine : 50g ---&gt; <a data-href="Béchamel" href="recettes/béchamel.html" class="internal-link" target="_self" rel="noopener nofollow">Béchamel</a> : 80g ---&gt; <a data-href="Croissant au jambon fromage" href="recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener nofollow">Croissant au jambon fromage</a>
+<br>Oeufs : 4 ---&gt; <a data-href="Galette complète &amp; oignons confits" href="recettes/galette-complète-&amp;-oignons-confits.html" class="internal-link" target="_self" rel="noopener nofollow">Galette complète &amp; oignons confits</a>
+<br>Pain de mie : 8 tranches ---&gt; <a data-href="Chèvre chaud au jambon &amp; salade" href="recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Chèvre chaud au jambon &amp; salade</a>
+<br>Riz : 280g ---&gt; <a data-href="Poulet au sésame" href="recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet au sésame</a>
+<br>Sauce soja : 10cl ---&gt; <a data-href="Poulet au sésame" href="recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet au sésame</a>
 
 
 <br>Épices :
 
-<br>Gingembre ---&gt; <a data-href="Poulet au sésame" href="/recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener">Poulet au sésame</a>
-<br>Graines de sésame ---&gt; <a data-href="Poulet au sésame" href="/recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener">Poulet au sésame</a>
-<br>Herbes de Provence ---&gt; <a data-href="Chèvre chaud au jambon &amp; salade" href="/recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Chèvre chaud au jambon &amp; salade</a>
-<br>Muscade ---&gt; <a data-href="Béchamel" href="/recettes/béchamel.html" class="internal-link" target="_self" rel="noopener">Béchamel</a> : 80g ---&gt; <a data-href="Croissant au jambon fromage" href="/recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener">Croissant au jambon fromage</a>
+<br>Gingembre ---&gt; <a data-href="Poulet au sésame" href="recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet au sésame</a>
+<br>Graines de sésame ---&gt; <a data-href="Poulet au sésame" href="recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet au sésame</a>
+<br>Herbes de Provence ---&gt; <a data-href="Chèvre chaud au jambon &amp; salade" href="recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Chèvre chaud au jambon &amp; salade</a>
+<br>Muscade ---&gt; <a data-href="Béchamel" href="recettes/béchamel.html" class="internal-link" target="_self" rel="noopener nofollow">Béchamel</a> : 80g ---&gt; <a data-href="Croissant au jambon fromage" href="recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener nofollow">Croissant au jambon fromage</a>
 
 
 <br>Produits frais :
 
-<br>Beurre : 50g ---&gt; <a data-href="Béchamel" href="/recettes/béchamel.html" class="internal-link" target="_self" rel="noopener">Béchamel</a> : 80g ---&gt; <a data-href="Croissant au jambon fromage" href="/recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener">Croissant au jambon fromage</a>
-<br>Croissants : 4 ---&gt; <a data-href="Croissant au jambon fromage" href="/recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener">Croissant au jambon fromage</a>
-<br>Fromage de chèvre : 200g ---&gt; <a data-href="Chèvre chaud au jambon &amp; salade" href="/recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Chèvre chaud au jambon &amp; salade</a>
-<br>Galettes bretonnes : 4 ---&gt; <a data-href="Galette complète &amp; oignons confits" href="/recettes/galette-complète-&amp;-oignons-confits.html" class="internal-link" target="_self" rel="noopener">Galette complète &amp; oignons confits</a>
-<br>Gruyère râpé : 100g ---&gt; <a data-href="Croissant au jambon fromage" href="/recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener">Croissant au jambon fromage</a>
-<br>Jambon : 4 tranches ---&gt; <a data-href="Galette complète &amp; oignons confits" href="/recettes/galette-complète-&amp;-oignons-confits.html" class="internal-link" target="_self" rel="noopener">Galette complète &amp; oignons confits</a>
-<br>Jambon : 8 tranches ---&gt; <a data-href="Chèvre chaud au jambon &amp; salade" href="/recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Chèvre chaud au jambon &amp; salade</a>
-<br>Lait : 60cl ---&gt; <a data-href="Béchamel" href="/recettes/béchamel.html" class="internal-link" target="_self" rel="noopener">Béchamel</a> : 80g ---&gt; <a data-href="Croissant au jambon fromage" href="/recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener">Croissant au jambon fromage</a>
-<br>Salade : 200g ---&gt; <a data-href="Chèvre chaud au jambon &amp; salade" href="/recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Chèvre chaud au jambon &amp; salade</a>
-<br>Tranches de jambon : 4 ---&gt; <a data-href="Croissant au jambon fromage" href="/recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener">Croissant au jambon fromage</a>
-<br><a data-href="Béchamel" href="/recettes/béchamel.html" class="internal-link" target="_self" rel="noopener">Béchamel</a> : 80g ---&gt; <a data-href="Croissant au jambon fromage" href="/recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener">Croissant au jambon fromage</a>
+<br>Beurre : 50g ---&gt; <a data-href="Béchamel" href="recettes/béchamel.html" class="internal-link" target="_self" rel="noopener nofollow">Béchamel</a> : 80g ---&gt; <a data-href="Croissant au jambon fromage" href="recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener nofollow">Croissant au jambon fromage</a>
+<br>Croissants : 4 ---&gt; <a data-href="Croissant au jambon fromage" href="recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener nofollow">Croissant au jambon fromage</a>
+<br>Fromage de chèvre : 200g ---&gt; <a data-href="Chèvre chaud au jambon &amp; salade" href="recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Chèvre chaud au jambon &amp; salade</a>
+<br>Galettes bretonnes : 4 ---&gt; <a data-href="Galette complète &amp; oignons confits" href="recettes/galette-complète-&amp;-oignons-confits.html" class="internal-link" target="_self" rel="noopener nofollow">Galette complète &amp; oignons confits</a>
+<br>Gruyère râpé : 100g ---&gt; <a data-href="Croissant au jambon fromage" href="recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener nofollow">Croissant au jambon fromage</a>
+<br>Jambon : 4 tranches ---&gt; <a data-href="Galette complète &amp; oignons confits" href="recettes/galette-complète-&amp;-oignons-confits.html" class="internal-link" target="_self" rel="noopener nofollow">Galette complète &amp; oignons confits</a>
+<br>Jambon : 8 tranches ---&gt; <a data-href="Chèvre chaud au jambon &amp; salade" href="recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Chèvre chaud au jambon &amp; salade</a>
+<br>Lait : 60cl ---&gt; <a data-href="Béchamel" href="recettes/béchamel.html" class="internal-link" target="_self" rel="noopener nofollow">Béchamel</a> : 80g ---&gt; <a data-href="Croissant au jambon fromage" href="recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener nofollow">Croissant au jambon fromage</a>
+<br>Salade : 200g ---&gt; <a data-href="Chèvre chaud au jambon &amp; salade" href="recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Chèvre chaud au jambon &amp; salade</a>
+<br>Tranches de jambon : 4 ---&gt; <a data-href="Croissant au jambon fromage" href="recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener nofollow">Croissant au jambon fromage</a>
+<br><a data-href="Béchamel" href="recettes/béchamel.html" class="internal-link" target="_self" rel="noopener nofollow">Béchamel</a> : 80g ---&gt; <a data-href="Croissant au jambon fromage" href="recettes/croissant-au-jambon-fromage.html" class="internal-link" target="_self" rel="noopener nofollow">Croissant au jambon fromage</a>
 
 
 <br>Produits laitiers :
 
-<br>Fromage râpé : 200g ---&gt; <a data-href="Galette complète &amp; oignons confits" href="/recettes/galette-complète-&amp;-oignons-confits.html" class="internal-link" target="_self" rel="noopener">Galette complète &amp; oignons confits</a>
+<br>Fromage râpé : 200g ---&gt; <a data-href="Galette complète &amp; oignons confits" href="recettes/galette-complète-&amp;-oignons-confits.html" class="internal-link" target="_self" rel="noopener nofollow">Galette complète &amp; oignons confits</a>
 
 
 <br>Fruits et légumes :
 
-<br>Brocoli : 320g ---&gt; <a data-href="Poulet au sésame" href="/recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener">Poulet au sésame</a>
-<br>Filets de poulet : 4 ---&gt; <a data-href="Poulet au sésame" href="/recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener">Poulet au sésame</a>
-<br>Oignons : 2 ---&gt; <a data-href="Galette complète &amp; oignons confits" href="/recettes/galette-complète-&amp;-oignons-confits.html" class="internal-link" target="_self" rel="noopener">Galette complète &amp; oignons confits</a>
-<br>Vin blanc : 20cl ---&gt; <a data-href="Galette complète &amp; oignons confits" href="/recettes/galette-complète-&amp;-oignons-confits.html" class="internal-link" target="_self" rel="noopener">Galette complète &amp; oignons confits</a>
+<br>Brocoli : 320g ---&gt; <a data-href="Poulet au sésame" href="recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet au sésame</a>
+<br>Filets de poulet : 4 ---&gt; <a data-href="Poulet au sésame" href="recettes/poulet-au-sésame.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet au sésame</a>
+<br>Oignons : 2 ---&gt; <a data-href="Galette complète &amp; oignons confits" href="recettes/galette-complète-&amp;-oignons-confits.html" class="internal-link" target="_self" rel="noopener nofollow">Galette complète &amp; oignons confits</a>
+<br>Vin blanc : 20cl ---&gt; <a data-href="Galette complète &amp; oignons confits" href="recettes/galette-complète-&amp;-oignons-confits.html" class="internal-link" target="_self" rel="noopener nofollow">Galette complète &amp; oignons confits</a>
 
 
 <br><br>
-<br><a data-href="Quiche aux asperges et lardons" href="/recettes/quiche-aux-asperges-et-lardons.html" class="internal-link" target="_self" rel="noopener">Quiche aux asperges et lardons</a>
-<br><a data-href="Haricots verts à la carbonara" href="/recettes/haricots-verts-à-la-carbonara.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la carbonara</a>
-<br><a data-href="Riz au chorizo" href="/recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Riz au chorizo</a>
-<br><a data-href="Tacos champignons, poulet &amp; comté" href="/recettes/tacos-champignons,-poulet-&amp;-comté.html" class="internal-link" target="_self" rel="noopener">Tacos champignons, poulet &amp; comté</a>
+<br><a data-href="Quiche aux asperges et lardons" href="recettes/quiche-aux-asperges-et-lardons.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche aux asperges et lardons</a>
+<br><a data-href="Haricots verts à la carbonara" href="recettes/haricots-verts-à-la-carbonara.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la carbonara</a>
+<br><a data-href="Riz au chorizo" href="recettes/riz-au-chorizo.html" class="internal-link" target="_self" rel="noopener nofollow">Riz au chorizo</a>
+<br><a data-href="Tacos champignons, poulet &amp; comté" href="recettes/tacos-champignons,-poulet-&amp;-comté.html" class="internal-link" target="_self" rel="noopener nofollow">Tacos champignons, poulet &amp; comté</a>
 <br><br>
 <br>Fruits et légumes
 
@@ -396,7 +449,7 @@
 <br>produits frais
 
 <br>Lardons : 200g
-<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br><a data-href="Pâte brisée" href="recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener nofollow">Pâte brisée</a> : 1
 <br>Lardons : 200g
 <br>Bacon 1 paquet
 
@@ -443,13 +496,13 @@
 
 
 <br><br>
-<br><a data-href="Chèvre chaud au jambon &amp; salade" href="/recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Chèvre chaud au jambon &amp; salade</a>
-<br><a data-href="Velouté d'endives au lard" href="/recettes/velouté-d'endives-au-lard.html" class="internal-link" target="_self" rel="noopener">Velouté d'endives au lard</a>
-<br><a data-href="Galette saucisse" href="/recettes/galette-saucisse.html" class="internal-link" target="_self" rel="noopener">Galette saucisse</a>
-<br><a data-href="Ravioli ricotta épinards à la crème d'ail et poireau" href="/recettes/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.html" class="internal-link" target="_self" rel="noopener">Ravioli ricotta épinards à la crème d'ail et poireau</a>
-<br><a data-href="Tresse feuilletée au boursin, poireau et truite fumée" href="/recettes/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.html" class="internal-link" target="_self" rel="noopener">Tresse feuilletée au boursin, poireau et truite fumée</a>
-<br><a data-href="One pot curry de pommes de terre" href="/recettes/one-pot-curry-de-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener">One pot curry de pommes de terre</a>
-<br><a data-href="Quiche poireaux braisés &amp; brie" href="/recettes/quiche-poireaux-braisés-&amp;-brie.html" class="internal-link" target="_self" rel="noopener">Quiche poireaux braisés &amp; brie</a>
+<br><a data-href="Chèvre chaud au jambon &amp; salade" href="recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Chèvre chaud au jambon &amp; salade</a>
+<br><a data-href="Velouté d'endives au lard" href="recettes/velouté-d'endives-au-lard.html" class="internal-link" target="_self" rel="noopener nofollow">Velouté d'endives au lard</a>
+<br><a data-href="Galette saucisse" href="recettes/galette-saucisse.html" class="internal-link" target="_self" rel="noopener nofollow">Galette saucisse</a>
+<br><a data-href="Ravioli ricotta épinards à la crème d'ail et poireau" href="recettes/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.html" class="internal-link" target="_self" rel="noopener nofollow">Ravioli ricotta épinards à la crème d'ail et poireau</a>
+<br><a data-href="Tresse feuilletée au boursin, poireau et truite fumée" href="recettes/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.html" class="internal-link" target="_self" rel="noopener nofollow">Tresse feuilletée au boursin, poireau et truite fumée</a>
+<br><a data-href="One pot curry de pommes de terre" href="recettes/one-pot-curry-de-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener nofollow">One pot curry de pommes de terre</a>
+<br><a data-href="Quiche poireaux braisés &amp; brie" href="recettes/quiche-poireaux-braisés-&amp;-brie.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche poireaux braisés &amp; brie</a>
 <br><br>
 <br>Fruits et légumes
 
@@ -498,7 +551,7 @@
 <br>Galettes bretonnes : 4
 <br>Raviolis à la ricotta et aux épinards : 500g
 <br>Pâte feuilletée : 1
-<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 2
+<br><a data-href="Pâte brisée" href="recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener nofollow">Pâte brisée</a> : 2
 
 
 <br>Surgelés
@@ -512,12 +565,12 @@
 
 
 <br><br>
-<br><a data-href="Poulet boursin, lard &amp; pommes de terre sautées" href="/recettes/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.html" class="internal-link" target="_self" rel="noopener">Poulet boursin, lard &amp; pommes de terre sautées</a>
-<br><a data-href="Boulettes &amp; semoule express" href="/recettes/boulettes-&amp;-semoule-express.html" class="internal-link" target="_self" rel="noopener">Boulettes &amp; semoule express</a>
-<br><a data-href="Quiche poireaux, chèvre lardons" href="/recettes/quiche-poireaux,-chèvre-lardons.html" class="internal-link" target="_self" rel="noopener">Quiche poireaux, chèvre lardons</a>
-<br><a data-href="Salade jambon cru, mozza &amp; pistaches" href="/recettes/salade-jambon-cru,-mozza-&amp;-pistaches.html" class="internal-link" target="_self" rel="noopener">Salade jambon cru, mozza &amp; pistaches</a>
-<br><a data-href="Risotto de coquillettes" href="/recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener">Risotto de coquillettes</a>
-<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/salade-de-riz-au-surimi-8t7pc8jrbdmohqfn09l4?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/salade-de-riz-au-surimi-8t7pc8jrbdmohqfn09l4?coversCount=4&amp;from=menu</a>
+<br><a data-href="Poulet boursin, lard &amp; pommes de terre sautées" href="recettes/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet boursin, lard &amp; pommes de terre sautées</a>
+<br><a data-href="Boulettes &amp; semoule express" href="recettes/boulettes-&amp;-semoule-express.html" class="internal-link" target="_self" rel="noopener nofollow">Boulettes &amp; semoule express</a>
+<br><a data-href="Quiche poireaux, chèvre lardons" href="recettes/quiche-poireaux,-chèvre-lardons.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche poireaux, chèvre lardons</a>
+<br><a data-href="Salade jambon cru, mozza &amp; pistaches" href="recettes/salade-jambon-cru,-mozza-&amp;-pistaches.html" class="internal-link" target="_self" rel="noopener nofollow">Salade jambon cru, mozza &amp; pistaches</a>
+<br><a data-href="Risotto de coquillettes" href="recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes</a>
+<br><a rel="noopener nofollow" class="external-link" href="https://jow.fr/recipes/salade-de-riz-au-surimi-8t7pc8jrbdmohqfn09l4?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/salade-de-riz-au-surimi-8t7pc8jrbdmohqfn09l4?coversCount=4&amp;from=menu</a>
 <br><br>
 <br>Viande
 
@@ -539,7 +592,7 @@
 <br>Produits frais
 
 <br>Lard : 8 tranches
-<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br><a data-href="Pâte brisée" href="recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener nofollow">Pâte brisée</a> : 1
 <br>Lardons : 200g
 <br>Jambon cru : 8 tranches
 <br>Jambon : 4 tranches
@@ -574,12 +627,12 @@
 <br>Pistaches grillées : 80g
 <br>Vin blanc : 10cl
 <br><br>
-<br><a data-href="Curry de pois chiches" href="/recettes/curry-de-pois-chiches.html" class="internal-link" target="_self" rel="noopener">Curry de pois chiches</a>
-<br><a data-href="Pâtes aux petits pois, poireaux et bacon" href="/recettes/pâtes-aux-petits-pois,-poireaux-et-bacon.html" class="internal-link" target="_self" rel="noopener">Pâtes aux petits pois, poireaux et bacon</a>
-<br><a data-href="Bavette à l'échalote, pommes de terre &amp; haricots" href="/recettes/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.html" class="internal-link" target="_self" rel="noopener">Bavette à l'échalote, pommes de terre &amp; haricots</a>
-<br><a data-href="Saucisse &amp; lentilles" href="/recettes/saucisse-&amp;-lentilles.html" class="internal-link" target="_self" rel="noopener">Saucisse &amp; lentilles</a>
-<br><a data-href="Petits pois au chorizo" href="/recettes/petits-pois-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Petits pois au chorizo</a>
-<br><a data-href="One pot curry de pommes de terre" href="/recettes/one-pot-curry-de-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener">One pot curry de pommes de terre</a>
+<br><a data-href="Curry de pois chiches" href="recettes/curry-de-pois-chiches.html" class="internal-link" target="_self" rel="noopener nofollow">Curry de pois chiches</a>
+<br><a data-href="Pâtes aux petits pois, poireaux et bacon" href="recettes/pâtes-aux-petits-pois,-poireaux-et-bacon.html" class="internal-link" target="_self" rel="noopener nofollow">Pâtes aux petits pois, poireaux et bacon</a>
+<br><a data-href="Bavette à l'échalote, pommes de terre &amp; haricots" href="recettes/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.html" class="internal-link" target="_self" rel="noopener nofollow">Bavette à l'échalote, pommes de terre &amp; haricots</a>
+<br><a data-href="Saucisse &amp; lentilles" href="recettes/saucisse-&amp;-lentilles.html" class="internal-link" target="_self" rel="noopener nofollow">Saucisse &amp; lentilles</a>
+<br><a data-href="Petits pois au chorizo" href="recettes/petits-pois-au-chorizo.html" class="internal-link" target="_self" rel="noopener nofollow">Petits pois au chorizo</a>
+<br><a data-href="One pot curry de pommes de terre" href="recettes/one-pot-curry-de-pommes-de-terre.html" class="internal-link" target="_self" rel="noopener nofollow">One pot curry de pommes de terre</a>
 <br><br>
 <br>Produits secs
 
@@ -632,14 +685,14 @@
 
 
 <br><br>
-<br><a data-href="Patates douces rôties &amp; crottin" href="/recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener">Patates douces rôties &amp; crottin</a>
-<br><a data-href="Pâtes à la carbonara façon Goblot" href="/recettes/pâtes-à-la-carbonara-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Pâtes à la carbonara façon Goblot</a>
-<br><a data-href="Oeuf cocotte épinards &amp; lard" href="/recettes/oeuf-cocotte-épinards-&amp;-lard.html" class="internal-link" target="_self" rel="noopener">Oeuf cocotte épinards &amp; lard</a>
-<br><a data-href="Salade haricots verts, lardons &amp; œuf mollet" href="/recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html" class="internal-link" target="_self" rel="noopener">Salade haricots verts, lardons &amp; œuf mollet</a>
-<br><a data-href="Quiche oignons, chèvre &amp; miel" href="/recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener">Quiche oignons, chèvre &amp; miel</a>
-<br><a data-href="One pot pasta artichauts &amp; tomates séchées" href="/recettes/one-pot-pasta-artichauts-&amp;-tomates-séchées.html" class="internal-link" target="_self" rel="noopener">One pot pasta artichauts &amp; tomates séchées</a>
-<br><a data-href="Salade campagnarde" href="/recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener">Salade campagnarde</a>
-<br><a data-href="Pâtes au chorizo" href="/recettes/pâtes-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Pâtes au chorizo</a>
+<br><a data-href="Patates douces rôties &amp; crottin" href="recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener nofollow">Patates douces rôties &amp; crottin</a>
+<br><a data-href="Pâtes à la carbonara façon Goblot" href="recettes/pâtes-à-la-carbonara-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Pâtes à la carbonara façon Goblot</a>
+<br><a data-href="Oeuf cocotte épinards &amp; lard" href="recettes/oeuf-cocotte-épinards-&amp;-lard.html" class="internal-link" target="_self" rel="noopener nofollow">Oeuf cocotte épinards &amp; lard</a>
+<br><a data-href="Salade haricots verts, lardons &amp; œuf mollet" href="recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html" class="internal-link" target="_self" rel="noopener nofollow">Salade haricots verts, lardons &amp; œuf mollet</a>
+<br><a data-href="Quiche oignons, chèvre &amp; miel" href="recettes/quiche-oignons,-chèvre-&amp;-miel.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche oignons, chèvre &amp; miel</a>
+<br><a data-href="One pot pasta artichauts &amp; tomates séchées" href="recettes/one-pot-pasta-artichauts-&amp;-tomates-séchées.html" class="internal-link" target="_self" rel="noopener nofollow">One pot pasta artichauts &amp; tomates séchées</a>
+<br><a data-href="Salade campagnarde" href="recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener nofollow">Salade campagnarde</a>
+<br><a data-href="Pâtes au chorizo" href="recettes/pâtes-au-chorizo.html" class="internal-link" target="_self" rel="noopener nofollow">Pâtes au chorizo</a>
 <br><br>
 <br>Fruits et légumes
 
@@ -647,7 +700,7 @@
 <br>Oignon : 7
 <br>Champignons de Paris : 200g
 <br>Échalote : 1
-<br><a data-href="Pommes de terres sautées" href="/recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener">Pommes de terres sautées</a> : 600g
+<br><a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 600g
 <br>Salade : 200g
 <br>Poivrons : 4
 
@@ -689,7 +742,7 @@
 <br>Lardons fumés : 200g
 <br>Lard : 8 tranches
 <br>Lardons : 300g
-<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br><a data-href="Pâte brisée" href="recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener nofollow">Pâte brisée</a> : 1
 <br>Bacon : 8 tranches
 <br>Chorizo : 1
 <br>Pâtes fraîches : 400g
@@ -703,13 +756,13 @@
 
 
 <br><br>
-<br><a data-href="Poulet boursin, lard &amp; pommes de terre sautées" href="/recettes/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.html" class="internal-link" target="_self" rel="noopener">Poulet boursin, lard &amp; pommes de terre sautées</a>
-<br><a data-href="Poulet sauce moutarde" href="/recettes/poulet-sauce-moutarde.html" class="internal-link" target="_self" rel="noopener">Poulet sauce moutarde</a>
-<br><a data-href="Salade piémontaise" href="/recettes/salade-piémontaise.html" class="internal-link" target="_self" rel="noopener">Salade piémontaise</a>
-<br><a data-href="Saucisse &amp; lentilles" href="/recettes/saucisse-&amp;-lentilles.html" class="internal-link" target="_self" rel="noopener">Saucisse &amp; lentilles</a>
-<br><a data-href="Club sandwich poulet crudités" href="/recettes/club-sandwich-poulet-crudités.html" class="internal-link" target="_self" rel="noopener">Club sandwich poulet crudités</a>
-<br><a data-href="Soupe de Tortellini" href="/recettes/soupe-de-tortellini.html" class="internal-link" target="_self" rel="noopener">Soupe de Tortellini</a>
-<br><a data-href="Riz cantonais" href="/recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener">Riz cantonais</a>
+<br><a data-href="Poulet boursin, lard &amp; pommes de terre sautées" href="recettes/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet boursin, lard &amp; pommes de terre sautées</a>
+<br><a data-href="Poulet sauce moutarde" href="recettes/poulet-sauce-moutarde.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet sauce moutarde</a>
+<br><a data-href="Salade piémontaise" href="recettes/salade-piémontaise.html" class="internal-link" target="_self" rel="noopener nofollow">Salade piémontaise</a>
+<br><a data-href="Saucisse &amp; lentilles" href="recettes/saucisse-&amp;-lentilles.html" class="internal-link" target="_self" rel="noopener nofollow">Saucisse &amp; lentilles</a>
+<br><a data-href="Club sandwich poulet crudités" href="recettes/club-sandwich-poulet-crudités.html" class="internal-link" target="_self" rel="noopener nofollow">Club sandwich poulet crudités</a>
+<br><a data-href="Soupe de Tortellini" href="recettes/soupe-de-tortellini.html" class="internal-link" target="_self" rel="noopener nofollow">Soupe de Tortellini</a>
+<br><a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
 <br><br>
 <br>Surgelés
 
@@ -754,7 +807,7 @@
 <br>Produits secs
 
 <br>Riz : 280g
-<br><a data-href="Oeufs cuits" href="/recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener">Oeufs cuits</a> durs : 8
+<br><a data-href="Oeufs cuits" href="recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener nofollow">Oeufs cuits</a> durs : 8
 <br>Mayonnaise : 20cl
 <br>Cornichons : 200g
 <br>Lentilles : 280g
@@ -766,11 +819,11 @@
 
 
 <br><br>
-<br><a data-href="Salade haricots verts, lardons &amp; œuf mollet" href="/recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html" class="internal-link" target="_self" rel="noopener">Salade haricots verts, lardons &amp; œuf mollet</a>
-<br><a data-href="Ravioli ricotta épinards à la crème d'ail et poireau" href="/recettes/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.html" class="internal-link" target="_self" rel="noopener">Ravioli ricotta épinards à la crème d'ail et poireau</a>
-<br><a data-href="Croque-monsieur à l'italienne" href="/recettes/croque-monsieur-à-l'italienne.html" class="internal-link" target="_self" rel="noopener">Croque-monsieur à l'italienne</a>
-<br><a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
-<br><a data-href="Quiche artichaut &amp; parma" href="/recettes/quiche-artichaut-&amp;-parma.html" class="internal-link" target="_self" rel="noopener">Quiche artichaut &amp; parma</a>
+<br><a data-href="Salade haricots verts, lardons &amp; œuf mollet" href="recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html" class="internal-link" target="_self" rel="noopener nofollow">Salade haricots verts, lardons &amp; œuf mollet</a>
+<br><a data-href="Ravioli ricotta épinards à la crème d'ail et poireau" href="recettes/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.html" class="internal-link" target="_self" rel="noopener nofollow">Ravioli ricotta épinards à la crème d'ail et poireau</a>
+<br><a data-href="Croque-monsieur à l'italienne" href="recettes/croque-monsieur-à-l'italienne.html" class="internal-link" target="_self" rel="noopener nofollow">Croque-monsieur à l'italienne</a>
+<br><a data-href="Tartelette chèvre miel &amp; salade" href="recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Tartelette chèvre miel &amp; salade</a>
+<br><a data-href="Quiche artichaut &amp; parma" href="recettes/quiche-artichaut-&amp;-parma.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche artichaut &amp; parma</a>
 <br><br>
 <br>Fruits et légumes
 
@@ -795,7 +848,7 @@
 <br>Raviolis à la ricotta et aux épinards : 500g
 <br>Tranches de jambon blanc ou jambon sec : 8
 <br>Pâte feuilletée : 1
-<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br><a data-href="Pâte brisée" href="recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener nofollow">Pâte brisée</a> : 1
 <br>Jambon cru : 4 tranches
 
 
@@ -821,13 +874,13 @@
 
 
 <br><br>
-<br><a data-href="Brunch sandwich aux champignons" href="/recettes/brunch-sandwich-aux-champignons.html" class="internal-link" target="_self" rel="noopener">Brunch sandwich aux champignons</a>
-<br><a data-href="Salade de pâtes façon tacos" href="/recettes/salade-de-pâtes-façon-tacos.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes façon tacos</a>
-<br><a data-href="Feuilletés épinard, feta &amp; salade" href="/recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Feuilletés épinard, feta &amp; salade</a>
-<br><a data-href="Wrap de tortilla à l'avocat, cheddar et oeufs brouillés" href="/recettes/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.html" class="internal-link" target="_self" rel="noopener">Wrap de tortilla à l'avocat, cheddar et oeufs brouillés</a>
-<br><a data-href="Quiche à l'oignon et aux lardons fumés" href="/recettes/quiche-à-l'oignon-et-aux-lardons-fumés.html" class="internal-link" target="_self" rel="noopener">Quiche à l'oignon et aux lardons fumés</a>
-<br><a data-href="Gratin de ravioles à la ratatouille" href="/recettes/gratin-de-ravioles-à-la-ratatouille.html" class="internal-link" target="_self" rel="noopener">Gratin de ravioles à la ratatouille</a>
-<br><a data-href="Ravioles à la toscane" href="/recettes/ravioles-à-la-toscane.html" class="internal-link" target="_self" rel="noopener">Ravioles à la toscane</a>
+<br><a data-href="Brunch sandwich aux champignons" href="recettes/brunch-sandwich-aux-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Brunch sandwich aux champignons</a>
+<br><a data-href="Salade de pâtes façon tacos" href="recettes/salade-de-pâtes-façon-tacos.html" class="internal-link" target="_self" rel="noopener nofollow">Salade de pâtes façon tacos</a>
+<br><a data-href="Feuilletés épinard, feta &amp; salade" href="recettes/feuilletés-épinard,-feta-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Feuilletés épinard, feta &amp; salade</a>
+<br><a data-href="Wrap de tortilla à l'avocat, cheddar et oeufs brouillés" href="recettes/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.html" class="internal-link" target="_self" rel="noopener nofollow">Wrap de tortilla à l'avocat, cheddar et oeufs brouillés</a>
+<br><a data-href="Quiche à l'oignon et aux lardons fumés" href="recettes/quiche-à-l'oignon-et-aux-lardons-fumés.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche à l'oignon et aux lardons fumés</a>
+<br><a data-href="Gratin de ravioles à la ratatouille" href="recettes/gratin-de-ravioles-à-la-ratatouille.html" class="internal-link" target="_self" rel="noopener nofollow">Gratin de ravioles à la ratatouille</a>
+<br><a data-href="Ravioles à la toscane" href="recettes/ravioles-à-la-toscane.html" class="internal-link" target="_self" rel="noopener nofollow">Ravioles à la toscane</a>
 <br><br>
 <br>Produits secs
 
@@ -839,7 +892,7 @@
 
 <br>Jambon : 8 tranches
 <br>Pâte feuilletée : 1
-<br><a data-href="Pâte brisée" href="/recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener">Pâte brisée</a> : 1
+<br><a data-href="Pâte brisée" href="recettes/pâte-brisée.html" class="internal-link" target="_self" rel="noopener nofollow">Pâte brisée</a> : 1
 <br>Lardons : 75g
 <br>Ravioles : 480g
 
@@ -874,7 +927,7 @@
 <br>Coriandre
 <br>Huile d'olive
 <br>Tortillas : 8
-<br><a data-href="Ratatouille" href="/recettes/ratatouille.html" class="internal-link" target="_self" rel="noopener">Ratatouille</a> : 800g
+<br><a data-href="Ratatouille" href="recettes/ratatouille.html" class="internal-link" target="_self" rel="noopener nofollow">Ratatouille</a> : 800g
 <br>Ravioli : 500g
 <br>Tomates séchées : 200g
 
@@ -896,13 +949,13 @@
 
 
 <br><br>
-<br><a data-href="Galette forestière" href="/recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener">Galette forestière</a>
-<br><a data-href="Poulet sauce moutarde" href="/recettes/poulet-sauce-moutarde.html" class="internal-link" target="_self" rel="noopener">Poulet sauce moutarde</a>
-<br><a data-href="Haricots verts à la carbonara" href="/recettes/haricots-verts-à-la-carbonara.html" class="internal-link" target="_self" rel="noopener">Haricots verts à la carbonara</a>
-<br><a data-href="Salade de pâtes à l'italienne" href="/recettes/salade-de-pâtes-à-l'italienne.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes à l'italienne</a>
-<br><a data-href="Chèvre chaud au jambon &amp; salade" href="/recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Chèvre chaud au jambon &amp; salade</a>
-<br><a data-href="Chakchouka feta &amp; pois chiches" href="/recettes/chakchouka-feta-&amp;-pois-chiches.html" class="internal-link" target="_self" rel="noopener">Chakchouka feta &amp; pois chiches</a>
-<br><a data-href="Salade campagnarde" href="/recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener">Salade campagnarde</a>
+<br><a data-href="Galette forestière" href="recettes/galette-forestière.html" class="internal-link" target="_self" rel="noopener nofollow">Galette forestière</a>
+<br><a data-href="Poulet sauce moutarde" href="recettes/poulet-sauce-moutarde.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet sauce moutarde</a>
+<br><a data-href="Haricots verts à la carbonara" href="recettes/haricots-verts-à-la-carbonara.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la carbonara</a>
+<br><a data-href="Salade de pâtes à l'italienne" href="recettes/salade-de-pâtes-à-l'italienne.html" class="internal-link" target="_self" rel="noopener nofollow">Salade de pâtes à l'italienne</a>
+<br><a data-href="Chèvre chaud au jambon &amp; salade" href="recettes/chèvre-chaud-au-jambon-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Chèvre chaud au jambon &amp; salade</a>
+<br><a data-href="Chakchouka feta &amp; pois chiches" href="recettes/chakchouka-feta-&amp;-pois-chiches.html" class="internal-link" target="_self" rel="noopener nofollow">Chakchouka feta &amp; pois chiches</a>
+<br><a data-href="Salade campagnarde" href="recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener nofollow">Salade campagnarde</a>
 <br><br>
 <br>Produits frais
 
@@ -942,7 +995,7 @@
 <br>Melon : 1
 <br>Tomates cerises : 6
 <br>Salade : 200g
-<br><a data-href="Pommes de terres sautées" href="/recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener">Pommes de terres sautées</a> : 600g
+<br><a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 600g
 <br>Salade : 200g
 <br>bananes
 
@@ -970,13 +1023,13 @@
 
 
 <br><br>
-<br><a rel="noopener" class="external-link" href="https://jow.fr/recipes/gazpacho-et-roules-mozza-jambon-pesto-8ydx5q0vccww03t907ju?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/gazpacho-et-roules-mozza-jambon-pesto-8ydx5q0vccww03t907ju?coversCount=4&amp;from=menu</a>
-<br><a data-href="Petits pois au chorizo" href="/recettes/petits-pois-au-chorizo.html" class="internal-link" target="_self" rel="noopener">Petits pois au chorizo</a>
-<br><a data-href="Tartelette chèvre miel &amp; salade" href="/recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener">Tartelette chèvre miel &amp; salade</a>
-<br><a data-href="Soupe de Tortellini" href="/recettes/soupe-de-tortellini.html" class="internal-link" target="_self" rel="noopener">Soupe de Tortellini</a>
-<br><a data-href="Club sandwich poulet - bacon" href="/recettes/club-sandwich-poulet-bacon.html" class="internal-link" target="_self" rel="noopener">Club sandwich poulet - bacon</a>
-<br><a data-href="Tresse feuilletée au boursin, poireau et truite fumée" href="/recettes/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.html" class="internal-link" target="_self" rel="noopener">Tresse feuilletée au boursin, poireau et truite fumée</a>
-<br><a data-href="Salade de pâtes façon tacos" href="/recettes/salade-de-pâtes-façon-tacos.html" class="internal-link" target="_self" rel="noopener">Salade de pâtes façon tacos</a>
+<br><a rel="noopener nofollow" class="external-link" href="https://jow.fr/recipes/gazpacho-et-roules-mozza-jambon-pesto-8ydx5q0vccww03t907ju?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/gazpacho-et-roules-mozza-jambon-pesto-8ydx5q0vccww03t907ju?coversCount=4&amp;from=menu</a>
+<br><a data-href="Petits pois au chorizo" href="recettes/petits-pois-au-chorizo.html" class="internal-link" target="_self" rel="noopener nofollow">Petits pois au chorizo</a>
+<br><a data-href="Tartelette chèvre miel &amp; salade" href="recettes/tartelette-chèvre-miel-&amp;-salade.html" class="internal-link" target="_self" rel="noopener nofollow">Tartelette chèvre miel &amp; salade</a>
+<br><a data-href="Soupe de Tortellini" href="recettes/soupe-de-tortellini.html" class="internal-link" target="_self" rel="noopener nofollow">Soupe de Tortellini</a>
+<br><a data-href="Club sandwich poulet - bacon" href="recettes/club-sandwich-poulet-bacon.html" class="internal-link" target="_self" rel="noopener nofollow">Club sandwich poulet - bacon</a>
+<br><a data-href="Tresse feuilletée au boursin, poireau et truite fumée" href="recettes/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.html" class="internal-link" target="_self" rel="noopener nofollow">Tresse feuilletée au boursin, poireau et truite fumée</a>
+<br><a data-href="Salade de pâtes façon tacos" href="recettes/salade-de-pâtes-façon-tacos.html" class="internal-link" target="_self" rel="noopener nofollow">Salade de pâtes façon tacos</a>
 <br><br>
 <br>Fruits et légumes
 
@@ -1049,7 +1102,25 @@
 <br>brocoli
 
 
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Sat, 23 Nov 2024 13:42:52 GMT</pubDate></item><item><title><![CDATA[Escalope de dinde à la normande]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Sat, 07 Dec 2024 14:10:58 GMT</pubDate></item><item><title><![CDATA[Bavette à l'échalote, pommes de terre &amp; haricots]]></title><description><![CDATA[ 
+ <br><br><img alt="Bavette à l'échalote, pommes de terre &amp; haricots.webp" src="/recettes/images/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.webp"><br><br><br>
+<br>Boeuf (bavette) : 4
+<br>Échalotes : 2
+<br>Haricots verts : 400g
+<br>Beurre : 80g
+<br><a data-href="Pommes de terres sautées" href="/recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener">Pommes de terres sautées</a> : 600g
+<br><br>
+<br>Faites chauffer une casserole d'eau bouillante salée.
+<br>Pendant ce temps, émincez les échalotes.
+<br>Ajoutez les haricots verts dans la casserole et faites cuire pendant 12 min supplémentaires.
+<br>Dans une poêle chaude, ajoutez la moitié du beurre et y faire revenir les échalotes 2 minutes, sur feu moyen.
+<br>Une fois l'eau évaporée, ajoutez l'autre moitié du beurre, la bavette dans la poêle et faites cuire 3 minutes de chaque côté.
+<br>Retirez la viande de la poêle une fois cuite. Ajoutez un fond d'eau dans la poêle pour faire le jus.
+<br>Replacez la viande dans son jus, le temps d'égoutter les légumes.
+<br>Égouttez les haricots verts et les pommes de terre.
+<br>Coupez la viande en tranches.
+<br>Servez la bavette avec les haricots verts, le jus de cuisson et les échalotes. Salez, poivrez, c'est prêt !
+]]></description><link>recettes/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.html</link><guid isPermaLink="false">recettes/Bavette à l'échalote, pommes de terre &amp; haricots.md</guid><pubDate>Sat, 23 Nov 2024 15:34:12 GMT</pubDate><enclosure url="recettes/images/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Escalope de dinde à la normande]]></title><description><![CDATA[ 
  <br><br><img alt="Escalope de dinde à la normande.webp" src="/recettes/images/escalope-de-dinde-à-la-normande.webp"><br><br><br>
 <br><a data-href="Purée de pommes de terre façon Goblot" href="/recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener">Purée de pommes de terre façon Goblot</a> : 500g
 <br>Champignons de Paris : 400g
