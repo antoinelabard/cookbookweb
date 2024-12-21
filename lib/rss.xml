@@ -1,5 +1,118 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 13 Dec 2024 13:15:10 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 13 Dec 2024 13:15:06 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 21 Dec 2024 14:53:17 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 21 Dec 2024 14:53:12 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Couscous rapide]]></title><description><![CDATA[ 
+ <br><br><img alt="Couscous rapide.webp" src="recettes/images/couscous-rapide.webp"><br><br><br>
+<br>Carottes : 600g
+<br>Semoule : 160g
+<br>Pois chiches (cuits) : 200g
+<br>Chipolatas : 8
+<br>Chair de tomate : 160g
+<br>Épices orientales
+<br><br>
+<br>Épluchez et coupez les carottes en biseaux.
+<br>Dans une casserole, ajoutez un filet d'huile d'olive, les carottes, les épices, salez et poivrez. Faites revenir 3 minutes à feu vif.
+<br>Ajoutez 1l d'eau, salez, poivrez, couvrez et laissez cuire 30 minutes.
+<br>Ajoutez la semoule, salez, poivrez la semoule et mélangez. Couvrez le plat de semoule et laissez gonfler 3 minutes.
+<br>Ajoutez la chair de tomate et les pois chiches avec les légumes. Mélangez et laissez cuire 5 minutes.
+<br>Pendant ce temps, piquez les merguez et faites les cuire à feu vif 4 minutes en les retournant à mi-cuisson.
+<br>Servez la semoule avec le couscous et les merguez. C'est prêt !
+]]></description><link>recettes/couscous-rapide.html</link><guid isPermaLink="false">recettes/Couscous rapide.md</guid><pubDate>Sun, 15 Dec 2024 14:01:34 GMT</pubDate><enclosure url="recettes/images/couscous-rapide.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/couscous-rapide.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sauce au roquefort]]></title><description><![CDATA[ 
+ <br><br><img alt="Sauce au roquefort.webp" src="recettes/images/sauce-au-roquefort.webp"><br><br><br>
+<br>Roquefort : 150g
+<br>Crème fraîche : 50cl
+<br>Lait : 15cl
+<br><br>
+<br>Mettre le lait à chauffer (il n'est pas nécessaire de le faire bouillir).
+<br>Émietter le roquefort et le faire fondre dans le lait en remuant constamment.
+<br>Une fois le fromage fondu, incorporer la crème fraiche.
+<br>Laisser 5 à 10 minutes à feu doux. La sauce est prête.
+]]></description><link>recettes/sauce-au-roquefort.html</link><guid isPermaLink="false">recettes/Sauce au roquefort.md</guid><pubDate>Sun, 15 Dec 2024 13:40:43 GMT</pubDate><enclosure url="recettes/images/sauce-au-roquefort.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/sauce-au-roquefort.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br>
+<br><a data-href="Poulet boursin, lard &amp; pommes de terre sautées" href="recettes/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet boursin, lard &amp; pommes de terre sautées</a>
+<br><a data-href="Pie poireaux &amp; champignons" href="recettes/pie-poireaux-&amp;-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Pie poireaux &amp; champignons</a>
+<br><a data-href="Omelette au saumon" href="recettes/omelette-au-saumon.html" class="internal-link" target="_self" rel="noopener nofollow">Omelette au saumon</a>
+<br><a data-href="Risotto de coquillettes" href="recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes</a>
+<br><a data-href="Soupe iranienne" href="recettes/soupe-iranienne.html" class="internal-link" target="_self" rel="noopener nofollow">Soupe iranienne</a>
+<br><a data-href="Grilled cheese raclette &amp; jambon" href="recettes/grilled-cheese-raclette-&amp;-jambon.html" class="internal-link" target="_self" rel="noopener nofollow">Grilled cheese raclette &amp; jambon</a>
+<br><a rel="noopener nofollow" class="external-link" href="https://jow.fr/recipes/poelee-de-patates-douces-et-feta-88cjj8y07cvkioqn174z?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/poelee-de-patates-douces-et-feta-88cjj8y07cvkioqn174z?coversCount=4&amp;from=menu</a>
+<br><br>
+<br>Conserves :
+
+<br>Concentré de tomate : 70g ---&gt; <a data-href="Soupe iranienne" href="recettes/soupe-iranienne.html" class="internal-link" target="_self" rel="noopener nofollow">Soupe iranienne</a>
+
+
+<br>Produits secs :
+
+<br>Blé à cuire : 200g ---&gt; <a data-href="Soupe iranienne" href="recettes/soupe-iranienne.html" class="internal-link" target="_self" rel="noopener nofollow">Soupe iranienne</a>
+<br>Bouillon de légumes : 1 ---&gt; <a data-href="Soupe iranienne" href="recettes/soupe-iranienne.html" class="internal-link" target="_self" rel="noopener nofollow">Soupe iranienne</a>
+<br>Bouillon de volaille : 1 ---&gt; <a data-href="Risotto de coquillettes" href="recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes</a>
+<br>Huile ---&gt; <a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 1kg
+<br>Jus de citron ---&gt; <a data-href="Soupe iranienne" href="recettes/soupe-iranienne.html" class="internal-link" target="_self" rel="noopener nofollow">Soupe iranienne</a>
+<br>Oeufs : 8 ---&gt; <a data-href="Omelette au saumon" href="recettes/omelette-au-saumon.html" class="internal-link" target="_self" rel="noopener nofollow">Omelette au saumon</a>
+<br>Pain de mie : 16 tranches ---&gt; <a data-href="Grilled cheese raclette &amp; jambon" href="recettes/grilled-cheese-raclette-&amp;-jambon.html" class="internal-link" target="_self" rel="noopener nofollow">Grilled cheese raclette &amp; jambon</a>
+<br>Pâtes (coquillettes) : 360g ---&gt; <a data-href="Risotto de coquillettes" href="recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes</a>
+<br>Œuf 4
+
+
+<br>Épices :
+
+<br>Curcuma ---&gt; <a data-href="Soupe iranienne" href="recettes/soupe-iranienne.html" class="internal-link" target="_self" rel="noopener nofollow">Soupe iranienne</a>
+<br>Curry ---&gt; <a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 1kg
+<br>Muscade ---&gt; <a data-href="Grilled cheese raclette &amp; jambon" href="recettes/grilled-cheese-raclette-&amp;-jambon.html" class="internal-link" target="_self" rel="noopener nofollow">Grilled cheese raclette &amp; jambon</a>
+
+
+<br>Produits du monde :
+
+<br>(Optionnel) Lait de coco : 10cl ---&gt; <a data-href="Soupe iranienne" href="recettes/soupe-iranienne.html" class="internal-link" target="_self" rel="noopener nofollow">Soupe iranienne</a>
+
+
+<br>Produits frais :
+
+<br>Jambon : 4 tranches ---&gt; <a data-href="Risotto de coquillettes" href="recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes</a>
+<br>Jambon : 8 tranches ---&gt; <a data-href="Grilled cheese raclette &amp; jambon" href="recettes/grilled-cheese-raclette-&amp;-jambon.html" class="internal-link" target="_self" rel="noopener nofollow">Grilled cheese raclette &amp; jambon</a>
+<br>Lard : 8 tranches ---&gt; <a data-href="Poulet boursin, lard &amp; pommes de terre sautées" href="recettes/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet boursin, lard &amp; pommes de terre sautées</a>
+<br>Pâte feuilletée : 1 ---&gt; <a data-href="Pie poireaux &amp; champignons" href="recettes/pie-poireaux-&amp;-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Pie poireaux &amp; champignons</a>
+
+
+<br>Produits laitiers :
+
+<br>Fromage frais : 120g ---&gt; <a data-href="Grilled cheese raclette &amp; jambon" href="recettes/grilled-cheese-raclette-&amp;-jambon.html" class="internal-link" target="_self" rel="noopener nofollow">Grilled cheese raclette &amp; jambon</a>
+<br>Beurre : 50g ---&gt; <a data-href="Pie poireaux &amp; champignons" href="recettes/pie-poireaux-&amp;-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Pie poireaux &amp; champignons</a>
+<br>Comté : 80g ---&gt; <a data-href="Risotto de coquillettes" href="recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes</a>
+<br>Crème fraîche: 10cl ---&gt; <a data-href="Risotto de coquillettes" href="recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes</a>
+<br>Fromage frais : 120g ---&gt; <a data-href="Omelette au saumon" href="recettes/omelette-au-saumon.html" class="internal-link" target="_self" rel="noopener nofollow">Omelette au saumon</a>
+<br>Fromage râpé : 100g ---&gt; <a data-href="Pie poireaux &amp; champignons" href="recettes/pie-poireaux-&amp;-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Pie poireaux &amp; champignons</a>
+<br>Fromage à l'ail : 160g ---&gt; <a data-href="Poulet boursin, lard &amp; pommes de terre sautées" href="recettes/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet boursin, lard &amp; pommes de terre sautées</a>
+<br>Fromage à raclette : 160g ---&gt; <a data-href="Grilled cheese raclette &amp; jambon" href="recettes/grilled-cheese-raclette-&amp;-jambon.html" class="internal-link" target="_self" rel="noopener nofollow">Grilled cheese raclette &amp; jambon</a>
+<br>Lait : 500ml ---&gt; <a data-href="Pie poireaux &amp; champignons" href="recettes/pie-poireaux-&amp;-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Pie poireaux &amp; champignons</a>
+<br>Feta 160 g
+
+
+<br>Fruits et légumes :
+
+<br>Carottes : 2 ---&gt; <a data-href="Soupe iranienne" href="recettes/soupe-iranienne.html" class="internal-link" target="_self" rel="noopener nofollow">Soupe iranienne</a>
+<br>Champignons de Paris : 300g ---&gt; <a data-href="Pie poireaux &amp; champignons" href="recettes/pie-poireaux-&amp;-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Pie poireaux &amp; champignons</a>
+<br>Ciboulette ---&gt; <a data-href="Poulet boursin, lard &amp; pommes de terre sautées" href="recettes/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet boursin, lard &amp; pommes de terre sautées</a>
+<br>Oignon : 1 ---&gt; <a data-href="Soupe iranienne" href="recettes/soupe-iranienne.html" class="internal-link" target="_self" rel="noopener nofollow">Soupe iranienne</a>
+<br>Poireaux : 3 ---&gt; <a data-href="Pie poireaux &amp; champignons" href="recettes/pie-poireaux-&amp;-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Pie poireaux &amp; champignons</a>
+<br>Pommes de terre : 1kg ---&gt; <a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 1kg
+<br>Salade ---&gt; <a data-href="Omelette au saumon" href="recettes/omelette-au-saumon.html" class="internal-link" target="_self" rel="noopener nofollow">Omelette au saumon</a>
+<br><a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 1kg ---&gt; <a data-href="Poulet boursin, lard &amp; pommes de terre sautées" href="recettes/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet boursin, lard &amp; pommes de terre sautées</a>
+<br>Échalote : 1 ---&gt; <a data-href="Risotto de coquillettes" href="recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes</a>
+<br>Ail 1 gou.
+<br>Patate douce 800 g
+
+
+<br>Apéritifs et alcools :
+
+<br>Vin blanc : 10cl ---&gt; <a data-href="Risotto de coquillettes" href="recettes/risotto-de-coquillettes.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes</a>
+
+
+<br>Viandes et poissons :
+
+<br>Escalopes de poulet : 4 ---&gt; <a data-href="Poulet boursin, lard &amp; pommes de terre sautées" href="recettes/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Poulet boursin, lard &amp; pommes de terre sautées</a>
+<br>Saumon : 4 tranches ---&gt; <a data-href="Omelette au saumon" href="recettes/omelette-au-saumon.html" class="internal-link" target="_self" rel="noopener nofollow">Omelette au saumon</a>
+
+
+<br><br>
 <br><a data-href="Escalope de dinde à la normande" href="recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener nofollow">Escalope de dinde à la normande</a>
 <br><a rel="noopener nofollow" class="external-link" href="https://www.marmiton.org/recettes/recette_lasagnes-a-la-bolognaise_18215.aspx" target="_blank">https://www.marmiton.org/recettes/recette_lasagnes-a-la-bolognaise_18215.aspx</a>
 <br>pommes de terres sautées steak haché
@@ -57,7 +170,7 @@
 <br>carotte : 1
 <br>céleri 1
 <br>oignons 3
-<br>poivrons : 2
+<br>cdpoivrons : 2
 <br>Ail : 1 gousse ---&gt; <a data-href="Ravioles à la toscane" href="recettes/ravioles-à-la-toscane.html" class="internal-link" target="_self" rel="noopener nofollow">Ravioles à la toscane</a>
 <br>Champignons de Paris : 400g ---&gt; <a data-href="Escalope de dinde à la normande" href="recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener nofollow">Escalope de dinde à la normande</a>
 <br>Oignon : 1 ---&gt; <a data-href="Patates douces rôties &amp; crottin" href="recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener nofollow">Patates douces rôties &amp; crottin</a>
@@ -1181,7 +1294,7 @@
 <br>brocoli
 
 
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 13 Dec 2024 13:13:33 GMT</pubDate></item><item><title><![CDATA[Bavette à l'échalote, pommes de terre &amp; haricots]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Sat, 21 Dec 2024 14:47:41 GMT</pubDate></item><item><title><![CDATA[Bavette à l'échalote, pommes de terre &amp; haricots]]></title><description><![CDATA[ 
  <br><br><img alt="Bavette à l'échalote, pommes de terre &amp; haricots.webp" src="/recettes/images/bavette-à-l'échalote,-pommes-de-terre-&amp;-haricots.webp"><br><br><br>
 <br>Boeuf (bavette) : 4
 <br>Échalotes : 2
