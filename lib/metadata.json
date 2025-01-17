@@ -1,6 +1,6 @@
 {
   "vaultName": "cookbook",
-  "lastExport": 1735249971494,
+  "lastExport": 1737134829824,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -165,6 +165,7 @@
     "recettes/images/Tartelette chèvre miel & salade.webp",
     "recettes/images/Tartiflette façon Goblot.webp",
     "recettes/images/Tenders.webp",
+    "recettes/images/Tiramisu.webp",
     "recettes/images/Toasts à l'avocat et oeufs mollets.webp",
     "recettes/images/Tomates farcies au chèvre chaud.webp",
     "recettes/images/Tresse feuilletée au boursin, poireau et truite fumée.webp",
@@ -203,6 +204,7 @@
     "recettes/Croque-monsieur à l'italienne.md",
     "recettes/Curry de pois chiches.md",
     "recettes/Délicieuse salade de lentilles.md",
+    "recettes/Dummy Recipe.md",
     "recettes/Endives en pochon.md",
     "recettes/Escalope de dinde à la normande.md",
     "recettes/Feuilletés apéritifs aux Saucisses de Strasbourg.md",
@@ -290,6 +292,7 @@
     "recettes/Ratatouille.md",
     "recettes/Ravioles à la toscane.md",
     "recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md",
+    "recettes/recipe.md",
     "recettes/Risotto comté & saucisse à l'ancienne.md",
     "recettes/Risotto de coquillettes.md",
     "recettes/Risotto de coquillettes poireaux, poulet & chèvre.md",
@@ -326,6 +329,7 @@
     "recettes/Tartelette chèvre miel & salade.md",
     "recettes/Tartiflette façon Goblot.md",
     "recettes/Tenders.md",
+    "recettes/Tiramisu.md",
     "recettes/Toasts à l'avocat et oeufs mollets.md",
     "recettes/Tomates farcies au chèvre chaud.md",
     "recettes/Tresse feuilletée au boursin, poireau et truite fumée.md",
@@ -1571,7 +1575,7 @@
       ]
     },
     "recettes/Camembert rôti & potatoes.md": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737134829824,
       "sourceSize": 1227,
       "exportedPath": "recettes/camembert-rôti-&-potatoes.html",
       "dependencies": [
@@ -1691,8 +1695,8 @@
       ]
     },
     "recettes/Curry de pois chiches.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1157,
+      "modifiedTime": 1737134829824,
+      "sourceSize": 1170,
       "exportedPath": "recettes/curry-de-pois-chiches.html",
       "dependencies": [
         "recettes/images/curry-de-pois-chiches.webp"
@@ -2548,8 +2552,8 @@
       ]
     },
     "recettes/Soupe iranienne.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1097,
+      "modifiedTime": 1737134829824,
+      "sourceSize": 1052,
       "exportedPath": "recettes/soupe-iranienne.html",
       "dependencies": [
         "recettes/images/soupe-iranienne.webp"
@@ -2703,8 +2707,8 @@
       ]
     },
     "Menu de la semaine.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 39040,
+      "modifiedTime": 1737134829824,
+      "sourceSize": 44494,
       "exportedPath": "menu-de-la-semaine.html",
       "dependencies": []
     },
@@ -2775,7 +2779,7 @@
       "dependencies": []
     },
     "recettes/images/camembert-rôti-&-potatoes.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737134829824,
       "sourceSize": 217630,
       "exportedPath": "recettes/images/camembert-rôti-&-potatoes.webp",
       "dependencies": []
@@ -2865,7 +2869,7 @@
       "dependencies": []
     },
     "recettes/images/curry-de-pois-chiches.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737134829824,
       "sourceSize": 219146,
       "exportedPath": "recettes/images/curry-de-pois-chiches.webp",
       "dependencies": []
@@ -3507,7 +3511,7 @@
       "dependencies": []
     },
     "recettes/images/soupe-iranienne.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737134829824,
       "sourceSize": 224730,
       "exportedPath": "recettes/images/soupe-iranienne.webp",
       "dependencies": []
@@ -3615,169 +3619,169 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1735249971494,
-      "sourceSize": 126903,
+      "modifiedTime": 1737134829824,
+      "sourceSize": 128218,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1735249971494,
-      "sourceSize": 15018,
+      "modifiedTime": 1737134829824,
+      "sourceSize": 15244,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 369,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1735249971494,
+      "modifiedTime": 1737134829824,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -3841,8 +3845,8 @@
       ]
     },
     "recettes/Pie poireaux & champignons.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1936,
+      "modifiedTime": 1737134829824,
+      "sourceSize": 1728,
       "exportedPath": "recettes/pie-poireaux-&-champignons.html",
       "dependencies": [
         "recettes/images/pie-poireaux-&-champignons.webp"
@@ -3879,7 +3883,7 @@
       "dependencies": []
     },
     "recettes/images/pie-poireaux-&-champignons.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737134829824,
       "sourceSize": 204454,
       "exportedPath": "recettes/images/pie-poireaux-&-champignons.webp",
       "dependencies": []
@@ -4019,6 +4023,38 @@
       "modifiedTime": 1735248542327,
       "sourceSize": 64522,
       "exportedPath": "recettes/images/bûche-de-noël.webp",
+      "dependencies": []
+    },
+    "recettes/images/Tiramisu.webp": {
+      "modifiedTime": 1737134829824,
+      "sourceSize": 28398,
+      "exportedPath": "recettes/images/tiramisu.webp",
+      "dependencies": []
+    },
+    "recettes/Dummy Recipe.md": {
+      "modifiedTime": 1737134829824,
+      "sourceSize": 288,
+      "exportedPath": "recettes/dummy-recipe.html",
+      "dependencies": []
+    },
+    "recettes/recipe.md": {
+      "modifiedTime": 1737134829824,
+      "sourceSize": 789,
+      "exportedPath": "recettes/recipe.html",
+      "dependencies": []
+    },
+    "recettes/Tiramisu.md": {
+      "modifiedTime": 1737134829824,
+      "sourceSize": 1074,
+      "exportedPath": "recettes/tiramisu.html",
+      "dependencies": [
+        "recettes/images/tiramisu.webp"
+      ]
+    },
+    "recettes/images/tiramisu.webp": {
+      "modifiedTime": 1737134829824,
+      "sourceSize": 28398,
+      "exportedPath": "recettes/images/tiramisu.webp",
       "dependencies": []
     }
   }
