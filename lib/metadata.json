@@ -1,6 +1,6 @@
 {
   "vaultName": "cookbook",
-  "lastExport": 1737134829824,
+  "lastExport": 1738436251039,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -170,6 +170,7 @@
     "recettes/images/Tomates farcies au chèvre chaud.webp",
     "recettes/images/Tresse feuilletée au boursin, poireau et truite fumée.webp",
     "recettes/images/Velouté d'endives au lard.webp",
+    "recettes/images/Wok de nouilles chinoises au tofu.webp",
     "recettes/images/Wok légumes sautés, poulet & sauce cacahuète.webp",
     "recettes/images/Wrap de tortilla à l'avocat, cheddar et oeufs brouillés.webp",
     "recettes/images/Wrap maïs, thon & fromage frais.webp",
@@ -292,7 +293,6 @@
     "recettes/Ratatouille.md",
     "recettes/Ravioles à la toscane.md",
     "recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md",
-    "recettes/recipe.md",
     "recettes/Risotto comté & saucisse à l'ancienne.md",
     "recettes/Risotto de coquillettes.md",
     "recettes/Risotto de coquillettes poireaux, poulet & chèvre.md",
@@ -354,7 +354,7 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/6155340132a851f6089e.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -522,6 +522,7 @@
     "recettes/images/tartelette-chèvre-miel-&-salade.webp",
     "recettes/images/tartiflette-façon-goblot.webp",
     "recettes/images/tenders.webp",
+    "recettes/images/tiramisu.webp",
     "recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp",
     "recettes/images/tomates-farcies-au-chèvre-chaud.webp",
     "recettes/images/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.webp",
@@ -546,7 +547,7 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/6155340132a851f6089e.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -1549,8 +1550,8 @@
       ]
     },
     "recettes/Burger alsacien au poulet et munster.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1310,
+      "modifiedTime": 1737223945197,
+      "sourceSize": 1301,
       "exportedPath": "recettes/burger-alsacien-au-poulet-et-munster.html",
       "dependencies": [
         "recettes/images/burger-alsacien-au-poulet-et-munster.webp",
@@ -1615,8 +1616,8 @@
       ]
     },
     "recettes/Chocolat chaud maison.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 701,
+      "modifiedTime": 1737223945197,
+      "sourceSize": 700,
       "exportedPath": "recettes/chocolat-chaud-maison.html",
       "dependencies": [
         "recettes/images/chocolat-chaud-maison.webp"
@@ -1735,8 +1736,8 @@
       ]
     },
     "recettes/Feuilletés au fromage ultra simples.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1165,
+      "modifiedTime": 1737223945197,
+      "sourceSize": 1163,
       "exportedPath": "recettes/feuilletés-au-fromage-ultra-simples.html",
       "dependencies": [
         "recettes/images/feuilletés-au-fromage-ultra-simples.webp"
@@ -1751,7 +1752,7 @@
       ]
     },
     "recettes/Flammeküeche.md": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737223945197,
       "sourceSize": 1148,
       "exportedPath": "recettes/flammeküeche.html",
       "dependencies": [
@@ -1770,8 +1771,8 @@
       ]
     },
     "recettes/Frites.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1635,
+      "modifiedTime": 1737223945197,
+      "sourceSize": 1637,
       "exportedPath": "recettes/frites.html",
       "dependencies": [
         "recettes/images/frites.webp"
@@ -1794,8 +1795,8 @@
       ]
     },
     "recettes/Galette complète & oignons confits.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1394,
+      "modifiedTime": 1738436251039,
+      "sourceSize": 939,
       "exportedPath": "recettes/galette-complète-&-oignons-confits.html",
       "dependencies": [
         "recettes/images/galette-complète-&-oignons-confits.webp"
@@ -1890,8 +1891,8 @@
       ]
     },
     "recettes/Gratin de ravioles au saumon.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1047,
+      "modifiedTime": 1738436251039,
+      "sourceSize": 1056,
       "exportedPath": "recettes/gratin-de-ravioles-au-saumon.html",
       "dependencies": [
         "recettes/images/gratin-de-ravioles-au-saumon.webp"
@@ -1930,8 +1931,8 @@
       ]
     },
     "recettes/Haricots verts à l'ail.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 718,
+      "modifiedTime": 1737223945197,
+      "sourceSize": 717,
       "exportedPath": "recettes/haricots-verts-à-l'ail.html",
       "dependencies": [
         "recettes/images/haricots-verts-à-l'ail.webp"
@@ -2027,8 +2028,8 @@
       ]
     },
     "recettes/Oignons confits.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 604,
+      "modifiedTime": 1737223945197,
+      "sourceSize": 602,
       "exportedPath": "recettes/oignons-confits.html",
       "dependencies": [
         "recettes/images/oignons-confits.webp"
@@ -2367,16 +2368,16 @@
       ]
     },
     "recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1445,
+      "modifiedTime": 1737223945197,
+      "sourceSize": 1437,
       "exportedPath": "recettes/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.html",
       "dependencies": [
         "recettes/images/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.webp"
       ]
     },
     "recettes/Risotto comté & saucisse à l'ancienne.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1371,
+      "modifiedTime": 1738436251039,
+      "sourceSize": 1370,
       "exportedPath": "recettes/risotto-comté-&-saucisse-à-l'ancienne.html",
       "dependencies": [
         "recettes/images/risotto-comté-&-saucisse-à-l'ancienne.webp"
@@ -2626,8 +2627,8 @@
       ]
     },
     "recettes/Tenders.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1237,
+      "modifiedTime": 1737223945197,
+      "sourceSize": 1235,
       "exportedPath": "recettes/tenders.html",
       "dependencies": [
         "recettes/images/tenders.webp"
@@ -2707,8 +2708,8 @@
       ]
     },
     "Menu de la semaine.md": {
-      "modifiedTime": 1737134829824,
-      "sourceSize": 44494,
+      "modifiedTime": 1738436251039,
+      "sourceSize": 49290,
       "exportedPath": "menu-de-la-semaine.html",
       "dependencies": []
     },
@@ -2755,13 +2756,13 @@
       "dependencies": []
     },
     "recettes/images/burger-alsacien-au-poulet-et-munster.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737223945197,
       "sourceSize": 176020,
       "exportedPath": "recettes/images/burger-alsacien-au-poulet-et-munster.webp",
       "dependencies": []
     },
     "recettes/images/oignons-confits.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737223945197,
       "sourceSize": 235444,
       "exportedPath": "recettes/images/oignons-confits.webp",
       "dependencies": []
@@ -2809,7 +2810,7 @@
       "dependencies": []
     },
     "recettes/images/chocolat-chaud-maison.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737223945197,
       "sourceSize": 24516,
       "exportedPath": "recettes/images/chocolat-chaud-maison.webp",
       "dependencies": []
@@ -2899,7 +2900,7 @@
       "dependencies": []
     },
     "recettes/images/feuilletés-au-fromage-ultra-simples.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737223945197,
       "sourceSize": 16494,
       "exportedPath": "recettes/images/feuilletés-au-fromage-ultra-simples.webp",
       "dependencies": []
@@ -2911,7 +2912,7 @@
       "dependencies": []
     },
     "recettes/images/flammeküeche.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737223945197,
       "sourceSize": 213196,
       "exportedPath": "recettes/images/flammeküeche.webp",
       "dependencies": []
@@ -2923,7 +2924,7 @@
       "dependencies": []
     },
     "recettes/images/frites.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737223945197,
       "sourceSize": 483378,
       "exportedPath": "recettes/images/frites.webp",
       "dependencies": []
@@ -2959,7 +2960,7 @@
       "dependencies": []
     },
     "recettes/images/galette-complète-&-oignons-confits.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1738436251039,
       "sourceSize": 207624,
       "exportedPath": "recettes/images/galette-complète-&-oignons-confits.webp",
       "dependencies": []
@@ -3031,7 +3032,7 @@
       "dependencies": []
     },
     "recettes/images/gratin-de-ravioles-au-saumon.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1738436251039,
       "sourceSize": 181938,
       "exportedPath": "recettes/images/gratin-de-ravioles-au-saumon.webp",
       "dependencies": []
@@ -3067,7 +3068,7 @@
       "dependencies": []
     },
     "recettes/images/haricots-verts-à-l'ail.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737223945197,
       "sourceSize": 91802,
       "exportedPath": "recettes/images/haricots-verts-à-l'ail.webp",
       "dependencies": []
@@ -3373,13 +3374,13 @@
       "dependencies": []
     },
     "recettes/images/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737223945197,
       "sourceSize": 241384,
       "exportedPath": "recettes/images/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.webp",
       "dependencies": []
     },
     "recettes/images/risotto-comté-&-saucisse-à-l'ancienne.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1738436251039,
       "sourceSize": 56576,
       "exportedPath": "recettes/images/risotto-comté-&-saucisse-à-l'ancienne.webp",
       "dependencies": []
@@ -3565,7 +3566,7 @@
       "dependencies": []
     },
     "recettes/images/tenders.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737223945197,
       "sourceSize": 51654,
       "exportedPath": "recettes/images/tenders.webp",
       "dependencies": []
@@ -3619,169 +3620,169 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1737223945197,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1737134829824,
-      "sourceSize": 128218,
+      "modifiedTime": 1738436251039,
+      "sourceSize": 128315,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1737134829824,
-      "sourceSize": 15244,
+      "modifiedTime": 1738436251039,
+      "sourceSize": 15215,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1737134829824,
-      "sourceSize": 131021,
+      "modifiedTime": 1738436251039,
+      "sourceSize": 137228,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1737134829824,
-      "sourceSize": 369,
+      "modifiedTime": 1738436251039,
+      "sourceSize": 395,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1738436251039,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -3869,8 +3870,8 @@
       ]
     },
     "recettes/Salade printanière au poulet.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1637,
+      "modifiedTime": 1737223945197,
+      "sourceSize": 1639,
       "exportedPath": "recettes/salade-printanière-au-poulet.html",
       "dependencies": [
         "recettes/images/salade-printanière-au-poulet.webp"
@@ -3901,7 +3902,7 @@
       "dependencies": []
     },
     "recettes/images/salade-printanière-au-poulet.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737223945197,
       "sourceSize": 199576,
       "exportedPath": "recettes/images/salade-printanière-au-poulet.webp",
       "dependencies": []
@@ -3992,16 +3993,16 @@
       "dependencies": []
     },
     "recettes/Blinis.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 852,
+      "modifiedTime": 1737223945197,
+      "sourceSize": 872,
       "exportedPath": "recettes/blinis.html",
       "dependencies": [
         "recettes/images/blinis.webp"
       ]
     },
     "recettes/Bûche de Noël.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1485,
+      "modifiedTime": 1737223945197,
+      "sourceSize": 1509,
       "exportedPath": "recettes/bûche-de-noël.html",
       "dependencies": [
         "recettes/images/bûche-de-noël.webp"
@@ -4014,13 +4015,13 @@
       "dependencies": []
     },
     "recettes/images/blinis.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737223945197,
       "sourceSize": 19296,
       "exportedPath": "recettes/images/blinis.webp",
       "dependencies": []
     },
     "recettes/images/bûche-de-noël.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1737223945197,
       "sourceSize": 64522,
       "exportedPath": "recettes/images/bûche-de-noël.webp",
       "dependencies": []
@@ -4032,29 +4033,35 @@
       "dependencies": []
     },
     "recettes/Dummy Recipe.md": {
-      "modifiedTime": 1737134829824,
-      "sourceSize": 288,
+      "modifiedTime": 1738436251039,
+      "sourceSize": 852,
       "exportedPath": "recettes/dummy-recipe.html",
       "dependencies": []
     },
-    "recettes/recipe.md": {
-      "modifiedTime": 1737134829824,
-      "sourceSize": 789,
-      "exportedPath": "recettes/recipe.html",
-      "dependencies": []
-    },
     "recettes/Tiramisu.md": {
-      "modifiedTime": 1737134829824,
-      "sourceSize": 1074,
+      "modifiedTime": 1737223945197,
+      "sourceSize": 1102,
       "exportedPath": "recettes/tiramisu.html",
       "dependencies": [
         "recettes/images/tiramisu.webp"
       ]
     },
     "recettes/images/tiramisu.webp": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1737223945197,
       "sourceSize": 28398,
       "exportedPath": "recettes/images/tiramisu.webp",
+      "dependencies": []
+    },
+    "recettes/images/Wok de nouilles chinoises au tofu.webp": {
+      "modifiedTime": 1737223945197,
+      "sourceSize": 140168,
+      "exportedPath": "recettes/images/wok-de-nouilles-chinoises-au-tofu.webp",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1738436251039,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     }
   }
