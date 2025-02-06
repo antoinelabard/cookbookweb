@@ -1,24 +1,16 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 01 Feb 2025 18:57:37 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 01 Feb 2025 18:57:31 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Dummy Recipe]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 06 Feb 2025 17:22:39 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 06 Feb 2025 17:22:32 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Dummy Recipe]]></title><description><![CDATA[ 
  <br><br>“Dummy Recipe.webp” could not be found.<br><br><br>
-<br>lardons: 200g
-<br>oignons : 2
-<br>brocoli : 1
-<br>galettes de blé : 8
-<br>0.5 cuillère à café de piment de Cayenne
-<br>2 cuillères à café de piment d'Espelette
-<br>tabasco
-<br>1 cuillère à café d' origan séché
-<br>1 cuillère à café de cumin
-<br>750 g de haricots rouges (poids égoutté)
-<br>1 boîte de tomate au naturel pelées
-<br>1 poivron
-<br>2 oignons
-<br>3 gousses d' ail
-<br>1 kg de boeuf haché (je préfère mais pour les puristes le boeuf coupé en morceaux est possible)
-<br>50 cl de cube de bouillon
-<br>4 cuillères à soupe d' olives
-<br>salade
-<br>]]></description><link>recettes/dummy-recipe.html</link><guid isPermaLink="false">recettes/Dummy Recipe.md</guid><pubDate>Fri, 31 Jan 2025 16:35:01 GMT</pubDate></item><item><title><![CDATA[Galette complète &amp; oignons confits]]></title><description><![CDATA[ 
+<br>dinde
+<br>2 briques lait de coco
+<br>farine
+<br>800g viande de porc haché
+<br>chou chinois
+<br>4 carottes
+<br>2 poireaux
+<br>Oignons blancs et oignons rouges
+<br>2 pâtes brisées
+<br>yaourt grec
+<br>]]></description><link>recettes/dummy-recipe.html</link><guid isPermaLink="false">recettes/Dummy Recipe.md</guid><pubDate>Thu, 06 Feb 2025 17:11:39 GMT</pubDate></item><item><title><![CDATA[Galette complète &amp; oignons confits]]></title><description><![CDATA[ 
  <br><br><img alt="Galette complète &amp; oignons confits.webp" src="recettes/images/galette-complète-&amp;-oignons-confits.webp"><br><br><br>
 <br>Galettes bretonnes : 4
 <br>Oeufs : 4
@@ -30,7 +22,7 @@
 <br>Faites fondre un morceau de beurre dans une poêle. Déposez la galette au sarrasin et cassez l'œuf au centre. Salez et poivrez.
 <br>Quand le blanc de l'œuf commence à être cuit, ajoutez les oignons confits, le jambon en morceaux et le fromage râpé.
 <br>Repliez la galette en carré ou en demi lune. Laissez-la griller 1 à 2 minutes supplémentaires, puis servez. C'est prêt !
-]]></description><link>recettes/galette-complète-&amp;-oignons-confits.html</link><guid isPermaLink="false">recettes/Galette complète &amp; oignons confits.md</guid><pubDate>Fri, 31 Jan 2025 16:29:55 GMT</pubDate><enclosure url="recettes/images/galette-complète-&amp;-oignons-confits.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-complète-&amp;-oignons-confits.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin de ravioles au saumon]]></title><description><![CDATA[ 
+]]></description><link>recettes/galette-complète-&amp;-oignons-confits.html</link><guid isPermaLink="false">recettes/Galette complète &amp; oignons confits.md</guid><pubDate>Sat, 01 Feb 2025 19:01:45 GMT</pubDate><enclosure url="recettes/images/galette-complète-&amp;-oignons-confits.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-complète-&amp;-oignons-confits.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin de ravioles au saumon]]></title><description><![CDATA[ 
  <br><br><img alt="Gratin de ravioles au saumon.webp" src="recettes/images/gratin-de-ravioles-au-saumon.webp"><br><br><br>
 <br>Ravioles du Dauphiné : 480g
 <br>Poireaux : 4
@@ -44,7 +36,7 @@
 <br>Faites 3 couches comme pour des lasagnes. Terminez par une plaque de ravioles, de la crème, du comté râpé, sel et poivre.
 <br>Enfournez 20 minutes à 200°C.
 <br>Servez seul ou avec une salade pour accompagner. C'est prêt !
-]]></description><link>recettes/gratin-de-ravioles-au-saumon.html</link><guid isPermaLink="false">recettes/Gratin de ravioles au saumon.md</guid><pubDate>Fri, 31 Jan 2025 16:24:41 GMT</pubDate><enclosure url="recettes/images/gratin-de-ravioles-au-saumon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-ravioles-au-saumon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Risotto comté &amp; saucisse à l'ancienne]]></title><description><![CDATA[ 
+]]></description><link>recettes/gratin-de-ravioles-au-saumon.html</link><guid isPermaLink="false">recettes/Gratin de ravioles au saumon.md</guid><pubDate>Sat, 01 Feb 2025 19:01:45 GMT</pubDate><enclosure url="recettes/images/gratin-de-ravioles-au-saumon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-ravioles-au-saumon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Risotto comté &amp; saucisse à l'ancienne]]></title><description><![CDATA[ 
  <br><br><img alt="Risotto comté &amp; saucisse à l'ancienne.webp" src="recettes/images/risotto-comté-&amp;-saucisse-à-l'ancienne.webp"><br><br><br>
 <br>Riz : 280g
 <br>Échalote : 1
@@ -64,8 +56,167 @@
 <br>Le riz doit cuire entre 15 à 18 minutes. Vérifiez la cuisson du riz et coupez le feu.
 <br>Ajoutez le comté râpé, salez, poivrez.
 <br>Servez, c'est prêt !
-]]></description><link>recettes/risotto-comté-&amp;-saucisse-à-l'ancienne.html</link><guid isPermaLink="false">recettes/Risotto comté &amp; saucisse à l'ancienne.md</guid><pubDate>Sun, 19 Jan 2025 10:46:34 GMT</pubDate><enclosure url="recettes/images/risotto-comté-&amp;-saucisse-à-l'ancienne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/risotto-comté-&amp;-saucisse-à-l'ancienne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+]]></description><link>recettes/risotto-comté-&amp;-saucisse-à-l'ancienne.html</link><guid isPermaLink="false">recettes/Risotto comté &amp; saucisse à l'ancienne.md</guid><pubDate>Sat, 01 Feb 2025 19:01:45 GMT</pubDate><enclosure url="recettes/images/risotto-comté-&amp;-saucisse-à-l'ancienne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/risotto-comté-&amp;-saucisse-à-l'ancienne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wok de nouilles chinoises au tofu]]></title><description><![CDATA[ 
+ <br><br><img alt="Wok de nouilles chinoises au tofu.webp" src="recettes/images/wok-de-nouilles-chinoises-au-tofu.webp"><br><br><br>
+<br>Oignons verts : 1 botte
+<br>Tofu : 2 blocs
+<br>Nouilles chinoises aux oeufs : 200g
+<br>Poivrons verts : 2
+<br>Échalotes : 4
+<br>Ail : 8 gousses
+<br>Miel : 2cs
+<br>Amandes entières : 2 poignées
+<br>Sauce soja : 20cl
+<br><br>
+<br>La Marinade du tofu :
+
+<br>Dans un plat creux, mettre la sauce soja.
+<br>Hacher un morceau de gingembre puis éplucher et hacher l’ail, les ajouter dans la sauce de soja.
+<br>Ciseler 3 oignons verts et les ajouter à la marinade, puis poivrer.
+<br>Couper le tofu en dés, le mettre dans la marinade, ajouter le miel, bien mélanger.
+<br>Laisser reposer pendant 2 heures.
+
+
+<br>La Marinade des légumes :
+
+<br>Laver et couper les poivrons , l’oignon et le piment vert.
+<br>Les ciseler en fines lanières, puis les mettre à mariner dans 4 cuillères à soupe d’huile d’olive et 2 cuillères à soupe de soja, et un peu de poivre.
+
+
+<br>La cuisson :
+
+<br>Dans un wok, faire sauter les poivrons, oignon et piment, jusqu’à ce qu’ils soient juste dorés. Les retirer du wok et les réserver.
+<br>Dans une grande casserole, porter à ébullition un grand volume d’eau, puis y jeter la moitié des nouilles chinoises. Faire cuire pendant 2 minutes puis les égoutter.
+<br>Faire sauter le tofu dans un wok avec un peu d’huile chaude. Il faut que le tofu soir bien doré. Rajouter les légumes, puis les nouilles. Faire sauter le tout, en ajoutant le reste de la marinade du tofu, pendant 5 à 6 minutes.
+
+
+<br>Dresser dans les assiettes, en parsemant de coriandre fraîche hachée et d’amandes concassées.
+]]></description><link>recettes/wok-de-nouilles-chinoises-au-tofu.html</link><guid isPermaLink="false">recettes/Wok de nouilles chinoises au tofu.md</guid><pubDate>Sat, 01 Feb 2025 19:00:41 GMT</pubDate><enclosure url="recettes/images/wok-de-nouilles-chinoises-au-tofu.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/wok-de-nouilles-chinoises-au-tofu.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br>
+<br><a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br><a data-href="Rougail saucisse" href="recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener nofollow">Rougail saucisse</a>
+<br><a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
+<br><a data-href="Pâtes à la carbonara façon Goblot" href="recettes/pâtes-à-la-carbonara-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Pâtes à la carbonara façon Goblot</a>
+<br><a data-href="Sauté de porc façon Goblot" href="recettes/sauté-de-porc-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Sauté de porc façon Goblot</a>
+<br>poulet coco curry
+<br>tourte à la viande
+<br><br>
+<br>Conserves :
+
+<br>
+
+
+<br>Concentré de tomates : 70g ---&gt; <a data-href="Sauté de porc façon Goblot" href="recettes/sauté-de-porc-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Sauté de porc façon Goblot</a>
+
+
+<br>Coulis de tomate : 700g ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Haricots verts : 800g ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Petits pois : 120g ---&gt; <a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
+<br>Purée de tomate : 400g ---&gt; <a data-href="Rougail saucisse" href="recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener nofollow">Rougail saucisse</a>
+
+
+<br>Produits secs :
+
+<br>
+
+
+<br>Riz ou semoule : 300g ---&gt; <a data-href="Sauté de porc façon Goblot" href="recettes/sauté-de-porc-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Sauté de porc façon Goblot</a>
+
+
+<br>2 pâtes brisées ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>Oeuf : 1 ---&gt; <a data-href="Pâtes à la carbonara façon Goblot" href="recettes/pâtes-à-la-carbonara-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Pâtes à la carbonara façon Goblot</a>
+<br>Oeufs : 4 ---&gt; <a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
+<br>Pâtes : 500g ---&gt; <a data-href="Pâtes à la carbonara façon Goblot" href="recettes/pâtes-à-la-carbonara-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Pâtes à la carbonara façon Goblot</a>
+<br>Riz : 280g ---&gt; <a data-href="Rougail saucisse" href="recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener nofollow">Rougail saucisse</a>
+<br>Riz: 280g ---&gt; <a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
+<br>farine ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+
+
+<br>Épices :
+
+<br>
+
+
+<br>Piment d'Espelette (ou de Cayenne) ---&gt; <a data-href="Sauté de porc façon Goblot" href="recettes/sauté-de-porc-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Sauté de porc façon Goblot</a>
+
+
+<br>Curcuma : 4 pincées ---&gt; <a data-href="Rougail saucisse" href="recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener nofollow">Rougail saucisse</a>
+<br>Gingembre : 20g ---&gt; <a data-href="Rougail saucisse" href="recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener nofollow">Rougail saucisse</a>
+<br>Origan ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Origan ---&gt; <a data-href="Pâtes à la carbonara façon Goblot" href="recettes/pâtes-à-la-carbonara-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Pâtes à la carbonara façon Goblot</a>
+
+
+<br>Produits du monde :
+
+<br>2 briques lait de coco ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>Sauce soja (optionnel) ---&gt; <a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
+
+
+<br>Produits frais :
+
+<br>Jambon : 8 tranches ---&gt; <a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
+<br>Lardons fumés : 200g ---&gt; <a data-href="Pâtes à la carbonara façon Goblot" href="recettes/pâtes-à-la-carbonara-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Pâtes à la carbonara façon Goblot</a>
+<br>Saucisses fumées : 4 ---&gt; <a data-href="Rougail saucisse" href="recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener nofollow">Rougail saucisse</a>
+
+
+<br>Produits laitiers :
+
+<br>
+
+
+<br>Crème fraîche : 10cl ---&gt; <a data-href="Sauté de porc façon Goblot" href="recettes/sauté-de-porc-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Sauté de porc façon Goblot</a>
+
+
+<br>Crème fraîche : 20cl ---&gt; <a data-href="Pâtes à la carbonara façon Goblot" href="recettes/pâtes-à-la-carbonara-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Pâtes à la carbonara façon Goblot</a>
+<br>Parmesan râpé : 100g ---&gt; <a data-href="Pâtes à la carbonara façon Goblot" href="recettes/pâtes-à-la-carbonara-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Pâtes à la carbonara façon Goblot</a>
+<br>yaourt grec ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+
+
+<br>Fruits et légumes :
+
+<br>
+
+
+<br>Oignon : 1 ---&gt; <a data-href="Sauté de porc façon Goblot" href="recettes/sauté-de-porc-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Sauté de porc façon Goblot</a>
+
+
+<br>2 poireaux ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>4 carottes ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>Carotte : 1 ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Champignons de Paris : 200g ---&gt; <a data-href="Pâtes à la carbonara façon Goblot" href="recettes/pâtes-à-la-carbonara-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Pâtes à la carbonara façon Goblot</a>
+<br>Céleri : 10cl ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Gousse d'ail : 1 ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Gousse d'ail : 2 ---&gt; <a data-href="Rougail saucisse" href="recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener nofollow">Rougail saucisse</a>
+<br>Oignon : 1 ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Oignon : 1 ---&gt; <a data-href="Pâtes à la carbonara façon Goblot" href="recettes/pâtes-à-la-carbonara-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Pâtes à la carbonara façon Goblot</a>
+<br>Oignon : 1 ---&gt; <a data-href="Rougail saucisse" href="recettes/rougail-saucisse.html" class="internal-link" target="_self" rel="noopener nofollow">Rougail saucisse</a>
+<br>Oignons blancs et oignons rouges ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+
+
+<br>Apéritifs et alcools :
+
+<br>Vin blanc : 10cl ---&gt; <a data-href="Pâtes à la carbonara façon Goblot" href="recettes/pâtes-à-la-carbonara-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Pâtes à la carbonara façon Goblot</a>
+
+
+<br>Viandes et poissons :
+
+<br>
+
+
+<br>Morceaux de porc : 500g ---&gt; <a data-href="Sauté de porc façon Goblot" href="recettes/sauté-de-porc-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Sauté de porc façon Goblot</a>
+
+
+<br>800g viande de porc haché ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>Viande hachée : 800g ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+
+
+<br>Unclassified :
+
+<br>chou chinois ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>dinde ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+
+
+<br><br>
 <br><a data-href="Salade haricots verts, lardons &amp; œuf mollet" href="recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html" class="internal-link" target="_self" rel="noopener nofollow">Salade haricots verts, lardons &amp; œuf mollet</a>
 <br><a data-href="Quiche à l'oignon et aux lardons fumés" href="recettes/quiche-à-l'oignon-et-aux-lardons-fumés.html" class="internal-link" target="_self" rel="noopener nofollow">Quiche à l'oignon et aux lardons fumés</a>
 <br><a data-href="Pie poireaux &amp; champignons" href="recettes/pie-poireaux-&amp;-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Pie poireaux &amp; champignons</a>
@@ -1670,7 +1821,7 @@
 <br>brocoli
 
 
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Sat, 01 Feb 2025 18:57:14 GMT</pubDate></item><item><title><![CDATA[Blinis]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Thu, 06 Feb 2025 17:21:37 GMT</pubDate></item><item><title><![CDATA[Blinis]]></title><description><![CDATA[ 
  <br><br><img alt="Blinis.webp" src="recettes/images/blinis.webp"><br><br><br>
 <br>Levure de boulanger : 10g
 <br>Farine : 150g
