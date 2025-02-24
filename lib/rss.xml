@@ -1,4 +1,19 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 24 Feb 2025 19:28:09 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 24 Feb 2025 19:28:03 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Dummy Recipe]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 24 Feb 2025 19:47:34 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 24 Feb 2025 19:47:33 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Haricots verts à la bolognaise]]></title><description><![CDATA[ 
+ <br><br><img alt="Haricots verts à la bolognaise.webp" src="recettes/images/haricots-verts-à-la-bolognaise.webp"><br><br><br>
+<br>Oignon : 1
+<br>Gousse d'ail : 1
+<br>Carotte : 1
+<br>Origan
+<br>Viande hachée : 800g
+<br>Coulis de tomate : 700g
+<br>Haricots verts : 800g
+<br><br>
+<br>Faire précuire les haricots s'ils sont frais ou surgelés, à la vapeur ou dans de l'eau chaude.
+<br>Pendant ce temps, faire revenir l'oignon émincés puis la viande dans une sauteuse.
+<br>Ajouter la carotte coupée en petits dés, l'ail, le sel, le poivre, et la tomate.
+<br>Couvrir avec de l'eau et faire mijoter.
+<br>Ajouter les haricots verts précuits 5 min avant la fin de la cuisson... et déguster chaud.
+]]></description><link>recettes/haricots-verts-à-la-bolognaise.html</link><guid isPermaLink="false">recettes/Haricots verts à la bolognaise.md</guid><pubDate>Mon, 24 Feb 2025 19:47:28 GMT</pubDate><enclosure url="recettes/images/haricots-verts-à-la-bolognaise.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/haricots-verts-à-la-bolognaise.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dummy Recipe]]></title><description><![CDATA[ 
  <br><br>“Dummy Recipe.webp” could not be found.<br><br><br>
 <br>400 g Pâtes (orzo)
 <br>600 g Poireau
@@ -3046,23 +3061,7 @@ Cette recette est inspirée du <a data-href="Gratin de ravioles à la ratatouill
 <br>Faire fondre une noix de beurre dans la poêle et y faire revenir quelques gousses d'ail émincées selon votre goût.
 <br>Couper un peu les haricots si besoin avant&nbsp;la cuisson afin qu'ils ne soient pas trop longs.
 <br>Mettre les haricots verts dans la poêle et faire chauffer le tout en remuant régulièrement.
-]]></description><link>recettes/haricots-verts-à-l'ail-et-cordon-bleu.html</link><guid isPermaLink="false">recettes/Haricots verts à l'ail et cordon bleu.md</guid><pubDate>Wed, 15 May 2024 12:14:30 GMT</pubDate><enclosure url="recettes/images/cordon-bleu-roulé.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/cordon-bleu-roulé.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Haricots verts à la bolognaise]]></title><description><![CDATA[ 
- <br><br><img alt="Haricots verts à la bolognaise.webp" src="recettes/images/haricots-verts-à-la-bolognaise.webp"><br><br><br>
-<br>Oignon : 1
-<br>Gousse d'ail : 1
-<br>Céleri : 10cl
-<br>Carotte : 1
-<br>Origan
-<br>Viande hachée : 800g
-<br>Coulis de tomate : 700g
-<br>Haricots verts : 800g
-<br><br>
-<br>Faire précuire les haricots s'ils sont frais ou surgelés, à la vapeur ou dans de l'eau chaude.
-<br>Pendant ce temps, faire revenir l'oignon émincés puis la viande dans une sauteuse.
-<br>Ajouter la carotte coupée en petits dés, l'ail, le sel, le poivre, le céleri et la tomate.
-<br>Couvrir avec de l'eau et faire mijoter.
-<br>Ajouter les haricots verts précuits 5 min avant la fin de la cuisson... et déguster chaud.
-]]></description><link>recettes/haricots-verts-à-la-bolognaise.html</link><guid isPermaLink="false">recettes/Haricots verts à la bolognaise.md</guid><pubDate>Wed, 15 May 2024 15:44:43 GMT</pubDate><enclosure url="recettes/images/haricots-verts-à-la-bolognaise.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/haricots-verts-à-la-bolognaise.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Haricots verts à la carbonara]]></title><description><![CDATA[ 
+]]></description><link>recettes/haricots-verts-à-l'ail-et-cordon-bleu.html</link><guid isPermaLink="false">recettes/Haricots verts à l'ail et cordon bleu.md</guid><pubDate>Wed, 15 May 2024 12:14:30 GMT</pubDate><enclosure url="recettes/images/cordon-bleu-roulé.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/cordon-bleu-roulé.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Haricots verts à la carbonara]]></title><description><![CDATA[ 
  <br><br><img alt="Haricots verts à la carbonara.webp" src="recettes/images/haricots-verts-à-la-carbonara.webp"><br><br><br>
 <br>Lardons : 200g
 <br>Gousse d'ail : 1
