@@ -1,376 +1,135 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 15 Feb 2025 15:18:05 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 15 Feb 2025 15:17:56 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Blinis]]></title><description><![CDATA[ 
- <br><br><img alt="Blinis.webp" src="recettes/images/blinis.webp"><br><br><br>
-<br>Levure de boulanger : 10g
-<br>Farine : 150g
-<br>Oeufs : 2
-<br>Lait à température ambiante : 20cl
-<br>Beurre
-<br><br>
-<br>Mélanger la levure et le lait. Laisser reposer à température ambiante 5 min.
-<br>Faire un puits avec la farine et déposer au milieu le sel, la levure et les jaunes d'oeufs. Mettre les blancs de côté dans un saladier.
-<br>Bien mélanger en mettant progressivement le lait.
-<br>Laisser de côté pendant 4h.
-<br>Monter les blancs en neige et les incorporer délicatement.
-<br>Cuire chaque blini dans une petite poêle beurrée.
-]]></description><link>recettes/blinis.html</link><guid isPermaLink="false">recettes/Blinis.md</guid><pubDate>Tue, 11 Feb 2025 21:33:22 GMT</pubDate><enclosure url="recettes/images/blinis.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/blinis.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Bûche de Noël]]></title><description><![CDATA[ 
- <br><br><img alt="Bûche de Noël.webp" src="recettes/images/bûche-de-noël.webp"><br><br><br>
-<br>Beurre : 200g
-<br>Chocolat : 250g
-<br>Levure chimique : 11g
-<br>Farine : 100g
-<br>Sucre en poudre : 140g
-<br>Oeufs : 4
-<br><br>
-<br>Séparer les blancs des jaunes d'oeufs.
-<br>Fouetter les jaunes d'oeuf avec le sucre et 3 cuillères à soupe d'eau tiède, pour faire mousser.
-<br>Ajouter, peu à peu, la farine et la levure.
-<br>Monter les blancs d'oeuf en neige puis les incorporer délicatement au mélange précédent.
-<br>Préchauffer le four à 180°C (thermostat 6). Etaler la pâte dans un moule long et plat (type lèchefrite) recouvert d'un papier cuisson sur 1 cm d'épaisseur.
-<br>Enfourner pour 10 à 15 minutes de cuisson, le biscuit doit être légèrement doré.
-<br>A la sortie du four, poser sur le biscuit un torchon propre humide puis le démouler dessus et rouler. Laisser refroidir.
-<br>Briser le chocolat, et le faire fondre au bain-marie.
-<br>Lorsqu'il est fondu, ajouter beurre mou et mélanger.
-<br>Dérouler le gâteau et y étaler les 2/3 du chocolat. Rouler ensuite à nouveau le biscuit sur lui-même.
-<br>Recouvrir le biscuit du reste de chocolat puis, à l'aide d'une fourchette, strier le dessus.
-<br>Faire prendre au réfrigérateur.
-]]></description><link>recettes/bûche-de-noël.html</link><guid isPermaLink="false">recettes/Bûche de Noël.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/bûche-de-noël.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/bûche-de-noël.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Burger alsacien au poulet et munster]]></title><description><![CDATA[ 
- <br><br><img alt="Burger alsacien au poulet et munster.webp" src="recettes/images/burger-alsacien-au-poulet-et-munster.webp"><br><br><br>
-<br><a data-href="Oignons confits" href="recettes/oignons-confits.html" class="internal-link" target="_self" rel="noopener nofollow">Oignons confits</a>: 200g
-<br>Filet de poulet : 4
-<br>Munster : 125g
-<br>Pains à burger : 4
-<br><a data-href="Frites" href="recettes/frites.html" class="internal-link" target="_self" rel="noopener nofollow">Frites</a> : 500g
-<br><br>Oignons confits<br><br><br><br><img alt="Oignons confits.webp" src="recettes/images/oignons-confits.webp"><br><br><br>
-<br>Oignon : 2
-<br>Sucre en poudre : 4cc
-<br><br>
-<br>Émincer les oignons.
-<br>Dans une sauteuse, faire chauffer un filet d'huile de cuisson à feu moyen à vif. Faire revenir l'oignon avec le sucre 10 à 15 min jusqu'à ce qu'il soit caramélisé. Saler, poivrer. Remuer de temps en temps.
-<br>Frites<br><br>
-<br>Préparer les frites.
-<br>Coupez le munster en tranches.
-<br>Salez et poivrez les filets de poulet. (astuce : coupez-les en 2 dans l'épaisseur s'ils sont trop épais).
-<br>Dans une poêle, faites chauffer un filet d'huile de cuisson à feu vif. Faites dorer les filets de poulet 2 à 3 min de chaque côté.
-<br>Répartissez les tranches de fromage sur chaque filet de poulet.
-<br>Baissez le feu à moyen et prolongez la cuisson 5 à 7 min jusqu'à ce que le poulet soit cuit à cœur (la chair n'est plus rose) et le fromage fondu.
-<br>Faites dorer les pains à burger dans une poêle avec un filet d'huile de cuisson 5 min. Sur la base de chaque pain, étalez la moutarde. Déposez dessus un filet de poulet au munster et un peu d'oignon confit. Refermez les burger.
-]]></description><link>recettes/burger-alsacien-au-poulet-et-munster.html</link><guid isPermaLink="false">recettes/Burger alsacien au poulet et munster.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/burger-alsacien-au-poulet-et-munster.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/burger-alsacien-au-poulet-et-munster.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Chocolat chaud maison]]></title><description><![CDATA[ 
- <br><br><img alt="Chocolat chaud maison.webp" src="recettes/images/chocolat-chaud-maison.webp"><br><br><br>Pour un mug (25cl) :<br>
-<br>Crème liquide entière : 10cl
-<br>lait : 15cl
-<br>chocolat noir : 25g
-<br><br>
-<br>Casser le chocolat en morceau, le mettre dans une casserole y ajouter le lait et les 10 cl de crème liquide.
-<br>Mélanger. Le tout doit chauffer 3 minutes.
-<br>Battre à l'aide d'un batteur électrique le reste de la crème liquide (ce qui donnera de la chantilly).
-]]></description><link>recettes/chocolat-chaud-maison.html</link><guid isPermaLink="false">recettes/Chocolat chaud maison.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/chocolat-chaud-maison.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/chocolat-chaud-maison.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Curry de pois chiches]]></title><description><![CDATA[ 
- <br><br><img alt="Curry de pois chiches.webp" src="recettes/images/curry-de-pois-chiches.webp"><br><br><br>
-<br>Pois chiches : 400g
-<br>Riz : 280g
-<br>Oignon : 1
-<br>Chair de tomates : 400g
-<br>Lait de coco : 10cl
-<br>Gousse d'ail : 1
-<br>Curry
-<br>Cumin
-<br>Gingembre
-<br>Coriandre
-<br><br>
-<br>Dans une casserole d'eau chaude, faites cuire le riz selon les instructions du paquet. Égouttez-le en fin de cuisson.
-<br>Émincez les oignons rouges.
-<br>Dans une casserole, versez un filet d'huile d'olive et ajoutez les oignons émincés. Râpez l'ail et ajoutez les épices (curry, cumin, gingembre) puis faites revenir le tout 4 minutes.
-<br>Ajoutez la chair de tomate, le lait de coco, 50 ml d'eau par personne et les pois chiches égouttés. Salez, poivrez et mélangez. Couvrez et laissez cuire pendant 10 minutes à feu doux.
-<br>Servez le riz avec le curry. (Optionnel : ajoutez de la coriandre fraîche). C'est prêt !
-]]></description><link>recettes/curry-de-pois-chiches.html</link><guid isPermaLink="false">recettes/Curry de pois chiches.md</guid><pubDate>Tue, 11 Feb 2025 21:33:22 GMT</pubDate><enclosure url="recettes/images/curry-de-pois-chiches.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/curry-de-pois-chiches.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dummy Recipe]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 24 Feb 2025 19:28:09 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 24 Feb 2025 19:28:03 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Dummy Recipe]]></title><description><![CDATA[ 
  <br><br>“Dummy Recipe.webp” could not be found.<br><br><br>
-<br>dinde
-<br>2 briques lait de coco
-<br>farine
-<br>800g viande de porc haché
-<br>chou chinois
-<br>4 carottes
-<br>2 poireaux
-<br>Oignons blancs et oignons rouges
-<br>2 pâtes brisées
-<br>yaourt grec
-<br>]]></description><link>recettes/dummy-recipe.html</link><guid isPermaLink="false">recettes/Dummy Recipe.md</guid><pubDate>Sat, 15 Feb 2025 15:16:50 GMT</pubDate></item><item><title><![CDATA[Feuilletés au fromage ultra simples]]></title><description><![CDATA[ 
- <br><br><img alt="Feuilletés au fromage ultra simples.webp" src="recettes/images/feuilletés-au-fromage-ultra-simples.webp"><br><br><br>
-<br>Pâte feuilletée : 1
-<br>Comté râpé : 75g
-<br>Crème fraîche : 5cl
-<br>Oeuf : 1
-<br><br>
-<br>Préchauffer le four à 190°C. Râper le fromage, le verser dans un bol, ajoutez la crème fraîche, saler, poivre et mélanger.
-<br>Dérouler la pâte et la couper en 4 triangles égaux.
-<br>Déposer un peu de farce au fromage sur chaque moitié de triangle en laissant 1cm sur les bords.
-<br>Humidifier les bords avec de l'eau et plier les triangles en deux pour les refermer.
-<br>Souder les bords en vous aidant d'une fourchette, pour que la garniture ne s'échappe pas à la cuisson.
-<br>Déposer les triangles sur une plaque de cuisson tapissée de papier cuisson.
-<br>Badigeonner les feuilletés avec le jaune d'œuf puis enfourner pendant 15 minutes. Ils doivent être bien dorés.
-]]></description><link>recettes/feuilletés-au-fromage-ultra-simples.html</link><guid isPermaLink="false">recettes/Feuilletés au fromage ultra simples.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/feuilletés-au-fromage-ultra-simples.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/feuilletés-au-fromage-ultra-simples.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Flammeküeche]]></title><description><![CDATA[ 
- <br><br><img alt="Flammeküeche.webp" src="recettes/images/flammeküeche.webp"><br><br><br>
-<br>Pâtes à pizza : 2
-<br>Fromage blanc : 20cl
-<br>Crème fraîche : 20cl
-<br>Lardons : 200g
-<br>Oignons : 2
-<br><br>
-<br>Préchauffez votre four à 240°C. Dans une poêle chaude, faites revenir les lardons 2 minutes à feu vif.
-<br>Épluchez, coupez l'oignon en deux et tranchez-le en lamelles très fines.
-<br>Dans un bol, mélangez la crème fraîche, le fromage blanc (à quantité égale), sel et poivre.
-<br>Étalez la pâte sur une plaque de cuisson. Si vous le souhaitez, pliez les bords de la pâte pour une jolie flammekueche.
-<br>Étalez le mélange sur la pâte en laissant 1 à 2 cm de bord.
-<br>Répartissez les oignons et lardons, salez, poivrez puis enfournez pour 10-15 minutes.
-<br>Sortez la flammekueche du four et déguster immédiatement. Ajoutez des herbes fraîches si vous le souhaitez. C'est prêt !
-]]></description><link>recettes/flammeküeche.html</link><guid isPermaLink="false">recettes/Flammeküeche.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/flammeküeche.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/flammeküeche.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Frites]]></title><description><![CDATA[ 
- <br><br><img alt="Frites.webp" src="recettes/images/frites.webp"><br><br><br>
-<br>Pommes de terre : 1kg
-<br>Huile de friture : 5l
-<br><br>
-<br>Préchauffer la friteuse à 150°C.
-<br>Préparation :
-
-<br>Peler les pommes de terre et retirer les yeux.
-<br>Les découper en bâtonnets d’environ 0,5 cm de diamètre.
-<br>Les passer très rapidement sous l’eau (sans trop pour ne pas retirer tout l’amidon).
-
-
-<br>Cuisson :
-
-<br>Plonger les frites dans la friteuse pendant 5 min à 150°C.
-<br>Sortir les frites et secouer le panier pour bien égoutter l'huile.
-<br>Avant de remettre les frites, rallumer la friteuse à 180°C. Les laisser reposer pendant au moins 10 min.
-<br>Plonger les frites une deuxième fois pendant 2 à 3 min.
-<br>Une fois le 2e bain réalisé, bien secouer le panier puis égoutter dans un saladier tapissé de papier absorbant. Saler tout de suite.
-
-
-<br>Tip
-Le secret de la cuisson des frites réside dans le fait de réaliser 2 cuissons successives à des températures différentes :
-
-<br>5 minutes à 140-150° pour les précuire ;
-<br>2-3 minutes à 180° pour les dorer.
-
-L’autre secret : bien séparer les 2 bains de friture en laissant le temps aux frites de « sécher » entre les 2 bains (10 minutes suffisent mais pour vous faciliter la vie, sachez que vous pouvez le faire jusqu’à 2 h à l’avance).
-]]></description><link>recettes/frites.html</link><guid isPermaLink="false">recettes/Frites.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/frites.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/frites.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Galette complète &amp; oignons confits]]></title><description><![CDATA[ 
- <br><br><img alt="Galette complète &amp; oignons confits.webp" src="recettes/images/galette-complète-&amp;-oignons-confits.webp"><br><br><br>
-<br>Galettes bretonnes : 4
-<br>Oeufs : 4
-<br>Jambon : 4 tranches
-<br>Fromage râpé : 200g
-<br><a data-href="Oignons confits" href="recettes/oignons-confits.html" class="internal-link" target="_self" rel="noopener nofollow">Oignons confits</a> : 1
-<br><br>
-<br>Épluchez puis émincez les oignons finement.
-<br>Faites fondre un morceau de beurre dans une poêle. Déposez la galette au sarrasin et cassez l'œuf au centre. Salez et poivrez.
-<br>Quand le blanc de l'œuf commence à être cuit, ajoutez les oignons confits, le jambon en morceaux et le fromage râpé.
-<br>Repliez la galette en carré ou en demi lune. Laissez-la griller 1 à 2 minutes supplémentaires, puis servez. C'est prêt !
-]]></description><link>recettes/galette-complète-&amp;-oignons-confits.html</link><guid isPermaLink="false">recettes/Galette complète &amp; oignons confits.md</guid><pubDate>Tue, 11 Feb 2025 21:37:58 GMT</pubDate><enclosure url="recettes/images/galette-complète-&amp;-oignons-confits.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-complète-&amp;-oignons-confits.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Galette de sarrasin façon mer Morte]]></title><description><![CDATA[ 
- <br><br><img alt="Galette de sarrasin façon mer Morte.webp" src="recettes/images/galette-de-sarrasin-façon-mer-morte.webp"><br><br><br>
-<br>[ ]Beurre : 10g
-<br>[ ]Sel : 1cc
-<br>[ ]Galette de sarrasin : 1
-<br>[ ]sucre sel : 50g
-<br>[ ]Fromage blanc : 200g
-<br>[ ]Myrtilles : 100g
-<br><br>
-<br>Dans une poêle ajouter le beurre, déposer la galette, ajouter une bonne cuillère de sucre sel en poudre.
-<br>Laisser pendant presque 10 minutes à feu doux, caraméliser gentiment.
-<br>Couvrir avec un couvercle pour aider le sucre sel à fondre.
-<br>Une fois que la galette a bien caramélisé séché (élasticité nulle), couper le feu et laisser refroidir un peu.
-<br>Étaler le fromage blanc et ajouter les myrtilles.
-<br>Déguster avec un rooibos bien chaud !
-]]></description><link>recettes/galette-de-sarrasin-façon-mer-morte.html</link><guid isPermaLink="false">recettes/Galette de sarrasin façon mer Morte.md</guid><pubDate>Tue, 11 Feb 2025 21:35:22 GMT</pubDate><enclosure url="recettes/images/galette-de-sarrasin-façon-mer-morte.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-de-sarrasin-façon-mer-morte.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gazpacho &amp; roulés mozza, jambon, pesto]]></title><description><![CDATA[ 
- <br><br><img alt="Gazpacho &amp; roulés mozza, jambon, pesto.webp" src="recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp"><br><br><br>
-<br>[ ]Gazpacho : 1l
-<br>[ ]Pain de mie : 8 tranches
-<br>[ ]Sauce pesto : 8cc
-<br>[ ]Mozzarella : 120g
-<br>[ ]Jambon blanc : 4 tranches
-<br><br>
-<br>Coupez la mozzarella en tranches fines.
-<br>Aplatissez les tranches de pain à l'aide d'un rouleau à pâtisserie.
-<br>Étalez le pesto sur les tranches de pain de mie, puis ajoutez la mozzarella et le jambon. Roulez les tranches de pain en les serrant légèrement. Recommencez autant de fois que de roulés nécessaires.
-<br>Faites chauffer un filet d'huile d'olive dans une poêle, sur feu moyen. Ajoutez les roulés avec la jointure vers le bas. Faites-les revenir 2 minutes sur chaque face, jusqu'à ce qu'ils soient bien dorés.
-<br>Dans un bol ou une assiette creuse, servez le gazpacho bien frais accompagné des roulés au fromage &amp; jambon. Ajoutez un filet d'huile d'olive et un peu de poivre. C'est prêt !
-]]></description><link>recettes/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.html</link><guid isPermaLink="false">recettes/Gazpacho &amp; roulés mozza, jambon, pesto.md</guid><pubDate>Tue, 11 Feb 2025 21:37:39 GMT</pubDate><enclosure url="recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin de ravioles au saumon]]></title><description><![CDATA[ 
- <br><br><img alt="Gratin de ravioles au saumon.webp" src="recettes/images/gratin-de-ravioles-au-saumon.webp"><br><br><br>
-<br>Ravioles du Dauphiné : 480g
-<br>Poireaux : 4
-<br>Saumon : 200g
-<br>Crème fraîche : 50cl
-<br>comté : 200g
-<br><br>
-<br>Préchauffez le four à 200°C. Émincez finement les poireaux et rincez-les.
-<br>Ajoutez une noisette de beurre dans une poêle et faites revenir les poireaux 10 minutes à feu moyen. Égouttez-les ensuite.
-<br>Dans un plat à gratin, placez une plaquette de ravioles, les poireaux, le saumon fumé et la crème fraîche.
-<br>Faites 3 couches comme pour des lasagnes. Terminez par une plaque de ravioles, de la crème, du comté râpé, sel et poivre.
-<br>Enfournez 20 minutes à 200°C.
-<br>Servez seul ou avec une salade pour accompagner. C'est prêt !
-]]></description><link>recettes/gratin-de-ravioles-au-saumon.html</link><guid isPermaLink="false">recettes/Gratin de ravioles au saumon.md</guid><pubDate>Tue, 11 Feb 2025 21:37:58 GMT</pubDate><enclosure url="recettes/images/gratin-de-ravioles-au-saumon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-ravioles-au-saumon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Haricots verts à l'ail]]></title><description><![CDATA[ 
- <br><br><img alt="Haricots verts à l'ail.webp" src="recettes/images/haricots-verts-à-l'ail.webp">]<br><br><br>
-<br>Haricots verts : 500g
-<br>Gousse d'ail : 2
-<br>Beurre : 50g
-<br><br>
-<br>Faire fondre une noix de beurre dans la poêle et y faire revenir quelques gousses d'ail émincées selon votre goût.
-<br>Couper un peu les haricots si besoin avant la cuisson afin qu'ils ne soient pas trop longs.
-<br>Mettre les haricots verts dans la poêle et faire chauffer le tout en remuant régulièrement.
-]]></description><link>recettes/haricots-verts-à-l'ail.html</link><guid isPermaLink="false">recettes/Haricots verts à l'ail.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/haricots-verts-à-l'ail.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/haricots-verts-à-l'ail.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Oignons confits]]></title><description><![CDATA[ 
- <br><br><img alt="Oignons confits.webp" src="recettes/images/oignons-confits.webp"><br><br><br>
-<br>Oignon : 2
-<br>Sucre en poudre : 4cc
-<br><br>
-<br>Émincer les oignons.
-<br>Dans une sauteuse, faire chauffer un filet d'huile de cuisson à feu moyen à vif. Faire revenir l'oignon avec le sucre 10 à 15 min jusqu'à ce qu'il soit caramélisé. Saler, poivrer. Remuer de temps en temps.
-]]></description><link>recettes/oignons-confits.html</link><guid isPermaLink="false">recettes/Oignons confits.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/oignons-confits.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/oignons-confits.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ravioli ricotta épinards à la crème d'ail et poireau]]></title><description><![CDATA[ 
- <br><br><img alt="Ravioli ricotta épinards à la crème d'ail et poireau.webp" src="recettes/images/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.webp"><br><br><br>
-<br>Crème fraîche : 20cl
-<br>Gousse d'ail : 1
+<br>400 g Pâtes (orzo)
+<br>600 g Poireau
+<br>4 Œuf
+<br>Échalote 2
+<br>Crème fraîche 200 g
+<br>Parmesan (râpé)80 g
+<br>Bouillon de légumes (cube)1
+<br>Beurre (doux) 40 g
+<br>Nuggets
+<br>pommes de terre
+<br>]]></description><link>recettes/dummy-recipe.html</link><guid isPermaLink="false">recettes/Dummy Recipe.md</guid><pubDate>Mon, 24 Feb 2025 16:57:04 GMT</pubDate></item><item><title><![CDATA[Soupe iranienne]]></title><description><![CDATA[ 
+ <br><br><img alt="Soupe iranienne.webp" src="recettes/images/soupe-iranienne.webp"><br><br><br>
+<br>Carottes : 2
+<br>Concentré de tomate : 70g
 <br>Oignon : 1
-<br>Poireaux : 2
-<br>Épinards branche : 300g
-<br>Raviolis à la ricotta et aux épinards : 500g
+<br>Blé à cuire : 200g
+<br>Bouillon de légumes : 1
+<br>Jus de citron
+<br>Curcuma
+<br>(Optionnel) Lait de coco : 10cl
 <br><br>
-<br>Coupez et retirez la base abîmée du poireau. Incisez-le en deux dans la longueur et rincez-le soigneusement. Émincez-le. Émincez l'oignon.
-<br>Dans une sauteuse, faites chauffer un filet d'huile à feu moyen à vif. Faites revenir l'oignon et le poireau 10 min.
-<br>Au bout des 10 min, ajoutez les épinards, un fond d'eau et poursuivez la cuisson 5 min. Salez, poivrez.
-<br>Portez à ébullition une casserole d'eau salée. Faites cuire les ravioli selon les indications du paquet.
-<br>Pressez ou hachez l'ail. Une fois les légumes cuits, ajoutez la crème, l'ail et les ravioli dans la sauteuse. Mélangez bien. Faites revenir le tout 1 à 2 min. Goûtez et rectifiez l'assaisonnement si nécessaire.
-<br>Servez sans attendre vos ravioli ricotta épinards à la crème d'ail, épinards et poireau !
-]]></description><link>recettes/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.html</link><guid isPermaLink="false">recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Risotto comté &amp; saucisse à l'ancienne]]></title><description><![CDATA[ 
- <br><br><img alt="Risotto comté &amp; saucisse à l'ancienne.webp" src="recettes/images/risotto-comté-&amp;-saucisse-à-l'ancienne.webp"><br><br><br>
-<br>Riz : 280g
-<br>Échalote : 1
-<br>Gousse d'ail : 1
-<br>Comté : 80g
-<br>Saucisses fumées : 4
-<br>Bouillon de volaille : 1
-<br>Vin blanc : 8cl
+<br>Émincez les oignons finement.
+<br>Lavez, épluchez, puis émincez les carottes en brunoise (petits cubes).
+<br>Dans une casserole, ajoutez un filet d'huile, faire dorer les oignons 1 minute.
+<br>Ajoutez ensuite : le jus de citron, le curcuma et les carottes. Mélangez.
+<br>Puis le blé, 1,2l d'eau, le bouillon de légumes et le concentré de tomates, sel, poivre.
+<br>Mélangez, laissez mijoter à couvert à feu doux pendant 30 minutes.
+<br>Optionnel : ajoutez le lait de coco quelques feuilles de persil si vous en avez.
+]]></description><link>recettes/soupe-iranienne.html</link><guid isPermaLink="false">recettes/Soupe iranienne.md</guid><pubDate>Mon, 17 Feb 2025 19:54:26 GMT</pubDate><enclosure url="recettes/images/soupe-iranienne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/soupe-iranienne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tacos champignons, poulet &amp; comté]]></title><description><![CDATA[ 
+ <br><br><img alt="Tacos champignons, poulet &amp; comté.webp" src="recettes/images/tacos-champignons,-poulet-&amp;-comté.webp"><br><br><br>
+<br>Kit fajitas pour 4
+<br>Champignons de Paris : 320g
+<br>Comté : 200g
+<br>Blanc de poulet : 4
+<br>Oignon rouge : 1
+<br>Persil
 <br><br>
-<br>Épluchez, puis émincez l'ail.
-<br>Épluchez, puis émincez l'échalote.
-<br>Coupez les saucisses en tranches.
-<br>Dans une poêle ou une casserole, ajoutez un filet d'huile de cuisson, la saucisse, l'échalote, l'ail et laisser revenir 3 minutes.
-<br>Faire bouillir 25cl d'eau par personne et y dissoudre le bouillon de volaille.
-<br>Ajoutez ensuite le riz et le vin blanc dans la casserole et laissez rissoler jusqu'à évaporation du vin.
-<br>Salez (avec parcimonie, la saucisse est déjà très salée), poivrez, ajoutez le bouillon petit à petit, 1 tasse par 1 tasse en le laissant s'évaporer puis recommencer l'opération jusqu'à épuisement du bouillon.
-<br>Le riz doit cuire entre 15 à 18 minutes. Vérifiez la cuisson du riz et coupez le feu.
-<br>Ajoutez le comté râpé, salez, poivrez.
-<br>Servez, c'est prêt !
-]]></description><link>recettes/risotto-comté-&amp;-saucisse-à-l'ancienne.html</link><guid isPermaLink="false">recettes/Risotto comté &amp; saucisse à l'ancienne.md</guid><pubDate>Tue, 11 Feb 2025 21:37:58 GMT</pubDate><enclosure url="recettes/images/risotto-comté-&amp;-saucisse-à-l'ancienne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/risotto-comté-&amp;-saucisse-à-l'ancienne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade printanière au poulet]]></title><description><![CDATA[ 
- <br><br><img alt="Salade printanière au poulet.webp" src="recettes/images/salade-printanière-au-poulet.webp"><br><br><br>
-<br>Filets de poulet : 4
-<br>Feta : 80g
-<br>Radis : 200g
-<br>Petits pois : 320g
-<br>Mélange de céréales : 240g
-<br>Vinaigre balsamique : 4cc
-<br><br>
-<br>Dans une casserole d'eau bouillante, faites cuire les céréales selon les instructions de préparation du paquet (soit environ 10 min).
-<br>Pendant ce temps, dans une seconde casserole d'eau bouillante, faites cuire les petits pois pendant 8 à 10 min.
-<br>Préparez le filet de poulet.
-<br>Faites chauffer un filet d'huile ou une noisette de beurre dans une poêle. Ajoutez le poulet et faites-le dorer 2 min à feu vif sur une première face. Salez et poivrez.
-<br>Retournez le poulet sur l'autre face et faites-le cuire 8 min à feu moyen. Continuez d'arroser, salez et poivrez.
-<br>Lavez et coupez les radis en tranches.
-<br>Réservez le poulet sur une assiette et laissez-le refroidir avant de le couper en tranches.
-<br>Égouttez les petits pois.
-<br>Égouttez le mélange de graines.
-<br>Dans un saladier, ajoutez les graines, les petits pois, les tranches de radis et la feta émiettée. Ajoutez le vinaigre, un filet d'huile d'olive, sel, poivre et mélangez le tout.
-<br>Ajoutez le poulet, mélangez. Servez, c'est prêt !
-<br>Tip
-Pour avoir une peau bien dorée, roulez le filet de poulet dans la farine avant de le cuire.
-]]></description><link>recettes/salade-printanière-au-poulet.html</link><guid isPermaLink="false">recettes/Salade printanière au poulet.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/salade-printanière-au-poulet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-printanière-au-poulet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sauté de porc façon Goblot]]></title><description><![CDATA[ 
- <br><br><img alt="Sauté de porc façon Goblot.webp" src="recettes/images/sauté-de-porc-façon-goblot.webp"><br><br><br>
-<br>[ ]Oignon : 1
-<br>[ ]Morceaux de porc : 500g
-<br>[ ]Concentré de tomates : 70g
-<br>[ ]Crème fraîche : 10cl
-<br>[ ]Riz ou semoule : 300g
-<br>[ ]Piment d'Espelette (ou de Cayenne)
-<br><br>
-<br>Couper les oignons en lamelles et le porc en morceaux.
-<br>Dans une cocotte en fonte, ajouter un fond d'huile de cuisson ou de beurre, et faire revenir les oignons.
-<br>Ensuite, ajouter le porc et le faire dorer. Saler et poivrer le tout.
-<br>Recouvrir d'eau. Saler, poivrer et ajouter le concentré de tomates et un peu de piment d'Espelette.
-<br>Faire rissoler pendant au moins 1h30.
-<br>Faire cuire le riz ou la semoule selon les instructions du paquet.
-<br>Vérifier la cuisson du porc en le piquant : s'il n'est pas tendre, laisser cuire un peu plus longtemps.
-<br>Ajouter la crème fraîche dans la marmite.
-<br>Servir le riz/semoule avec le porc. C'est prêt !
-]]></description><link>recettes/sauté-de-porc-façon-goblot.html</link><guid isPermaLink="false">recettes/Sauté de porc façon Goblot.md</guid><pubDate>Tue, 11 Feb 2025 21:37:39 GMT</pubDate><enclosure url="recettes/images/sauté-de-porc-façon-goblot.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/sauté-de-porc-façon-goblot.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tenders]]></title><description><![CDATA[ 
- <br><br><img alt="Tenders.webp" src="recettes/images/tenders.webp"><br><br><br>
-<br>Corn flakes : 100g
-<br>Filets de poulet : 4
-<br>Oeuf : 1
-<br>Farine : 100g
-<br>Ail en poudre
-<br>Paprika
-<br>Lait : 2cl
-<br>Huile de friture
-<br><br>
-<br>Coupez les blancs de poulet en gros dés, mettez-les dans un saladier.
-<br>Ajoutez l'ail séché et le paprika.
-<br>Malaxez pour bien enrober les dés de poulet.
-<br>Mélangez la farine avec un peu de sel et de poivre puis mettez-la dans une assiette. Écrasez un peu les corn-flakes puis déposez-les dans une assiette. Dans une assiette, fouettez l'oeuf avec le lait. Roulez les dés de poulet dans la farine.
-<br>Puis roulez-les dans l'oeuf battu.
-<br>Puis enrobez-les des corn-flakes.
-<br>Faites chauffer l'huile de friture dans une grande poêle et ajoutez les dés de poulet.
-<br>Faites-les frire jusqu'à ce qu'ils soient bien dorés, égouttez-les sur du papier absorbant et dégustez chaud.
-<br>Servez avec une salade et du ketchup et régalez-vous !
-]]></description><link>recettes/tenders.html</link><guid isPermaLink="false">recettes/Tenders.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/tenders.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tenders.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tiramisu]]></title><description><![CDATA[ 
- <br><br><img alt="Tiramisu.webp" src="recettes/images/tiramisu.webp"><br><br><br>
-<br>Cacao amer : 10g
-<br>Sucre roux : 100g
-<br>Oeufs : 3
-<br>Sucre vanillé : 1 sachet
-<br>Mascarpone : 250g
-<br>biscuits à la cuillère
-<br>Café sans sucre : 50cl
-<br><br>
-<br>Séparer les blancs des jaunes d'oeufs.
-<br>Mélanger les jaunes avec le sucre roux et le sucre vanillé.
-<br>Ajouter le mascarpone au fouet.
-<br>Monter les blancs en neige et les incorporer délicatement une maryse au mélange précédent. Réserver.
-<br>Mouiller les biscuits dans le café rapidement avant d'en tapisser le fond du plat.
-<br>Recouvrir d'une couche de crème puis répéter l'opération en alternant couche de biscuits et couche de crème en terminant par une couche de crème.
-<br>Saupoudrer de cacao.
-<br>Mettre au réfrigérateur 4 heures minimum puis déguster frais.
-]]></description><link>recettes/tiramisu.html</link><guid isPermaLink="false">recettes/Tiramisu.md</guid><pubDate>Tue, 11 Feb 2025 21:33:22 GMT</pubDate><enclosure url="recettes/images/tiramisu.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tiramisu.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wok de nouilles chinoises au tofu]]></title><description><![CDATA[ 
- <br><br><img alt="Wok de nouilles chinoises au tofu.webp" src="recettes/images/wok-de-nouilles-chinoises-au-tofu.webp"><br><br><br>
-<br>Oignons verts : 1 botte
-<br>Tofu : 2 blocs
-<br>Nouilles chinoises aux oeufs : 200g
-<br>Poivrons verts : 2
-<br>Échalotes : 4
-<br>Ail : 8 gousses
-<br>Miel : 2cs
-<br>Amandes entières : 2 poignées
-<br>Sauce soja : 20cl
-<br><br>
-<br>La Marinade du tofu :
-
-<br>Dans un plat creux, mettre la sauce soja.
-<br>Hacher un morceau de gingembre puis éplucher et hacher l’ail, les ajouter dans la sauce de soja.
-<br>Ciseler 3 oignons verts et les ajouter à la marinade, puis poivrer.
-<br>Couper le tofu en dés, le mettre dans la marinade, ajouter le miel, bien mélanger.
-<br>Laisser reposer pendant 2 heures.
-
-
-<br>La Marinade des légumes :
-
-<br>Laver et couper les poivrons , l’oignon et le piment vert.
-<br>Les ciseler en fines lanières, puis les mettre à mariner dans 4 cuillères à soupe d’huile d’olive et 2 cuillères à soupe de soja, et un peu de poivre.
-
-
-<br>La cuisson :
-
-<br>Dans un wok, faire sauter les poivrons, oignon et piment, jusqu’à ce qu’ils soient juste dorés. Les retirer du wok et les réserver.
-<br>Dans une grande casserole, porter à ébullition un grand volume d’eau, puis y jeter la moitié des nouilles chinoises. Faire cuire pendant 2 minutes puis les égoutter.
-<br>Faire sauter le tofu dans un wok avec un peu d’huile chaude. Il faut que le tofu soir bien doré. Rajouter les légumes, puis les nouilles. Faire sauter le tout, en ajoutant le reste de la marinade du tofu, pendant 5 à 6 minutes.
-
-
-<br>Dresser dans les assiettes, en parsemant de coriandre fraîche hachée et d’amandes concassées.
-]]></description><link>recettes/wok-de-nouilles-chinoises-au-tofu.html</link><guid isPermaLink="false">recettes/Wok de nouilles chinoises au tofu.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/wok-de-nouilles-chinoises-au-tofu.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/wok-de-nouilles-chinoises-au-tofu.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+<br>Ouvrez le kit fajita. Épluchez puis coupez l'oignon en fines lamelles. Réservez.
+<br>Coupez le poulet en lamelles.
+<br>Coupez les champignons en quartiers.
+<br>Faites chauffer une poêle avec un filet d'huile de cuisson. Ajoutez les lamelles de poulet et faites-les cuire 4 minutes en remuant régulièrement.
+<br>Ajoutez les oignons rouges et les champignons dans la poêle. Mélangez.
+<br>Ajoutez le mélange aux épices qui se trouve dans le kit (1/2 c. à café par personne environ). Mélangez et laissez cuire 3 minutes à feu doux.
+<br>Pendant ce temps, hachez le persil finement.
+<br>Préchauffez les tortillas selon les indications du paquet puis garnissez-les avec la poêlée de poulet et de champignons.
+<br>Garnissez généreusement de comté râpé.
+<br>Ajoutez enfin le persil haché si vous en avez.
+<br>Servez les tacos avec une sauce salsa ou une sauce piquante si vous le souhaitez. C'est prêt !
+]]></description><link>recettes/tacos-champignons,-poulet-&amp;-comté.html</link><guid isPermaLink="false">recettes/Tacos champignons, poulet &amp; comté.md</guid><pubDate>Mon, 17 Feb 2025 19:54:04 GMT</pubDate><enclosure url="recettes/images/tacos-champignons,-poulet-&amp;-comté.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tacos-champignons,-poulet-&amp;-comté.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br>
+<br><a data-href="Hamburger maison" href="recettes/hamburger-maison.html" class="internal-link" target="_self" rel="noopener nofollow">Hamburger maison</a>
+<br><a data-href="Escalope de dinde à la normande" href="recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener nofollow">Escalope de dinde à la normande</a>
+<br><a data-href="Steak haché à l'échalote &amp; purée" href="recettes/steak-haché-à-l'échalote-&amp;-purée.html" class="internal-link" target="_self" rel="noopener nofollow">Steak haché à l'échalote &amp; purée</a>
+<br><a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br><a rel="noopener nofollow" class="external-link" href="https://jow.fr/recipes/orzotto-cremeux-poireaux-et-oeuf-mollet-92nfgvur62xs034n123s?coversCount=4&amp;from=menu" target="_blank">https://jow.fr/recipes/orzotto-cremeux-poireaux-et-oeuf-mollet-92nfgvur62xs034n123s?coversCount=4&amp;from=menu</a>
+<br><br>
+<br>Conserves :
+
+<br>Coulis de tomate : 700g ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Haricots verts : 800g ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+
+
+<br>Produits secs :
+
+<br>400 g Pâtes (orzo) ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>Bouillon de légumes (cube)1 ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>Ketchup ---&gt; <a data-href="Hamburger maison" href="recettes/hamburger-maison.html" class="internal-link" target="_self" rel="noopener nofollow">Hamburger maison</a>
+<br>Oeuf : 1 ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 500g
+<br>Oeuf : 1 ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br>Pains à burgers : 8 ---&gt; <a data-href="Hamburger maison" href="recettes/hamburger-maison.html" class="internal-link" target="_self" rel="noopener nofollow">Hamburger maison</a>
+
+
+<br>Épices :
+
+<br>Muscade ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 500g
+<br>Muscade ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br>Origan ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Persil ---&gt; <a data-href="Escalope de dinde à la normande" href="recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener nofollow">Escalope de dinde à la normande</a>
+
+
+<br>Produits laitiers :
+
+<br>Beurre (doux) 40 g ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>Beurre : 20g ---&gt; <a data-href="Steak haché à l'échalote &amp; purée" href="recettes/steak-haché-à-l'échalote-&amp;-purée.html" class="internal-link" target="_self" rel="noopener nofollow">Steak haché à l'échalote &amp; purée</a>
+<br>Cheddar : 300g ---&gt; <a data-href="Hamburger maison" href="recettes/hamburger-maison.html" class="internal-link" target="_self" rel="noopener nofollow">Hamburger maison</a>
+<br>Crème fraîche 200 g ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>Crème fraîche : 10cl ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 500g
+<br>Crème fraîche : 10cl ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br>Crème fraîche : 20cl ---&gt; <a data-href="Escalope de dinde à la normande" href="recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener nofollow">Escalope de dinde à la normande</a>
+<br>Lait ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 500g
+<br>Lait ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br>Parmesan (râpé)80 g ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+
+
+<br>Fruits et légumes :
+
+<br>Carotte : 1 ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Champignons de Paris : 400g ---&gt; <a data-href="Escalope de dinde à la normande" href="recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener nofollow">Escalope de dinde à la normande</a>
+<br>Céleri : 10cl ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Gousse d'ail : 1 ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Oignon : 1 ---&gt; <a data-href="Hamburger maison" href="recettes/hamburger-maison.html" class="internal-link" target="_self" rel="noopener nofollow">Hamburger maison</a>
+<br>Oignon : 1 ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+<br>Pommes de terre : 1kg ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 500g
+<br>Pommes de terre : 1kg ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br>Salade : 1 ---&gt; <a data-href="Hamburger maison" href="recettes/hamburger-maison.html" class="internal-link" target="_self" rel="noopener nofollow">Hamburger maison</a>
+<br>Tomate : 2 ---&gt; <a data-href="Hamburger maison" href="recettes/hamburger-maison.html" class="internal-link" target="_self" rel="noopener nofollow">Hamburger maison</a>
+<br><a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 500g ---&gt; <a data-href="Escalope de dinde à la normande" href="recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener nofollow">Escalope de dinde à la normande</a>
+<br><a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> ---&gt; <a data-href="Steak haché à l'échalote &amp; purée" href="recettes/steak-haché-à-l'échalote-&amp;-purée.html" class="internal-link" target="_self" rel="noopener nofollow">Steak haché à l'échalote &amp; purée</a>
+<br>pommes de terre ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>Échalote 2 ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>Échalote : 1 ---&gt; <a data-href="Escalope de dinde à la normande" href="recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener nofollow">Escalope de dinde à la normande</a>
+<br>Échalote : 2 ---&gt; <a data-href="Steak haché à l'échalote &amp; purée" href="recettes/steak-haché-à-l'échalote-&amp;-purée.html" class="internal-link" target="_self" rel="noopener nofollow">Steak haché à l'échalote &amp; purée</a>
+
+
+<br>Viandes et poissons :
+
+<br>Escalopes de dinde : 4 ---&gt; <a data-href="Escalope de dinde à la normande" href="recettes/escalope-de-dinde-à-la-normande.html" class="internal-link" target="_self" rel="noopener nofollow">Escalope de dinde à la normande</a>
+<br>Steak haché de boeuf : 4 ---&gt; <a data-href="Steak haché à l'échalote &amp; purée" href="recettes/steak-haché-à-l'échalote-&amp;-purée.html" class="internal-link" target="_self" rel="noopener nofollow">Steak haché à l'échalote &amp; purée</a>
+<br>Viande hachée : 800g ---&gt; <a data-href="Hamburger maison" href="recettes/hamburger-maison.html" class="internal-link" target="_self" rel="noopener nofollow">Hamburger maison</a>
+<br>Viande hachée : 800g ---&gt; <a data-href="Haricots verts à la bolognaise" href="recettes/haricots-verts-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Haricots verts à la bolognaise</a>
+
+
+<br>Unclassified :
+
+<br>4 Œuf ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>600 g Poireau ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>Nuggets ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+
+
+<br><br>
 <br><a data-href="Tacos champignons, poulet &amp; comté" href="recettes/tacos-champignons,-poulet-&amp;-comté.html" class="internal-link" target="_self" rel="noopener nofollow">Tacos champignons, poulet &amp; comté</a>
 <br><a data-href="Poêlée de pommes de terre &amp; saucisse fumée" href="recettes/poêlée-de-pommes-de-terre-&amp;-saucisse-fumée.html" class="internal-link" target="_self" rel="noopener nofollow">Poêlée de pommes de terre &amp; saucisse fumée</a>
 <br><a data-href="Soupe iranienne" href="recettes/soupe-iranienne.html" class="internal-link" target="_self" rel="noopener nofollow">Soupe iranienne</a>
@@ -2156,7 +1915,366 @@ Pour avoir une peau bien dorée, roulez le filet de poulet dans la farine avant 
 <br>brocoli
 
 
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Sat, 15 Feb 2025 15:17:04 GMT</pubDate></item><item><title><![CDATA[Camembert rôti &amp; potatoes]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Mon, 24 Feb 2025 16:59:48 GMT</pubDate></item><item><title><![CDATA[Blinis]]></title><description><![CDATA[ 
+ <br><br><img alt="Blinis.webp" src="recettes/images/blinis.webp"><br><br><br>
+<br>Levure de boulanger : 10g
+<br>Farine : 150g
+<br>Oeufs : 2
+<br>Lait à température ambiante : 20cl
+<br>Beurre
+<br><br>
+<br>Mélanger la levure et le lait. Laisser reposer à température ambiante 5 min.
+<br>Faire un puits avec la farine et déposer au milieu le sel, la levure et les jaunes d'oeufs. Mettre les blancs de côté dans un saladier.
+<br>Bien mélanger en mettant progressivement le lait.
+<br>Laisser de côté pendant 4h.
+<br>Monter les blancs en neige et les incorporer délicatement.
+<br>Cuire chaque blini dans une petite poêle beurrée.
+]]></description><link>recettes/blinis.html</link><guid isPermaLink="false">recettes/Blinis.md</guid><pubDate>Tue, 11 Feb 2025 21:33:22 GMT</pubDate><enclosure url="recettes/images/blinis.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/blinis.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Bûche de Noël]]></title><description><![CDATA[ 
+ <br><br><img alt="Bûche de Noël.webp" src="recettes/images/bûche-de-noël.webp"><br><br><br>
+<br>Beurre : 200g
+<br>Chocolat : 250g
+<br>Levure chimique : 11g
+<br>Farine : 100g
+<br>Sucre en poudre : 140g
+<br>Oeufs : 4
+<br><br>
+<br>Séparer les blancs des jaunes d'oeufs.
+<br>Fouetter les jaunes d'oeuf avec le sucre et 3 cuillères à soupe d'eau tiède, pour faire mousser.
+<br>Ajouter, peu à peu, la farine et la levure.
+<br>Monter les blancs d'oeuf en neige puis les incorporer délicatement au mélange précédent.
+<br>Préchauffer le four à 180°C (thermostat 6). Etaler la pâte dans un moule long et plat (type lèchefrite) recouvert d'un papier cuisson sur 1 cm d'épaisseur.
+<br>Enfourner pour 10 à 15 minutes de cuisson, le biscuit doit être légèrement doré.
+<br>A la sortie du four, poser sur le biscuit un torchon propre humide puis le démouler dessus et rouler. Laisser refroidir.
+<br>Briser le chocolat, et le faire fondre au bain-marie.
+<br>Lorsqu'il est fondu, ajouter beurre mou et mélanger.
+<br>Dérouler le gâteau et y étaler les 2/3 du chocolat. Rouler ensuite à nouveau le biscuit sur lui-même.
+<br>Recouvrir le biscuit du reste de chocolat puis, à l'aide d'une fourchette, strier le dessus.
+<br>Faire prendre au réfrigérateur.
+]]></description><link>recettes/bûche-de-noël.html</link><guid isPermaLink="false">recettes/Bûche de Noël.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/bûche-de-noël.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/bûche-de-noël.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Burger alsacien au poulet et munster]]></title><description><![CDATA[ 
+ <br><br><img alt="Burger alsacien au poulet et munster.webp" src="recettes/images/burger-alsacien-au-poulet-et-munster.webp"><br><br><br>
+<br><a data-href="Oignons confits" href="recettes/oignons-confits.html" class="internal-link" target="_self" rel="noopener nofollow">Oignons confits</a>: 200g
+<br>Filet de poulet : 4
+<br>Munster : 125g
+<br>Pains à burger : 4
+<br><a data-href="Frites" href="recettes/frites.html" class="internal-link" target="_self" rel="noopener nofollow">Frites</a> : 500g
+<br><br>Oignons confits<br><br><br><br><img alt="Oignons confits.webp" src="recettes/images/oignons-confits.webp"><br><br><br>
+<br>Oignon : 2
+<br>Sucre en poudre : 4cc
+<br><br>
+<br>Émincer les oignons.
+<br>Dans une sauteuse, faire chauffer un filet d'huile de cuisson à feu moyen à vif. Faire revenir l'oignon avec le sucre 10 à 15 min jusqu'à ce qu'il soit caramélisé. Saler, poivrer. Remuer de temps en temps.
+<br>Frites<br><br>
+<br>Préparer les frites.
+<br>Coupez le munster en tranches.
+<br>Salez et poivrez les filets de poulet. (astuce : coupez-les en 2 dans l'épaisseur s'ils sont trop épais).
+<br>Dans une poêle, faites chauffer un filet d'huile de cuisson à feu vif. Faites dorer les filets de poulet 2 à 3 min de chaque côté.
+<br>Répartissez les tranches de fromage sur chaque filet de poulet.
+<br>Baissez le feu à moyen et prolongez la cuisson 5 à 7 min jusqu'à ce que le poulet soit cuit à cœur (la chair n'est plus rose) et le fromage fondu.
+<br>Faites dorer les pains à burger dans une poêle avec un filet d'huile de cuisson 5 min. Sur la base de chaque pain, étalez la moutarde. Déposez dessus un filet de poulet au munster et un peu d'oignon confit. Refermez les burger.
+]]></description><link>recettes/burger-alsacien-au-poulet-et-munster.html</link><guid isPermaLink="false">recettes/Burger alsacien au poulet et munster.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/burger-alsacien-au-poulet-et-munster.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/burger-alsacien-au-poulet-et-munster.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Chocolat chaud maison]]></title><description><![CDATA[ 
+ <br><br><img alt="Chocolat chaud maison.webp" src="recettes/images/chocolat-chaud-maison.webp"><br><br><br>Pour un mug (25cl) :<br>
+<br>Crème liquide entière : 10cl
+<br>lait : 15cl
+<br>chocolat noir : 25g
+<br><br>
+<br>Casser le chocolat en morceau, le mettre dans une casserole y ajouter le lait et les 10 cl de crème liquide.
+<br>Mélanger. Le tout doit chauffer 3 minutes.
+<br>Battre à l'aide d'un batteur électrique le reste de la crème liquide (ce qui donnera de la chantilly).
+]]></description><link>recettes/chocolat-chaud-maison.html</link><guid isPermaLink="false">recettes/Chocolat chaud maison.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/chocolat-chaud-maison.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/chocolat-chaud-maison.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Curry de pois chiches]]></title><description><![CDATA[ 
+ <br><br><img alt="Curry de pois chiches.webp" src="recettes/images/curry-de-pois-chiches.webp"><br><br><br>
+<br>Pois chiches : 400g
+<br>Riz : 280g
+<br>Oignon : 1
+<br>Chair de tomates : 400g
+<br>Lait de coco : 10cl
+<br>Gousse d'ail : 1
+<br>Curry
+<br>Cumin
+<br>Gingembre
+<br>Coriandre
+<br><br>
+<br>Dans une casserole d'eau chaude, faites cuire le riz selon les instructions du paquet. Égouttez-le en fin de cuisson.
+<br>Émincez les oignons rouges.
+<br>Dans une casserole, versez un filet d'huile d'olive et ajoutez les oignons émincés. Râpez l'ail et ajoutez les épices (curry, cumin, gingembre) puis faites revenir le tout 4 minutes.
+<br>Ajoutez la chair de tomate, le lait de coco, 50 ml d'eau par personne et les pois chiches égouttés. Salez, poivrez et mélangez. Couvrez et laissez cuire pendant 10 minutes à feu doux.
+<br>Servez le riz avec le curry. (Optionnel : ajoutez de la coriandre fraîche). C'est prêt !
+]]></description><link>recettes/curry-de-pois-chiches.html</link><guid isPermaLink="false">recettes/Curry de pois chiches.md</guid><pubDate>Tue, 11 Feb 2025 21:33:22 GMT</pubDate><enclosure url="recettes/images/curry-de-pois-chiches.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/curry-de-pois-chiches.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Feuilletés au fromage ultra simples]]></title><description><![CDATA[ 
+ <br><br><img alt="Feuilletés au fromage ultra simples.webp" src="recettes/images/feuilletés-au-fromage-ultra-simples.webp"><br><br><br>
+<br>Pâte feuilletée : 1
+<br>Comté râpé : 75g
+<br>Crème fraîche : 5cl
+<br>Oeuf : 1
+<br><br>
+<br>Préchauffer le four à 190°C. Râper le fromage, le verser dans un bol, ajoutez la crème fraîche, saler, poivre et mélanger.
+<br>Dérouler la pâte et la couper en 4 triangles égaux.
+<br>Déposer un peu de farce au fromage sur chaque moitié de triangle en laissant 1cm sur les bords.
+<br>Humidifier les bords avec de l'eau et plier les triangles en deux pour les refermer.
+<br>Souder les bords en vous aidant d'une fourchette, pour que la garniture ne s'échappe pas à la cuisson.
+<br>Déposer les triangles sur une plaque de cuisson tapissée de papier cuisson.
+<br>Badigeonner les feuilletés avec le jaune d'œuf puis enfourner pendant 15 minutes. Ils doivent être bien dorés.
+]]></description><link>recettes/feuilletés-au-fromage-ultra-simples.html</link><guid isPermaLink="false">recettes/Feuilletés au fromage ultra simples.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/feuilletés-au-fromage-ultra-simples.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/feuilletés-au-fromage-ultra-simples.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Flammeküeche]]></title><description><![CDATA[ 
+ <br><br><img alt="Flammeküeche.webp" src="recettes/images/flammeküeche.webp"><br><br><br>
+<br>Pâtes à pizza : 2
+<br>Fromage blanc : 20cl
+<br>Crème fraîche : 20cl
+<br>Lardons : 200g
+<br>Oignons : 2
+<br><br>
+<br>Préchauffez votre four à 240°C. Dans une poêle chaude, faites revenir les lardons 2 minutes à feu vif.
+<br>Épluchez, coupez l'oignon en deux et tranchez-le en lamelles très fines.
+<br>Dans un bol, mélangez la crème fraîche, le fromage blanc (à quantité égale), sel et poivre.
+<br>Étalez la pâte sur une plaque de cuisson. Si vous le souhaitez, pliez les bords de la pâte pour une jolie flammekueche.
+<br>Étalez le mélange sur la pâte en laissant 1 à 2 cm de bord.
+<br>Répartissez les oignons et lardons, salez, poivrez puis enfournez pour 10-15 minutes.
+<br>Sortez la flammekueche du four et déguster immédiatement. Ajoutez des herbes fraîches si vous le souhaitez. C'est prêt !
+]]></description><link>recettes/flammeküeche.html</link><guid isPermaLink="false">recettes/Flammeküeche.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/flammeküeche.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/flammeküeche.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Frites]]></title><description><![CDATA[ 
+ <br><br><img alt="Frites.webp" src="recettes/images/frites.webp"><br><br><br>
+<br>Pommes de terre : 1kg
+<br>Huile de friture : 5l
+<br><br>
+<br>Préchauffer la friteuse à 150°C.
+<br>Préparation :
+
+<br>Peler les pommes de terre et retirer les yeux.
+<br>Les découper en bâtonnets d’environ 0,5 cm de diamètre.
+<br>Les passer très rapidement sous l’eau (sans trop pour ne pas retirer tout l’amidon).
+
+
+<br>Cuisson :
+
+<br>Plonger les frites dans la friteuse pendant 5 min à 150°C.
+<br>Sortir les frites et secouer le panier pour bien égoutter l'huile.
+<br>Avant de remettre les frites, rallumer la friteuse à 180°C. Les laisser reposer pendant au moins 10 min.
+<br>Plonger les frites une deuxième fois pendant 2 à 3 min.
+<br>Une fois le 2e bain réalisé, bien secouer le panier puis égoutter dans un saladier tapissé de papier absorbant. Saler tout de suite.
+
+
+<br>Tip
+Le secret de la cuisson des frites réside dans le fait de réaliser 2 cuissons successives à des températures différentes :
+
+<br>5 minutes à 140-150° pour les précuire ;
+<br>2-3 minutes à 180° pour les dorer.
+
+L’autre secret : bien séparer les 2 bains de friture en laissant le temps aux frites de « sécher » entre les 2 bains (10 minutes suffisent mais pour vous faciliter la vie, sachez que vous pouvez le faire jusqu’à 2 h à l’avance).
+]]></description><link>recettes/frites.html</link><guid isPermaLink="false">recettes/Frites.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/frites.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/frites.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Galette complète &amp; oignons confits]]></title><description><![CDATA[ 
+ <br><br><img alt="Galette complète &amp; oignons confits.webp" src="recettes/images/galette-complète-&amp;-oignons-confits.webp"><br><br><br>
+<br>Galettes bretonnes : 4
+<br>Oeufs : 4
+<br>Jambon : 4 tranches
+<br>Fromage râpé : 200g
+<br><a data-href="Oignons confits" href="recettes/oignons-confits.html" class="internal-link" target="_self" rel="noopener nofollow">Oignons confits</a> : 1
+<br><br>
+<br>Épluchez puis émincez les oignons finement.
+<br>Faites fondre un morceau de beurre dans une poêle. Déposez la galette au sarrasin et cassez l'œuf au centre. Salez et poivrez.
+<br>Quand le blanc de l'œuf commence à être cuit, ajoutez les oignons confits, le jambon en morceaux et le fromage râpé.
+<br>Repliez la galette en carré ou en demi lune. Laissez-la griller 1 à 2 minutes supplémentaires, puis servez. C'est prêt !
+]]></description><link>recettes/galette-complète-&amp;-oignons-confits.html</link><guid isPermaLink="false">recettes/Galette complète &amp; oignons confits.md</guid><pubDate>Tue, 11 Feb 2025 21:37:58 GMT</pubDate><enclosure url="recettes/images/galette-complète-&amp;-oignons-confits.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-complète-&amp;-oignons-confits.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Galette de sarrasin façon mer Morte]]></title><description><![CDATA[ 
+ <br><br><img alt="Galette de sarrasin façon mer Morte.webp" src="recettes/images/galette-de-sarrasin-façon-mer-morte.webp"><br><br><br>
+<br>[ ]Beurre : 10g
+<br>[ ]Sel : 1cc
+<br>[ ]Galette de sarrasin : 1
+<br>[ ]sucre sel : 50g
+<br>[ ]Fromage blanc : 200g
+<br>[ ]Myrtilles : 100g
+<br><br>
+<br>Dans une poêle ajouter le beurre, déposer la galette, ajouter une bonne cuillère de sucre sel en poudre.
+<br>Laisser pendant presque 10 minutes à feu doux, caraméliser gentiment.
+<br>Couvrir avec un couvercle pour aider le sucre sel à fondre.
+<br>Une fois que la galette a bien caramélisé séché (élasticité nulle), couper le feu et laisser refroidir un peu.
+<br>Étaler le fromage blanc et ajouter les myrtilles.
+<br>Déguster avec un rooibos bien chaud !
+]]></description><link>recettes/galette-de-sarrasin-façon-mer-morte.html</link><guid isPermaLink="false">recettes/Galette de sarrasin façon mer Morte.md</guid><pubDate>Tue, 11 Feb 2025 21:35:22 GMT</pubDate><enclosure url="recettes/images/galette-de-sarrasin-façon-mer-morte.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/galette-de-sarrasin-façon-mer-morte.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gazpacho &amp; roulés mozza, jambon, pesto]]></title><description><![CDATA[ 
+ <br><br><img alt="Gazpacho &amp; roulés mozza, jambon, pesto.webp" src="recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp"><br><br><br>
+<br>[ ]Gazpacho : 1l
+<br>[ ]Pain de mie : 8 tranches
+<br>[ ]Sauce pesto : 8cc
+<br>[ ]Mozzarella : 120g
+<br>[ ]Jambon blanc : 4 tranches
+<br><br>
+<br>Coupez la mozzarella en tranches fines.
+<br>Aplatissez les tranches de pain à l'aide d'un rouleau à pâtisserie.
+<br>Étalez le pesto sur les tranches de pain de mie, puis ajoutez la mozzarella et le jambon. Roulez les tranches de pain en les serrant légèrement. Recommencez autant de fois que de roulés nécessaires.
+<br>Faites chauffer un filet d'huile d'olive dans une poêle, sur feu moyen. Ajoutez les roulés avec la jointure vers le bas. Faites-les revenir 2 minutes sur chaque face, jusqu'à ce qu'ils soient bien dorés.
+<br>Dans un bol ou une assiette creuse, servez le gazpacho bien frais accompagné des roulés au fromage &amp; jambon. Ajoutez un filet d'huile d'olive et un peu de poivre. C'est prêt !
+]]></description><link>recettes/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.html</link><guid isPermaLink="false">recettes/Gazpacho &amp; roulés mozza, jambon, pesto.md</guid><pubDate>Tue, 11 Feb 2025 21:37:39 GMT</pubDate><enclosure url="recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin de ravioles au saumon]]></title><description><![CDATA[ 
+ <br><br><img alt="Gratin de ravioles au saumon.webp" src="recettes/images/gratin-de-ravioles-au-saumon.webp"><br><br><br>
+<br>Ravioles du Dauphiné : 480g
+<br>Poireaux : 4
+<br>Saumon : 200g
+<br>Crème fraîche : 50cl
+<br>comté : 200g
+<br><br>
+<br>Préchauffez le four à 200°C. Émincez finement les poireaux et rincez-les.
+<br>Ajoutez une noisette de beurre dans une poêle et faites revenir les poireaux 10 minutes à feu moyen. Égouttez-les ensuite.
+<br>Dans un plat à gratin, placez une plaquette de ravioles, les poireaux, le saumon fumé et la crème fraîche.
+<br>Faites 3 couches comme pour des lasagnes. Terminez par une plaque de ravioles, de la crème, du comté râpé, sel et poivre.
+<br>Enfournez 20 minutes à 200°C.
+<br>Servez seul ou avec une salade pour accompagner. C'est prêt !
+]]></description><link>recettes/gratin-de-ravioles-au-saumon.html</link><guid isPermaLink="false">recettes/Gratin de ravioles au saumon.md</guid><pubDate>Tue, 11 Feb 2025 21:37:58 GMT</pubDate><enclosure url="recettes/images/gratin-de-ravioles-au-saumon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gratin-de-ravioles-au-saumon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Haricots verts à l'ail]]></title><description><![CDATA[ 
+ <br><br><img alt="Haricots verts à l'ail.webp" src="recettes/images/haricots-verts-à-l'ail.webp">]<br><br><br>
+<br>Haricots verts : 500g
+<br>Gousse d'ail : 2
+<br>Beurre : 50g
+<br><br>
+<br>Faire fondre une noix de beurre dans la poêle et y faire revenir quelques gousses d'ail émincées selon votre goût.
+<br>Couper un peu les haricots si besoin avant la cuisson afin qu'ils ne soient pas trop longs.
+<br>Mettre les haricots verts dans la poêle et faire chauffer le tout en remuant régulièrement.
+]]></description><link>recettes/haricots-verts-à-l'ail.html</link><guid isPermaLink="false">recettes/Haricots verts à l'ail.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/haricots-verts-à-l'ail.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/haricots-verts-à-l'ail.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Oignons confits]]></title><description><![CDATA[ 
+ <br><br><img alt="Oignons confits.webp" src="recettes/images/oignons-confits.webp"><br><br><br>
+<br>Oignon : 2
+<br>Sucre en poudre : 4cc
+<br><br>
+<br>Émincer les oignons.
+<br>Dans une sauteuse, faire chauffer un filet d'huile de cuisson à feu moyen à vif. Faire revenir l'oignon avec le sucre 10 à 15 min jusqu'à ce qu'il soit caramélisé. Saler, poivrer. Remuer de temps en temps.
+]]></description><link>recettes/oignons-confits.html</link><guid isPermaLink="false">recettes/Oignons confits.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/oignons-confits.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/oignons-confits.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ravioli ricotta épinards à la crème d'ail et poireau]]></title><description><![CDATA[ 
+ <br><br><img alt="Ravioli ricotta épinards à la crème d'ail et poireau.webp" src="recettes/images/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.webp"><br><br><br>
+<br>Crème fraîche : 20cl
+<br>Gousse d'ail : 1
+<br>Oignon : 1
+<br>Poireaux : 2
+<br>Épinards branche : 300g
+<br>Raviolis à la ricotta et aux épinards : 500g
+<br><br>
+<br>Coupez et retirez la base abîmée du poireau. Incisez-le en deux dans la longueur et rincez-le soigneusement. Émincez-le. Émincez l'oignon.
+<br>Dans une sauteuse, faites chauffer un filet d'huile à feu moyen à vif. Faites revenir l'oignon et le poireau 10 min.
+<br>Au bout des 10 min, ajoutez les épinards, un fond d'eau et poursuivez la cuisson 5 min. Salez, poivrez.
+<br>Portez à ébullition une casserole d'eau salée. Faites cuire les ravioli selon les indications du paquet.
+<br>Pressez ou hachez l'ail. Une fois les légumes cuits, ajoutez la crème, l'ail et les ravioli dans la sauteuse. Mélangez bien. Faites revenir le tout 1 à 2 min. Goûtez et rectifiez l'assaisonnement si nécessaire.
+<br>Servez sans attendre vos ravioli ricotta épinards à la crème d'ail, épinards et poireau !
+]]></description><link>recettes/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.html</link><guid isPermaLink="false">recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Risotto comté &amp; saucisse à l'ancienne]]></title><description><![CDATA[ 
+ <br><br><img alt="Risotto comté &amp; saucisse à l'ancienne.webp" src="recettes/images/risotto-comté-&amp;-saucisse-à-l'ancienne.webp"><br><br><br>
+<br>Riz : 280g
+<br>Échalote : 1
+<br>Gousse d'ail : 1
+<br>Comté : 80g
+<br>Saucisses fumées : 4
+<br>Bouillon de volaille : 1
+<br>Vin blanc : 8cl
+<br><br>
+<br>Épluchez, puis émincez l'ail.
+<br>Épluchez, puis émincez l'échalote.
+<br>Coupez les saucisses en tranches.
+<br>Dans une poêle ou une casserole, ajoutez un filet d'huile de cuisson, la saucisse, l'échalote, l'ail et laisser revenir 3 minutes.
+<br>Faire bouillir 25cl d'eau par personne et y dissoudre le bouillon de volaille.
+<br>Ajoutez ensuite le riz et le vin blanc dans la casserole et laissez rissoler jusqu'à évaporation du vin.
+<br>Salez (avec parcimonie, la saucisse est déjà très salée), poivrez, ajoutez le bouillon petit à petit, 1 tasse par 1 tasse en le laissant s'évaporer puis recommencer l'opération jusqu'à épuisement du bouillon.
+<br>Le riz doit cuire entre 15 à 18 minutes. Vérifiez la cuisson du riz et coupez le feu.
+<br>Ajoutez le comté râpé, salez, poivrez.
+<br>Servez, c'est prêt !
+]]></description><link>recettes/risotto-comté-&amp;-saucisse-à-l'ancienne.html</link><guid isPermaLink="false">recettes/Risotto comté &amp; saucisse à l'ancienne.md</guid><pubDate>Tue, 11 Feb 2025 21:37:58 GMT</pubDate><enclosure url="recettes/images/risotto-comté-&amp;-saucisse-à-l'ancienne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/risotto-comté-&amp;-saucisse-à-l'ancienne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade printanière au poulet]]></title><description><![CDATA[ 
+ <br><br><img alt="Salade printanière au poulet.webp" src="recettes/images/salade-printanière-au-poulet.webp"><br><br><br>
+<br>Filets de poulet : 4
+<br>Feta : 80g
+<br>Radis : 200g
+<br>Petits pois : 320g
+<br>Mélange de céréales : 240g
+<br>Vinaigre balsamique : 4cc
+<br><br>
+<br>Dans une casserole d'eau bouillante, faites cuire les céréales selon les instructions de préparation du paquet (soit environ 10 min).
+<br>Pendant ce temps, dans une seconde casserole d'eau bouillante, faites cuire les petits pois pendant 8 à 10 min.
+<br>Préparez le filet de poulet.
+<br>Faites chauffer un filet d'huile ou une noisette de beurre dans une poêle. Ajoutez le poulet et faites-le dorer 2 min à feu vif sur une première face. Salez et poivrez.
+<br>Retournez le poulet sur l'autre face et faites-le cuire 8 min à feu moyen. Continuez d'arroser, salez et poivrez.
+<br>Lavez et coupez les radis en tranches.
+<br>Réservez le poulet sur une assiette et laissez-le refroidir avant de le couper en tranches.
+<br>Égouttez les petits pois.
+<br>Égouttez le mélange de graines.
+<br>Dans un saladier, ajoutez les graines, les petits pois, les tranches de radis et la feta émiettée. Ajoutez le vinaigre, un filet d'huile d'olive, sel, poivre et mélangez le tout.
+<br>Ajoutez le poulet, mélangez. Servez, c'est prêt !
+<br>Tip
+Pour avoir une peau bien dorée, roulez le filet de poulet dans la farine avant de le cuire.
+]]></description><link>recettes/salade-printanière-au-poulet.html</link><guid isPermaLink="false">recettes/Salade printanière au poulet.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/salade-printanière-au-poulet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-printanière-au-poulet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Sauté de porc façon Goblot]]></title><description><![CDATA[ 
+ <br><br><img alt="Sauté de porc façon Goblot.webp" src="recettes/images/sauté-de-porc-façon-goblot.webp"><br><br><br>
+<br>[ ]Oignon : 1
+<br>[ ]Morceaux de porc : 500g
+<br>[ ]Concentré de tomates : 70g
+<br>[ ]Crème fraîche : 10cl
+<br>[ ]Riz ou semoule : 300g
+<br>[ ]Piment d'Espelette (ou de Cayenne)
+<br><br>
+<br>Couper les oignons en lamelles et le porc en morceaux.
+<br>Dans une cocotte en fonte, ajouter un fond d'huile de cuisson ou de beurre, et faire revenir les oignons.
+<br>Ensuite, ajouter le porc et le faire dorer. Saler et poivrer le tout.
+<br>Recouvrir d'eau. Saler, poivrer et ajouter le concentré de tomates et un peu de piment d'Espelette.
+<br>Faire rissoler pendant au moins 1h30.
+<br>Faire cuire le riz ou la semoule selon les instructions du paquet.
+<br>Vérifier la cuisson du porc en le piquant : s'il n'est pas tendre, laisser cuire un peu plus longtemps.
+<br>Ajouter la crème fraîche dans la marmite.
+<br>Servir le riz/semoule avec le porc. C'est prêt !
+]]></description><link>recettes/sauté-de-porc-façon-goblot.html</link><guid isPermaLink="false">recettes/Sauté de porc façon Goblot.md</guid><pubDate>Tue, 11 Feb 2025 21:37:39 GMT</pubDate><enclosure url="recettes/images/sauté-de-porc-façon-goblot.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/sauté-de-porc-façon-goblot.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tenders]]></title><description><![CDATA[ 
+ <br><br><img alt="Tenders.webp" src="recettes/images/tenders.webp"><br><br><br>
+<br>Corn flakes : 100g
+<br>Filets de poulet : 4
+<br>Oeuf : 1
+<br>Farine : 100g
+<br>Ail en poudre
+<br>Paprika
+<br>Lait : 2cl
+<br>Huile de friture
+<br><br>
+<br>Coupez les blancs de poulet en gros dés, mettez-les dans un saladier.
+<br>Ajoutez l'ail séché et le paprika.
+<br>Malaxez pour bien enrober les dés de poulet.
+<br>Mélangez la farine avec un peu de sel et de poivre puis mettez-la dans une assiette. Écrasez un peu les corn-flakes puis déposez-les dans une assiette. Dans une assiette, fouettez l'oeuf avec le lait. Roulez les dés de poulet dans la farine.
+<br>Puis roulez-les dans l'oeuf battu.
+<br>Puis enrobez-les des corn-flakes.
+<br>Faites chauffer l'huile de friture dans une grande poêle et ajoutez les dés de poulet.
+<br>Faites-les frire jusqu'à ce qu'ils soient bien dorés, égouttez-les sur du papier absorbant et dégustez chaud.
+<br>Servez avec une salade et du ketchup et régalez-vous !
+]]></description><link>recettes/tenders.html</link><guid isPermaLink="false">recettes/Tenders.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/tenders.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tenders.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tiramisu]]></title><description><![CDATA[ 
+ <br><br><img alt="Tiramisu.webp" src="recettes/images/tiramisu.webp"><br><br><br>
+<br>Cacao amer : 10g
+<br>Sucre roux : 100g
+<br>Oeufs : 3
+<br>Sucre vanillé : 1 sachet
+<br>Mascarpone : 250g
+<br>biscuits à la cuillère
+<br>Café sans sucre : 50cl
+<br><br>
+<br>Séparer les blancs des jaunes d'oeufs.
+<br>Mélanger les jaunes avec le sucre roux et le sucre vanillé.
+<br>Ajouter le mascarpone au fouet.
+<br>Monter les blancs en neige et les incorporer délicatement une maryse au mélange précédent. Réserver.
+<br>Mouiller les biscuits dans le café rapidement avant d'en tapisser le fond du plat.
+<br>Recouvrir d'une couche de crème puis répéter l'opération en alternant couche de biscuits et couche de crème en terminant par une couche de crème.
+<br>Saupoudrer de cacao.
+<br>Mettre au réfrigérateur 4 heures minimum puis déguster frais.
+]]></description><link>recettes/tiramisu.html</link><guid isPermaLink="false">recettes/Tiramisu.md</guid><pubDate>Tue, 11 Feb 2025 21:33:22 GMT</pubDate><enclosure url="recettes/images/tiramisu.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tiramisu.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wok de nouilles chinoises au tofu]]></title><description><![CDATA[ 
+ <br><br><img alt="Wok de nouilles chinoises au tofu.webp" src="recettes/images/wok-de-nouilles-chinoises-au-tofu.webp"><br><br><br>
+<br>Oignons verts : 1 botte
+<br>Tofu : 2 blocs
+<br>Nouilles chinoises aux oeufs : 200g
+<br>Poivrons verts : 2
+<br>Échalotes : 4
+<br>Ail : 8 gousses
+<br>Miel : 2cs
+<br>Amandes entières : 2 poignées
+<br>Sauce soja : 20cl
+<br><br>
+<br>La Marinade du tofu :
+
+<br>Dans un plat creux, mettre la sauce soja.
+<br>Hacher un morceau de gingembre puis éplucher et hacher l’ail, les ajouter dans la sauce de soja.
+<br>Ciseler 3 oignons verts et les ajouter à la marinade, puis poivrer.
+<br>Couper le tofu en dés, le mettre dans la marinade, ajouter le miel, bien mélanger.
+<br>Laisser reposer pendant 2 heures.
+
+
+<br>La Marinade des légumes :
+
+<br>Laver et couper les poivrons , l’oignon et le piment vert.
+<br>Les ciseler en fines lanières, puis les mettre à mariner dans 4 cuillères à soupe d’huile d’olive et 2 cuillères à soupe de soja, et un peu de poivre.
+
+
+<br>La cuisson :
+
+<br>Dans un wok, faire sauter les poivrons, oignon et piment, jusqu’à ce qu’ils soient juste dorés. Les retirer du wok et les réserver.
+<br>Dans une grande casserole, porter à ébullition un grand volume d’eau, puis y jeter la moitié des nouilles chinoises. Faire cuire pendant 2 minutes puis les égoutter.
+<br>Faire sauter le tofu dans un wok avec un peu d’huile chaude. Il faut que le tofu soir bien doré. Rajouter les légumes, puis les nouilles. Faire sauter le tout, en ajoutant le reste de la marinade du tofu, pendant 5 à 6 minutes.
+
+
+<br>Dresser dans les assiettes, en parsemant de coriandre fraîche hachée et d’amandes concassées.
+]]></description><link>recettes/wok-de-nouilles-chinoises-au-tofu.html</link><guid isPermaLink="false">recettes/Wok de nouilles chinoises au tofu.md</guid><pubDate>Tue, 11 Feb 2025 21:37:57 GMT</pubDate><enclosure url="recettes/images/wok-de-nouilles-chinoises-au-tofu.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/wok-de-nouilles-chinoises-au-tofu.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Camembert rôti &amp; potatoes]]></title><description><![CDATA[ 
  <br><br><img alt="Camembert rôti &amp; potatoes.webp" src="recettes/images/camembert-rôti-&amp;-potatoes.webp"><br><br><br>
 <br>Camembert : 2
 <br>Potatoes : 600g
@@ -2191,25 +2309,7 @@ Pour avoir une peau bien dorée, roulez le filet de poulet dans la farine avant 
 <br>À l'aide d'un couteau, faites un trou au centre de la pie et décorez-la comme vous le souhaitez.
 <br>Enfournez la pie pour 25 minutes à 180°C.
 <br>Sortez la pie du four, c'est prêt !
-]]></description><link>recettes/pie-poireaux-&amp;-champignons.html</link><guid isPermaLink="false">recettes/Pie poireaux &amp; champignons.md</guid><pubDate>Tue, 31 Dec 2024 17:23:37 GMT</pubDate><enclosure url="recettes/images/pie-poireaux-&amp;-champignons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/pie-poireaux-&amp;-champignons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Soupe iranienne]]></title><description><![CDATA[ 
- <br><br><img alt="Soupe iranienne.webp" src="recettes/images/soupe-iranienne.webp"><br><br><br>
-<br>Carottes : 2
-<br>Concentré de tomate : 70g
-<br>Oignon : 1
-<br>Blé à cuire : 200g
-<br>Bouillon de légumes : 1
-<br>Jus de citron
-<br>Curcuma
-<br>(Optionnel) Lait de coco : 10cl
-<br><br>
-<br>Émincez les oignons finement.
-<br>Lavez, épluchez, puis émincez les carottes en brunoise (petits cubes).
-<br>Dans une casserole, ajoutez un filet d'huile, faire dorer les oignons 1 minute.
-<br>Ajoutez ensuite : le jus de citron, le curcuma et les carottes. Mélangez.
-<br>Puis le blé, 1,2l d'eau, le bouillon de légumes et le concentré de tomates, sel, poivre.
-<br>Mélangez, laissez mijoter à couvert à feu doux pendant 30 minutes.
-<br>Optionnel : ajoutez le lait de coco quelques feuilles de persil si vous en avez.
-]]></description><link>recettes/soupe-iranienne.html</link><guid isPermaLink="false">recettes/Soupe iranienne.md</guid><pubDate>Sat, 04 Jan 2025 11:03:03 GMT</pubDate><enclosure url="recettes/images/soupe-iranienne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/soupe-iranienne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Livre de recettes]]></title><description><![CDATA[ 
+]]></description><link>recettes/pie-poireaux-&amp;-champignons.html</link><guid isPermaLink="false">recettes/Pie poireaux &amp; champignons.md</guid><pubDate>Tue, 31 Dec 2024 17:23:37 GMT</pubDate><enclosure url="recettes/images/pie-poireaux-&amp;-champignons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/pie-poireaux-&amp;-champignons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Livre de recettes]]></title><description><![CDATA[ 
  <br><br><br>Salut ! Moi, c'est Antoine.
  <img style="margin: 20px; float: right; width: 100px; max-width: 100%;" height="100" alt="profile picture" src="recettes/images/photo.webp" referrerpolicy="no-referrer">J'ai mis en ligne ce site web pour partager mon livre de recettes. Il s'agit de toutes les recettes que j'essaie et que je sauvegarde pour ne jamais manquer d'idée !<br><br>Plus de 140 recettes sont disponibles ! N'hésitez pas à me faire part de vos retours ou de vos astuces pour les améliorer.
 <br><a data-href="Menu de la semaine" href="menu-de-la-semaine.html" class="internal-link" target="_self" rel="noopener nofollow">Menu de la semaine</a><br><br><br><br><br><br><br><br><br><br>Vous pouvez retrouver le repository de ce livre sur GitHub : <a rel="noopener nofollow" class="external-link" href="https://github.com/antoinelabard/Cookbook" target="_blank">https://github.com/antoinelabard/Cookbook</a>. Si vous avez des suggestions d'améliorations des recettes, vous pouvez me contacter ou utiliser GitHub si vous le maîtrisez.<br>❤️ Merci aux contributeurs du projet :<br>
@@ -4277,27 +4377,7 @@ La piémontaise est meilleure préparée la veille !
 <br>Ajoutez vos steaks dans la poêle et laisser cuire selon vos préférences.
 <br>Ajoutez un fond d'eau dans la poêle encore chaude pour former un jus (2 c. à soupe/personne environ) et laissez le jus s'épaissir un peu pendant 1 à 2 min.
 <br>Servez le steak avec la purée et la sauce, c'est prêt !
-]]></description><link>recettes/steak-haché-à-l'échalote-&amp;-purée.html</link><guid isPermaLink="false">recettes/Steak haché à l'échalote &amp; purée.md</guid><pubDate>Sun, 27 Oct 2024 15:18:38 GMT</pubDate><enclosure url="recettes/images/steak-haché-à-l'échalote-&amp;-purée.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/steak-haché-à-l'échalote-&amp;-purée.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tacos champignons, poulet &amp; comté]]></title><description><![CDATA[ 
- <br><br><img alt="Tacos champignons, poulet &amp; comté.webp" src="recettes/images/tacos-champignons,-poulet-&amp;-comté.webp"><br><br><br>
-<br>Kit fajitas pour 4
-<br>Champignons de Paris : 320g
-<br>Comté : 80g
-<br>Blanc de poulet : 4
-<br>Oignon rouge : 1
-<br>Persil
-<br><br>
-<br>Ouvrez le kit fajita. Épluchez puis coupez l'oignon en fines lamelles. Réservez.
-<br>Coupez le poulet en lamelles.
-<br>Coupez les champignons en quartiers.
-<br>Faites chauffer une poêle avec un filet d'huile de cuisson. Ajoutez les lamelles de poulet et faites-les cuire 4 minutes en remuant régulièrement.
-<br>Ajoutez les oignons rouges et les champignons dans la poêle. Mélangez.
-<br>Ajoutez le mélange aux épices qui se trouve dans le kit (1/2 c. à café par personne environ). Mélangez et laissez cuire 3 minutes à feu doux.
-<br>Pendant ce temps, hachez le persil finement.
-<br>Préchauffez les tortillas selon les indications du paquet puis garnissez-les avec la poêlée de poulet et de champignons.
-<br>Garnissez généreusement de comté râpé.
-<br>Ajoutez enfin le persil haché si vous en avez.
-<br>Servez les tacos avec une sauce salsa ou une sauce piquante si vous le souhaitez. C'est prêt !
-]]></description><link>recettes/tacos-champignons,-poulet-&amp;-comté.html</link><guid isPermaLink="false">recettes/Tacos champignons, poulet &amp; comté.md</guid><pubDate>Wed, 15 May 2024 12:18:47 GMT</pubDate><enclosure url="recettes/images/tacos-champignons,-poulet-&amp;-comté.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tacos-champignons,-poulet-&amp;-comté.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tagliatelles saumon épinards]]></title><description><![CDATA[ 
+]]></description><link>recettes/steak-haché-à-l'échalote-&amp;-purée.html</link><guid isPermaLink="false">recettes/Steak haché à l'échalote &amp; purée.md</guid><pubDate>Sun, 27 Oct 2024 15:18:38 GMT</pubDate><enclosure url="recettes/images/steak-haché-à-l'échalote-&amp;-purée.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/steak-haché-à-l'échalote-&amp;-purée.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tagliatelles saumon épinards]]></title><description><![CDATA[ 
  <br><br><img alt="Tagliatelles saumon épinards.webp" src="recettes/images/tagliatelles-saumon-épinards.webp"><br><br><br>
 <br>Pâtes : 400g
 <br>Saumon : 4 tranches
