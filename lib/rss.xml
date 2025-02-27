@@ -1,4 +1,41 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 24 Feb 2025 19:47:34 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 24 Feb 2025 19:47:33 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Haricots verts à la bolognaise]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 27 Feb 2025 20:22:06 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 27 Feb 2025 20:22:04 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Soupe de Tortellini]]></title><description><![CDATA[ 
+ <br><br><img alt="Soupe de Tortellini.webp" src="recettes/images/soupe-de-tortellini.webp"><br><br><br>
+<br>Chair de tomates : 320g
+<br>Chair à saucisses : 200g
+<br>crème fraîche : 10cl
+<br>Épinards : 200g
+<br>Oignon : 1
+<br>Bouillon de volailles : 1
+<br>Pâtes tortellini ricotta-épinards : 440g
+<br>Parmesan râpé : 40g
+<br><br>
+<br>Émincez l'oignon finement.
+<br>Si vous avez des saucisses entières et non de la chair à saucisse, videz simplement les saucisses à l'aide de vos doigts.
+<br>Dans une casserole, faire revenir les oignons dans une filet d'huile d'olive pendant 1 minute.
+<br>Ajoutez ensuite la chair à saucisse et faire revenir à feu vif pendant 1 à 2 minutes jusqu'à ce qu'elle soit légèrement dorée.
+<br>Ajoutez ensuite la chair de tomate, 1l d'eau et le bouillon de volaille. Portez à ébullition et ajoutez les tortellinis.
+<br>Salez, poivrez, mélangez et faire cuire à feu doux, à couvert pendant 4 minutes.
+<br>Une fois la cuisson terminée, ajoutez la crème (optionnel : les épinards frais) et mélangez.
+<br>Servir avec quelques copeaux de parmesan, c'est prêt !
+]]></description><link>recettes/soupe-de-tortellini.html</link><guid isPermaLink="false">recettes/Soupe de Tortellini.md</guid><pubDate>Thu, 27 Feb 2025 19:18:24 GMT</pubDate><enclosure url="recettes/images/soupe-de-tortellini.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/soupe-de-tortellini.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tourte à la viande]]></title><description><![CDATA[ 
+ <br><br>“Tourte à la viande.webp” could not be found.<br><br><br>
+<br>Viande de porc hachée : 800g
+<br>Chou chinois : 1
+<br>Carottes : 4
+<br>Poireaux : 2
+<br>Oignons blancs : 2
+<br>Oignon rouge : 1
+<br>Pâtes brisées : 2
+<br><br>
+<br>Éplucher les carottes et les couper en petits cubes. Les faire cuire 10 minutes dans une casserole d'eau.
+<br>dans une sauteuse, faire revenir la viande porc pendant 5 minutes.
+<br>Pendant ce temps, couper les poireaux dans leur longueur jusqu'au coeur, les couper en rondelles et les laver à l'eau.
+<br>Couper le chou chinois en lamelles et émincez les oignons.
+<br>Ajouter les poireaux, le chou chinois et les oignons dans la sauteuse. Laisser cuire à petit feu en couvrant durant 5 minutes
+<br>Quand les carottes sont cuites, les égoutter les ajouter à la sauteuse. Laisser cuire encore 5 minutes
+<br>Dans un plat à tarte, étaler la première pâte brisée. Ajouter le mélange et recouvrir de la seconde pâte.
+<br>Enfourner ??? à 210°C. C'est prêt !
+]]></description><link>recettes/tourte-à-la-viande.html</link><guid isPermaLink="false">recettes/Tourte à la viande.md</guid><pubDate>Thu, 27 Feb 2025 20:18:53 GMT</pubDate></item><item><title><![CDATA[Haricots verts à la bolognaise]]></title><description><![CDATA[ 
  <br><br><img alt="Haricots verts à la bolognaise.webp" src="recettes/images/haricots-verts-à-la-bolognaise.webp"><br><br><br>
 <br>Oignon : 1
 <br>Gousse d'ail : 1
@@ -4320,26 +4357,7 @@ La piémontaise est meilleure préparée la veille !
 <br>Plonger les ramens dans l'eau bouillante durant 1-2 min afin de les séparer puis ajouter les sachets d'assaisonnement et laisser cuire durant 2 min.
 <br>Dans un grand saladier, verser un fond du bouillon des ramens puis verser la totalité de la soupe.
 <br>Égoutter les ramens et les ajouter dans le saladier puis ajouter la viande et son accompagnement.
-]]></description><link>recettes/soupe-aux-ramen.html</link><guid isPermaLink="false">recettes/Soupe aux ramen.md</guid><pubDate>Sun, 27 Oct 2024 15:18:38 GMT</pubDate><enclosure url="recettes/images/soupe-aux-ramen.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/soupe-aux-ramen.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Soupe de Tortellini]]></title><description><![CDATA[ 
- <br><br><img alt="Soupe de Tortellini.webp" src="recettes/images/soupe-de-tortellini.webp"><br><br><br>
-<br>Chair de tomates : 320g
-<br>Chair à saucisses : 200g
-<br>crème fraîche : 10cl
-<br>Épinards : 200g
-<br>Oignon : 1
-<br>Bouillon de volailles : 1
-<br>Pâtes tortellini ricotta-épinards : 440g
-<br>Parmesan râpé : 40g
-<br><br>
-<br>Émincez l'oignon finement.
-<br>Si vous avez des saucisses entières et non de la chair à saucisse, videz simplement les saucisses à l'aide de vos doigts.
-<br>Dans une casserole, faire revenir les oignons dans une filet d'huile d'olive pendant 1 minute.
-<br>Ajoutez ensuite la chair à saucisse et faire revenir à feu vif pendant 1 à 2 minutes jusqu'à ce qu'elle soit légèrement dorée.
-<br>Ajoutez ensuite la chair de tomate, 1 tasse d'eau par personne (250 ml), le bouillon de volaille. Portez à ébullition et ajoutez les tortellini.
-<br>Salez, poivrez, mélangez et faire cuire à feu doux, à couvert pendant 4 minutes.
-<br>Une fois la cuisson terminée, ajoutez la crème (optionnel : les épinards frais) et mélangez.
-<br>Servir avec quelques copeaux de parmesan, c'est prêt !
-]]></description><link>recettes/soupe-de-tortellini.html</link><guid isPermaLink="false">recettes/Soupe de Tortellini.md</guid><pubDate>Thu, 26 Dec 2024 20:33:58 GMT</pubDate><enclosure url="recettes/images/soupe-de-tortellini.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/soupe-de-tortellini.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Spaghetti ail &amp; crevette]]></title><description><![CDATA[ 
+]]></description><link>recettes/soupe-aux-ramen.html</link><guid isPermaLink="false">recettes/Soupe aux ramen.md</guid><pubDate>Sun, 27 Oct 2024 15:18:38 GMT</pubDate><enclosure url="recettes/images/soupe-aux-ramen.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/soupe-aux-ramen.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Spaghetti ail &amp; crevette]]></title><description><![CDATA[ 
  <br><br><img alt="Spaghetti ail &amp; crevette.webp" src="recettes/images/spaghetti-ail-&amp;-crevette.webp"><br><br><br>
 <br>Pâtes : 400g
 <br>Crevettes : 400g
