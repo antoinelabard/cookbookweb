@@ -1,6 +1,6 @@
 {
   "vaultName": "cookbook",
-  "lastExport": 1740687724439,
+  "lastExport": 1740756758398,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -14,6 +14,7 @@
     "recettes/images/Bavette à l'échalote, pommes de terre & haricots.webp",
     "recettes/images/Béchamel.webp",
     "recettes/images/Blinis.webp",
+    "recettes/images/Bouillon légumes & poulet.webp",
     "recettes/images/Boulettes & semoule express.webp",
     "recettes/images/Bounties maison.webp",
     "recettes/images/Brochettes dinde, haricots & semoule.webp",
@@ -179,6 +180,7 @@
     "recettes/Bavette à l'échalote, pommes de terre & haricots.md",
     "recettes/Béchamel.md",
     "recettes/Blinis.md",
+    "recettes/Bouillon légumes & poulet.md",
     "recettes/Boulettes & semoule express.md",
     "recettes/Bounties maison.md",
     "recettes/Brochettes dinde, haricots & semoule.md",
@@ -1714,7 +1716,7 @@
       ]
     },
     "recettes/Endives en pochon.md": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1740756758398,
       "sourceSize": 1292,
       "exportedPath": "recettes/endives-en-pochon.html",
       "dependencies": [
@@ -2702,16 +2704,16 @@
       ]
     },
     "index.md": {
-      "modifiedTime": 1735249551731,
-      "sourceSize": 2008,
+      "modifiedTime": 1740756758398,
+      "sourceSize": 2033,
       "exportedPath": "index.html",
       "dependencies": [
         "recettes/images/photo.webp"
       ]
     },
     "Menu de la semaine.md": {
-      "modifiedTime": 1740425283341,
-      "sourceSize": 58850,
+      "modifiedTime": 1740756758398,
+      "sourceSize": 63955,
       "exportedPath": "menu-de-la-semaine.html",
       "dependencies": []
     },
@@ -2884,7 +2886,7 @@
       "dependencies": []
     },
     "recettes/images/endives-en-pochon.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1740756758398,
       "sourceSize": 343202,
       "exportedPath": "recettes/images/endives-en-pochon.webp",
       "dependencies": []
@@ -3622,85 +3624,85 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
@@ -3712,79 +3714,79 @@
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1740687724439,
-      "sourceSize": 129019,
+      "modifiedTime": 1740756758398,
+      "sourceSize": 129780,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1740687724439,
-      "sourceSize": 15463,
+      "modifiedTime": 1740756758398,
+      "sourceSize": 15468,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 137228,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 395,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -3931,7 +3933,7 @@
       "dependencies": []
     },
     "recettes/images/photo.webp": {
-      "modifiedTime": 1735249551731,
+      "modifiedTime": 1740756758398,
       "sourceSize": 66864,
       "exportedPath": "recettes/images/photo.webp",
       "dependencies": []
@@ -4035,8 +4037,8 @@
       "dependencies": []
     },
     "recettes/Dummy Recipe.md": {
-      "modifiedTime": 1740425283341,
-      "sourceSize": 466,
+      "modifiedTime": 1740756758398,
+      "sourceSize": 1087,
       "exportedPath": "recettes/dummy-recipe.html",
       "dependencies": []
     },
@@ -4061,7 +4063,7 @@
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1740756758398,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
@@ -4081,9 +4083,29 @@
       "dependencies": []
     },
     "recettes/Tourte à la viande.md": {
-      "modifiedTime": 1740687724439,
-      "sourceSize": 1271,
+      "modifiedTime": 1740756758398,
+      "sourceSize": 1219,
       "exportedPath": "recettes/tourte-à-la-viande.html",
+      "dependencies": []
+    },
+    "recettes/images/Bouillon légumes & poulet.webp": {
+      "modifiedTime": 1740756758398,
+      "sourceSize": 63918,
+      "exportedPath": "recettes/images/bouillon-légumes-&-poulet.webp",
+      "dependencies": []
+    },
+    "recettes/Bouillon légumes & poulet.md": {
+      "modifiedTime": 1740756758398,
+      "sourceSize": 1317,
+      "exportedPath": "recettes/bouillon-légumes-&-poulet.html",
+      "dependencies": [
+        "recettes/images/bouillon-légumes-&-poulet.webp"
+      ]
+    },
+    "recettes/images/bouillon-légumes-&-poulet.webp": {
+      "modifiedTime": 1740756758398,
+      "sourceSize": 63918,
+      "exportedPath": "recettes/images/bouillon-légumes-&-poulet.webp",
       "dependencies": []
     }
   }
