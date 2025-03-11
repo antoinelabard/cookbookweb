@@ -1,6 +1,6 @@
 {
   "vaultName": "cookbook",
-  "lastExport": 1740756758398,
+  "lastExport": 1741715022688,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -376,6 +376,7 @@
     "recettes/images/bavette-à-l'échalote,-pommes-de-terre-&-haricots.webp",
     "recettes/images/béchamel.webp",
     "recettes/images/blinis.webp",
+    "recettes/images/bouillon-légumes-&-poulet.webp",
     "recettes/images/boulettes-&-semoule-express.webp",
     "recettes/images/bounties-maison.webp",
     "recettes/images/brochettes-dinde,-haricots-&-semoule.webp",
@@ -569,8 +570,8 @@
   ],
   "fileInfo": {
     "catégories/Au fil des saisons.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 529,
+      "modifiedTime": 1741715022688,
+      "sourceSize": 769,
       "exportedPath": "catégories/au-fil-des-saisons.html",
       "dependencies": []
     },
@@ -2712,8 +2713,8 @@
       ]
     },
     "Menu de la semaine.md": {
-      "modifiedTime": 1740756758398,
-      "sourceSize": 63955,
+      "modifiedTime": 1741715022688,
+      "sourceSize": 65630,
       "exportedPath": "menu-de-la-semaine.html",
       "dependencies": []
     },
@@ -3624,85 +3625,85 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
@@ -3714,79 +3715,79 @@
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 129780,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 15468,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 137228,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 395,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -4037,8 +4038,8 @@
       "dependencies": []
     },
     "recettes/Dummy Recipe.md": {
-      "modifiedTime": 1740756758398,
-      "sourceSize": 1087,
+      "modifiedTime": 1741715022688,
+      "sourceSize": 450,
       "exportedPath": "recettes/dummy-recipe.html",
       "dependencies": []
     },
@@ -4063,7 +4064,7 @@
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1740756758398,
+      "modifiedTime": 1741715022688,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
