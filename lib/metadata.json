@@ -1,12 +1,13 @@
 {
   "vaultName": "cookbook",
-  "lastExport": 1741969233085,
+  "lastExport": 1743233084052,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "catégories/Au fil des saisons.md",
+    "catégories/Le mur de la honte.md",
     "catégories/Les pêchés mignons.md",
     "catégories/Mes bases de recettes.md",
     "catégories/Pour toute la journée.md",
@@ -1867,8 +1868,8 @@
       ]
     },
     "recettes/Gratin dauphinois.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1280,
+      "modifiedTime": 1743028318992,
+      "sourceSize": 1261,
       "exportedPath": "recettes/gratin-dauphinois.html",
       "dependencies": [
         "recettes/images/gratin-dauphinois.webp"
@@ -1883,8 +1884,8 @@
       ]
     },
     "recettes/Gratin de haricots verts aux champignons.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1369,
+      "modifiedTime": 1743028318992,
+      "sourceSize": 1350,
       "exportedPath": "recettes/gratin-de-haricots-verts-aux-champignons.html",
       "dependencies": [
         "recettes/images/gratin-de-haricots-verts-aux-champignons.webp"
@@ -2068,8 +2069,8 @@
       ]
     },
     "recettes/Omelette aux pommes de terre et lardons.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1088,
+      "modifiedTime": 1743028318992,
+      "sourceSize": 1069,
       "exportedPath": "recettes/omelette-aux-pommes-de-terre-et-lardons.html",
       "dependencies": [
         "recettes/images/omelette-aux-pommes-de-terre-et-lardons.webp"
@@ -2132,8 +2133,8 @@
       ]
     },
     "recettes/Pâtes à la carbonara façon Goblot.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1257,
+      "modifiedTime": 1743028318992,
+      "sourceSize": 1274,
       "exportedPath": "recettes/pâtes-à-la-carbonara-façon-goblot.html",
       "dependencies": [
         "recettes/images/pâtes-à-la-carbonara-façon-goblot.webp"
@@ -2301,17 +2302,16 @@
       ]
     },
     "recettes/Quiche à l'oignon et aux lardons fumés.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1021,
+      "modifiedTime": 1743028318992,
+      "sourceSize": 1034,
       "exportedPath": "recettes/quiche-à-l'oignon-et-aux-lardons-fumés.html",
       "dependencies": [
-        "recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp",
-        "recettes/images/pâte-brisée.webp"
+        "recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp"
       ]
     },
     "recettes/Quiche artichaut & parma.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1229,
+      "modifiedTime": 1743028318992,
+      "sourceSize": 1242,
       "exportedPath": "recettes/quiche-artichaut-&-parma.html",
       "dependencies": [
         "recettes/images/quiche-artichaut-&-parma.webp"
@@ -2326,8 +2326,8 @@
       ]
     },
     "recettes/Quiche aux asperges et lardons.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 960,
+      "modifiedTime": 1743028318992,
+      "sourceSize": 973,
       "exportedPath": "recettes/quiche-aux-asperges-et-lardons.html",
       "dependencies": [
         "recettes/images/quiche-aux-asperges-et-lardons.webp",
@@ -2343,16 +2343,16 @@
       ]
     },
     "recettes/Quiche oignons, chèvre & miel.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1344,
+      "modifiedTime": 1743028318992,
+      "sourceSize": 1357,
       "exportedPath": "recettes/quiche-oignons,-chèvre-&-miel.html",
       "dependencies": [
         "recettes/images/quiche-oignons,-chèvre-&-miel.webp"
       ]
     },
     "recettes/Quiche poireaux, chèvre lardons.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1111,
+      "modifiedTime": 1743028318992,
+      "sourceSize": 1124,
       "exportedPath": "recettes/quiche-poireaux,-chèvre-lardons.html",
       "dependencies": [
         "recettes/images/quiche-poireaux,-chèvre-lardons.webp",
@@ -2400,8 +2400,8 @@
       ]
     },
     "recettes/Risotto de coquillettes.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1327,
+      "modifiedTime": 1743028318992,
+      "sourceSize": 1319,
       "exportedPath": "recettes/risotto-de-coquillettes.html",
       "dependencies": [
         "recettes/images/risotto-de-coquillettes.webp"
@@ -2716,16 +2716,16 @@
       ]
     },
     "index.md": {
-      "modifiedTime": 1741936805880,
-      "sourceSize": 2033,
+      "modifiedTime": 1743233084052,
+      "sourceSize": 2091,
       "exportedPath": "index.html",
       "dependencies": [
         "recettes/images/photo.webp"
       ]
     },
     "Menu de la semaine.md": {
-      "modifiedTime": 1741969233085,
-      "sourceSize": 68880,
+      "modifiedTime": 1743233084052,
+      "sourceSize": 4202,
       "exportedPath": "menu-de-la-semaine.html",
       "dependencies": []
     },
@@ -3018,7 +3018,7 @@
       "dependencies": []
     },
     "recettes/images/gratin-dauphinois.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1743028318992,
       "sourceSize": 27686,
       "exportedPath": "recettes/images/gratin-dauphinois.webp",
       "dependencies": []
@@ -3030,7 +3030,7 @@
       "dependencies": []
     },
     "recettes/images/gratin-de-haricots-verts-aux-champignons.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1743028318992,
       "sourceSize": 71830,
       "exportedPath": "recettes/images/gratin-de-haricots-verts-aux-champignons.webp",
       "dependencies": []
@@ -3162,7 +3162,7 @@
       "dependencies": []
     },
     "recettes/images/omelette-aux-pommes-de-terre-et-lardons.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1743028318992,
       "sourceSize": 141480,
       "exportedPath": "recettes/images/omelette-aux-pommes-de-terre-et-lardons.webp",
       "dependencies": []
@@ -3204,13 +3204,13 @@
       "dependencies": []
     },
     "recettes/images/pâte-brisée.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1743028318992,
       "sourceSize": 66060,
       "exportedPath": "recettes/images/pâte-brisée.webp",
       "dependencies": []
     },
     "recettes/images/pâtes-à-la-carbonara-façon-goblot.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1743028318992,
       "sourceSize": 24374,
       "exportedPath": "recettes/images/pâtes-à-la-carbonara-façon-goblot.webp",
       "dependencies": []
@@ -3330,13 +3330,13 @@
       "dependencies": []
     },
     "recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1743028318992,
       "sourceSize": 167528,
       "exportedPath": "recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp",
       "dependencies": []
     },
     "recettes/images/quiche-artichaut-&-parma.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1743028318992,
       "sourceSize": 86136,
       "exportedPath": "recettes/images/quiche-artichaut-&-parma.webp",
       "dependencies": []
@@ -3348,7 +3348,7 @@
       "dependencies": []
     },
     "recettes/images/quiche-aux-asperges-et-lardons.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1743028318992,
       "sourceSize": 81094,
       "exportedPath": "recettes/images/quiche-aux-asperges-et-lardons.webp",
       "dependencies": []
@@ -3360,13 +3360,13 @@
       "dependencies": []
     },
     "recettes/images/quiche-oignons,-chèvre-&-miel.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1743028318992,
       "sourceSize": 250416,
       "exportedPath": "recettes/images/quiche-oignons,-chèvre-&-miel.webp",
       "dependencies": []
     },
     "recettes/images/quiche-poireaux,-chèvre-lardons.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1743028318992,
       "sourceSize": 86672,
       "exportedPath": "recettes/images/quiche-poireaux,-chèvre-lardons.webp",
       "dependencies": []
@@ -3402,7 +3402,7 @@
       "dependencies": []
     },
     "recettes/images/risotto-de-coquillettes.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1743028318992,
       "sourceSize": 249088,
       "exportedPath": "recettes/images/risotto-de-coquillettes.webp",
       "dependencies": []
@@ -3636,85 +3636,85 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
@@ -3726,79 +3726,79 @@
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1741969233085,
-      "sourceSize": 132840,
+      "modifiedTime": 1743233084052,
+      "sourceSize": 133179,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1741969233085,
-      "sourceSize": 15854,
+      "modifiedTime": 1743233084052,
+      "sourceSize": 14460,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 137228,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 395,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -3854,8 +3854,8 @@
       "dependencies": []
     },
     "recettes/Gazpacho & roulés mozza, jambon, pesto.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 1243,
+      "modifiedTime": 1743028318992,
+      "sourceSize": 1248,
       "exportedPath": "recettes/gazpacho-&-roulés-mozza,-jambon,-pesto.html",
       "dependencies": [
         "recettes/images/gazpacho-&-roulés-mozza,-jambon,-pesto.webp"
@@ -3870,8 +3870,8 @@
       ]
     },
     "recettes/Quiche poireaux braisés & brie.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1423,
+      "modifiedTime": 1743028318992,
+      "sourceSize": 1436,
       "exportedPath": "recettes/quiche-poireaux-braisés-&-brie.html",
       "dependencies": [
         "recettes/images/quiche-poireaux-braisés-&-brie.webp"
@@ -3894,7 +3894,7 @@
       ]
     },
     "recettes/images/gazpacho-&-roulés-mozza,-jambon,-pesto.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1743028318992,
       "sourceSize": 206378,
       "exportedPath": "recettes/images/gazpacho-&-roulés-mozza,-jambon,-pesto.webp",
       "dependencies": []
@@ -3906,7 +3906,7 @@
       "dependencies": []
     },
     "recettes/images/quiche-poireaux-braisés-&-brie.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1743028318992,
       "sourceSize": 252188,
       "exportedPath": "recettes/images/quiche-poireaux-braisés-&-brie.webp",
       "dependencies": []
@@ -3945,7 +3945,7 @@
       "dependencies": []
     },
     "recettes/images/photo.webp": {
-      "modifiedTime": 1741936805880,
+      "modifiedTime": 1743233084052,
       "sourceSize": 66864,
       "exportedPath": "recettes/images/photo.webp",
       "dependencies": []
@@ -4049,8 +4049,8 @@
       "dependencies": []
     },
     "recettes/Dummy Recipe.md": {
-      "modifiedTime": 1741969233085,
-      "sourceSize": 414,
+      "modifiedTime": 1743233084052,
+      "sourceSize": 272,
       "exportedPath": "recettes/dummy-recipe.html",
       "dependencies": []
     },
@@ -4075,7 +4075,7 @@
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1741969233085,
+      "modifiedTime": 1743233084052,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
@@ -4190,6 +4190,12 @@
       "modifiedTime": 1741936465358,
       "sourceSize": 95530,
       "exportedPath": "recettes/images/tartine-de-marshmallow.webp",
+      "dependencies": []
+    },
+    "catégories/Le mur de la honte.md": {
+      "modifiedTime": 1743233084052,
+      "sourceSize": 163,
+      "exportedPath": "catégories/le-mur-de-la-honte.html",
       "dependencies": []
     }
   }
