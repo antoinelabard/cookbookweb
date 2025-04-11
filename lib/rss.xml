@@ -1,18 +1,147 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 29 Mar 2025 07:24:45 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 29 Mar 2025 07:24:44 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Le mur de la honte]]></title><description><![CDATA[ 
- <br>Parfois, certains échecs sont tellement cuisants qu'ils méritent de passer à la postérité.<br><br><br><br>]]></description><link>catégories/le-mur-de-la-honte.html</link><guid isPermaLink="false">catégories/Le mur de la honte.md</guid><pubDate>Wed, 26 Mar 2025 22:36:19 GMT</pubDate></item><item><title><![CDATA[Dummy Recipe]]></title><description><![CDATA[ 
- <br><br>“Dummy Recipe.webp” could not be found.<br><br><br>
-<br>pommes de terre
-<br>nuggets
-<br>]]></description><link>recettes/dummy-recipe.html</link><guid isPermaLink="false">recettes/Dummy Recipe.md</guid><pubDate>Sat, 29 Mar 2025 07:20:00 GMT</pubDate></item><item><title><![CDATA[Livre de recettes]]></title><description><![CDATA[ 
- <br><br><a data-href="Menu de la semaine" href="menu-de-la-semaine.html" class="internal-link" target="_self" rel="noopener nofollow">Menu de la semaine</a><br><br>Salut ! Moi, c'est Antoine.
- <img style="margin: 20px; float: right; width: 100px; max-width: 100%;" height="100" alt="profile picture" src="recettes/images/photo.webp" referrerpolicy="no-referrer">J'ai mis en ligne ce site web pour partager mon livre de recettes. Il s'agit de toutes les recettes que j'essaie et que je sauvegarde pour ne jamais manquer d'idée !<br><br>Plus de 170 recettes sont disponibles ! N'hésitez pas à me faire part de vos retours ou de vos astuces pour les améliorer.
-<br><br><br><br><br><br><br><br><br><br>Vous pouvez retrouver le repository de ce livre sur GitHub : <a rel="noopener nofollow" class="external-link" href="https://github.com/antoinelabard/Cookbook" target="_blank">https://github.com/antoinelabard/Cookbook</a>. Si vous avez des suggestions d'améliorations des recettes, vous pouvez me contacter ou utiliser GitHub si vous le maîtrisez.<br>❤️ Merci aux contributeurs du projet :<br>
-<br>Alexis Goblot
-<br>Maïwenn Gallois-Petit
-<br>Katy Osmont
-<br>Nicolas Noirault
-<br><br>Ce livre de recette a été rédigé avec <a data-tooltip-position="top" aria-label="http://obsidian.md" rel="noopener nofollow" class="external-link" href="http://obsidian.md" target="_blank">Obsidian</a>. Le site web est généré avec le plugin <a data-tooltip-position="top" aria-label="https://github.com/KosmosisDire/obsidian-webpage-export" rel="noopener nofollow" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export" target="_blank">Webpage HTML Export</a> et est hébergé sur <a data-tooltip-position="top" aria-label="https://pages.github.com/" rel="noopener nofollow" class="external-link" href="https://pages.github.com/" target="_blank">GitHub Pages</a>.<br>Un script de génération de menus est également disponible si vous téléchargez le livre de recettes hors ligne. Pour comprendre comment s'en servir, rendez-vous <a data-tooltip-position="top" aria-label="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" rel="noopener nofollow" class="external-link" href="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" target="_blank">ici</a>.]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Wed, 26 Mar 2025 22:44:07 GMT</pubDate><enclosure url="recettes/images/photo.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/photo.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 11 Apr 2025 15:25:36 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 11 Apr 2025 15:25:35 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Omelette aux champignons]]></title><description><![CDATA[ 
+ <br><br><img alt="Omelette aux champignons.webp" src="recettes/images/omelette-aux-champignons.webp"><br><br><br>
+<br>Oeufs : 12
+<br>Champignons de Paris : 400g
+<br>Salade (optionnel) : 200g
+<br>Comté : 100g
+<br>Échalote : 1
+<br><br>
+<br>Lavez puis coupez les champignons et l'échalote en lamelles.
+<br>Dans une poêle à feu vif, ajoutez un filet d'huile et faites revenir les champignons (et les échalotes) pendant 5 minutes en mélangeant régulièrement.
+<br>Pendant ce temps, dans un bol : cassez les oeufs, salez, poivrez et battez-les.
+<br>Une fois les champignons bien dorés, ajoutez les œufs battus et le comté coupé en petits morceaux dans la poêle.
+<br>Laissez cuire à feu moyen en brisant le fond de l’omelette avec une spatule pour faciliter la cuisson.
+<br>Servir l'omelette avec la salade assaisonnée selon vos goûts, salez, poivrez, c'est prêt !
+]]></description><link>recettes/omelette-aux-champignons.html</link><guid isPermaLink="false">recettes/Omelette aux champignons.md</guid><pubDate>Mon, 07 Apr 2025 20:02:41 GMT</pubDate><enclosure url="recettes/images/omelette-aux-champignons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/omelette-aux-champignons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Orzotto crémeux poireaux &amp; œuf mollet]]></title><description><![CDATA[ 
+ <br><br><img alt="Orzotto crémeux poireaux &amp; œuf mollet.webp" src="recettes/images/orzotto-crémeux-poireaux-&amp;-œuf-mollet.webp"><br><br><br>
+<br>Pâtes (orzo) : 400g
+<br>Poireaux : 3 
+<br><a data-href="Oeufs cuits" href="recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener nofollow">Oeufs cuits</a> mollets : 4 
+<br>Échalotes : 2
+<br>Crème fraîche : 20cl
+<br>Parmesan râpé : 80g
+<br>Bouillon de légumes : 1
+<br>Beurre : 40g
+<br><br>
+<br>Épluchez puis coupez les échalotes en fines lamelles.
+<br>Coupez les extrémités des poireaux pour ne garder que le blanc, puis émincez-les finement. Placez-les dans une passoire et rincez abondamment pour retirer les impuretés.
+<br>Faites fondre une noisette de beurre dans une casserole, sur feu moyen. Ajoutez les échalotes et les poireaux. Salez, poivrez, puis faites-les revenir 6 à 7 minutes, en mélangeant.
+<br>En parallèle, faites cuire les œufs 6 minutes dans une seconde casserole d'eau bouillante. Une fois cuits, plongez-les dans de l'eau froide pour stopper la cuisson. Enlevez la coquille délicatement. Réservez.
+<br>Vérifiez la cuisson des légumes, puis ajoutez les pâtes orzo. Faites-les dorer 2 minutes, en mélangeant.
+<br>Ajoutez le cube de bouillon émietté, puis versez 1 louche d'eau chaude. Mélangez jusqu'à absorption, puis rajoutez 1 louche d'eau et mélangez bien. Recommencez l'opération jusqu'à épuisement de l'eau (soit environ 1l) et jusqu'à ce que les pâtes soient cuites.
+<br>Une fois les pâtes cuites, ajoutez la crème et le parmesan râpé. Mélangez le tout, jusqu'à obtenir une consistance crémeuse.
+<br>Servez l'orzotto crémeux aux poireaux dans une assiette. Ajoutez l'œuf mollet coupé en deux sur le dessus et parsemez de parmesan râpé, s'il vous en reste. Re-assaisonnez selon vos goûts, c'est prêt !
+]]></description><link>recettes/orzotto-crémeux-poireaux-&amp;-œuf-mollet.html</link><guid isPermaLink="false">recettes/Orzotto crémeux poireaux &amp; œuf mollet.md</guid><pubDate>Fri, 11 Apr 2025 15:21:45 GMT</pubDate><enclosure url="recettes/images/orzotto-crémeux-poireaux-&amp;-œuf-mollet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/orzotto-crémeux-poireaux-&amp;-œuf-mollet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet boursin, lard &amp; pommes de terre sautées]]></title><description><![CDATA[ 
+ <br><br><img alt="Poulet boursin, lard &amp; pommes de terre sautées.webp" src="recettes/images/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.webp"><br><br><br>
+<br>Escalopes de poulet : 4
+<br>Fromage à l'ail : 160g
+<br>Lard : 8 tranches
+<br><a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 1kg
+<br>Ciboulette
+<br><br>
+<br>Préchauffez le four à 200°C.
+<br>Pendant ce temps, ouvrez le filet de poulet en deux de façon à obtenir une épaisseur plus fine.
+<br>Étalez le fromage sur un côté de l'escalope puis refermez le poulet en deux.
+<br>Prenez une tranche de lard et enroulez-la autour de votre poulet de façon à bien le fermer. Répétez l'opération avec une deuxième tranche de lard.
+<br>Dans un plat allant au four, ajoutez les pommes de terre sautées et un bon filet d'huile. Salez, poivrez et mélangez bien. Ajoutez le poulet farci et enfournez à 200°C pour 30 minutes de cuisson.
+<br>Sortez votre plat du four et ciselez un peu de ciboulette sur le plat si vous en avez. C'est prêt !
+]]></description><link>recettes/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.html</link><guid isPermaLink="false">recettes/Poulet boursin, lard &amp; pommes de terre sautées.md</guid><pubDate>Mon, 07 Apr 2025 19:58:31 GMT</pubDate><enclosure url="recettes/images/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br>
+<br><a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
+<br><a data-href="Gazpacho &amp; roulés mozza, jambon, pesto" href="recettes/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.html" class="internal-link" target="_self" rel="noopener nofollow">Gazpacho &amp; roulés mozza, jambon, pesto</a>
+<br><a data-href="Frittata courgette, jambon &amp; mozza" href="recettes/frittata-courgette,-jambon-&amp;-mozza.html" class="internal-link" target="_self" rel="noopener nofollow">Frittata courgette, jambon &amp; mozza</a>
+<br><a data-href="Salade campagnarde" href="recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener nofollow">Salade campagnarde</a>
+<br><br>
+<br>Conserves :
+
+<br>Gazpacho : 1l ---&gt; <a data-href="Gazpacho &amp; roulés mozza, jambon, pesto" href="recettes/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.html" class="internal-link" target="_self" rel="noopener nofollow">Gazpacho &amp; roulés mozza, jambon, pesto</a>
+<br>Petits pois : 120g ---&gt; <a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
+
+
+<br>Produits secs :
+
+<br>Huile ---&gt; <a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 600g
+<br>Oeufs : 4 ---&gt; <a data-href="Oeufs cuits" href="recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener nofollow">Oeufs cuits</a> durs : 6
+<br>Oeufs : 4 ---&gt; <a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
+<br>Oeufs : 8 ---&gt; <a data-href="Frittata courgette, jambon &amp; mozza" href="recettes/frittata-courgette,-jambon-&amp;-mozza.html" class="internal-link" target="_self" rel="noopener nofollow">Frittata courgette, jambon &amp; mozza</a>
+<br>Pain de mie : 8 tranches ---&gt; <a data-href="Gazpacho &amp; roulés mozza, jambon, pesto" href="recettes/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.html" class="internal-link" target="_self" rel="noopener nofollow">Gazpacho &amp; roulés mozza, jambon, pesto</a>
+<br>Riz: 280g ---&gt; <a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
+<br><a data-href="Oeufs cuits" href="recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener nofollow">Oeufs cuits</a> durs : 6 ---&gt; <a data-href="Salade campagnarde" href="recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener nofollow">Salade campagnarde</a>
+
+
+<br>Épices :
+
+<br>Curry ---&gt; <a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 600g
+
+
+<br>Produits du monde :
+
+<br>Sauce soja (optionnel) ---&gt; <a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
+
+
+<br>Produits frais :
+
+<br>Bacon : 8 tranches ---&gt; <a data-href="Salade campagnarde" href="recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener nofollow">Salade campagnarde</a>
+<br>Jambon : 2 tranches ---&gt; <a data-href="Frittata courgette, jambon &amp; mozza" href="recettes/frittata-courgette,-jambon-&amp;-mozza.html" class="internal-link" target="_self" rel="noopener nofollow">Frittata courgette, jambon &amp; mozza</a>
+<br>Jambon : 8 tranches ---&gt; <a data-href="Riz cantonais" href="recettes/riz-cantonais.html" class="internal-link" target="_self" rel="noopener nofollow">Riz cantonais</a>
+<br>Jambon blanc : 4 tranches ---&gt; <a data-href="Gazpacho &amp; roulés mozza, jambon, pesto" href="recettes/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.html" class="internal-link" target="_self" rel="noopener nofollow">Gazpacho &amp; roulés mozza, jambon, pesto</a>
+
+
+<br>Produits laitiers :
+
+<br>Chèvre frais : 80g ---&gt; <a data-href="Salade campagnarde" href="recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener nofollow">Salade campagnarde</a>
+<br>Mozzarella : 120g ---&gt; <a data-href="Gazpacho &amp; roulés mozza, jambon, pesto" href="recettes/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.html" class="internal-link" target="_self" rel="noopener nofollow">Gazpacho &amp; roulés mozza, jambon, pesto</a>
+<br>Mozzarella : 125g ---&gt; <a data-href="Frittata courgette, jambon &amp; mozza" href="recettes/frittata-courgette,-jambon-&amp;-mozza.html" class="internal-link" target="_self" rel="noopener nofollow">Frittata courgette, jambon &amp; mozza</a>
+
+
+<br>Fruits et légumes :
+
+<br>Courgette : 1 ---&gt; <a data-href="Frittata courgette, jambon &amp; mozza" href="recettes/frittata-courgette,-jambon-&amp;-mozza.html" class="internal-link" target="_self" rel="noopener nofollow">Frittata courgette, jambon &amp; mozza</a>
+<br>Pommes de terre : 1kg ---&gt; <a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 600g
+<br>Salade : 200g ---&gt; <a data-href="Salade campagnarde" href="recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener nofollow">Salade campagnarde</a>
+<br><a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 600g ---&gt; <a data-href="Salade campagnarde" href="recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener nofollow">Salade campagnarde</a>
+
+
+<br>Unclassified :
+
+<br>Sauce pesto : 8cc ---&gt; <a data-href="Gazpacho &amp; roulés mozza, jambon, pesto" href="recettes/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.html" class="internal-link" target="_self" rel="noopener nofollow">Gazpacho &amp; roulés mozza, jambon, pesto</a>
+
+
+<br><br>
+<br>Raviolis au fromage
+<br>Fajitas
+<br><br>
+<br>Produits frais :
+
+<br>Lardon ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>Ravioli au fromage ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+
+
+<br>Produits laitiers :
+
+<br>Crème fraiche ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>Crème fraîche : 4cs ---&gt; <a data-href="Ravioli à la crème de champignons" href="recettes/ravioli-à-la-crème-de-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Ravioli à la crème de champignons</a>
+<br>Parmesan râpé : 2cs ---&gt; <a data-href="Ravioli à la crème de champignons" href="recettes/ravioli-à-la-crème-de-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Ravioli à la crème de champignons</a>
+
+
+<br>Fruits et légumes :
+
+<br>Ail : 1 gousse ---&gt; <a data-href="Ravioli à la crème de champignons" href="recettes/ravioli-à-la-crème-de-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Ravioli à la crème de champignons</a>
+<br>Champignons de Paris (frais) : 400g ---&gt; <a data-href="Ravioli à la crème de champignons" href="recettes/ravioli-à-la-crème-de-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Ravioli à la crème de champignons</a>
+<br>Ravioli (Champignons) : 500g ---&gt; <a data-href="Ravioli à la crème de champignons" href="recettes/ravioli-à-la-crème-de-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Ravioli à la crème de champignons</a>
+
+
+<br>Viandes et poissons :
+
+<br>poulet ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+
+
+<br>Unclassified :
+
+<br>Kit fajitas ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+
+
+<br><br>
 <br><a data-href="Couscous rapide" href="recettes/couscous-rapide.html" class="internal-link" target="_self" rel="noopener nofollow">Couscous rapide</a>
 <br><a data-href="Galette complète &amp; oignons confits" href="recettes/galette-complète-&amp;-oignons-confits.html" class="internal-link" target="_self" rel="noopener nofollow">Galette complète &amp; oignons confits</a>
 <br><a data-href="Omelette aux champignons" href="recettes/omelette-aux-champignons.html" class="internal-link" target="_self" rel="noopener nofollow">Omelette aux champignons</a>
@@ -140,7 +269,54 @@
 <br><a data-href="Béchamel" href="recettes/béchamel.html" class="internal-link" target="_self" rel="noopener nofollow">Béchamel</a> : 10 ---&gt; <a data-href="Lasagnes à la bolognaise" href="recettes/lasagnes-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Lasagnes à la bolognaise</a>
 
 
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Sat, 29 Mar 2025 07:23:28 GMT</pubDate></item><item><title><![CDATA[Gazpacho &amp; roulés mozza, jambon, pesto]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 11 Apr 2025 15:23:21 GMT</pubDate></item><item><title><![CDATA[Couscous rapide]]></title><description><![CDATA[ 
+ <br><br><img alt="Couscous rapide.webp" src="recettes/images/couscous-rapide.webp"><br><br><br>
+<br>Carottes : 600g
+<br>Semoule : 160g
+<br>Pois chiches (cuits) : 200g
+<br>Chipolatas : 8
+<br>Chair de tomate : 160g
+<br>Épices orientales
+<br><br>
+<br>Épluchez et coupez les carottes en biseaux.
+<br>Dans une casserole, ajoutez un filet d'huile d'olive, les carottes, les épices, salez et poivrez. Faites revenir 3 minutes à feu vif.
+<br>Ajoutez 1l d'eau, salez, poivrez, couvrez et laissez cuire 30 minutes.
+<br>Ajoutez la semoule, salez, poivrez la semoule et mélangez. Couvrez le plat de semoule et laissez gonfler 3 minutes.
+<br>Ajoutez la chair de tomate et les pois chiches avec les légumes. Mélangez et laissez cuire 5 minutes.
+<br>Pendant ce temps, piquez les merguez et faites les cuire à feu vif 4 minutes en les retournant à mi-cuisson.
+<br>Servez la semoule avec le couscous et les merguez. C'est prêt !
+]]></description><link>recettes/couscous-rapide.html</link><guid isPermaLink="false">recettes/Couscous rapide.md</guid><pubDate>Sun, 30 Mar 2025 16:22:24 GMT</pubDate><enclosure url="recettes/images/couscous-rapide.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/couscous-rapide.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dummy Recipe]]></title><description><![CDATA[ 
+ <br><br>“Dummy Recipe.webp” could not be found.<br><br><br>
+<br>Ravioli
+<br>Lardon
+<br>Crème fraiche
+<br>Kit fajitas
+<br>poulet
+<br>poivron
+<br>]]></description><link>recettes/dummy-recipe.html</link><guid isPermaLink="false">recettes/Dummy Recipe.md</guid><pubDate>Sat, 05 Apr 2025 09:27:03 GMT</pubDate></item><item><title><![CDATA[Purée de pommes de terre façon Goblot]]></title><description><![CDATA[ 
+ <br><br><img alt="Purée de pommes de terre façon Goblot.webp" src="recettes/images/purée-de-pommes-de-terre-façon-goblot.webp"><br><br><br>
+<br>Pommes de terre : 1kg
+<br>Crème fraîche : 20cl
+<br>Lait
+<br>Oeuf : 1
+<br>Muscade
+<br><br>
+<br>Éplucher les pommes de terre et les couper en dés.
+<br>Mettre les dés dans une casserole d'eau et faire bouillir pendant 20min.
+<br>Égoutter les pommes de terre et les écraser.
+<br>Mettre la crème et mélanger.
+<br>Ajouter du lait petit à petit jusqu'à obtenir la consistance souhaitée.
+<br>Saler, poivrer, ajouter la muscade et le jaune de l'oeuf.
+]]></description><link>recettes/purée-de-pommes-de-terre-façon-goblot.html</link><guid isPermaLink="false">recettes/Purée de pommes de terre façon Goblot.md</guid><pubDate>Sat, 05 Apr 2025 09:20:12 GMT</pubDate><enclosure url="recettes/images/purée-de-pommes-de-terre-façon-goblot.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/purée-de-pommes-de-terre-façon-goblot.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Le mur de la honte]]></title><description><![CDATA[ 
+ <br>Parfois, certains échecs sont tellement cuisants qu'ils méritent de passer à la postérité.<br><br><br><br>]]></description><link>catégories/le-mur-de-la-honte.html</link><guid isPermaLink="false">catégories/Le mur de la honte.md</guid><pubDate>Wed, 26 Mar 2025 22:36:19 GMT</pubDate></item><item><title><![CDATA[Livre de recettes]]></title><description><![CDATA[ 
+ <br><br><a data-href="Menu de la semaine" href="menu-de-la-semaine.html" class="internal-link" target="_self" rel="noopener nofollow">Menu de la semaine</a><br><br>Salut ! Moi, c'est Antoine.
+ <img style="margin: 20px; float: right; width: 100px; max-width: 100%;" height="100" alt="profile picture" src="recettes/images/photo.webp" referrerpolicy="no-referrer">J'ai mis en ligne ce site web pour partager mon livre de recettes. Il s'agit de toutes les recettes que j'essaie et que je sauvegarde pour ne jamais manquer d'idée !<br><br>Plus de 170 recettes sont disponibles ! N'hésitez pas à me faire part de vos retours ou de vos astuces pour les améliorer.
+<br><br><br><br><br><br><br><br><br><br>Vous pouvez retrouver le repository de ce livre sur GitHub : <a rel="noopener nofollow" class="external-link" href="https://github.com/antoinelabard/Cookbook" target="_blank">https://github.com/antoinelabard/Cookbook</a>. Si vous avez des suggestions d'améliorations des recettes, vous pouvez me contacter ou utiliser GitHub si vous le maîtrisez.<br>❤️ Merci aux contributeurs du projet :<br>
+<br>Alexis Goblot
+<br>Maïwenn Gallois-Petit
+<br>Katy Osmont
+<br>Nicolas Noirault
+<br><br>Ce livre de recette a été rédigé avec <a data-tooltip-position="top" aria-label="http://obsidian.md" rel="noopener nofollow" class="external-link" href="http://obsidian.md" target="_blank">Obsidian</a>. Le site web est généré avec le plugin <a data-tooltip-position="top" aria-label="https://github.com/KosmosisDire/obsidian-webpage-export" rel="noopener nofollow" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export" target="_blank">Webpage HTML Export</a> et est hébergé sur <a data-tooltip-position="top" aria-label="https://pages.github.com/" rel="noopener nofollow" class="external-link" href="https://pages.github.com/" target="_blank">GitHub Pages</a>.<br>Un script de génération de menus est également disponible si vous téléchargez le livre de recettes hors ligne. Pour comprendre comment s'en servir, rendez-vous <a data-tooltip-position="top" aria-label="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" rel="noopener nofollow" class="external-link" href="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" target="_blank">ici</a>.]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Wed, 26 Mar 2025 22:44:07 GMT</pubDate><enclosure url="recettes/images/photo.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/photo.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gazpacho &amp; roulés mozza, jambon, pesto]]></title><description><![CDATA[ 
  <br><br><img alt="Gazpacho &amp; roulés mozza, jambon, pesto.webp" src="recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp"><br><br><br>
 <br>Gazpacho : 1l
 <br>Pain de mie : 8 tranches
@@ -425,26 +601,7 @@
 
 <br>Ajouter une dernière couche de lasagnes, de la béchamel et recouvrir de fromage râpé. Parsemer quelques noisettes de beurre.
 <br>Enfourner pour environ 25 minutes de cuisson. Déguster.
-]]></description><link>recettes/lasagnes-à-la-bolognaise.html</link><guid isPermaLink="false">recettes/Lasagnes à la bolognaise.md</guid><pubDate>Fri, 14 Mar 2025 07:06:12 GMT</pubDate><enclosure url="recettes/images/lasagnes-à-la-bolognaise.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/lasagnes-à-la-bolognaise.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Orzotto crémeux poireaux &amp; œuf mollet]]></title><description><![CDATA[ 
- <br><br>“Orzotto crémeux poireaux &amp; œuf mollet .webp” could not be found.<br><br><br>
-<br>Pâtes (orzo) : 400g
-<br>Poireaux : 3 
-<br><a data-href="Oeufs cuits" href="recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener nofollow">Oeufs cuits</a> mollets : 4 
-<br>Échalotes : 2
-<br>Crème fraîche : 20cl
-<br>Parmesan râpé : 80g
-<br>Bouillon de légumes : 1
-<br>Beurre : 40g
-<br><br>
-<br>Épluchez puis coupez les échalotes en fines lamelles.
-<br>Coupez les extrémités des poireaux pour ne garder que le blanc, puis émincez-les finement. Placez-les dans une passoire et rincez abondamment pour retirer les impuretés.
-<br>Faites fondre une noisette de beurre dans une casserole, sur feu moyen. Ajoutez les échalotes et les poireaux. Salez, poivrez, puis faites-les revenir 6 à 7 minutes, en mélangeant.
-<br>En parallèle, faites cuire les œufs 6 minutes dans une seconde casserole d'eau bouillante. Une fois cuits, plongez-les dans de l'eau froide pour stopper la cuisson. Enlevez la coquille délicatement. Réservez.
-<br>Vérifiez la cuisson des légumes, puis ajoutez les pâtes orzo. Faites-les dorer 2 minutes, en mélangeant.
-<br>Ajoutez le cube de bouillon émietté, puis versez 1 louche d'eau chaude. Mélangez jusqu'à absorption, puis rajoutez 1 louche d'eau et mélangez bien. Recommencez l'opération jusqu'à épuisement de l'eau (soit environ 1l) et jusqu'à ce que les pâtes soient cuites.
-<br>Une fois les pâtes cuites, ajoutez la crème et le parmesan râpé. Mélangez le tout, jusqu'à obtenir une consistance crémeuse.
-<br>Servez l'orzotto crémeux aux poireaux dans une assiette. Ajoutez l'œuf mollet coupé en deux sur le dessus et parsemez de parmesan râpé, s'il vous en reste. Re-assaisonnez selon vos goûts, c'est prêt !
-]]></description><link>recettes/orzotto-crémeux-poireaux-&amp;-œuf-mollet.html</link><guid isPermaLink="false">recettes/Orzotto crémeux poireaux &amp; œuf mollet.md</guid><pubDate>Sat, 08 Mar 2025 15:42:12 GMT</pubDate></item><item><title><![CDATA[Ravioli à la crème de champignons]]></title><description><![CDATA[ 
+]]></description><link>recettes/lasagnes-à-la-bolognaise.html</link><guid isPermaLink="false">recettes/Lasagnes à la bolognaise.md</guid><pubDate>Fri, 14 Mar 2025 07:06:12 GMT</pubDate><enclosure url="recettes/images/lasagnes-à-la-bolognaise.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/lasagnes-à-la-bolognaise.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ravioli à la crème de champignons]]></title><description><![CDATA[ 
  <br><br><img alt="Ravioli à la crème de champignons.webp" src="recettes/images/ravioli-à-la-crème-de-champignons.webp"><br><br><br>
 <br>Ravioli (Champignons) : 500g
 <br>Crème fraîche : 4cs
@@ -1220,23 +1377,7 @@ Pour avoir une peau bien dorée, roulez le filet de poulet dans la farine avant 
 <br>Recommencer l'opération en passant à nouveau l'escalope roulée dans l'oeuf et la chapelure. Ne pas les repasser dans la farine pour éviter les grumeaux.
 <br>Cuire 10 minutes dans la poêle, en retournant les escalopes régulièrement pour que tous les côtés soient cuits.
 <br>Déposer sur du papier absorbant puis placer les cordons bleus sur une plaque recouverte de papier cuisson et enfourner 10 minutes à 180°C.
-]]></description><link>recettes/cordon-bleu-roulé.html</link><guid isPermaLink="false">recettes/Cordon bleu roulé.md</guid><pubDate>Mon, 11 Nov 2024 20:19:57 GMT</pubDate><enclosure url="recettes/images/cordon-bleu-roulé.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/cordon-bleu-roulé.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Couscous rapide]]></title><description><![CDATA[ 
- <br><br><img alt="Couscous rapide.webp" src="recettes/images/couscous-rapide.webp"><br><br><br>
-<br>Carottes : 600g
-<br>Semoule : 160g
-<br>Pois chiches (cuits) : 200g
-<br>Chipolatas : 8
-<br>Chair de tomate : 160g
-<br>Épices orientales
-<br><br>
-<br>Épluchez et coupez les carottes en biseaux.
-<br>Dans une casserole, ajoutez un filet d'huile d'olive, les carottes, les épices, salez et poivrez. Faites revenir 3 minutes à feu vif.
-<br>Ajoutez 1l d'eau, salez, poivrez, couvrez et laissez cuire 30 minutes.
-<br>Ajoutez la semoule, salez, poivrez la semoule et mélangez. Couvrez le plat de semoule et laissez gonfler 3 minutes.
-<br>Ajoutez la chair de tomate et les pois chiches avec les légumes. Mélangez et laissez cuire 5 minutes.
-<br>Pendant ce temps, piquez les merguez et faites les cuire à feu vif 4 minutes en les retournant à mi-cuisson.
-<br>Servez la semoule avec le couscous et les merguez. C'est prêt !
-]]></description><link>recettes/couscous-rapide.html</link><guid isPermaLink="false">recettes/Couscous rapide.md</guid><pubDate>Wed, 25 Dec 2024 18:01:24 GMT</pubDate><enclosure url="recettes/images/couscous-rapide.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/couscous-rapide.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Crevettes miel sésame]]></title><description><![CDATA[ 
+]]></description><link>recettes/cordon-bleu-roulé.html</link><guid isPermaLink="false">recettes/Cordon bleu roulé.md</guid><pubDate>Mon, 11 Nov 2024 20:19:57 GMT</pubDate><enclosure url="recettes/images/cordon-bleu-roulé.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/cordon-bleu-roulé.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Crevettes miel sésame]]></title><description><![CDATA[ 
  <br><br><img alt="Crevettes miel sésame.webp" src="recettes/images/crevettes-miel-sésame.webp"><br><br><br>
 <br>Crevettes : 400g
 <br>Riz : 280g
@@ -1774,21 +1915,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Laissez cuire à feu moyen 1 à 2 minutes en brisant le fond de l’omelette avec une spatule pour faciliter la cuisson.
 <br>Ajoutez le fromage en l'émiettant sur le dessus et le saumon puis refermez l'omelette.
 <br>Servir l'omelette avec la salade assaisonnée selon vos goûts, salez, poivrez, c'est prêt !
-]]></description><link>recettes/omelette-au-saumon.html</link><guid isPermaLink="false">recettes/Omelette au saumon.md</guid><pubDate>Wed, 15 May 2024 12:15:15 GMT</pubDate><enclosure url="recettes/images/omelette-au-saumon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/omelette-au-saumon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Omelette aux champignons]]></title><description><![CDATA[ 
- <br><br><img alt="Omelette aux champignons.webp" src="recettes/images/omelette-aux-champignons.webp"><br><br><br>
-<br>Oeufs : 12
-<br>Champignons de Paris : 400g
-<br>Salade : 200g
-<br>Comté : 100g
-<br>Échalote : 1
-<br><br>
-<br>Lavez puis coupez les champignons et l'échalote en lamelles.
-<br>Dans une poêle à feu vif, ajoutez un filet d'huile et faites revenir les champignons (et les échalotes) pendant 5 minutes en mélangeant régulièrement.
-<br>Pendant ce temps, dans un bol : cassez les oeufs, salez, poivrez et battez-les.
-<br>Une fois les champignons bien dorés, ajoutez les œufs battus et le comté coupé en petits morceaux dans la poêle.
-<br>Laissez cuire à feu moyen en brisant le fond de l’omelette avec une spatule pour faciliter la cuisson.
-<br>Servir l'omelette avec la salade assaisonnée selon vos goûts, salez, poivrez, c'est prêt !
-]]></description><link>recettes/omelette-aux-champignons.html</link><guid isPermaLink="false">recettes/Omelette aux champignons.md</guid><pubDate>Thu, 14 Nov 2024 02:55:05 GMT</pubDate><enclosure url="recettes/images/omelette-aux-champignons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/omelette-aux-champignons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[One pot curry de pommes de terre]]></title><description><![CDATA[ 
+]]></description><link>recettes/omelette-au-saumon.html</link><guid isPermaLink="false">recettes/Omelette au saumon.md</guid><pubDate>Wed, 15 May 2024 12:15:15 GMT</pubDate><enclosure url="recettes/images/omelette-au-saumon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/omelette-au-saumon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[One pot curry de pommes de terre]]></title><description><![CDATA[ 
  <br><br><img alt="One pot curry de pommes de terre.webp" src="recettes/images/one-pot-curry-de-pommes-de-terre.webp"><br><br><br>
 <br>Pommes de terre : 800g
 <br>Carottes : 400g
@@ -2193,34 +2320,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Coupez les escalopes en dés.
 <br>Dans une poêle, ajoutez le poulet, la sauce soja, le sésame et râpez le gingembre. Faites revenir 5 minutes à feu vif.
 <br>Servez le riz le brocoli et le poulet. Assaisonnez selon vos goûts. C'est prêt !
-]]></description><link>recettes/poulet-au-sésame.html</link><guid isPermaLink="false">recettes/Poulet au sésame.md</guid><pubDate>Wed, 15 May 2024 12:16:32 GMT</pubDate><enclosure url="recettes/images/poulet-au-sésame.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-au-sésame.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet boursin, lard &amp; pommes de terre sautées]]></title><description><![CDATA[ 
- <br><br><img alt="Poulet boursin, lard &amp; pommes de terre sautées.webp" src="recettes/images/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.webp"><br><br><br>
-<br>Escalopes de poulet : 4
-<br>Fromage à l'ail : 160g
-<br>Lard : 8 tranches
-<br><a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 1kg
-<br>Ciboulette
-<br><br>
-<br>Préchauffez le four à 200°C.
-<br>Pommes de terres sautées<br><br><br><br><img alt="Pommes de terres sautées.webp" src="recettes/images/pommes-de-terres-sautées.webp"><br><br><br>
-<br>Pommes de terre : 1kg
-<br>Huile
-<br>Curry
-<br><br>
-<br>Éplucher et laver les pommes de terre, puis les couper en tranches de 1,5 cm d'épaisseur, puis en cubes. Ne plus les laver.
-<br>Dans une sauteuse, faire chauffer 3 cuillères à soupe d'huile. Lorsque l'huile est chaude, y mettre les pommes de terre d'un coup, puis les enrober d'huile dans tous les sens avec une cuillère en bois.
-<br>Ajouter sel et poivre (et éventuellement curry), puis re-mélanger.
-<br>Porter à feu maximal et faire cuire avec le couvercle jusqu'à ce qu'une bonne odeur de pommes de terre grillées s'échappe... Ne pas les découvrir avant! Cela prend entre 3 et 5 minutes.
-<br>À ce moment-là seulement, retourner les pommes de terre. Baisser la température de 2 graduations (pour mettre à feu moyen).
-<br>Remettre le couvercle, puis retourner les pommes de terre toutes les 3 min pendant 10 min.
-<br>Maintenant, elles sont cuites. Vérifier tout de même avec la pointe d'un couteau.
-
-<br>Pendant ce temps, ouvrez le filet de poulet en deux de façon à obtenir une épaisseur plus fine.
-<br>Étalez le fromage sur un côté de l'escalope puis refermez le poulet en deux.
-<br>Prenez une tranche de lard et enroulez-la autour de votre poulet de façon à bien le fermer. Répétez l'opération avec une deuxième tranche de lard.
-<br>Dans un plat allant au four, ajoutez les pommes de terre sautées et un bon filet d'huile d'olive. Salez, poivrez et mélangez bien. Ajoutez le poulet farci et enfournez à 200°C pour 30 minutes de cuisson.
-<br>Sortez votre plat du four et ciselez un peu de ciboulette sur le plat si vous en avez. C'est prêt !
-]]></description><link>recettes/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.html</link><guid isPermaLink="false">recettes/Poulet boursin, lard &amp; pommes de terre sautées.md</guid><pubDate>Wed, 23 Oct 2024 12:31:02 GMT</pubDate><enclosure url="recettes/images/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-boursin,-lard-&amp;-pommes-de-terre-sautées.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet pané au parmesan]]></title><description><![CDATA[ 
+]]></description><link>recettes/poulet-au-sésame.html</link><guid isPermaLink="false">recettes/Poulet au sésame.md</guid><pubDate>Wed, 15 May 2024 12:16:32 GMT</pubDate><enclosure url="recettes/images/poulet-au-sésame.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-au-sésame.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet pané au parmesan]]></title><description><![CDATA[ 
  <br><br><img alt="Poulet pané au parmesan.webp" src="recettes/images/poulet-pané-au-parmesan.webp"><br><br><br>
 <br>Escalope de poulet : 4
 <br>Oeufs : 4
@@ -2254,21 +2354,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Baissez le feu à feu doux et ajoutez la crème et la moutarde, salez poivrez et laissez mijoter à feu doux pendant 5 minutes.
 <br>Salez, poivrez en fin de cuisson.
 <br>Servir le poulet sur le riz avec la sauce, c'est prêt !
-]]></description><link>recettes/poulet-sauce-moutarde.html</link><guid isPermaLink="false">recettes/Poulet sauce moutarde.md</guid><pubDate>Sun, 27 Oct 2024 15:18:38 GMT</pubDate><enclosure url="recettes/images/poulet-sauce-moutarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-sauce-moutarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Purée de pommes de terre façon Goblot]]></title><description><![CDATA[ 
- <br><br><img alt="Purée de pommes de terre façon Goblot.webp" src="recettes/images/purée-de-pommes-de-terre-façon-goblot.webp"><br><br><br>
-<br>Pommes de terre : 1kg
-<br>Crème fraîche : 10cl
-<br>Lait
-<br>Oeuf : 1
-<br>Muscade
-<br><br>
-<br>Éplucher les pommes de terre et les couper en dés.
-<br>Mettre les dés dans une casserole d'eau et faire bouillir pendant 20min.
-<br>Égoutter les pommes de terre et les écraser.
-<br>Mettre la crème et mélanger.
-<br>Ajouter du lait petit à petit jusqu'à obtenir la consistance souhaitée.
-<br>Saler, poivrer, ajouter la muscade et le jaune de l'oeuf.
-]]></description><link>recettes/purée-de-pommes-de-terre-façon-goblot.html</link><guid isPermaLink="false">recettes/Purée de pommes de terre façon Goblot.md</guid><pubDate>Sun, 27 Oct 2024 15:18:38 GMT</pubDate><enclosure url="recettes/images/purée-de-pommes-de-terre-façon-goblot.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/purée-de-pommes-de-terre-façon-goblot.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche au saumon et aux épinards]]></title><description><![CDATA[ 
+]]></description><link>recettes/poulet-sauce-moutarde.html</link><guid isPermaLink="false">recettes/Poulet sauce moutarde.md</guid><pubDate>Sun, 27 Oct 2024 15:18:38 GMT</pubDate><enclosure url="recettes/images/poulet-sauce-moutarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-sauce-moutarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Quiche au saumon et aux épinards]]></title><description><![CDATA[ 
  <br><br><img alt="Quiche au saumon et aux épinards.webp" src="recettes/images/quiche-au-saumon-et-aux-épinards.webp"><br><br><br>
 <br>crème fraîche : 25cl
 <br>Parmesan râpé : 30g
