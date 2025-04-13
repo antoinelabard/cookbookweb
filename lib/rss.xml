@@ -1,4 +1,44 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 11 Apr 2025 15:25:36 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 11 Apr 2025 15:25:35 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Omelette aux champignons]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 13 Apr 2025 20:47:29 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 13 Apr 2025 20:47:28 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Gazpacho &amp; roulés mozza, jambon, pesto]]></title><description><![CDATA[ 
+ <br><br><img alt="Gazpacho &amp; roulés mozza, jambon, pesto.webp" src="recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp"><br><br><br>
+<br>Gazpacho : 1l
+<br>Pain de mie : 8 tranches
+<br>Sauce pesto : 8cc
+<br>Mozzarella : 120g
+<br>Jambon blanc : 4 tranches
+<br><br>
+<br>Coupez la mozzarella en tranches fines.
+<br>Aplatissez les tranches de pain à l'aide d'un rouleau à pâtisserie.
+<br>Étalez le pesto sur les tranches de pain de mie, puis ajoutez la mozzarella et le jambon. Roulez les tranches de pain en les serrant légèrement. Recommencez autant de fois que de roulés nécessaires.
+<br>Faites chauffer un filet d'huile dans une poêle, sur feu moyen. Ajoutez les roulés avec la jointure vers le bas. Faites-les revenir 2 minutes sur chaque face, jusqu'à ce qu'ils soient bien dorés.
+<br>Dans un bol ou une assiette creuse, servez le gazpacho bien frais accompagné des roulés au fromage &amp; jambon. Ajoutez un filet d'huile d'olive et un peu de poivre. C'est prêt !
+]]></description><link>recettes/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.html</link><guid isPermaLink="false">recettes/Gazpacho &amp; roulés mozza, jambon, pesto.md</guid><pubDate>Sun, 13 Apr 2025 18:10:42 GMT</pubDate><enclosure url="recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Oeufs cuits]]></title><description><![CDATA[ 
+ <br><br><img alt="Oeufs mollets.webp" src="recettes/images/oeufs-mollets.webp"><br><br><br>
+<br>Oeuf : 1
+<br><br>
+<br>Ajouter un fond d'eau dans une casserole vapeur. Porter à ébullition.
+<br>Ajouter les oeufs, couvrir et laisser cuire :
+
+<br>4min pour obtenir des oeufs à la coque ;
+<br>5min pour des oeufs mollets ;
+<br>10min pour des oeufs durs.
+
+
+<br>Sortir les oeufs de la casserole. Vous pouvez les peler s'ils sont durs. Ils sont prêts !
+<br>Info
+En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la quantité d'eau à chauffer et donc l'inertie thermique de la casserole. Ainsi, on diminue le temps de chauffe et on ne fait pas chuter la température de l'eau quand on ajoute les oeufs ; ils seront toujours baignés dans une vapeur chaude. La cuisson n'en est que plus homogène et maîtrisée.
+]]></description><link>recettes/oeufs-cuits.html</link><guid isPermaLink="false">recettes/Oeufs cuits.md</guid><pubDate>Sun, 13 Apr 2025 18:36:30 GMT</pubDate><enclosure url="recettes/images/oeufs-mollets.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/oeufs-mollets.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade campagnarde]]></title><description><![CDATA[ 
+ <br><br><img alt="Salade campagnarde.webp" src="recettes/images/salade-campagnarde.webp"><br><br><br>
+<br><a data-href="Oeufs cuits" href="recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener nofollow">Oeufs cuits</a> durs : 6
+<br><a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 600g
+<br>Salade : 200g
+<br>Chèvre frais : 80g
+<br>Bacon : 8 tranches
+<br><br>
+<br>Faites cuire les œufs dans une casserole d'eau bouillante pendant 10 min.
+<br>Placez-les dans un bol d'eau froide pour stopper la cuisson, écalez-les et coupez-les en morceaux.
+<br>Dans la poêle, faites cuire le bacon 2 minutes sur chaque face.
+<br>Dressez la salade : dans une assiette, ajoutez la mâche, les pommes de terres, les œufs, le bacon et le chèvre. (Optionnel : ajoutez des herbes fraîches). C'est prêt !
+]]></description><link>recettes/salade-campagnarde.html</link><guid isPermaLink="false">recettes/Salade campagnarde.md</guid><pubDate>Sun, 13 Apr 2025 18:12:00 GMT</pubDate><enclosure url="recettes/images/salade-campagnarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-campagnarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Omelette aux champignons]]></title><description><![CDATA[ 
  <br><br><img alt="Omelette aux champignons.webp" src="recettes/images/omelette-aux-champignons.webp"><br><br><br>
 <br>Oeufs : 12
 <br>Champignons de Paris : 400g
@@ -316,20 +356,7 @@
 <br>Maïwenn Gallois-Petit
 <br>Katy Osmont
 <br>Nicolas Noirault
-<br><br>Ce livre de recette a été rédigé avec <a data-tooltip-position="top" aria-label="http://obsidian.md" rel="noopener nofollow" class="external-link" href="http://obsidian.md" target="_blank">Obsidian</a>. Le site web est généré avec le plugin <a data-tooltip-position="top" aria-label="https://github.com/KosmosisDire/obsidian-webpage-export" rel="noopener nofollow" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export" target="_blank">Webpage HTML Export</a> et est hébergé sur <a data-tooltip-position="top" aria-label="https://pages.github.com/" rel="noopener nofollow" class="external-link" href="https://pages.github.com/" target="_blank">GitHub Pages</a>.<br>Un script de génération de menus est également disponible si vous téléchargez le livre de recettes hors ligne. Pour comprendre comment s'en servir, rendez-vous <a data-tooltip-position="top" aria-label="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" rel="noopener nofollow" class="external-link" href="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" target="_blank">ici</a>.]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Wed, 26 Mar 2025 22:44:07 GMT</pubDate><enclosure url="recettes/images/photo.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/photo.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gazpacho &amp; roulés mozza, jambon, pesto]]></title><description><![CDATA[ 
- <br><br><img alt="Gazpacho &amp; roulés mozza, jambon, pesto.webp" src="recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp"><br><br><br>
-<br>Gazpacho : 1l
-<br>Pain de mie : 8 tranches
-<br>Sauce pesto : 8cc
-<br>Mozzarella : 120g
-<br>Jambon blanc : 4 tranches
-<br><br>
-<br>Coupez la mozzarella en tranches fines.
-<br>Aplatissez les tranches de pain à l'aide d'un rouleau à pâtisserie.
-<br>Étalez le pesto sur les tranches de pain de mie, puis ajoutez la mozzarella et le jambon. Roulez les tranches de pain en les serrant légèrement. Recommencez autant de fois que de roulés nécessaires.
-<br>Faites chauffer un filet d'huile d'olive dans une poêle, sur feu moyen. Ajoutez les roulés avec la jointure vers le bas. Faites-les revenir 2 minutes sur chaque face, jusqu'à ce qu'ils soient bien dorés.
-<br>Dans un bol ou une assiette creuse, servez le gazpacho bien frais accompagné des roulés au fromage &amp; jambon. Ajoutez un filet d'huile d'olive et un peu de poivre. C'est prêt !
-]]></description><link>recettes/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.html</link><guid isPermaLink="false">recettes/Gazpacho &amp; roulés mozza, jambon, pesto.md</guid><pubDate>Wed, 26 Mar 2025 22:19:02 GMT</pubDate><enclosure url="recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/gazpacho-&amp;-roulés-mozza,-jambon,-pesto.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin dauphinois]]></title><description><![CDATA[ 
+<br><br>Ce livre de recette a été rédigé avec <a data-tooltip-position="top" aria-label="http://obsidian.md" rel="noopener nofollow" class="external-link" href="http://obsidian.md" target="_blank">Obsidian</a>. Le site web est généré avec le plugin <a data-tooltip-position="top" aria-label="https://github.com/KosmosisDire/obsidian-webpage-export" rel="noopener nofollow" class="external-link" href="https://github.com/KosmosisDire/obsidian-webpage-export" target="_blank">Webpage HTML Export</a> et est hébergé sur <a data-tooltip-position="top" aria-label="https://pages.github.com/" rel="noopener nofollow" class="external-link" href="https://pages.github.com/" target="_blank">GitHub Pages</a>.<br>Un script de génération de menus est également disponible si vous téléchargez le livre de recettes hors ligne. Pour comprendre comment s'en servir, rendez-vous <a data-tooltip-position="top" aria-label="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" rel="noopener nofollow" class="external-link" href="https://github.com/antoinelabard/Cookbook/blob/main/cookbook.py" target="_blank">ici</a>.]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Wed, 26 Mar 2025 22:44:07 GMT</pubDate><enclosure url="recettes/images/photo.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/photo.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Gratin dauphinois]]></title><description><![CDATA[ 
  <br><br><img alt="Gratin dauphinois.webp" src="recettes/images/gratin-dauphinois.webp"><br><br><br>
 <br>Pommes de terre : 1kg
 <br>crème liquide : 12cl
@@ -1888,22 +1915,7 @@ Cette recette est inspirée du <a data-href="Gratin de ravioles à la ratatouill
 <br>Faites des puits à l'aide d'une cuillère et cassez les œufs délicatement.
 <br>Ajoutez le lard par-dessus.
 <br>Enfournez pendant 15 minutes. Dégustez avec une salade ou une tranche de pain. C'est prêt !
-]]></description><link>recettes/oeuf-cocotte-épinards-&amp;-lard.html</link><guid isPermaLink="false">recettes/Oeuf cocotte épinards &amp; lard.md</guid><pubDate>Thu, 26 Dec 2024 20:33:58 GMT</pubDate><enclosure url="recettes/images/oeuf-cocotte-épinards-&amp;-lard.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/oeuf-cocotte-épinards-&amp;-lard.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Oeufs cuits]]></title><description><![CDATA[ 
- <br><br><img alt="Oeufs mollets.webp" src="recettes/images/oeufs-mollets.webp"><br><br><br>
-<br>Oeufs : 4
-<br><br>
-<br>Ajouter un fond d'eau dans une casserole vapeur. Porter à ébullition.
-<br>Ajouter les oeufs, couvrir et laisser cuire :
-
-<br>4min pour obtenir des oeufs à la coque ;
-<br>5min pour des oeufs mollets ;
-<br>10min pour des oeufs durs.
-
-
-<br>Sortir les oeufs de la casserole. Vous pouvez les peler s'ils sont durs. Ils sont prêts !
-<br>Info
-En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la quantité d'eau à chauffer et donc l'inertie thermique de la casserole. Ainsi, on diminue le temps de chauffe et on ne fait pas chuter la température de l'eau quand on ajoute les oeufs ; ils seront toujours baignés dans une vapeur chaude. La cuisson n'en est que plus homogène et maîtrisée.
-]]></description><link>recettes/oeufs-cuits.html</link><guid isPermaLink="false">recettes/Oeufs cuits.md</guid><pubDate>Sun, 23 Jun 2024 18:31:27 GMT</pubDate><enclosure url="recettes/images/oeufs-mollets.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/oeufs-mollets.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Omelette au saumon]]></title><description><![CDATA[ 
+]]></description><link>recettes/oeuf-cocotte-épinards-&amp;-lard.html</link><guid isPermaLink="false">recettes/Oeuf cocotte épinards &amp; lard.md</guid><pubDate>Thu, 26 Dec 2024 20:33:58 GMT</pubDate><enclosure url="recettes/images/oeuf-cocotte-épinards-&amp;-lard.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/oeuf-cocotte-épinards-&amp;-lard.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Omelette au saumon]]></title><description><![CDATA[ 
  <br><br><img alt="Omelette au saumon.webp" src="recettes/images/omelette-au-saumon.webp"><br><br><br>
 <br>Oeufs : 8
 <br>Fromage frais : 120g
@@ -2592,20 +2604,7 @@ On peut ajouter un peu de sucre glace avant de les manger.
 <br>Les ajouter au mélange précédent et mélanger le tout.
 <br>Pour la sauce, mélanger le vinaigre balsamique, l'huile, la moutarde et le poivre.
 <br>Mettre la salade au réfrigérateur 5 min avant de servir puis la napper de vinaigrette et déguster.
-]]></description><link>recettes/salade-aux-haricots-rouges,-maïs-et-thon.html</link><guid isPermaLink="false">recettes/Salade aux haricots rouges, maïs et thon.md</guid><pubDate>Wed, 15 May 2024 12:18:12 GMT</pubDate><enclosure url="recettes/images/salade-aux-haricots-rouges,-maïs-et-thon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-aux-haricots-rouges,-maïs-et-thon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade campagnarde]]></title><description><![CDATA[ 
- <br><br><img alt="Salade campagnarde.webp" src="recettes/images/salade-campagnarde.webp"><br><br><br>
-<br><a data-href="Oeufs cuits" href="recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener nofollow">Oeufs cuits</a> durs : 6
-<br><a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 600g
-<br>Salade : 200g
-<br>Chèvre frais : 80g
-<br>Bacon : 8 tranches
-<br><br>
-<br>Pendant ce temps, faites cuire les œufs dans une casserole d'eau bouillante pendant 10 min.
-<br>Placez-les dans un bol d'eau froide pour stopper la cuisson, écalez-les et coupez-les en morceaux.
-<br>Après 10 minutes. Coupez la cuisson des pommes de terre.
-<br>Dans la poêle, faites cuire le bacon 2 minutes sur chaque face.
-<br>Dressez la salade : dans une assiette ajoutez la mâche, les pommes de terres, les œufs, le bacon et le chèvre. (Optionnel : ajoutez des herbes fraîches). C'est prêt !
-]]></description><link>recettes/salade-campagnarde.html</link><guid isPermaLink="false">recettes/Salade campagnarde.md</guid><pubDate>Mon, 11 Nov 2024 20:26:09 GMT</pubDate><enclosure url="recettes/images/salade-campagnarde.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-campagnarde.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade de pâtes à l'italienne]]></title><description><![CDATA[ 
+]]></description><link>recettes/salade-aux-haricots-rouges,-maïs-et-thon.html</link><guid isPermaLink="false">recettes/Salade aux haricots rouges, maïs et thon.md</guid><pubDate>Wed, 15 May 2024 12:18:12 GMT</pubDate><enclosure url="recettes/images/salade-aux-haricots-rouges,-maïs-et-thon.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-aux-haricots-rouges,-maïs-et-thon.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade de pâtes à l'italienne]]></title><description><![CDATA[ 
  <br><br><img alt="Salade de pâtes à l'italienne.webp" src="recettes/images/salade-de-pâtes-à-l'italienne.webp"><br><br><br>
 <br>Melon : 1
 <br>Tomates cerises : 6
