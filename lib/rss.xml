@@ -1,30 +1,54 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 20 May 2025 16:33:48 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 20 May 2025 16:33:46 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Dummy Recipe]]></title><description><![CDATA[ 
- <br><br>“Dummy Recipe.webp” could not be found.<br><br><br>
-<br>pain de mie
-<br>jambon
-<br>fromage
-<br>gruyère
-<br>nouilles
-<br>poivron
-<br>champignons
-<br>]]></description><link>recettes/dummy-recipe.html</link><guid isPermaLink="false">recettes/Dummy Recipe.md</guid><pubDate>Tue, 20 May 2025 16:29:23 GMT</pubDate></item><item><title><![CDATA[Poulet à la sauce aux champignons]]></title><description><![CDATA[ 
- <br><br><img alt="Poulet à la sauce aux champignons.webp" src="recettes/images/poulet-à-la-sauce-aux-champignons.webp"><br><br><br>
-<br>Filets de poulet : 4
-<br>oignons : 2
-<br>Champignons de Paris : 200g
-<br>Vin blanc sec : 20cl
-<br>Bouillon de volaille : 1
-<br>Choix 1 - Riz ou pâtes : 400g
-<br>Choix 2 - <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 1kg
-<br><br>
-<br>Faire cuire le riz selon les instructions du paquet.
-<br>Pelez et hachez finement les oignons.
-<br>Faites chauffer un filet d'huile dans une poêle. Quand l’huile est bien chaude, déposez les filets de poulet dans la poêle et faites-les revenir sur tous les côtés pendant 10 à 15 minutes, jusqu’à ce qu’ils soient bien dorés.
-<br>Ajoutez ensuite les oignons hachés autour des filets de poulet dans la poêle et laissez cuire, en mélangeant bien, pendant 5 minutes environ, jusqu’à ce qu’ils soient bien translucides.
-<br>Égouttez les champignons de Paris et versez-les dans la poêle. Mouillez ensuite avec le vin blanc sec et le bouillon de volaille. Salez et poivrez à votre goût puis remuez bien. Laissez réduire pendant 30 minutes, à feu doux, en mélangeant régulièrement.
-<br>À la fin de la cuisson, servez de suite les filets de poulet avec le riz dans les assiettes, puis nappez-les de sauce aux champignons et au vin blanc.
-]]></description><link>recettes/poulet-à-la-sauce-aux-champignons.html</link><guid isPermaLink="false">recettes/Poulet à la sauce aux champignons.md</guid><pubDate>Sun, 11 May 2025 11:57:29 GMT</pubDate><enclosure url="recettes/images/poulet-à-la-sauce-aux-champignons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-à-la-sauce-aux-champignons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 23 May 2025 15:53:04 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 23 May 2025 15:53:03 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br>
+<br><a data-href="Brochettes dinde, haricots &amp; semoule" href="recettes/brochettes-dinde,-haricots-&amp;-semoule.html" class="internal-link" target="_self" rel="noopener nofollow">Brochettes dinde, haricots &amp; semoule</a>
+<br><a data-href="Couscous rapide" href="recettes/couscous-rapide.html" class="internal-link" target="_self" rel="noopener nofollow">Couscous rapide</a>
+<br><a data-href="Patates douces rôties &amp; crottin" href="recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener nofollow">Patates douces rôties &amp; crottin</a>
+<br><br>
+<br>Conserves :
+
+<br>Chair de tomate : 160g ---&gt; <a data-href="Couscous rapide" href="recettes/couscous-rapide.html" class="internal-link" target="_self" rel="noopener nofollow">Couscous rapide</a>
+<br>Haricots verts : 600g ---&gt; <a data-href="Brochettes dinde, haricots &amp; semoule" href="recettes/brochettes-dinde,-haricots-&amp;-semoule.html" class="internal-link" target="_self" rel="noopener nofollow">Brochettes dinde, haricots &amp; semoule</a>
+<br>Pois chiches (cuits) : 200g ---&gt; <a data-href="Couscous rapide" href="recettes/couscous-rapide.html" class="internal-link" target="_self" rel="noopener nofollow">Couscous rapide</a>
+
+
+<br>Produits secs :
+
+<br>Semoule 240g ---&gt; <a data-href="Brochettes dinde, haricots &amp; semoule" href="recettes/brochettes-dinde,-haricots-&amp;-semoule.html" class="internal-link" target="_self" rel="noopener nofollow">Brochettes dinde, haricots &amp; semoule</a>
+<br>Semoule : 160g ---&gt; <a data-href="Couscous rapide" href="recettes/couscous-rapide.html" class="internal-link" target="_self" rel="noopener nofollow">Couscous rapide</a>
+
+
+<br>Épices :
+
+<br>Paprika ---&gt; <a data-href="Brochettes dinde, haricots &amp; semoule" href="recettes/brochettes-dinde,-haricots-&amp;-semoule.html" class="internal-link" target="_self" rel="noopener nofollow">Brochettes dinde, haricots &amp; semoule</a>
+<br>Thym ---&gt; <a data-href="Patates douces rôties &amp; crottin" href="recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener nofollow">Patates douces rôties &amp; crottin</a>
+<br>Épices orientales ---&gt; <a data-href="Couscous rapide" href="recettes/couscous-rapide.html" class="internal-link" target="_self" rel="noopener nofollow">Couscous rapide</a>
+
+
+<br>Épicerie sucrée :
+
+<br>Miel : 2cc ---&gt; <a data-href="Patates douces rôties &amp; crottin" href="recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener nofollow">Patates douces rôties &amp; crottin</a>
+
+
+<br>Produits laitiers :
+
+<br>Crottins de chèvre : 4 ---&gt; <a data-href="Patates douces rôties &amp; crottin" href="recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener nofollow">Patates douces rôties &amp; crottin</a>
+<br>Yaourt grec : 20cl ---&gt; <a data-href="Brochettes dinde, haricots &amp; semoule" href="recettes/brochettes-dinde,-haricots-&amp;-semoule.html" class="internal-link" target="_self" rel="noopener nofollow">Brochettes dinde, haricots &amp; semoule</a>
+
+
+<br>Fruits et légumes :
+
+<br>Carottes : 600g ---&gt; <a data-href="Couscous rapide" href="recettes/couscous-rapide.html" class="internal-link" target="_self" rel="noopener nofollow">Couscous rapide</a>
+<br>Oignon : 1 ---&gt; <a data-href="Patates douces rôties &amp; crottin" href="recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener nofollow">Patates douces rôties &amp; crottin</a>
+<br>Patates douces : 1.2kg ---&gt; <a data-href="Patates douces rôties &amp; crottin" href="recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener nofollow">Patates douces rôties &amp; crottin</a>
+
+
+<br>Viandes et poissons :
+
+<br>Chipolatas : 8 ---&gt; <a data-href="Couscous rapide" href="recettes/couscous-rapide.html" class="internal-link" target="_self" rel="noopener nofollow">Couscous rapide</a>
+<br>Escalopes de dinde : 4 ---&gt; <a data-href="Brochettes dinde, haricots &amp; semoule" href="recettes/brochettes-dinde,-haricots-&amp;-semoule.html" class="internal-link" target="_self" rel="noopener nofollow">Brochettes dinde, haricots &amp; semoule</a>
+
+
+<br><br>
 <br><a data-href="Salade haricots verts, lardons &amp; œuf mollet" href="recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html" class="internal-link" target="_self" rel="noopener nofollow">Salade haricots verts, lardons &amp; œuf mollet</a>
 <br><a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
 <br><a data-href="Salade piémontaise" href="recettes/salade-piémontaise.html" class="internal-link" target="_self" rel="noopener nofollow">Salade piémontaise</a>
@@ -579,7 +603,32 @@
 <br><a data-href="Béchamel" href="recettes/béchamel.html" class="internal-link" target="_self" rel="noopener nofollow">Béchamel</a> : 10 ---&gt; <a data-href="Lasagnes à la bolognaise" href="recettes/lasagnes-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Lasagnes à la bolognaise</a>
 
 
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Tue, 20 May 2025 16:33:41 GMT</pubDate></item><item><title><![CDATA[Risotto de coquillettes poireaux, poulet &amp; chèvre]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 23 May 2025 15:52:52 GMT</pubDate></item><item><title><![CDATA[Dummy Recipe]]></title><description><![CDATA[ 
+ <br><br>“Dummy Recipe.webp” could not be found.<br><br><br>
+<br>pain de mie
+<br>jambon
+<br>fromage
+<br>gruyère
+<br>nouilles
+<br>poivron
+<br>champignons
+<br>]]></description><link>recettes/dummy-recipe.html</link><guid isPermaLink="false">recettes/Dummy Recipe.md</guid><pubDate>Tue, 20 May 2025 16:29:23 GMT</pubDate></item><item><title><![CDATA[Poulet à la sauce aux champignons]]></title><description><![CDATA[ 
+ <br><br><img alt="Poulet à la sauce aux champignons.webp" src="recettes/images/poulet-à-la-sauce-aux-champignons.webp"><br><br><br>
+<br>Filets de poulet : 4
+<br>oignons : 2
+<br>Champignons de Paris : 200g
+<br>Vin blanc sec : 20cl
+<br>Bouillon de volaille : 1
+<br>Choix 1 - Riz ou pâtes : 400g
+<br>Choix 2 - <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> : 1kg
+<br><br>
+<br>Faire cuire le riz selon les instructions du paquet.
+<br>Pelez et hachez finement les oignons.
+<br>Faites chauffer un filet d'huile dans une poêle. Quand l’huile est bien chaude, déposez les filets de poulet dans la poêle et faites-les revenir sur tous les côtés pendant 10 à 15 minutes, jusqu’à ce qu’ils soient bien dorés.
+<br>Ajoutez ensuite les oignons hachés autour des filets de poulet dans la poêle et laissez cuire, en mélangeant bien, pendant 5 minutes environ, jusqu’à ce qu’ils soient bien translucides.
+<br>Égouttez les champignons de Paris et versez-les dans la poêle. Mouillez ensuite avec le vin blanc sec et le bouillon de volaille. Salez et poivrez à votre goût puis remuez bien. Laissez réduire pendant 30 minutes, à feu doux, en mélangeant régulièrement.
+<br>À la fin de la cuisson, servez de suite les filets de poulet avec le riz dans les assiettes, puis nappez-les de sauce aux champignons et au vin blanc.
+]]></description><link>recettes/poulet-à-la-sauce-aux-champignons.html</link><guid isPermaLink="false">recettes/Poulet à la sauce aux champignons.md</guid><pubDate>Sun, 11 May 2025 11:57:29 GMT</pubDate><enclosure url="recettes/images/poulet-à-la-sauce-aux-champignons.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/poulet-à-la-sauce-aux-champignons.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Risotto de coquillettes poireaux, poulet &amp; chèvre]]></title><description><![CDATA[ 
  <br><br><img alt="Risotto de coquillettes poireaux, poulet &amp; chèvre.webp" src="recettes/images/risotto-de-coquillettes-poireaux,-poulet-&amp;-chèvre.webp"><br><br><br>
 <br>Pâtes : 320g
 <br>Poireaux : 2
