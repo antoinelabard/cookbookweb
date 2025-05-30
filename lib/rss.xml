@@ -1,5 +1,159 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 23 May 2025 15:53:04 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 23 May 2025 15:53:03 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 30 May 2025 16:50:22 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 30 May 2025 16:50:19 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Dummy Recipe]]></title><description><![CDATA[ 
+ <br><br>“Dummy Recipe.webp” could not be found.<br><br><br>
+<br><a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br>nuggets
+<br>salade
+<br>petite tomate
+<br>wrap
+<br>champignons
+<br>filets de poulet
+<br>farine
+<br>fromage en tranches fouda
+<br>gruyère
+<br>oignon
+<br>]]></description><link>recettes/dummy-recipe.html</link><guid isPermaLink="false">recettes/Dummy Recipe.md</guid><pubDate>Fri, 30 May 2025 16:47:24 GMT</pubDate></item><item><title><![CDATA[Porridge à la banane &amp; cannelle]]></title><description><![CDATA[ 
+ <br><br><img alt="Porridge à la banane &amp; cannelle.webp" src="recettes/images/porridge-à-la-banane-&amp;-cannelle.webp"><br><br><br>
+<br><a data-href="Porridge" href="recettes/porridge.html" class="internal-link" target="_self" rel="noopener nofollow">Porridge</a>
+<br>Sirop d'érable / miel : 5cl
+<br>Bananes : 2
+<br>Cannelle en poudre
+<br>(Optionnel) Noix : 20g
+<br><br>
+<br>Épluchez puis coupez la banane en rondelles.
+<br>Mélangez le porridge puis ajoutez la cannelle.
+<br>Versez le porridge dans un bol, ajoutez les bananes, saupoudrez de cannelle, ajoutez les noix (optionnel) et arrosez de sirop d'érable. C'est prêt !
+]]></description><link>recettes/porridge-à-la-banane-&amp;-cannelle.html</link><guid isPermaLink="false">recettes/Porridge à la banane &amp; cannelle.md</guid><pubDate>Fri, 23 May 2025 19:44:37 GMT</pubDate><enclosure url="recettes/images/porridge-à-la-banane-&amp;-cannelle.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/porridge-à-la-banane-&amp;-cannelle.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade haricots verts, lardons &amp; œuf mollet]]></title><description><![CDATA[ 
+ <br><br><img alt="Salade haricots verts, lardons &amp; œuf mollet.webp" src="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp"><br><br><br>
+<br>Haricots verts : 600g
+<br><a data-href="Oeufs cuits" href="recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener nofollow">Oeufs cuits</a> mollets : 4
+<br>Lardons : 300g
+<br>Moutarde à l'ancienne : 20g
+<br>Huile d'olive : 3cl
+<br>Persil
+<br><br>
+<br>En parallèle, faites cuire les haricots verts dans une casserole d'eau bouillante pendant environ 3 minutes puis égouttez-les.
+<br>Dans une poêle, faites revenir les lardons pendant 3 minutes à feu vif.
+<br>Une fois que vos œufs sont cuits, passez-les dans l'eau froide puis enlevez la coquille délicatement. Coupez-les en deux.
+<br>Préparez votre vinaigrette en mélangeant la moutarde à l'ancienne avec l'huile d'olive. Salez et poivrez.
+<br>Dressez votre salade en ajoutant les haricots verts, les lardons, l'œuf mollet et versez la sauce par-dessus. Ajoutez quelques feuilles de persil ciselés. C'est prêt !
+]]></description><link>recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html</link><guid isPermaLink="false">recettes/Salade haricots verts, lardons &amp; œuf mollet.md</guid><pubDate>Fri, 23 May 2025 19:48:22 GMT</pubDate><enclosure url="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Steak haché à l'échalote &amp; purée]]></title><description><![CDATA[ 
+ <br><br><img alt="Steak haché à l'échalote &amp; purée.webp" src="recettes/images/steak-haché-à-l'échalote-&amp;-purée.webp"><br><br><br>
+<br><a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br>Steak haché de boeuf : 4
+<br>Échalote : 2
+<br>Beurre : 20g
+<br><br>
+<br>Pendant ce temps, émincez les échalotes. Réservez.
+<br>Faites fondre beurre dans une poêle, ajoutez les échalotes et faites revenir 2 minutes, sur feu moyen.
+<br>Ajoutez vos steaks dans la poêle et laisser cuire selon vos préférences.
+<br>Ajoutez un fond d'eau dans la poêle encore chaude pour former un jus (2 c. à soupe/personne environ) et laissez le jus s'épaissir un peu pendant 1 à 2 min.
+<br>Servez le steak avec la purée et la sauce, c'est prêt !
+]]></description><link>recettes/steak-haché-à-l'échalote-&amp;-purée.html</link><guid isPermaLink="false">recettes/Steak haché à l'échalote &amp; purée.md</guid><pubDate>Fri, 23 May 2025 19:47:43 GMT</pubDate><enclosure url="recettes/images/steak-haché-à-l'échalote-&amp;-purée.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/steak-haché-à-l'échalote-&amp;-purée.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Toasts à l'avocat et oeufs mollets]]></title><description><![CDATA[ 
+ <br><br><img alt="Toasts à l'avocat et oeufs mollets.webp" src="recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp"><br><br><br>
+<br><a data-href="Oeufs cuits" href="recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener nofollow">Oeufs cuits</a> mollets : 4
+<br>Tranches de pain de mie : 2
+<br>Avocat : 1
+<br>Ciboulette
+<br><br>
+<br>Faire griller les toasts.
+<br>Couper l'avocat en tranche.
+<br>Éplucher délicatement les oeufs.
+<br>Déposer sur les toasts l'avocat puis les oeufs.
+<br>Saupoudrer de ciboulette et de poivre.
+<br>Couper les oeufs en deux au dernier moment.
+]]></description><link>recettes/toasts-à-l'avocat-et-oeufs-mollets.html</link><guid isPermaLink="false">recettes/Toasts à l'avocat et oeufs mollets.md</guid><pubDate>Fri, 23 May 2025 19:47:43 GMT</pubDate><enclosure url="recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Menu de la semaine]]></title><description><![CDATA[ 
  <br><br><br>
+<br><a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br><a data-href="Croque-monsieur" href="recettes/croque-monsieur.html" class="internal-link" target="_self" rel="noopener nofollow">Croque-monsieur</a>
+<br><a data-href="Salade campagnarde" href="recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener nofollow">Salade campagnarde</a>
+<br><a data-href="Saucisse &amp; lentilles" href="recettes/saucisse-&amp;-lentilles.html" class="internal-link" target="_self" rel="noopener nofollow">Saucisse &amp; lentilles</a>
+<br><a data-href="Risotto de coquillettes poireaux, poulet &amp; chèvre" href="recettes/risotto-de-coquillettes-poireaux,-poulet-&amp;-chèvre.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes poireaux, poulet &amp; chèvre</a>
+<br><a data-href="Petits pois au chorizo" href="recettes/petits-pois-au-chorizo.html" class="internal-link" target="_self" rel="noopener nofollow">Petits pois au chorizo</a>
+<br><br>
+<br>Conserves :
+
+<br>Petits pois : 800g ---&gt; <a data-href="Petits pois au chorizo" href="recettes/petits-pois-au-chorizo.html" class="internal-link" target="_self" rel="noopener nofollow">Petits pois au chorizo</a>
+
+
+<br>Produits secs :
+
+<br>Bouillon de légumes : 1 ---&gt; <a data-href="Risotto de coquillettes poireaux, poulet &amp; chèvre" href="recettes/risotto-de-coquillettes-poireaux,-poulet-&amp;-chèvre.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes poireaux, poulet &amp; chèvre</a>
+<br>Huile ---&gt; <a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 600g
+<br>Lentilles : 280g ---&gt; <a data-href="Saucisse &amp; lentilles" href="recettes/saucisse-&amp;-lentilles.html" class="internal-link" target="_self" rel="noopener nofollow">Saucisse &amp; lentilles</a>
+<br>Oeuf : 1 ---&gt; <a data-href="Oeufs cuits" href="recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener nofollow">Oeufs cuits</a> durs : 6
+<br>Oeuf : 1 ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br>Oeuf : 1 ---&gt; <a data-href="Petits pois au chorizo" href="recettes/petits-pois-au-chorizo.html" class="internal-link" target="_self" rel="noopener nofollow">Petits pois au chorizo</a>
+<br>Pain de mie : 8 tranches ---&gt; <a data-href="Croque-monsieur" href="recettes/croque-monsieur.html" class="internal-link" target="_self" rel="noopener nofollow">Croque-monsieur</a>
+<br>Pâtes : 320g ---&gt; <a data-href="Risotto de coquillettes poireaux, poulet &amp; chèvre" href="recettes/risotto-de-coquillettes-poireaux,-poulet-&amp;-chèvre.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes poireaux, poulet &amp; chèvre</a>
+<br><a data-href="Oeufs cuits" href="recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener nofollow">Oeufs cuits</a> durs : 6 ---&gt; <a data-href="Salade campagnarde" href="recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener nofollow">Salade campagnarde</a>
+<br>farine ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+
+
+<br>Épices :
+
+<br>Curry ---&gt; <a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 600g
+<br>Muscade ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br>Muscade ---&gt; <a data-href="Croque-monsieur" href="recettes/croque-monsieur.html" class="internal-link" target="_self" rel="noopener nofollow">Croque-monsieur</a>
+
+
+<br>Produits frais :
+
+<br>Bacon : 8 tranches ---&gt; <a data-href="Salade campagnarde" href="recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener nofollow">Salade campagnarde</a>
+<br>Saucisses fumées : 4 ---&gt; <a data-href="Saucisse &amp; lentilles" href="recettes/saucisse-&amp;-lentilles.html" class="internal-link" target="_self" rel="noopener nofollow">Saucisse &amp; lentilles</a>
+<br>jambon : 8 tranches ---&gt; <a data-href="Croque-monsieur" href="recettes/croque-monsieur.html" class="internal-link" target="_self" rel="noopener nofollow">Croque-monsieur</a>
+
+
+<br>Produits laitiers :
+
+<br>Beurre : 50g ---&gt; <a data-href="Croque-monsieur" href="recettes/croque-monsieur.html" class="internal-link" target="_self" rel="noopener nofollow">Croque-monsieur</a>
+<br>Chèvre frai : 120g ---&gt; <a data-href="Risotto de coquillettes poireaux, poulet &amp; chèvre" href="recettes/risotto-de-coquillettes-poireaux,-poulet-&amp;-chèvre.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes poireaux, poulet &amp; chèvre</a>
+<br>Chèvre frais : 80g ---&gt; <a data-href="Salade campagnarde" href="recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener nofollow">Salade campagnarde</a>
+<br>Crème fraîche : 20cl ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br>Fromage en tranches : 8 tranches ---&gt; <a data-href="Croque-monsieur" href="recettes/croque-monsieur.html" class="internal-link" target="_self" rel="noopener nofollow">Croque-monsieur</a>
+<br>Gruyère râpé : 100g ---&gt; <a data-href="Croque-monsieur" href="recettes/croque-monsieur.html" class="internal-link" target="_self" rel="noopener nofollow">Croque-monsieur</a>
+<br>Lait : 6cl ---&gt; <a data-href="Croque-monsieur" href="recettes/croque-monsieur.html" class="internal-link" target="_self" rel="noopener nofollow">Croque-monsieur</a>
+<br>Lait ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br>fromage en tranches fouda ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>gruyère ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+
+
+<br>Fruits et légumes :
+
+<br>Carottes : 2 ---&gt; <a data-href="Saucisse &amp; lentilles" href="recettes/saucisse-&amp;-lentilles.html" class="internal-link" target="_self" rel="noopener nofollow">Saucisse &amp; lentilles</a>
+<br>Oignon : 1 ---&gt; <a data-href="Petits pois au chorizo" href="recettes/petits-pois-au-chorizo.html" class="internal-link" target="_self" rel="noopener nofollow">Petits pois au chorizo</a>
+<br>Oignon : 1 ---&gt; <a data-href="Saucisse &amp; lentilles" href="recettes/saucisse-&amp;-lentilles.html" class="internal-link" target="_self" rel="noopener nofollow">Saucisse &amp; lentilles</a>
+<br>Poireaux : 2 ---&gt; <a data-href="Risotto de coquillettes poireaux, poulet &amp; chèvre" href="recettes/risotto-de-coquillettes-poireaux,-poulet-&amp;-chèvre.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes poireaux, poulet &amp; chèvre</a>
+<br>Pommes de terre : 1kg ---&gt; <a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 600g
+<br>Pommes de terre : 1kg ---&gt; <a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
+<br>Salade : 200g ---&gt; <a data-href="Salade campagnarde" href="recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener nofollow">Salade campagnarde</a>
+<br><a data-href="Pommes de terres sautées" href="recettes/pommes-de-terres-sautées.html" class="internal-link" target="_self" rel="noopener nofollow">Pommes de terres sautées</a> : 600g ---&gt; <a data-href="Salade campagnarde" href="recettes/salade-campagnarde.html" class="internal-link" target="_self" rel="noopener nofollow">Salade campagnarde</a>
+<br><a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a> ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>champignons ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>oignon ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>petite tomate ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>salade ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>Échalotes : 2 ---&gt; <a data-href="Risotto de coquillettes poireaux, poulet &amp; chèvre" href="recettes/risotto-de-coquillettes-poireaux,-poulet-&amp;-chèvre.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes poireaux, poulet &amp; chèvre</a>
+
+
+<br>Apéritifs et alcools :
+
+<br>Vin blanc : 8cl ---&gt; <a data-href="Risotto de coquillettes poireaux, poulet &amp; chèvre" href="recettes/risotto-de-coquillettes-poireaux,-poulet-&amp;-chèvre.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes poireaux, poulet &amp; chèvre</a>
+
+
+<br>Viandes et poissons :
+
+<br>Chorizo : 1 ---&gt; <a data-href="Petits pois au chorizo" href="recettes/petits-pois-au-chorizo.html" class="internal-link" target="_self" rel="noopener nofollow">Petits pois au chorizo</a>
+<br>Filets de poulet : 4 ---&gt; <a data-href="Risotto de coquillettes poireaux, poulet &amp; chèvre" href="recettes/risotto-de-coquillettes-poireaux,-poulet-&amp;-chèvre.html" class="internal-link" target="_self" rel="noopener nofollow">Risotto de coquillettes poireaux, poulet &amp; chèvre</a>
+<br>filets de poulet ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+
+
+<br>Unclassified :
+
+<br>nuggets ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+<br>wrap ---&gt; <a data-href="Dummy Recipe" href="recettes/dummy-recipe.html" class="internal-link" target="_self" rel="noopener nofollow">Dummy Recipe</a>
+
+
+<br><br>
 <br><a data-href="Brochettes dinde, haricots &amp; semoule" href="recettes/brochettes-dinde,-haricots-&amp;-semoule.html" class="internal-link" target="_self" rel="noopener nofollow">Brochettes dinde, haricots &amp; semoule</a>
 <br><a data-href="Couscous rapide" href="recettes/couscous-rapide.html" class="internal-link" target="_self" rel="noopener nofollow">Couscous rapide</a>
 <br><a data-href="Patates douces rôties &amp; crottin" href="recettes/patates-douces-rôties-&amp;-crottin.html" class="internal-link" target="_self" rel="noopener nofollow">Patates douces rôties &amp; crottin</a>
@@ -45,7 +199,13 @@
 <br>Viandes et poissons :
 
 <br>Chipolatas : 8 ---&gt; <a data-href="Couscous rapide" href="recettes/couscous-rapide.html" class="internal-link" target="_self" rel="noopener nofollow">Couscous rapide</a>
+
 <br>Escalopes de dinde : 4 ---&gt; <a data-href="Brochettes dinde, haricots &amp; semoule" href="recettes/brochettes-dinde,-haricots-&amp;-semoule.html" class="internal-link" target="_self" rel="noopener nofollow">Brochettes dinde, haricots &amp; semoule</a>
+<br>
+
+
+
+
 
 
 <br><br>
@@ -603,16 +763,7 @@
 <br><a data-href="Béchamel" href="recettes/béchamel.html" class="internal-link" target="_self" rel="noopener nofollow">Béchamel</a> : 10 ---&gt; <a data-href="Lasagnes à la bolognaise" href="recettes/lasagnes-à-la-bolognaise.html" class="internal-link" target="_self" rel="noopener nofollow">Lasagnes à la bolognaise</a>
 
 
-]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 23 May 2025 15:52:52 GMT</pubDate></item><item><title><![CDATA[Dummy Recipe]]></title><description><![CDATA[ 
- <br><br>“Dummy Recipe.webp” could not be found.<br><br><br>
-<br>pain de mie
-<br>jambon
-<br>fromage
-<br>gruyère
-<br>nouilles
-<br>poivron
-<br>champignons
-<br>]]></description><link>recettes/dummy-recipe.html</link><guid isPermaLink="false">recettes/Dummy Recipe.md</guid><pubDate>Tue, 20 May 2025 16:29:23 GMT</pubDate></item><item><title><![CDATA[Poulet à la sauce aux champignons]]></title><description><![CDATA[ 
+]]></description><link>menu-de-la-semaine.html</link><guid isPermaLink="false">Menu de la semaine.md</guid><pubDate>Fri, 30 May 2025 16:50:15 GMT</pubDate></item><item><title><![CDATA[Poulet à la sauce aux champignons]]></title><description><![CDATA[ 
  <br><br><img alt="Poulet à la sauce aux champignons.webp" src="recettes/images/poulet-à-la-sauce-aux-champignons.webp"><br><br><br>
 <br>Filets de poulet : 4
 <br>oignons : 2
@@ -2647,25 +2798,7 @@ Cette recette est inspirée du <a data-href="Gratin de ravioles à la ratatouill
 <br><br>
 <br>Dans une casserole, versez le lait, la même dose en eau et les flocons d'avoine.
 <br>Faites cuire à feu très doux pendant 3 à 4 minutes.
-]]></description><link>recettes/porridge.html</link><guid isPermaLink="false">recettes/Porridge.md</guid><pubDate>Wed, 15 May 2024 11:39:41 GMT</pubDate><enclosure url="recettes/images/porridge.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/porridge.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Porridge à la banane &amp; cannelle]]></title><description><![CDATA[ 
- <br><br><img alt="Porridge à la banane &amp; cannelle.webp" src="recettes/images/porridge-à-la-banane-&amp;-cannelle.webp"><br><br><br>
-<br><a data-href="Porridge" href="recettes/porridge.html" class="internal-link" target="_self" rel="noopener nofollow">Porridge</a>
-<br>Sirop d'érable / miel : 5cl
-<br>Bananes : 2
-<br>Cannelle en poudre
-<br>(Optionnel) Noix : 20g
-<br><br>
-<br>Porridge<br><br><br><br><img alt="Porridge.webp" src="recettes/images/porridge.webp"><br><br><br>
-<br>Lait : 480ml
-<br>Flocons d'avoine : 200g
-<br><br>
-<br>Dans une casserole, versez le lait, la même dose en eau et les flocons d'avoine.
-<br>Faites cuire à feu très doux pendant 3 à 4 minutes.
-
-<br>Épluchez puis coupez la banane en rondelles.
-<br>Mélangez le porridge puis ajoutez la cannelle.
-<br>Versez le porridge dans un bol, ajoutez les bananes, saupoudrez de cannelle, ajoutez les noix (optionnel) et arrosez de sirop d'érable. C'est prêt !
-]]></description><link>recettes/porridge-à-la-banane-&amp;-cannelle.html</link><guid isPermaLink="false">recettes/Porridge à la banane &amp; cannelle.md</guid><pubDate>Wed, 15 May 2024 12:16:20 GMT</pubDate><enclosure url="recettes/images/porridge-à-la-banane-&amp;-cannelle.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/porridge-à-la-banane-&amp;-cannelle.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet à la moutarde &amp; pommes de terre]]></title><description><![CDATA[ 
+]]></description><link>recettes/porridge.html</link><guid isPermaLink="false">recettes/Porridge.md</guid><pubDate>Wed, 15 May 2024 11:39:41 GMT</pubDate><enclosure url="recettes/images/porridge.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/porridge.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Poulet à la moutarde &amp; pommes de terre]]></title><description><![CDATA[ 
  <br><br><img alt="Poulet à la moutarde &amp; pommes de terre.webp" src="recettes/images/poulet-à-la-moutarde-&amp;-pommes-de-terre.webp"><br><br><br>
 <br>Filets de poulet : 4
 <br>Pommes de terre grenailles : 1kg
@@ -3068,36 +3201,7 @@ On peut ajouter un peu de sucre glace avant de les manger.
 <br>Laissez-les bien refroidir puis joutez-les dans le saladier.
 <br>Assaisonnez d'une cuillère à soupe de vinaigre balsamique, de deux cuillères d'huile de noix et sel et poivre.
 <br>Servez avec des copeaux de parmesan fraîchement râpés.
-]]></description><link>recettes/salade-de-pâtes-méditerranéenne.html</link><guid isPermaLink="false">recettes/Salade de pâtes méditerranéenne.md</guid><pubDate>Wed, 15 May 2024 12:18:21 GMT</pubDate><enclosure url="recettes/images/salade-de-pâtes-méditerranéenne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-de-pâtes-méditerranéenne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade haricots verts, lardons &amp; œuf mollet]]></title><description><![CDATA[ 
- <br><br><img alt="Salade haricots verts, lardons &amp; œuf mollet.webp" src="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp"><br><br><br>
-<br>Haricots verts : 600g
-<br><a data-href="Oeufs cuits" href="recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener nofollow">Oeufs cuits</a> mollets : 4
-<br>Lardons : 300g
-<br>Moutarde à l'ancienne : 40g
-<br>Huile d'olive : 6cl
-<br>Persil
-<br><br>
-<br>Oeufs cuits<br><br><br><br><img alt="Oeufs mollets.webp" src="recettes/images/oeufs-mollets.webp"><br><br><br>
-<br>Oeufs : 4
-<br><br>
-<br>Ajouter un fond d'eau dans une casserole vapeur. Porter à ébullition.
-<br>Ajouter les oeufs, couvrir et laisser cuire :
-
-<br>4min pour obtenir des oeufs à la coque ;
-<br>5min pour des oeufs mollets ;
-<br>10min pour des oeufs durs.
-
-
-<br>Sortir les oeufs de la casserole. Vous pouvez les peler s'ils sont durs. Ils sont prêts !
-<br>Info
-En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la quantité d'eau à chauffer et donc l'inertie thermique de la casserole. Ainsi, on diminue le temps de chauffe et on ne fait pas chuter la température de l'eau quand on ajoute les oeufs ; ils seront toujours baignés dans une vapeur chaude. La cuisson n'en est que plus homogène et maîtrisée.
-
-<br>En parallèle, faites cuire les haricots verts dans une casserole d'eau bouillante pendant environ 3 minutes puis égouttez-les.
-<br>Dans une poêle, faites revenir les lardons pendant 3 minutes à feu vif.
-<br>Une fois que vos œufs sont cuits, passez-les dans l'eau froide puis enlevez la coquille délicatement. Coupez-les en deux.
-<br>Préparez votre vinaigrette en mélangeant la moutarde à l'ancienne avec l'huile d'olive. Salez et poivrez.
-<br>Dressez votre salade en ajoutant les haricots verts, les lardons, l'œuf mollet et versez la sauce par-dessus. Ajoutez quelques feuilles de persil ciselés. C'est prêt !
-]]></description><link>recettes/salade-haricots-verts,-lardons-&amp;-œuf-mollet.html</link><guid isPermaLink="false">recettes/Salade haricots verts, lardons &amp; œuf mollet.md</guid><pubDate>Thu, 18 Jul 2024 12:27:19 GMT</pubDate><enclosure url="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-haricots-verts,-lardons-&amp;-œuf-mollet.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade jambon cru, mozza &amp; pistaches]]></title><description><![CDATA[ 
+]]></description><link>recettes/salade-de-pâtes-méditerranéenne.html</link><guid isPermaLink="false">recettes/Salade de pâtes méditerranéenne.md</guid><pubDate>Wed, 15 May 2024 12:18:21 GMT</pubDate><enclosure url="recettes/images/salade-de-pâtes-méditerranéenne.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/salade-de-pâtes-méditerranéenne.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade jambon cru, mozza &amp; pistaches]]></title><description><![CDATA[ 
  <br><br><img alt="Salade jambon cru, mozza &amp; pistaches.webp" src="recettes/images/salade-jambon-cru,-mozza-&amp;-pistaches.webp"><br><br><br>
 <br>Jambon cru : 8 tranches
 <br>Mozzarella : 240g
@@ -3167,33 +3271,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Plongez les pâtes dans un grand volume d'eau bouillante et suivez le temps de cuisson recommandé sur l'emballage. Égouttez en fin de cuisson.
 <br>Faites revenir les crevettes 4 minutes dans un filet d'huile de cuisson avec l'ail émincé.
 <br>Ajoutez les pâtes à peine égouttées dans la poêle avec les crevettes, ajoutez le persil haché. Poursuivez la cuisson 1 minute supplémentaire en mélangeant. Servez avec un filet d'huile d'olive. C'est prêt !
-]]></description><link>recettes/spaghetti-ail-&amp;-crevette.html</link><guid isPermaLink="false">recettes/Spaghetti ail &amp; crevette.md</guid><pubDate>Tue, 23 Jul 2024 07:32:00 GMT</pubDate><enclosure url="recettes/images/spaghetti-ail-&amp;-crevette.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/spaghetti-ail-&amp;-crevette.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Steak haché à l'échalote &amp; purée]]></title><description><![CDATA[ 
- <br><br><img alt="Steak haché à l'échalote &amp; purée.webp" src="recettes/images/steak-haché-à-l'échalote-&amp;-purée.webp"><br><br><br>
-<br><a data-href="Purée de pommes de terre façon Goblot" href="recettes/purée-de-pommes-de-terre-façon-goblot.html" class="internal-link" target="_self" rel="noopener nofollow">Purée de pommes de terre façon Goblot</a>
-<br>Steak haché de boeuf : 4
-<br>Échalote : 2
-<br>Beurre : 20g
-<br><br>
-<br>Purée de pommes de terre façon Goblot<br><br><br><br><img alt="Purée de pommes de terre façon Goblot.webp" src="recettes/images/purée-de-pommes-de-terre-façon-goblot.webp"><br><br><br>
-<br>Pommes de terre : 1kg
-<br>Crème fraîche : 10cl
-<br>Lait
-<br>Oeuf : 1
-<br>Muscade
-<br><br>
-<br>Éplucher les pommes de terre et les couper en dés.
-<br>Mettre les dés dans une casserole d'eau et faire bouillir pendant 20min.
-<br>Égoutter les pommes de terre et les écraser.
-<br>Mettre la crème et mélanger.
-<br>Ajouter du lait petit à petit jusqu'à obtenir la consistance souhaitée.
-<br>Saler, poivrer, ajouter la muscade et le jaune de l'oeuf.
-
-<br>Pendant ce temps, émincez les échalotes. Réservez.
-<br>Faites fondre beurre dans une poêle, ajoutez les échalotes et faites revenir 2 minutes, sur feu moyen.
-<br>Ajoutez vos steaks dans la poêle et laisser cuire selon vos préférences.
-<br>Ajoutez un fond d'eau dans la poêle encore chaude pour former un jus (2 c. à soupe/personne environ) et laissez le jus s'épaissir un peu pendant 1 à 2 min.
-<br>Servez le steak avec la purée et la sauce, c'est prêt !
-]]></description><link>recettes/steak-haché-à-l'échalote-&amp;-purée.html</link><guid isPermaLink="false">recettes/Steak haché à l'échalote &amp; purée.md</guid><pubDate>Sun, 27 Oct 2024 15:18:38 GMT</pubDate><enclosure url="recettes/images/steak-haché-à-l'échalote-&amp;-purée.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/steak-haché-à-l'échalote-&amp;-purée.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tagliatelles saumon épinards]]></title><description><![CDATA[ 
+]]></description><link>recettes/spaghetti-ail-&amp;-crevette.html</link><guid isPermaLink="false">recettes/Spaghetti ail &amp; crevette.md</guid><pubDate>Tue, 23 Jul 2024 07:32:00 GMT</pubDate><enclosure url="recettes/images/spaghetti-ail-&amp;-crevette.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/spaghetti-ail-&amp;-crevette.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tagliatelles saumon épinards]]></title><description><![CDATA[ 
  <br><br><img alt="Tagliatelles saumon épinards.webp" src="recettes/images/tagliatelles-saumon-épinards.webp"><br><br><br>
 <br>Pâtes : 400g
 <br>Saumon : 4 tranches
@@ -3281,35 +3359,7 @@ En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la qu
 <br>Disposer le mélange dans un plat allant au four. Recouvrir des tranches de reblochon.
 <br>Enfourner pendant 30min.
 <br>Une fois que le dessus commence à gratiner. La tartiflette est prête !
-]]></description><link>recettes/tartiflette-façon-goblot.html</link><guid isPermaLink="false">recettes/Tartiflette façon Goblot.md</guid><pubDate>Wed, 15 May 2024 12:19:01 GMT</pubDate><enclosure url="recettes/images/tartiflette-façon-goblot.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tartiflette-façon-goblot.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Toasts à l'avocat et oeufs mollets]]></title><description><![CDATA[ 
- <br><br><img alt="Toasts à l'avocat et oeufs mollets.webp" src="recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp"><br><br><br>
-<br><a data-href="Oeufs cuits" href="recettes/oeufs-cuits.html" class="internal-link" target="_self" rel="noopener nofollow">Oeufs cuits</a> mollets : 4
-<br>Tranches de pain de mie : 2
-<br>Avocat : 1
-<br>Ciboulette
-<br><br>
-<br>Oeufs cuits<br><br><br><br><img alt="Oeufs mollets.webp" src="recettes/images/oeufs-mollets.webp"><br><br><br>
-<br>Oeufs : 4
-<br><br>
-<br>Ajouter un fond d'eau dans une casserole vapeur. Porter à ébullition.
-<br>Ajouter les oeufs, couvrir et laisser cuire :
-
-<br>4min pour obtenir des oeufs à la coque ;
-<br>5min pour des oeufs mollets ;
-<br>10min pour des oeufs durs.
-
-
-<br>Sortir les oeufs de la casserole. Vous pouvez les peler s'ils sont durs. Ils sont prêts !
-<br>Info
-En cuisant les oeufs à la vapeur plutôt qu'à l'eau, on réduit beaucoup la quantité d'eau à chauffer et donc l'inertie thermique de la casserole. Ainsi, on diminue le temps de chauffe et on ne fait pas chuter la température de l'eau quand on ajoute les oeufs ; ils seront toujours baignés dans une vapeur chaude. La cuisson n'en est que plus homogène et maîtrisée.
-
-<br>Faire griller les toasts.
-<br>Couper l'avocat en tranche.
-<br>Éplucher délicatement les oeufs.
-<br>Déposer sur les toasts l'avocat puis les oeufs.
-<br>Saupoudrer de ciboulette et de poivre.
-<br>Couper les oeufs en deux au dernier moment.
-]]></description><link>recettes/toasts-à-l'avocat-et-oeufs-mollets.html</link><guid isPermaLink="false">recettes/Toasts à l'avocat et oeufs mollets.md</guid><pubDate>Sun, 23 Jun 2024 18:33:34 GMT</pubDate><enclosure url="recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tomates farcies au chèvre chaud]]></title><description><![CDATA[ 
+]]></description><link>recettes/tartiflette-façon-goblot.html</link><guid isPermaLink="false">recettes/Tartiflette façon Goblot.md</guid><pubDate>Wed, 15 May 2024 12:19:01 GMT</pubDate><enclosure url="recettes/images/tartiflette-façon-goblot.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="recettes/images/tartiflette-façon-goblot.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Tomates farcies au chèvre chaud]]></title><description><![CDATA[ 
  <br><br><img alt="Tomates farcies au chèvre chaud.webp" src="recettes/images/tomates-farcies-au-chèvre-chaud.webp"><br><br><br>
 <br>Tomates charnues ou gros champignons à farcir : 8
 <br>Fromage de chèvre : 1 bûche

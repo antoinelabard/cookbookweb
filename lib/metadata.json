@@ -1,6 +1,6 @@
 {
   "vaultName": "cookbook",
-  "lastExport": 1748015583215,
+  "lastExport": 1748623819558,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon outliner-plugin-better-lists outliner-plugin-dnd",
   "useCustomHeadContent": false,
@@ -2218,12 +2218,11 @@
       ]
     },
     "recettes/Porridge à la banane & cannelle.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 767,
+      "modifiedTime": 1748623819558,
+      "sourceSize": 750,
       "exportedPath": "recettes/porridge-à-la-banane-&-cannelle.html",
       "dependencies": [
-        "recettes/images/porridge-à-la-banane-&-cannelle.webp",
-        "recettes/images/porridge.webp"
+        "recettes/images/porridge-à-la-banane-&-cannelle.webp"
       ]
     },
     "recettes/Poulet à la moutarde & pommes de terre.md": {
@@ -2509,12 +2508,11 @@
       ]
     },
     "recettes/Salade haricots verts, lardons & œuf mollet.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1201,
+      "modifiedTime": 1748623819558,
+      "sourceSize": 1181,
       "exportedPath": "recettes/salade-haricots-verts,-lardons-&-œuf-mollet.html",
       "dependencies": [
-        "recettes/images/salade-haricots-verts,-lardons-&-œuf-mollet.webp",
-        "recettes/images/oeufs-mollets.webp"
+        "recettes/images/salade-haricots-verts,-lardons-&-œuf-mollet.webp"
       ]
     },
     "recettes/Salade jambon cru, mozza & pistaches.md": {
@@ -2574,12 +2572,11 @@
       ]
     },
     "recettes/Steak haché à l'échalote & purée.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1012,
+      "modifiedTime": 1748623819558,
+      "sourceSize": 964,
       "exportedPath": "recettes/steak-haché-à-l'échalote-&-purée.html",
       "dependencies": [
-        "recettes/images/steak-haché-à-l'échalote-&-purée.webp",
-        "recettes/images/purée-de-pommes-de-terre-façon-goblot.webp"
+        "recettes/images/steak-haché-à-l'échalote-&-purée.webp"
       ]
     },
     "recettes/Tacos champignons, poulet & comté.md": {
@@ -2640,12 +2637,11 @@
       ]
     },
     "recettes/Toasts à l'avocat et oeufs mollets.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 723,
+      "modifiedTime": 1748623819558,
+      "sourceSize": 703,
       "exportedPath": "recettes/toasts-à-l'avocat-et-oeufs-mollets.html",
       "dependencies": [
-        "recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp",
-        "recettes/images/oeufs-mollets.webp"
+        "recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp"
       ]
     },
     "recettes/Tomates farcies au chèvre chaud.md": {
@@ -2713,8 +2709,8 @@
       ]
     },
     "Menu de la semaine.md": {
-      "modifiedTime": 1748015583215,
-      "sourceSize": 22366,
+      "modifiedTime": 1748623819558,
+      "sourceSize": 26232,
       "exportedPath": "menu-de-la-semaine.html",
       "dependencies": []
     },
@@ -3271,7 +3267,7 @@
       "dependencies": []
     },
     "recettes/images/porridge-à-la-banane-&-cannelle.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1748623819558,
       "sourceSize": 136096,
       "exportedPath": "recettes/images/porridge-à-la-banane-&-cannelle.webp",
       "dependencies": []
@@ -3481,7 +3477,7 @@
       "dependencies": []
     },
     "recettes/images/salade-haricots-verts,-lardons-&-œuf-mollet.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1748623819558,
       "sourceSize": 303502,
       "exportedPath": "recettes/images/salade-haricots-verts,-lardons-&-œuf-mollet.webp",
       "dependencies": []
@@ -3529,7 +3525,7 @@
       "dependencies": []
     },
     "recettes/images/steak-haché-à-l'échalote-&-purée.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1748623819558,
       "sourceSize": 63084,
       "exportedPath": "recettes/images/steak-haché-à-l'échalote-&-purée.webp",
       "dependencies": []
@@ -3577,7 +3573,7 @@
       "dependencies": []
     },
     "recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1748623819558,
       "sourceSize": 120928,
       "exportedPath": "recettes/images/toasts-à-l'avocat-et-oeufs-mollets.webp",
       "dependencies": []
@@ -3631,79 +3627,79 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
@@ -3715,13 +3711,13 @@
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 133179,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
@@ -3757,13 +3753,13 @@
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
@@ -3775,19 +3771,19 @@
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 137228,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 395,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -4037,8 +4033,8 @@
       "dependencies": []
     },
     "recettes/Dummy Recipe.md": {
-      "modifiedTime": 1747758826841,
-      "sourceSize": 344,
+      "modifiedTime": 1748623819558,
+      "sourceSize": 459,
       "exportedPath": "recettes/dummy-recipe.html",
       "dependencies": []
     },
@@ -4063,7 +4059,7 @@
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
@@ -4195,7 +4191,7 @@
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1748015583215,
+      "modifiedTime": 1748623819558,
       "sourceSize": 3907,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
