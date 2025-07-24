@@ -1,6 +1,6 @@
 {
   "vaultName": "cookbook",
-  "lastExport": 1749225809953,
+  "lastExport": 1753372665640,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon outliner-plugin-better-lists outliner-plugin-dnd",
   "useCustomHeadContent": false,
@@ -41,7 +41,6 @@
     "recettes/images/Croque-monsieur.webp",
     "recettes/images/Croque-monsieur à l'italienne.webp",
     "recettes/images/Curry de pois chiches.webp",
-    "recettes/images/Délicieuse salade de lentilles.webp",
     "recettes/images/Endives en pochon.webp",
     "recettes/images/Escalope de dinde à la normande.webp",
     "recettes/images/Feuilletés apéritifs aux Saucisses de Strasbourg.webp",
@@ -146,6 +145,7 @@
     "recettes/images/Salade au poulet pané.webp",
     "recettes/images/Salade aux haricots rouges, maïs et thon.webp",
     "recettes/images/Salade campagnarde.webp",
+    "recettes/images/Salade de lentilles.webp",
     "recettes/images/Salade de pâtes à l'italienne.webp",
     "recettes/images/Salade de pâtes au thon, tomates et avocat.webp",
     "recettes/images/Salade de pâtes façon tacos.webp",
@@ -211,7 +211,6 @@
     "recettes/Croque-monsieur.md",
     "recettes/Croque-monsieur à l'italienne.md",
     "recettes/Curry de pois chiches.md",
-    "recettes/Délicieuse salade de lentilles.md",
     "recettes/Dummy Recipe.md",
     "recettes/Endives en pochon.md",
     "recettes/Escalope de dinde à la normande.md",
@@ -316,6 +315,7 @@
     "recettes/Salade au poulet pané.md",
     "recettes/Salade aux haricots rouges, maïs et thon.md",
     "recettes/Salade campagnarde.md",
+    "recettes/Salade de lentilles.md",
     "recettes/Salade de pâtes à l'italienne.md",
     "recettes/Salade de pâtes au thon, tomates et avocat.md",
     "recettes/Salade de pâtes façon tacos.md",
@@ -406,7 +406,6 @@
     "recettes/images/croque-monsieur.webp",
     "recettes/images/croque-monsieur-à-l'italienne.webp",
     "recettes/images/curry-de-pois-chiches.webp",
-    "recettes/images/délicieuse-salade-de-lentilles.webp",
     "recettes/images/endives-en-pochon.webp",
     "recettes/images/escalope-de-dinde-à-la-normande.webp",
     "recettes/images/feuilletés-apéritifs-aux-saucisses-de-strasbourg.webp",
@@ -577,8 +576,8 @@
       "dependencies": []
     },
     "catégories/Les pêchés mignons.md": {
-      "modifiedTime": 1746196092933,
-      "sourceSize": 252,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 206,
       "exportedPath": "catégories/les-pêchés-mignons.html",
       "dependencies": []
     },
@@ -748,12 +747,6 @@
       "modifiedTime": 1735248542327,
       "sourceSize": 219146,
       "exportedPath": "recettes/images/curry-de-pois-chiches.webp",
-      "dependencies": []
-    },
-    "recettes/images/Délicieuse salade de lentilles.webp": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 125312,
-      "exportedPath": "recettes/images/délicieuse-salade-de-lentilles.webp",
       "dependencies": []
     },
     "recettes/images/Endives en pochon.webp": {
@@ -1501,7 +1494,7 @@
       "dependencies": []
     },
     "recettes/Barres de céréales aux noix.md": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 895,
       "exportedPath": "recettes/barres-de-céréales-aux-noix.html",
       "dependencies": [
@@ -1525,8 +1518,8 @@
       ]
     },
     "recettes/Boulettes & semoule express.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 990,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 964,
       "exportedPath": "recettes/boulettes-&-semoule-express.html",
       "dependencies": [
         "recettes/images/boulettes-&-semoule-express.webp"
@@ -1557,12 +1550,11 @@
       ]
     },
     "recettes/Burger alsacien au poulet et munster.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 1301,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1303,
       "exportedPath": "recettes/burger-alsacien-au-poulet-et-munster.html",
       "dependencies": [
-        "recettes/images/burger-alsacien-au-poulet-et-munster.webp",
-        "recettes/images/oignons-confits.webp"
+        "recettes/images/burger-alsacien-au-poulet-et-munster.webp"
       ]
     },
     "recettes/Burrito bœuf & cheddar.md": {
@@ -1582,8 +1574,8 @@
       ]
     },
     "recettes/Camembert rôti & potatoes.md": {
-      "modifiedTime": 1737134829824,
-      "sourceSize": 1227,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1229,
       "exportedPath": "recettes/camembert-rôti-&-potatoes.html",
       "dependencies": [
         "recettes/images/camembert-rôti-&-potatoes.webp"
@@ -1598,16 +1590,16 @@
       ]
     },
     "recettes/Chakchouka feta & pois chiches.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1163,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1152,
       "exportedPath": "recettes/chakchouka-feta-&-pois-chiches.html",
       "dependencies": [
         "recettes/images/chakchouka-feta-&-pois-chiches.webp"
       ]
     },
     "recettes/Chakchouka haricots verts & feta.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1124,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1111,
       "exportedPath": "recettes/chakchouka-haricots-verts-&-feta.html",
       "dependencies": [
         "recettes/images/chakchouka-haricots-verts-&-feta.webp"
@@ -1622,48 +1614,48 @@
       ]
     },
     "recettes/Chocolat chaud maison.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 700,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 702,
       "exportedPath": "recettes/chocolat-chaud-maison.html",
       "dependencies": [
         "recettes/images/chocolat-chaud-maison.webp"
       ]
     },
     "recettes/Club sandwich au thon.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1029,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 979,
       "exportedPath": "recettes/club-sandwich-au-thon.html",
       "dependencies": [
         "recettes/images/club-sandwich-au-thon.webp"
       ]
     },
     "recettes/Club sandwich poulet - bacon.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1144,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1146,
       "exportedPath": "recettes/club-sandwich-poulet-bacon.html",
       "dependencies": [
         "recettes/images/club-sandwich-poulet-bacon.webp"
       ]
     },
     "recettes/Club sandwich poulet crudités.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 2074,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 2076,
       "exportedPath": "recettes/club-sandwich-poulet-crudités.html",
       "dependencies": [
         "recettes/images/club-sandwich-poulet-crudités.webp"
       ]
     },
     "recettes/Cookies.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1128,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1130,
       "exportedPath": "recettes/cookies.html",
       "dependencies": [
         "recettes/images/cookies-au-chocolat.webp"
       ]
     },
     "recettes/Cordon bleu roulé.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1704,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1706,
       "exportedPath": "recettes/cordon-bleu-roulé.html",
       "dependencies": [
         "recettes/images/cordon-bleu-roulé.webp"
@@ -1678,48 +1670,40 @@
       ]
     },
     "recettes/Croissant au jambon fromage.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 917,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 921,
       "exportedPath": "recettes/croissant-au-jambon-fromage.html",
       "dependencies": [
         "recettes/images/croissant-au-jambon-fromage.webp"
       ]
     },
     "recettes/Croque-monsieur.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1015,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1017,
       "exportedPath": "recettes/croque-monsieur.html",
       "dependencies": [
         "recettes/images/croque-monsieur.webp"
       ]
     },
     "recettes/Croque-monsieur à l'italienne.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1083,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1072,
       "exportedPath": "recettes/croque-monsieur-à-l'italienne.html",
       "dependencies": [
         "recettes/images/croque-monsieur-à-l'italienne.webp"
       ]
     },
     "recettes/Curry de pois chiches.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 1170,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1145,
       "exportedPath": "recettes/curry-de-pois-chiches.html",
       "dependencies": [
         "recettes/images/curry-de-pois-chiches.webp"
       ]
     },
-    "recettes/Délicieuse salade de lentilles.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1141,
-      "exportedPath": "recettes/délicieuse-salade-de-lentilles.html",
-      "dependencies": [
-        "recettes/images/délicieuse-salade-de-lentilles.webp"
-      ]
-    },
     "recettes/Endives en pochon.md": {
-      "modifiedTime": 1741936465358,
-      "sourceSize": 1293,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1274,
       "exportedPath": "recettes/endives-en-pochon.html",
       "dependencies": [
         "recettes/images/endives-en-pochon.webp"
@@ -1734,40 +1718,40 @@
       ]
     },
     "recettes/Feuilletés apéritifs aux Saucisses de Strasbourg.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 880,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 882,
       "exportedPath": "recettes/feuilletés-apéritifs-aux-saucisses-de-strasbourg.html",
       "dependencies": [
         "recettes/images/feuilletés-apéritifs-aux-saucisses-de-strasbourg.webp"
       ]
     },
     "recettes/Feuilletés au fromage ultra simples.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 1163,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1165,
       "exportedPath": "recettes/feuilletés-au-fromage-ultra-simples.html",
       "dependencies": [
         "recettes/images/feuilletés-au-fromage-ultra-simples.webp"
       ]
     },
     "recettes/Feuilletés épinard, feta & salade.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1304,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1293,
       "exportedPath": "recettes/feuilletés-épinard,-feta-&-salade.html",
       "dependencies": [
         "recettes/images/feuilletés-épinard,-feta-&-salade.webp"
       ]
     },
     "recettes/Flammeküeche.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 1148,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1150,
       "exportedPath": "recettes/flammeküeche.html",
       "dependencies": [
         "recettes/images/flammeküeche.webp"
       ]
     },
     "recettes/French tacos.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1903,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1905,
       "exportedPath": "recettes/french-tacos.html",
       "dependencies": [
         "recettes/images/french-tacos.webp",
@@ -1777,24 +1761,24 @@
       ]
     },
     "recettes/Frites.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 1637,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1639,
       "exportedPath": "recettes/frites.html",
       "dependencies": [
         "recettes/images/frites.webp"
       ]
     },
     "recettes/Frittata courgette, jambon & mozza.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1116,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1118,
       "exportedPath": "recettes/frittata-courgette,-jambon-&-mozza.html",
       "dependencies": [
         "recettes/images/frittata-courgette,-jambon-&-mozza.webp"
       ]
     },
     "recettes/Frittata saumon fumé & chèvre frais.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1275,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1264,
       "exportedPath": "recettes/frittata-saumon-fumé-&-chèvre-frais.html",
       "dependencies": [
         "recettes/images/frittata-saumon-fumé-&-chèvre-frais.webp"
@@ -1809,16 +1793,16 @@
       ]
     },
     "recettes/Galette de sarrasin façon mer Morte.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 989,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 997,
       "exportedPath": "recettes/galette-de-sarrasin-façon-mer-morte.html",
       "dependencies": [
         "recettes/images/galette-de-sarrasin-façon-mer-morte.webp"
       ]
     },
     "recettes/Galette des rois Frangipane.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1145,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1147,
       "exportedPath": "recettes/galette-des-rois-frangipane.html",
       "dependencies": [
         "recettes/images/galette-des-rois-frangipane.webp"
@@ -1841,8 +1825,8 @@
       ]
     },
     "recettes/Gâteau au chocolat fondant rapide.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1061,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1063,
       "exportedPath": "recettes/gâteau-au-chocolat-fondant-rapide.html",
       "dependencies": [
         "recettes/images/gâteau-au-chocolat-fondant-rapide.webp"
@@ -1865,8 +1849,8 @@
       ]
     },
     "recettes/Gratin de crème fraîche aux ravioles et légumes à couscous.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1554,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1527,
       "exportedPath": "recettes/gratin-de-crème-fraîche-aux-ravioles-et-légumes-à-couscous.html",
       "dependencies": [
         "recettes/images/gratin-de-crème-fraîche-aux-ravioles-et-légumes-à-couscous.webp"
@@ -1881,8 +1865,8 @@
       ]
     },
     "recettes/Gratin de lieu noir à la sauce tomate.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1013,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1015,
       "exportedPath": "recettes/gratin-de-lieu-noir-à-la-sauce-tomate.html",
       "dependencies": [
         "recettes/images/gratin-de-lieu-noir-à-la-sauce-tomate.webp"
@@ -1897,8 +1881,8 @@
       ]
     },
     "recettes/Gratin de ravioles au saumon.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 1056,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1031,
       "exportedPath": "recettes/gratin-de-ravioles-au-saumon.html",
       "dependencies": [
         "recettes/images/gratin-de-ravioles-au-saumon.webp"
@@ -1913,24 +1897,24 @@
       ]
     },
     "recettes/Hachis Parmentier.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1089,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1093,
       "exportedPath": "recettes/hachis-parmentier.html",
       "dependencies": [
         "recettes/images/hachis-parmentier.webp"
       ]
     },
     "recettes/Hamburger maison.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 957,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 961,
       "exportedPath": "recettes/hamburger-maison.html",
       "dependencies": [
         "recettes/images/hamburger-maison.webp"
       ]
     },
     "recettes/Haricots rouges à la Mexicaine.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1167,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1169,
       "exportedPath": "recettes/haricots-rouges-à-la-mexicaine.html",
       "dependencies": [
         "recettes/images/haricots-rouges-à-la-mexicaine.webp"
@@ -1945,12 +1929,11 @@
       ]
     },
     "recettes/Haricots verts à l'ail et cordon bleu.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 309,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 311,
       "exportedPath": "recettes/haricots-verts-à-l'ail-et-cordon-bleu.html",
       "dependencies": [
-        "recettes/images/cordon-bleu-roulé.webp",
-        "recettes/images/haricots-verts-à-l'ail.webp"
+        "recettes/images/cordon-bleu-roulé.webp"
       ]
     },
     "recettes/Haricots verts à la bolognaise.md": {
@@ -1962,64 +1945,64 @@
       ]
     },
     "recettes/Haricots verts à la carbonara.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1072,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1055,
       "exportedPath": "recettes/haricots-verts-à-la-carbonara.html",
       "dependencies": [
         "recettes/images/haricots-verts-à-la-carbonara.webp"
       ]
     },
     "recettes/Kebab.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1742,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1746,
       "exportedPath": "recettes/kebab.html",
       "dependencies": [
         "recettes/images/kebab.webp"
       ]
     },
     "recettes/Lasagnes au saumon et aux épinards.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1366,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1355,
       "exportedPath": "recettes/lasagnes-au-saumon-et-aux-épinards.html",
       "dependencies": [
         "recettes/images/lasagnes-au-saumon-et-aux-épinards.webp"
       ]
     },
     "recettes/Mafé de poulet & riz.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1348,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1216,
       "exportedPath": "recettes/mafé-de-poulet-&-riz.html",
       "dependencies": [
         "recettes/images/mafé-de-poulet-&-riz.webp"
       ]
     },
     "recettes/Mexican bowl.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1165,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1120,
       "exportedPath": "recettes/mexican-bowl.html",
       "dependencies": [
         "recettes/images/mexican-bowl.webp"
       ]
     },
     "recettes/Nouilles sautées aux crevettes.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1158,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1160,
       "exportedPath": "recettes/nouilles-sautées-aux-crevettes.html",
       "dependencies": [
         "recettes/images/nouilles-sautées-aux-crevettes.webp"
       ]
     },
     "recettes/Nuggets de poulet.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 838,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 840,
       "exportedPath": "recettes/nuggets-de-poulet.html",
       "dependencies": [
         "recettes/images/nuggets-de-poulet.webp"
       ]
     },
     "recettes/Oeuf cocotte épinards & lard.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 898,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 885,
       "exportedPath": "recettes/oeuf-cocotte-épinards-&-lard.html",
       "dependencies": [
         "recettes/images/oeuf-cocotte-épinards-&-lard.webp"
@@ -2058,40 +2041,40 @@
       ]
     },
     "recettes/Omelette aux pommes de terre et lardons.md": {
-      "modifiedTime": 1743028318992,
-      "sourceSize": 1069,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1023,
       "exportedPath": "recettes/omelette-aux-pommes-de-terre-et-lardons.html",
       "dependencies": [
         "recettes/images/omelette-aux-pommes-de-terre-et-lardons.webp"
       ]
     },
     "recettes/One pot curry de pommes de terre.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1243,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1230,
       "exportedPath": "recettes/one-pot-curry-de-pommes-de-terre.html",
       "dependencies": [
         "recettes/images/one-pot-curry-de-pommes-de-terre.webp"
       ]
     },
     "recettes/One pot pasta artichauts & tomates séchées.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1186,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1173,
       "exportedPath": "recettes/one-pot-pasta-artichauts-&-tomates-séchées.html",
       "dependencies": [
         "recettes/images/one-pot-pasta-artichauts-&-tomates-séchées.webp"
       ]
     },
     "recettes/Paris-Brest au praliné.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 2473,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 2475,
       "exportedPath": "recettes/paris-brest-au-praliné.html",
       "dependencies": [
         "recettes/images/paris-brest-au-praliné.webp"
       ]
     },
     "recettes/Pasta al tonno.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1085,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1059,
       "exportedPath": "recettes/pasta-al-tonno.html",
       "dependencies": [
         "recettes/images/pasta-al-tonno.webp"
@@ -2130,8 +2113,8 @@
       ]
     },
     "recettes/Pâtes au chorizo.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 881,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 868,
       "exportedPath": "recettes/pâtes-au-chorizo.html",
       "dependencies": [
         "recettes/images/spaghetti-au-chorizo.webp"
@@ -2146,16 +2129,16 @@
       ]
     },
     "recettes/Pâtes aux crevettes à la crème.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1039,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1041,
       "exportedPath": "recettes/pâtes-aux-crevettes-à-la-crème.html",
       "dependencies": [
         "recettes/images/pâtes-aux-crevettes-a-la-crème.webp"
       ]
     },
     "recettes/Pâtes aux petits pois, poireaux et bacon.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1147,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1235,
       "exportedPath": "recettes/pâtes-aux-petits-pois,-poireaux-et-bacon.html",
       "dependencies": [
         "recettes/images/pâtes-aux-petits-pois,-poireaux-et-bacon.webp"
@@ -2170,32 +2153,32 @@
       ]
     },
     "recettes/Pizza au saumon.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1215,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1217,
       "exportedPath": "recettes/pizza-au-saumon.html",
       "dependencies": [
         "recettes/images/pizza-au-saumon.webp"
       ]
     },
     "recettes/Pizza baguette.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 894,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 890,
       "exportedPath": "recettes/pizza-baguette.html",
       "dependencies": [
         "recettes/images/pizza-baguette.webp"
       ]
     },
     "recettes/Pizza Calzone au jambon et champignons.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1509,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1513,
       "exportedPath": "recettes/pizza-calzone-au-jambon-et-champignons.html",
       "dependencies": [
         "recettes/images/pizza-calzone-au-jambon-et-champignons.webp"
       ]
     },
     "recettes/Poêlée de pommes de terre & saucisse fumée.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1285,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1287,
       "exportedPath": "recettes/poêlée-de-pommes-de-terre-&-saucisse-fumée.html",
       "dependencies": [
         "recettes/images/poêlée-de-pommes-de-terre-&-saucisse-fumée.webp"
@@ -2242,8 +2225,8 @@
       ]
     },
     "recettes/Poulet au caramel.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 806,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 808,
       "exportedPath": "recettes/poulet-au-caramel.html",
       "dependencies": [
         "recettes/images/poulet-au-caramel.webp"
@@ -2258,16 +2241,16 @@
       ]
     },
     "recettes/Poulet au sésame.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1017,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1019,
       "exportedPath": "recettes/poulet-au-sésame.html",
       "dependencies": [
         "recettes/images/poulet-au-sésame.webp"
       ]
     },
     "recettes/Poulet pané au parmesan.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1887,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1889,
       "exportedPath": "recettes/poulet-pané-au-parmesan.html",
       "dependencies": [
         "recettes/images/poulet-pané-au-parmesan.webp"
@@ -2290,32 +2273,32 @@
       ]
     },
     "recettes/Quiche à l'oignon et aux lardons fumés.md": {
-      "modifiedTime": 1743028318992,
-      "sourceSize": 1034,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1021,
       "exportedPath": "recettes/quiche-à-l'oignon-et-aux-lardons-fumés.html",
       "dependencies": [
         "recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp"
       ]
     },
     "recettes/Quiche artichaut & parma.md": {
-      "modifiedTime": 1743028318992,
-      "sourceSize": 1242,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1231,
       "exportedPath": "recettes/quiche-artichaut-&-parma.html",
       "dependencies": [
         "recettes/images/quiche-artichaut-&-parma.webp"
       ]
     },
     "recettes/Quiche au saumon et aux épinards.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1108,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1097,
       "exportedPath": "recettes/quiche-au-saumon-et-aux-épinards.html",
       "dependencies": [
         "recettes/images/quiche-au-saumon-et-aux-épinards.webp"
       ]
     },
     "recettes/Quiche aux asperges et lardons.md": {
-      "modifiedTime": 1743028318992,
-      "sourceSize": 973,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 962,
       "exportedPath": "recettes/quiche-aux-asperges-et-lardons.html",
       "dependencies": [
         "recettes/images/quiche-aux-asperges-et-lardons.webp",
@@ -2323,24 +2306,24 @@
       ]
     },
     "recettes/Quiche chèvre épinards.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1113,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1102,
       "exportedPath": "recettes/quiche-chèvre-épinards.html",
       "dependencies": [
         "recettes/images/quiche-chèvre-épinards.webp"
       ]
     },
     "recettes/Quiche oignons, chèvre & miel.md": {
-      "modifiedTime": 1743028318992,
-      "sourceSize": 1357,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1344,
       "exportedPath": "recettes/quiche-oignons,-chèvre-&-miel.html",
       "dependencies": [
         "recettes/images/quiche-oignons,-chèvre-&-miel.webp"
       ]
     },
     "recettes/Quiche poireaux, chèvre lardons.md": {
-      "modifiedTime": 1743028318992,
-      "sourceSize": 1124,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1113,
       "exportedPath": "recettes/quiche-poireaux,-chèvre-lardons.html",
       "dependencies": [
         "recettes/images/quiche-poireaux,-chèvre-lardons.webp",
@@ -2348,40 +2331,40 @@
       ]
     },
     "recettes/Quiche tomate, jambon, chèvre.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1187,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1176,
       "exportedPath": "recettes/quiche-tomate,-jambon,-chèvre.html",
       "dependencies": [
         "recettes/images/quiche-tomate,-jambon,-chèvre.webp"
       ]
     },
     "recettes/Ratatouille.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1275,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1277,
       "exportedPath": "recettes/ratatouille.html",
       "dependencies": [
         "recettes/images/ratatouille.webp"
       ]
     },
     "recettes/Ravioles à la toscane.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1106,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1063,
       "exportedPath": "recettes/ravioles-à-la-toscane.html",
       "dependencies": [
         "recettes/images/ravioles-à-la-toscane.webp"
       ]
     },
     "recettes/Ravioli ricotta épinards à la crème d'ail et poireau.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 1437,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1426,
       "exportedPath": "recettes/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.html",
       "dependencies": [
         "recettes/images/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.webp"
       ]
     },
     "recettes/Risotto comté & saucisse à l'ancienne.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 1370,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1350,
       "exportedPath": "recettes/risotto-comté-&-saucisse-à-l'ancienne.html",
       "dependencies": [
         "recettes/images/risotto-comté-&-saucisse-à-l'ancienne.webp"
@@ -2396,32 +2379,32 @@
       ]
     },
     "recettes/Risotto de coquillettes poireaux, poulet & chèvre.md": {
-      "modifiedTime": 1749225809953,
-      "sourceSize": 1672,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1674,
       "exportedPath": "recettes/risotto-de-coquillettes-poireaux,-poulet-&-chèvre.html",
       "dependencies": [
         "recettes/images/risotto-de-coquillettes-poireaux,-poulet-&-chèvre.webp"
       ]
     },
     "recettes/Riz au chorizo.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 989,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 991,
       "exportedPath": "recettes/riz-au-chorizo.html",
       "dependencies": [
         "recettes/images/riz-au-chorizo.webp"
       ]
     },
     "recettes/Riz crevettes, coco & maïs.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1011,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 998,
       "exportedPath": "recettes/riz-crevettes,-coco-&-maïs.html",
       "dependencies": [
         "recettes/images/riz-crevettes,-coco-&-maïs.webp"
       ]
     },
     "recettes/Roses des sables au chocolat faciles.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 852,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 854,
       "exportedPath": "recettes/roses-des-sables-au-chocolat-faciles.html",
       "dependencies": [
         "recettes/images/roses-des-sables-au-chocolat-faciles.webp"
@@ -2444,24 +2427,24 @@
       ]
     },
     "recettes/Rouleaux de printemps au poulet.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1220,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1222,
       "exportedPath": "recettes/rouleaux-de-printemps-au-poulet.html",
       "dependencies": [
         "recettes/images/rouleaux-de-printemps-au-poulet.webp"
       ]
     },
     "recettes/Salade au poulet pané.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 840,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 842,
       "exportedPath": "recettes/salade-au-poulet-pané.html",
       "dependencies": [
         "recettes/images/salade-au-poulet-pané.webp"
       ]
     },
     "recettes/Salade aux haricots rouges, maïs et thon.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1009,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1011,
       "exportedPath": "recettes/salade-aux-haricots-rouges,-maïs-et-thon.html",
       "dependencies": [
         "recettes/images/salade-aux-haricots-rouges,-maïs-et-thon.webp"
@@ -2476,32 +2459,32 @@
       ]
     },
     "recettes/Salade de pâtes à l'italienne.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1174,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1176,
       "exportedPath": "recettes/salade-de-pâtes-à-l'italienne.html",
       "dependencies": [
         "recettes/images/salade-de-pâtes-à-l'italienne.webp"
       ]
     },
     "recettes/Salade de pâtes au thon, tomates et avocat.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 869,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 871,
       "exportedPath": "recettes/salade-de-pâtes-au-thon,-tomates-et-avocat.html",
       "dependencies": [
         "recettes/images/salade-de-pâtes-au-thon,-tomates-et-avocat.webp"
       ]
     },
     "recettes/Salade de pâtes façon tacos.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1540,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1542,
       "exportedPath": "recettes/salade-de-pâtes-façon-tacos.html",
       "dependencies": [
         "recettes/images/salade-de-pâtes-façon-tacos.webp"
       ]
     },
     "recettes/Salade de pâtes méditerranéenne.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1203,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1205,
       "exportedPath": "recettes/salade-de-pâtes-méditerranéenne.html",
       "dependencies": [
         "recettes/images/salade-de-pâtes-méditerranéenne.webp"
@@ -2516,8 +2499,8 @@
       ]
     },
     "recettes/Salade jambon cru, mozza & pistaches.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 831,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 833,
       "exportedPath": "recettes/salade-jambon-cru,-mozza-&-pistaches.html",
       "dependencies": [
         "recettes/images/salade-jambon-cru,-mozza-&-pistaches.webp"
@@ -2532,32 +2515,32 @@
       ]
     },
     "recettes/Sauté de porc façon Goblot.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 1146,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1148,
       "exportedPath": "recettes/sauté-de-porc-façon-goblot.html",
       "dependencies": [
         "recettes/images/sauté-de-porc-façon-goblot.webp"
       ]
     },
     "recettes/Soupe aux ramen.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1872,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1874,
       "exportedPath": "recettes/soupe-aux-ramen.html",
       "dependencies": [
         "recettes/images/soupe-aux-ramen.webp"
       ]
     },
     "recettes/Soupe de Tortellini.md": {
-      "modifiedTime": 1740687724439,
-      "sourceSize": 1377,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1366,
       "exportedPath": "recettes/soupe-de-tortellini.html",
       "dependencies": [
         "recettes/images/soupe-de-tortellini.webp"
       ]
     },
     "recettes/Soupe iranienne.md": {
-      "modifiedTime": 1740425283341,
-      "sourceSize": 1065,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1054,
       "exportedPath": "recettes/soupe-iranienne.html",
       "dependencies": [
         "recettes/images/soupe-iranienne.webp"
@@ -2580,24 +2563,24 @@
       ]
     },
     "recettes/Tacos champignons, poulet & comté.md": {
-      "modifiedTime": 1740425283341,
-      "sourceSize": 1425,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1386,
       "exportedPath": "recettes/tacos-champignons,-poulet-&-comté.html",
       "dependencies": [
         "recettes/images/tacos-champignons,-poulet-&-comté.webp"
       ]
     },
     "recettes/Tagliatelles saumon épinards.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1108,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1026,
       "exportedPath": "recettes/tagliatelles-saumon-épinards.html",
       "dependencies": [
         "recettes/images/tagliatelles-saumon-épinards.webp"
       ]
     },
     "recettes/Tarte salée pommes de terre et camembert.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1332,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1334,
       "exportedPath": "recettes/tarte-salée-pommes-de-terre-et-camembert.html",
       "dependencies": [
         "recettes/images/tarte-salée-pommes-de-terre-et-camembert.webp",
@@ -2605,8 +2588,8 @@
       ]
     },
     "recettes/Tarte thon, tomate et moutarde.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1108,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1097,
       "exportedPath": "recettes/tarte-thon,-tomate-et-moutarde.html",
       "dependencies": [
         "recettes/images/tarte-thon,-tomate-et-moutarde.webp"
@@ -2621,16 +2604,16 @@
       ]
     },
     "recettes/Tartiflette façon Goblot.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1039,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1043,
       "exportedPath": "recettes/tartiflette-façon-goblot.html",
       "dependencies": [
         "recettes/images/tartiflette-façon-goblot.webp"
       ]
     },
     "recettes/Tenders.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 1235,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1237,
       "exportedPath": "recettes/tenders.html",
       "dependencies": [
         "recettes/images/tenders.webp"
@@ -2645,56 +2628,56 @@
       ]
     },
     "recettes/Tomates farcies au chèvre chaud.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 976,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 978,
       "exportedPath": "recettes/tomates-farcies-au-chèvre-chaud.html",
       "dependencies": [
         "recettes/images/tomates-farcies-au-chèvre-chaud.webp"
       ]
     },
     "recettes/Tresse feuilletée au boursin, poireau et truite fumée.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1911,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1913,
       "exportedPath": "recettes/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.html",
       "dependencies": [
         "recettes/images/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.webp"
       ]
     },
     "recettes/Velouté d'endives au lard.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1337,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1326,
       "exportedPath": "recettes/velouté-d'endives-au-lard.html",
       "dependencies": [
         "recettes/images/velouté-d'endives-au-lard.webp"
       ]
     },
     "recettes/Wok légumes sautés, poulet & sauce cacahuète.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1509,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1511,
       "exportedPath": "recettes/wok-légumes-sautés,-poulet-&-sauce-cacahuète.html",
       "dependencies": [
         "recettes/images/wok-légumes-sautés,-poulet-&-sauce-cacahuète.webp"
       ]
     },
     "recettes/Wrap de tortilla à l'avocat, cheddar et oeufs brouillés.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1271,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1273,
       "exportedPath": "recettes/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.html",
       "dependencies": [
         "recettes/images/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.webp"
       ]
     },
     "recettes/Wrap maïs, thon & fromage frais.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 770,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 772,
       "exportedPath": "recettes/wrap-maïs,-thon-&-fromage-frais.html",
       "dependencies": [
         "recettes/images/wrap-maïs,-thon-&-fromage-frais.webp"
       ]
     },
     "recettes/Wrap Saumon.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 727,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 716,
       "exportedPath": "recettes/wrap-saumon.html",
       "dependencies": [
         "recettes/images/wrap-saumon.webp"
@@ -2709,13 +2692,13 @@
       ]
     },
     "Menu de la semaine.md": {
-      "modifiedTime": 1749225809953,
-      "sourceSize": 28793,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 28602,
       "exportedPath": "menu-de-la-semaine.html",
       "dependencies": []
     },
     "recettes/images/barres-de-céréales-aux-noix.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 121864,
       "exportedPath": "recettes/images/barres-de-céréales-aux-noix.webp",
       "dependencies": []
@@ -2733,7 +2716,7 @@
       "dependencies": []
     },
     "recettes/images/boulettes-&-semoule-express.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 90260,
       "exportedPath": "recettes/images/boulettes-&-semoule-express.webp",
       "dependencies": []
@@ -2757,7 +2740,7 @@
       "dependencies": []
     },
     "recettes/images/burger-alsacien-au-poulet-et-munster.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1753372665640,
       "sourceSize": 176020,
       "exportedPath": "recettes/images/burger-alsacien-au-poulet-et-munster.webp",
       "dependencies": []
@@ -2781,7 +2764,7 @@
       "dependencies": []
     },
     "recettes/images/camembert-rôti-&-potatoes.webp": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1753372665640,
       "sourceSize": 217630,
       "exportedPath": "recettes/images/camembert-rôti-&-potatoes.webp",
       "dependencies": []
@@ -2793,13 +2776,13 @@
       "dependencies": []
     },
     "recettes/images/chakchouka-feta-&-pois-chiches.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 231588,
       "exportedPath": "recettes/images/chakchouka-feta-&-pois-chiches.webp",
       "dependencies": []
     },
     "recettes/images/chakchouka-haricots-verts-&-feta.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 290546,
       "exportedPath": "recettes/images/chakchouka-haricots-verts-&-feta.webp",
       "dependencies": []
@@ -2811,37 +2794,37 @@
       "dependencies": []
     },
     "recettes/images/chocolat-chaud-maison.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1753372665640,
       "sourceSize": 24516,
       "exportedPath": "recettes/images/chocolat-chaud-maison.webp",
       "dependencies": []
     },
     "recettes/images/club-sandwich-au-thon.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 34560,
       "exportedPath": "recettes/images/club-sandwich-au-thon.webp",
       "dependencies": []
     },
     "recettes/images/club-sandwich-poulet-bacon.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 75036,
       "exportedPath": "recettes/images/club-sandwich-poulet-bacon.webp",
       "dependencies": []
     },
     "recettes/images/club-sandwich-poulet-crudités.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 38210,
       "exportedPath": "recettes/images/club-sandwich-poulet-crudités.webp",
       "dependencies": []
     },
     "recettes/images/cookies-au-chocolat.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 76580,
       "exportedPath": "recettes/images/cookies-au-chocolat.webp",
       "dependencies": []
     },
     "recettes/images/cordon-bleu-roulé.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 99408,
       "exportedPath": "recettes/images/cordon-bleu-roulé.webp",
       "dependencies": []
@@ -2853,37 +2836,31 @@
       "dependencies": []
     },
     "recettes/images/croissant-au-jambon-fromage.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 57842,
       "exportedPath": "recettes/images/croissant-au-jambon-fromage.webp",
       "dependencies": []
     },
     "recettes/images/croque-monsieur.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 56278,
       "exportedPath": "recettes/images/croque-monsieur.webp",
       "dependencies": []
     },
     "recettes/images/croque-monsieur-à-l'italienne.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 168292,
       "exportedPath": "recettes/images/croque-monsieur-à-l'italienne.webp",
       "dependencies": []
     },
     "recettes/images/curry-de-pois-chiches.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1753372665640,
       "sourceSize": 219146,
       "exportedPath": "recettes/images/curry-de-pois-chiches.webp",
       "dependencies": []
     },
-    "recettes/images/délicieuse-salade-de-lentilles.webp": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 125312,
-      "exportedPath": "recettes/images/délicieuse-salade-de-lentilles.webp",
-      "dependencies": []
-    },
     "recettes/images/endives-en-pochon.webp": {
-      "modifiedTime": 1741936465358,
+      "modifiedTime": 1753372665640,
       "sourceSize": 343202,
       "exportedPath": "recettes/images/endives-en-pochon.webp",
       "dependencies": []
@@ -2895,67 +2872,67 @@
       "dependencies": []
     },
     "recettes/images/feuilletés-apéritifs-aux-saucisses-de-strasbourg.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 15362,
       "exportedPath": "recettes/images/feuilletés-apéritifs-aux-saucisses-de-strasbourg.webp",
       "dependencies": []
     },
     "recettes/images/feuilletés-au-fromage-ultra-simples.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1753372665640,
       "sourceSize": 16494,
       "exportedPath": "recettes/images/feuilletés-au-fromage-ultra-simples.webp",
       "dependencies": []
     },
     "recettes/images/feuilletés-épinard,-feta-&-salade.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 92626,
       "exportedPath": "recettes/images/feuilletés-épinard,-feta-&-salade.webp",
       "dependencies": []
     },
     "recettes/images/flammeküeche.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1753372665640,
       "sourceSize": 213196,
       "exportedPath": "recettes/images/flammeküeche.webp",
       "dependencies": []
     },
     "recettes/images/french-tacos.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 188938,
       "exportedPath": "recettes/images/french-tacos.webp",
       "dependencies": []
     },
     "recettes/images/frites.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1753372665640,
       "sourceSize": 483378,
       "exportedPath": "recettes/images/frites.webp",
       "dependencies": []
     },
     "recettes/images/french-tacos-montage-1.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 32114,
       "exportedPath": "recettes/images/french-tacos-montage-1.webp",
       "dependencies": []
     },
     "recettes/images/french-tacos-montage-2.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 30914,
       "exportedPath": "recettes/images/french-tacos-montage-2.webp",
       "dependencies": []
     },
     "recettes/images/french-tacos-montage-3.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 27292,
       "exportedPath": "recettes/images/french-tacos-montage-3.webp",
       "dependencies": []
     },
     "recettes/images/frittata-courgette,-jambon-&-mozza.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 96082,
       "exportedPath": "recettes/images/frittata-courgette,-jambon-&-mozza.webp",
       "dependencies": []
     },
     "recettes/images/frittata-saumon-fumé-&-chèvre-frais.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 107082,
       "exportedPath": "recettes/images/frittata-saumon-fumé-&-chèvre-frais.webp",
       "dependencies": []
@@ -2967,13 +2944,13 @@
       "dependencies": []
     },
     "recettes/images/galette-de-sarrasin-façon-mer-morte.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1753372665640,
       "sourceSize": 239204,
       "exportedPath": "recettes/images/galette-de-sarrasin-façon-mer-morte.webp",
       "dependencies": []
     },
     "recettes/images/galette-des-rois-frangipane.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 47260,
       "exportedPath": "recettes/images/galette-des-rois-frangipane.webp",
       "dependencies": []
@@ -2991,7 +2968,7 @@
       "dependencies": []
     },
     "recettes/images/gâteau-au-chocolat-fondant-rapide.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 73432,
       "exportedPath": "recettes/images/gâteau-au-chocolat-fondant-rapide.webp",
       "dependencies": []
@@ -3009,7 +2986,7 @@
       "dependencies": []
     },
     "recettes/images/gratin-de-crème-fraîche-aux-ravioles-et-légumes-à-couscous.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 399658,
       "exportedPath": "recettes/images/gratin-de-crème-fraîche-aux-ravioles-et-légumes-à-couscous.webp",
       "dependencies": []
@@ -3021,7 +2998,7 @@
       "dependencies": []
     },
     "recettes/images/gratin-de-lieu-noir-à-la-sauce-tomate.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 28426,
       "exportedPath": "recettes/images/gratin-de-lieu-noir-à-la-sauce-tomate.webp",
       "dependencies": []
@@ -3033,7 +3010,7 @@
       "dependencies": []
     },
     "recettes/images/gratin-de-ravioles-au-saumon.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1753372665640,
       "sourceSize": 181938,
       "exportedPath": "recettes/images/gratin-de-ravioles-au-saumon.webp",
       "dependencies": []
@@ -3045,7 +3022,7 @@
       "dependencies": []
     },
     "recettes/images/hachis-parmentier.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 106678,
       "exportedPath": "recettes/images/hachis-parmentier.webp",
       "dependencies": []
@@ -3057,13 +3034,13 @@
       "dependencies": []
     },
     "recettes/images/hamburger-maison.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 116856,
       "exportedPath": "recettes/images/hamburger-maison.webp",
       "dependencies": []
     },
     "recettes/images/haricots-rouges-à-la-mexicaine.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 30796,
       "exportedPath": "recettes/images/haricots-rouges-à-la-mexicaine.webp",
       "dependencies": []
@@ -3081,49 +3058,49 @@
       "dependencies": []
     },
     "recettes/images/haricots-verts-à-la-carbonara.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 66422,
       "exportedPath": "recettes/images/haricots-verts-à-la-carbonara.webp",
       "dependencies": []
     },
     "recettes/images/kebab.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 57294,
       "exportedPath": "recettes/images/kebab.webp",
       "dependencies": []
     },
     "recettes/images/lasagnes-au-saumon-et-aux-épinards.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 162968,
       "exportedPath": "recettes/images/lasagnes-au-saumon-et-aux-épinards.webp",
       "dependencies": []
     },
     "recettes/images/mafé-de-poulet-&-riz.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 75698,
       "exportedPath": "recettes/images/mafé-de-poulet-&-riz.webp",
       "dependencies": []
     },
     "recettes/images/mexican-bowl.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 94120,
       "exportedPath": "recettes/images/mexican-bowl.webp",
       "dependencies": []
     },
     "recettes/images/nouilles-sautées-aux-crevettes.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 231502,
       "exportedPath": "recettes/images/nouilles-sautées-aux-crevettes.webp",
       "dependencies": []
     },
     "recettes/images/nuggets-de-poulet.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 31420,
       "exportedPath": "recettes/images/nuggets-de-poulet.webp",
       "dependencies": []
     },
     "recettes/images/oeuf-cocotte-épinards-&-lard.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 50896,
       "exportedPath": "recettes/images/oeuf-cocotte-épinards-&-lard.webp",
       "dependencies": []
@@ -3147,31 +3124,31 @@
       "dependencies": []
     },
     "recettes/images/omelette-aux-pommes-de-terre-et-lardons.webp": {
-      "modifiedTime": 1743028318992,
+      "modifiedTime": 1753372665640,
       "sourceSize": 141480,
       "exportedPath": "recettes/images/omelette-aux-pommes-de-terre-et-lardons.webp",
       "dependencies": []
     },
     "recettes/images/one-pot-curry-de-pommes-de-terre.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 211382,
       "exportedPath": "recettes/images/one-pot-curry-de-pommes-de-terre.webp",
       "dependencies": []
     },
     "recettes/images/one-pot-pasta-artichauts-&-tomates-séchées.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 79010,
       "exportedPath": "recettes/images/one-pot-pasta-artichauts-&-tomates-séchées.webp",
       "dependencies": []
     },
     "recettes/images/paris-brest-au-praliné.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 190818,
       "exportedPath": "recettes/images/paris-brest-au-praliné.webp",
       "dependencies": []
     },
     "recettes/images/pasta-al-tonno.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 85888,
       "exportedPath": "recettes/images/pasta-al-tonno.webp",
       "dependencies": []
@@ -3189,7 +3166,7 @@
       "dependencies": []
     },
     "recettes/images/pâte-brisée.webp": {
-      "modifiedTime": 1743028318992,
+      "modifiedTime": 1753372665640,
       "sourceSize": 66060,
       "exportedPath": "recettes/images/pâte-brisée.webp",
       "dependencies": []
@@ -3201,7 +3178,7 @@
       "dependencies": []
     },
     "recettes/images/spaghetti-au-chorizo.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 20430,
       "exportedPath": "recettes/images/spaghetti-au-chorizo.webp",
       "dependencies": []
@@ -3213,13 +3190,13 @@
       "dependencies": []
     },
     "recettes/images/pâtes-aux-crevettes-a-la-crème.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 76328,
       "exportedPath": "recettes/images/pâtes-aux-crevettes-a-la-crème.webp",
       "dependencies": []
     },
     "recettes/images/pâtes-aux-petits-pois,-poireaux-et-bacon.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 40238,
       "exportedPath": "recettes/images/pâtes-aux-petits-pois,-poireaux-et-bacon.webp",
       "dependencies": []
@@ -3231,25 +3208,25 @@
       "dependencies": []
     },
     "recettes/images/pizza-au-saumon.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 121984,
       "exportedPath": "recettes/images/pizza-au-saumon.webp",
       "dependencies": []
     },
     "recettes/images/pizza-baguette.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 64612,
       "exportedPath": "recettes/images/pizza-baguette.webp",
       "dependencies": []
     },
     "recettes/images/pizza-calzone-au-jambon-et-champignons.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 87020,
       "exportedPath": "recettes/images/pizza-calzone-au-jambon-et-champignons.webp",
       "dependencies": []
     },
     "recettes/images/poêlée-de-pommes-de-terre-&-saucisse-fumée.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 71096,
       "exportedPath": "recettes/images/poêlée-de-pommes-de-terre-&-saucisse-fumée.webp",
       "dependencies": []
@@ -3285,7 +3262,7 @@
       "dependencies": []
     },
     "recettes/images/poulet-au-caramel.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 74712,
       "exportedPath": "recettes/images/poulet-au-caramel.webp",
       "dependencies": []
@@ -3297,13 +3274,13 @@
       "dependencies": []
     },
     "recettes/images/poulet-au-sésame.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 89108,
       "exportedPath": "recettes/images/poulet-au-sésame.webp",
       "dependencies": []
     },
     "recettes/images/poulet-pané-au-parmesan.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 91080,
       "exportedPath": "recettes/images/poulet-pané-au-parmesan.webp",
       "dependencies": []
@@ -3315,73 +3292,73 @@
       "dependencies": []
     },
     "recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp": {
-      "modifiedTime": 1743028318992,
+      "modifiedTime": 1753372665640,
       "sourceSize": 167528,
       "exportedPath": "recettes/images/quiche-à-l'oignon-et-aux-lardons-fumés.webp",
       "dependencies": []
     },
     "recettes/images/quiche-artichaut-&-parma.webp": {
-      "modifiedTime": 1743028318992,
+      "modifiedTime": 1753372665640,
       "sourceSize": 86136,
       "exportedPath": "recettes/images/quiche-artichaut-&-parma.webp",
       "dependencies": []
     },
     "recettes/images/quiche-au-saumon-et-aux-épinards.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 62384,
       "exportedPath": "recettes/images/quiche-au-saumon-et-aux-épinards.webp",
       "dependencies": []
     },
     "recettes/images/quiche-aux-asperges-et-lardons.webp": {
-      "modifiedTime": 1743028318992,
+      "modifiedTime": 1753372665640,
       "sourceSize": 81094,
       "exportedPath": "recettes/images/quiche-aux-asperges-et-lardons.webp",
       "dependencies": []
     },
     "recettes/images/quiche-chèvre-épinards.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 107530,
       "exportedPath": "recettes/images/quiche-chèvre-épinards.webp",
       "dependencies": []
     },
     "recettes/images/quiche-oignons,-chèvre-&-miel.webp": {
-      "modifiedTime": 1743028318992,
+      "modifiedTime": 1753372665640,
       "sourceSize": 250416,
       "exportedPath": "recettes/images/quiche-oignons,-chèvre-&-miel.webp",
       "dependencies": []
     },
     "recettes/images/quiche-poireaux,-chèvre-lardons.webp": {
-      "modifiedTime": 1743028318992,
+      "modifiedTime": 1753372665640,
       "sourceSize": 86672,
       "exportedPath": "recettes/images/quiche-poireaux,-chèvre-lardons.webp",
       "dependencies": []
     },
     "recettes/images/quiche-tomate,-jambon,-chèvre.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 39590,
       "exportedPath": "recettes/images/quiche-tomate,-jambon,-chèvre.webp",
       "dependencies": []
     },
     "recettes/images/ratatouille.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 52628,
       "exportedPath": "recettes/images/ratatouille.webp",
       "dependencies": []
     },
     "recettes/images/ravioles-à-la-toscane.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 213944,
       "exportedPath": "recettes/images/ravioles-à-la-toscane.webp",
       "dependencies": []
     },
     "recettes/images/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1753372665640,
       "sourceSize": 241384,
       "exportedPath": "recettes/images/ravioli-ricotta-épinards-à-la-crème-d'ail-et-poireau.webp",
       "dependencies": []
     },
     "recettes/images/risotto-comté-&-saucisse-à-l'ancienne.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1753372665640,
       "sourceSize": 56576,
       "exportedPath": "recettes/images/risotto-comté-&-saucisse-à-l'ancienne.webp",
       "dependencies": []
@@ -3393,25 +3370,25 @@
       "dependencies": []
     },
     "recettes/images/risotto-de-coquillettes-poireaux,-poulet-&-chèvre.webp": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 231080,
       "exportedPath": "recettes/images/risotto-de-coquillettes-poireaux,-poulet-&-chèvre.webp",
       "dependencies": []
     },
     "recettes/images/riz-au-chorizo.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 72670,
       "exportedPath": "recettes/images/riz-au-chorizo.webp",
       "dependencies": []
     },
     "recettes/images/riz-crevettes,-coco-&-maïs.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 83234,
       "exportedPath": "recettes/images/riz-crevettes,-coco-&-maïs.webp",
       "dependencies": []
     },
     "recettes/images/roses-des-sables-au-chocolat-faciles.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 68838,
       "exportedPath": "recettes/images/roses-des-sables-au-chocolat-faciles.webp",
       "dependencies": []
@@ -3429,19 +3406,19 @@
       "dependencies": []
     },
     "recettes/images/rouleaux-de-printemps-au-poulet.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 37910,
       "exportedPath": "recettes/images/rouleaux-de-printemps-au-poulet.webp",
       "dependencies": []
     },
     "recettes/images/salade-au-poulet-pané.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 333276,
       "exportedPath": "recettes/images/salade-au-poulet-pané.webp",
       "dependencies": []
     },
     "recettes/images/salade-aux-haricots-rouges,-maïs-et-thon.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 35926,
       "exportedPath": "recettes/images/salade-aux-haricots-rouges,-maïs-et-thon.webp",
       "dependencies": []
@@ -3453,25 +3430,25 @@
       "dependencies": []
     },
     "recettes/images/salade-de-pâtes-à-l'italienne.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 35624,
       "exportedPath": "recettes/images/salade-de-pâtes-à-l'italienne.webp",
       "dependencies": []
     },
     "recettes/images/salade-de-pâtes-au-thon,-tomates-et-avocat.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 26454,
       "exportedPath": "recettes/images/salade-de-pâtes-au-thon,-tomates-et-avocat.webp",
       "dependencies": []
     },
     "recettes/images/salade-de-pâtes-façon-tacos.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 40054,
       "exportedPath": "recettes/images/salade-de-pâtes-façon-tacos.webp",
       "dependencies": []
     },
     "recettes/images/salade-de-pâtes-méditerranéenne.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 29176,
       "exportedPath": "recettes/images/salade-de-pâtes-méditerranéenne.webp",
       "dependencies": []
@@ -3483,7 +3460,7 @@
       "dependencies": []
     },
     "recettes/images/salade-jambon-cru,-mozza-&-pistaches.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 92474,
       "exportedPath": "recettes/images/salade-jambon-cru,-mozza-&-pistaches.webp",
       "dependencies": []
@@ -3495,25 +3472,25 @@
       "dependencies": []
     },
     "recettes/images/sauté-de-porc-façon-goblot.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1753372665640,
       "sourceSize": 393518,
       "exportedPath": "recettes/images/sauté-de-porc-façon-goblot.webp",
       "dependencies": []
     },
     "recettes/images/soupe-aux-ramen.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 69490,
       "exportedPath": "recettes/images/soupe-aux-ramen.webp",
       "dependencies": []
     },
     "recettes/images/soupe-de-tortellini.webp": {
-      "modifiedTime": 1740687724439,
+      "modifiedTime": 1753372665640,
       "sourceSize": 210576,
       "exportedPath": "recettes/images/soupe-de-tortellini.webp",
       "dependencies": []
     },
     "recettes/images/soupe-iranienne.webp": {
-      "modifiedTime": 1740425283341,
+      "modifiedTime": 1753372665640,
       "sourceSize": 224730,
       "exportedPath": "recettes/images/soupe-iranienne.webp",
       "dependencies": []
@@ -3531,25 +3508,25 @@
       "dependencies": []
     },
     "recettes/images/tacos-champignons,-poulet-&-comté.webp": {
-      "modifiedTime": 1740425283341,
+      "modifiedTime": 1753372665640,
       "sourceSize": 77604,
       "exportedPath": "recettes/images/tacos-champignons,-poulet-&-comté.webp",
       "dependencies": []
     },
     "recettes/images/tagliatelles-saumon-épinards.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 85834,
       "exportedPath": "recettes/images/tagliatelles-saumon-épinards.webp",
       "dependencies": []
     },
     "recettes/images/tarte-salée-pommes-de-terre-et-camembert.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 164280,
       "exportedPath": "recettes/images/tarte-salée-pommes-de-terre-et-camembert.webp",
       "dependencies": []
     },
     "recettes/images/tarte-thon,-tomate-et-moutarde.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 238328,
       "exportedPath": "recettes/images/tarte-thon,-tomate-et-moutarde.webp",
       "dependencies": []
@@ -3561,13 +3538,13 @@
       "dependencies": []
     },
     "recettes/images/tartiflette-façon-goblot.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 236316,
       "exportedPath": "recettes/images/tartiflette-façon-goblot.webp",
       "dependencies": []
     },
     "recettes/images/tenders.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1753372665640,
       "sourceSize": 51654,
       "exportedPath": "recettes/images/tenders.webp",
       "dependencies": []
@@ -3579,43 +3556,43 @@
       "dependencies": []
     },
     "recettes/images/tomates-farcies-au-chèvre-chaud.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 56694,
       "exportedPath": "recettes/images/tomates-farcies-au-chèvre-chaud.webp",
       "dependencies": []
     },
     "recettes/images/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 156488,
       "exportedPath": "recettes/images/tresse-feuilletée-au-boursin,-poireau-et-truite-fumée.webp",
       "dependencies": []
     },
     "recettes/images/velouté-d'endives-au-lard.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 126870,
       "exportedPath": "recettes/images/velouté-d'endives-au-lard.webp",
       "dependencies": []
     },
     "recettes/images/wok-légumes-sautés,-poulet-&-sauce-cacahuète.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 224288,
       "exportedPath": "recettes/images/wok-légumes-sautés,-poulet-&-sauce-cacahuète.webp",
       "dependencies": []
     },
     "recettes/images/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 57246,
       "exportedPath": "recettes/images/wrap-de-tortilla-à-l'avocat,-cheddar-et-oeufs-brouillés.webp",
       "dependencies": []
     },
     "recettes/images/wrap-maïs,-thon-&-fromage-frais.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 50648,
       "exportedPath": "recettes/images/wrap-maïs,-thon-&-fromage-frais.webp",
       "dependencies": []
     },
     "recettes/images/wrap-saumon.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 48716,
       "exportedPath": "recettes/images/wrap-saumon.webp",
       "dependencies": []
@@ -3627,79 +3604,79 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
@@ -3711,13 +3688,13 @@
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1749225809953,
-      "sourceSize": 133179,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 133135,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
@@ -3753,13 +3730,13 @@
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
@@ -3771,19 +3748,19 @@
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 137228,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 395,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -3795,15 +3772,15 @@
       "dependencies": []
     },
     "recettes/Salade piémontaise.md": {
-      "modifiedTime": 1746867709535,
-      "sourceSize": 837,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 839,
       "exportedPath": "recettes/salade-piémontaise.html",
       "dependencies": [
         "recettes/images/salade-piémontaise.webp"
       ]
     },
     "recettes/images/salade-piémontaise.webp": {
-      "modifiedTime": 1746867709535,
+      "modifiedTime": 1753372665640,
       "sourceSize": 381052,
       "exportedPath": "recettes/images/salade-piémontaise.webp",
       "dependencies": []
@@ -3839,24 +3816,24 @@
       "dependencies": []
     },
     "recettes/Gazpacho & roulés mozza, jambon, pesto.md": {
-      "modifiedTime": 1744577248337,
-      "sourceSize": 1240,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1242,
       "exportedPath": "recettes/gazpacho-&-roulés-mozza,-jambon,-pesto.html",
       "dependencies": [
         "recettes/images/gazpacho-&-roulés-mozza,-jambon,-pesto.webp"
       ]
     },
     "recettes/Pie poireaux & champignons.md": {
-      "modifiedTime": 1737134829824,
-      "sourceSize": 1728,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1730,
       "exportedPath": "recettes/pie-poireaux-&-champignons.html",
       "dependencies": [
         "recettes/images/pie-poireaux-&-champignons.webp"
       ]
     },
     "recettes/Quiche poireaux braisés & brie.md": {
-      "modifiedTime": 1743028318992,
-      "sourceSize": 1436,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1425,
       "exportedPath": "recettes/quiche-poireaux-braisés-&-brie.html",
       "dependencies": [
         "recettes/images/quiche-poireaux-braisés-&-brie.webp"
@@ -3871,27 +3848,27 @@
       ]
     },
     "recettes/Salade printanière au poulet.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 1639,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1641,
       "exportedPath": "recettes/salade-printanière-au-poulet.html",
       "dependencies": [
         "recettes/images/salade-printanière-au-poulet.webp"
       ]
     },
     "recettes/images/gazpacho-&-roulés-mozza,-jambon,-pesto.webp": {
-      "modifiedTime": 1744577248337,
+      "modifiedTime": 1753372665640,
       "sourceSize": 206378,
       "exportedPath": "recettes/images/gazpacho-&-roulés-mozza,-jambon,-pesto.webp",
       "dependencies": []
     },
     "recettes/images/pie-poireaux-&-champignons.webp": {
-      "modifiedTime": 1737134829824,
+      "modifiedTime": 1753372665640,
       "sourceSize": 204454,
       "exportedPath": "recettes/images/pie-poireaux-&-champignons.webp",
       "dependencies": []
     },
     "recettes/images/quiche-poireaux-braisés-&-brie.webp": {
-      "modifiedTime": 1743028318992,
+      "modifiedTime": 1753372665640,
       "sourceSize": 252188,
       "exportedPath": "recettes/images/quiche-poireaux-braisés-&-brie.webp",
       "dependencies": []
@@ -3903,7 +3880,7 @@
       "dependencies": []
     },
     "recettes/images/salade-printanière-au-poulet.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1753372665640,
       "sourceSize": 199576,
       "exportedPath": "recettes/images/salade-printanière-au-poulet.webp",
       "dependencies": []
@@ -3961,8 +3938,8 @@
       ]
     },
     "recettes/Sauce au roquefort.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 693,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 695,
       "exportedPath": "recettes/sauce-au-roquefort.html",
       "dependencies": [
         "recettes/images/sauce-au-roquefort.webp"
@@ -3975,7 +3952,7 @@
       "dependencies": []
     },
     "recettes/images/sauce-au-roquefort.webp": {
-      "modifiedTime": 1735248542327,
+      "modifiedTime": 1753372665640,
       "sourceSize": 143416,
       "exportedPath": "recettes/images/sauce-au-roquefort.webp",
       "dependencies": []
@@ -3993,35 +3970,35 @@
       "dependencies": []
     },
     "recettes/Blinis.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 872,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 874,
       "exportedPath": "recettes/blinis.html",
       "dependencies": [
         "recettes/images/blinis.webp"
       ]
     },
     "recettes/Bûche de Noël.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 1509,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1511,
       "exportedPath": "recettes/bûche-de-noël.html",
       "dependencies": [
         "recettes/images/bûche-de-noël.webp"
       ]
     },
     "recettes/Poulet au gruyère.md": {
-      "modifiedTime": 1735248542327,
-      "sourceSize": 1696,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1698,
       "exportedPath": "recettes/poulet-au-gruyère.html",
       "dependencies": []
     },
     "recettes/images/blinis.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1753372665640,
       "sourceSize": 19296,
       "exportedPath": "recettes/images/blinis.webp",
       "dependencies": []
     },
     "recettes/images/bûche-de-noël.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1753372665640,
       "sourceSize": 64522,
       "exportedPath": "recettes/images/bûche-de-noël.webp",
       "dependencies": []
@@ -4039,15 +4016,15 @@
       "dependencies": []
     },
     "recettes/Tiramisu.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 1102,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1104,
       "exportedPath": "recettes/tiramisu.html",
       "dependencies": [
         "recettes/images/tiramisu.webp"
       ]
     },
     "recettes/images/tiramisu.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1753372665640,
       "sourceSize": 28398,
       "exportedPath": "recettes/images/tiramisu.webp",
       "dependencies": []
@@ -4059,21 +4036,21 @@
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "recettes/Wok de nouilles chinoises au tofu.md": {
-      "modifiedTime": 1739632676252,
-      "sourceSize": 1941,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1928,
       "exportedPath": "recettes/wok-de-nouilles-chinoises-au-tofu.html",
       "dependencies": [
         "recettes/images/wok-de-nouilles-chinoises-au-tofu.webp"
       ]
     },
     "recettes/images/wok-de-nouilles-chinoises-au-tofu.webp": {
-      "modifiedTime": 1739632676252,
+      "modifiedTime": 1753372665640,
       "sourceSize": 140168,
       "exportedPath": "recettes/images/wok-de-nouilles-chinoises-au-tofu.webp",
       "dependencies": []
@@ -4129,8 +4106,8 @@
       "dependencies": []
     },
     "recettes/Lasagnes à la bolognaise.md": {
-      "modifiedTime": 1741936465358,
-      "sourceSize": 1617,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1619,
       "exportedPath": "recettes/lasagnes-à-la-bolognaise.html",
       "dependencies": [
         "recettes/images/lasagnes-à-la-bolognaise.webp"
@@ -4153,15 +4130,15 @@
       ]
     },
     "recettes/Tartine de marshmallow.md": {
-      "modifiedTime": 1741936465358,
-      "sourceSize": 396,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 398,
       "exportedPath": "recettes/tartine-de-marshmallow.html",
       "dependencies": [
         "recettes/images/tartine-de-marshmallow.webp"
       ]
     },
     "recettes/images/lasagnes-à-la-bolognaise.webp": {
-      "modifiedTime": 1741936465358,
+      "modifiedTime": 1753372665640,
       "sourceSize": 73900,
       "exportedPath": "recettes/images/lasagnes-à-la-bolognaise.webp",
       "dependencies": []
@@ -4173,14 +4150,14 @@
       "dependencies": []
     },
     "recettes/images/tartine-de-marshmallow.webp": {
-      "modifiedTime": 1741936465358,
+      "modifiedTime": 1753372665640,
       "sourceSize": 95530,
       "exportedPath": "recettes/images/tartine-de-marshmallow.webp",
       "dependencies": []
     },
     "catégories/Le mur de la honte.md": {
-      "modifiedTime": 1746196092933,
-      "sourceSize": 182,
+      "modifiedTime": 1753372665640,
+      "sourceSize": 148,
       "exportedPath": "catégories/le-mur-de-la-honte.html",
       "dependencies": []
     },
@@ -4191,9 +4168,29 @@
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1749225809953,
+      "modifiedTime": 1753372665640,
       "sourceSize": 3907,
       "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "recettes/images/Salade de lentilles.webp": {
+      "modifiedTime": 1753372665640,
+      "sourceSize": 125312,
+      "exportedPath": "recettes/images/salade-de-lentilles.webp",
+      "dependencies": []
+    },
+    "recettes/Salade de lentilles.md": {
+      "modifiedTime": 1753372665640,
+      "sourceSize": 1119,
+      "exportedPath": "recettes/salade-de-lentilles.html",
+      "dependencies": [
+        "recettes/images/salade-de-lentilles.webp"
+      ]
+    },
+    "recettes/images/salade-de-lentilles.webp": {
+      "modifiedTime": 1753372665640,
+      "sourceSize": 125312,
+      "exportedPath": "recettes/images/salade-de-lentilles.webp",
       "dependencies": []
     }
   }
