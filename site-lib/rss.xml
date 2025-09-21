@@ -1,4 +1,24 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 21 Sep 2025 16:14:52 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 21 Sep 2025 16:14:36 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Salade de céréales aux légumes et à la feta]]></title><description><![CDATA[<img alt="Salade de céréales aux légumes et à la feta.webp" src="recettes/images/salade-de-céréales-aux-légumes-et-à-la-feta.webp" target="_self">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Cookbook]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Cookbook</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 21 Sep 2025 16:17:51 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 21 Sep 2025 16:17:46 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Lasagnes végétariennes]]></title><description><![CDATA[<img alt="Lasagnes végétariennes.webp" src="recettes/images/lasagnes-végétariennes.webp" target="_self">
+Tomates : 6
+Courgettes : 4
+Boîte de lasagnes : 300g
+Gruyère râpé : 400g
+Oignons : 4
+Herbes de Provence
+Coulis de tomate : 200g
+<br><a data-href="Béchamel" href="recettes/béchamel.html" class="internal-link" target="_self" rel="noopener nofollow">Béchamel</a> : 5 Préchauffez le four à 200°C
+Émincez les oignons et les faire revenir dans une sauteuse jusqu'à ce qu'ils soient fondants.
+Coupez les tomates en dés, ajoutez-les aux oignons, puis faites mijoter avec des herbes de Provence (n'hésitez pas !), sel et poivre.
+Coupez les courgettes en rondelles puis incorporez-les au mélange.
+Ajoutez le coulis de tomate.
+Laissez mijoter l'ensemble, 20 min environ, à feu moyen.
+Une fois le mélange prêt, procédez à l'empilement dans un grand plat une couche de : lasagnes,
+légumes,
+béchamel,
+gruyère,
+et ainsi de suite (en rajoutant un peu de sel à chaque fois) et en mettant beaucoup de gruyère sur la dernière couche. Faites cuire à four 35 minutes.
+Servez, lorsque c'est bien gratiné.
+]]></description><link>recettes/lasagnes-végétariennes.html</link><guid isPermaLink="false">recettes/Lasagnes végétariennes.md</guid><pubDate>Sun, 21 Sep 2025 16:11:45 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Salade de céréales aux légumes et à la feta]]></title><description><![CDATA[<img alt="Salade de céréales aux légumes et à la feta.webp" src="recettes/images/salade-de-céréales-aux-légumes-et-à-la-feta.webp" target="_self">
 Aubergines : 2
 Tomates séchées : 150g
 Huile d'olive : 5cl
